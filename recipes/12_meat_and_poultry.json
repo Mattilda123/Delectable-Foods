@@ -1,0 +1,1938 @@
+{
+  "metadata": {
+    "category": "Meat and Poultry",
+    "description": "Singaporean meat and poultry dishes, from braised pork to roasted chicken and beef specialties",
+    "total_recipes": 10,
+    "last_updated": "2024"
+  },
+  "recipes": [
+    {
+      "id": "mea_001",
+      "name": "Hainanese Pork Chop (海南猪排)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "30 minutes",
+      "servings": 4.0,
+      "description": "A classic Singaporean Hainanese-Western fusion dish: pork chops marinated, breaded with cream crackers, deep-fried, and served with a tangy tomato-based gravy, potatoes, and peas. A nostalgic favorite at old-school coffee houses and Hainanese-run Western stalls.",
+      "ingredients": {
+        "pork": {
+          "pork loin or shoulder chops": "500g, thinly sliced",
+          "salt": "1 tsp",
+          "white pepper": "1 tsp",
+          "five spice powder": "1/2 tsp",
+          "Worcestershire sauce": "1 tbsp",
+          "Shaoxing wine": "1 tbsp",
+          "ginger juice": "1 tbsp"
+        },
+        "breading": {
+          "cornstarch": "4 tbsp",
+          "eggs": "2, beaten",
+          "cream crackers": "130g, crushed (or breadcrumbs)"
+        },
+        "gravy": {
+          "onion": "1, sliced",
+          "garlic": "2 cloves, minced",
+          "tomato ketchup": "4 tbsp",
+          "Worcestershire sauce": "1 tbsp",
+          "brown sugar": "2 tbsp",
+          "light soy sauce": "1 tbsp",
+          "white vinegar": "1 tbsp",
+          "water": "200ml",
+          "cornstarch slurry": "1 tbsp cornstarch + 2 tbsp water",
+          "green peas": "1/2 cup (frozen or fresh)",
+          "tomato": "1, cut into wedges"
+        },
+        "potatoes": {
+          "potatoes": "2, peeled and cut into wedges",
+          "oil": "for frying"
+        },
+        "oil": {
+          "vegetable oil": "for deep frying"
+        }
+      },
+      "steps": [
+        "Pound pork slices to 1/2-inch thickness. Marinate with salt, pepper, five spice, Worcestershire sauce, Shaoxing wine, and ginger juice for at least 1 hour (or overnight).",
+        "Coat each pork slice in cornstarch, then dip in beaten egg, then press into crushed cream crackers to coat well.",
+        "Heat oil in a wok or deep pan. Fry pork chops in batches until golden brown and cooked through (about 2-3 minutes per side). Drain on paper towels.",
+        "Fry potato wedges in oil until golden and crisp. Drain and set aside.",
+        "For the gravy: Heat 1 tbsp oil in a saucepan. Sauté onion and garlic until fragrant. Add ketchup, Worcestershire sauce, brown sugar, soy sauce, vinegar, and water. Bring to a simmer.",
+        "Add green peas and tomato wedges. Simmer for 2-3 minutes. Stir in cornstarch slurry to thicken the sauce.",
+        "To serve: Arrange pork chops and potatoes on a plate. Spoon the gravy with peas and tomato over the pork chops. Serve immediately."
+      ],
+      "tips": [
+        "Cream crackers give the most authentic crust, but panko or breadcrumbs can be used in a pinch.",
+        "Marinate the pork overnight for best flavor and tenderness.",
+        "Serve with rice or as part of a Hainanese Western set meal with baked beans and salad."
+      ],
+      "themes": [
+        "meat",
+        "poultry",
+        "main",
+        "iconic",
+        "heritage"
+      ],
+      "source": "Adapted from What To Cook Today, My Singapore Food, and TasteAsianFood.com.",
+      "origin": "Created by Hainanese chefs in colonial Singapore, blending British and Chinese influences; a staple at Hainanese-run Western stalls.",
+      "imageId": "mea_001.jpeg",
+      "tags": [
+        "based",
+        "breaded",
+        "chop",
+        "chops",
+        "classic",
+        "coffee",
+        "crackers",
+        "cream",
+        "deep",
+        "dish",
+        "favorite",
+        "fried",
+        "fusion",
+        "gravy",
+        "hainanese",
+        "heritage",
+        "houses",
+        "iconic",
+        "main",
+        "marinated",
+        "meat",
+        "nostalgic",
+        "peas",
+        "pork",
+        "potatoes",
+        "poultry",
+        "run",
+        "school",
+        "served",
+        "singaporean",
+        "stalls",
+        "tangy",
+        "tomato",
+        "western"
+      ],
+      "cost": {
+        "total_sgd": 45.31,
+        "ingredients_sgd": 45.01,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 11.33,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork loin or shoulder chops",
+            "cost_sgd": 6.6,
+            "emissions_kgco2e": 3.5,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "five spice powder",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "Worcestershire sauce",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "ginger juice",
+            "cost_sgd": 0.09,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "eggs",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cream crackers",
+            "cost_sgd": 1.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 130.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "tomato ketchup",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Worcestershire sauce",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "brown sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white vinegar",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "cornstarch slurry",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "green peas",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tomato",
+            "cost_sgd": 0.7,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "potatoes",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 1.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "vegetable oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 30.171,
+        "ingredients_kgco2e": 29.763,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 7.543
+      }
+    },
+    {
+      "id": "mea_002",
+      "name": "Salt Baked Chicken (盐焗鸡, Yán Jū Jī)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes (plus marinating time)",
+      "cook_time": "60 minutes",
+      "servings": 4.0,
+      "description": "A classic Hakka dish popular in Singapore, featuring whole chicken marinated with salt and aromatics, then wrapped and baked in hot salt. The result is incredibly juicy, tender, and fragrant meat, often served with ginger-scallion sauce.",
+      "ingredients": {
+        "chicken": {
+          "whole chicken (preferably kampung/free-range)": "1 (about 1.2-1.5kg)",
+          "coarse sea salt": "2kg (for baking)",
+          "fine sea salt": "2 tbsp (for marinating)",
+          "sand ginger powder (sha jiang fen) or regular ginger powder": "1 tsp",
+          "fresh ginger": "3-4 slices",
+          "spring onions": "2, cut into sections",
+          "Shaoxing wine (optional)": "1 tbsp"
+        },
+        "for serving (optional)": {
+          "ginger-scallion sauce": "as desired"
+        }
+      },
+      "steps": [
+        "Rinse and pat dry the chicken. Rub the chicken all over (inside and out) with fine sea salt and sand ginger powder. Optionally, rub with Shaoxing wine. Stuff the cavity with ginger slices and spring onions. Let marinate for at least 1 hour (or overnight in the fridge for best flavor).",
+        "Preheat oven to 220°C (425°F). In a large wok or Dutch oven, heat the coarse sea salt over medium-high heat, stirring, until very hot (about 10 minutes).",
+        "Wrap the marinated chicken tightly in parchment paper, then in aluminum foil to seal in juices.",
+        "Pour half the hot salt into a deep ovenproof pot or Dutch oven. Place the wrapped chicken in the center, then cover completely with the remaining hot salt.",
+        "Bake in the oven for 60 minutes. Remove from oven and let rest for 10 minutes before unwrapping.",
+        "Carefully remove the chicken from the salt and unwrap. Chop into serving pieces and serve with ginger-scallion sauce and rice."
+      ],
+      "tips": [
+        "Sand ginger powder (sha jiang fen) gives the most authentic flavor, but regular ginger powder can be used.",
+        "Kampung or free-range chicken yields the best texture and flavor.",
+        "The salt used for baking can be reused for future salt-baked dishes.",
+        "Serve with lettuce leaves and rice for a complete meal."
+      ],
+      "themes": [
+        "chicken",
+        "Hakka",
+        "heritage",
+        "baked",
+        "festive",
+        "Chinese"
+      ],
+      "source": "Adapted from Singapore Noodles, What To Cook Today, and Plum Village Restaurant.",
+      "origin": "Hakka Chinese community; a specialty at Singapore zichar restaurants and Hakka eateries.",
+      "imageId": "mea_002.jpeg",
+      "tags": [
+        "aromatics",
+        "baked",
+        "chicken",
+        "chinese",
+        "classic",
+        "dish",
+        "featuring",
+        "festive",
+        "fragrant",
+        "ginger",
+        "hakka",
+        "heritage",
+        "incredibly",
+        "juicy",
+        "marinated",
+        "meat",
+        "often",
+        "popular",
+        "result",
+        "salt",
+        "sauce",
+        "scallion",
+        "served",
+        "singapore",
+        "tender",
+        "whole",
+        "wrapped"
+      ],
+      "cost": {
+        "total_sgd": 40.18,
+        "ingredients_sgd": 39.58,
+        "energy_sgd": 0.6,
+        "per_serving_sgd": 10.05,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "whole chicken (preferably kampung/free-range)",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 6.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "coarse sea salt",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.0,
+            "amount": 2.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "fine sea salt",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.015,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sand ginger powder (sha jiang fen) or regular ginger powder",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "fresh ginger",
+            "cost_sgd": 18.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "Shaoxing wine (optional)",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "ginger-scallion sauce",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 10.231,
+        "ingredients_kgco2e": 9.415,
+        "energy_kgco2e": 0.816,
+        "per_serving_kgco2e": 2.558
+      }
+    },
+    {
+      "id": "mea_003",
+      "name": "Lor Kai Yik (Braised Chicken and Tofu Skewers)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "90 minutes",
+      "servings": 6.0,
+      "description": "A nostalgic Hakka/Teochew dish once popular at Singapore street stalls, featuring chicken, tofu, and assorted ingredients braised in a rich, fermented red bean curd sauce. (Note: Authentic recipes are rare; this is a reconstructed version based on traditional methods.)",
+      "ingredients": {
+        "main": {
+          "chicken wings or drumettes": "500g",
+          "firm tofu": "2 blocks, cut into cubes",
+          "fish cake": "1, sliced (optional)",
+          "pig skin": "100g, cleaned (optional)",
+          "tau pok (fried tofu puffs)": "6, halved",
+          "bamboo skewers": "as needed"
+        },
+        "braising sauce": {
+          "fermented red bean curd (nam yue)": "2 cubes",
+          "red bean curd liquid": "2 tbsp",
+          "dark soy sauce": "2 tbsp",
+          "light soy sauce": "2 tbsp",
+          "sugar": "2 tbsp",
+          "garlic": "4 cloves, smashed",
+          "water": "3 cups (750ml)"
+        }
+      },
+      "steps": [
+        "Thread chicken, tofu, fish cake, pig skin, and tau pok onto bamboo skewers as desired.",
+        "In a large pot, combine all braising sauce ingredients and bring to a boil.",
+        "Add skewers to the pot, reduce heat, and simmer gently for 60-90 minutes, turning occasionally, until chicken is tender and flavors are absorbed.",
+        "Remove skewers and serve hot with extra sauce spooned over."
+      ],
+      "tips": [
+        "Fermented red bean curd (nam yue) gives the dish its signature flavor and color.",
+        "Add hard-boiled eggs or other ingredients to the skewers if desired.",
+        "This dish is rarely found today but is fondly remembered by older Singaporeans."
+      ],
+      "themes": [
+        "braised",
+        "chicken",
+        "tofu",
+        "skewers",
+        "Chinese",
+        "heritage",
+        "rare"
+      ],
+      "source": "Reconstructed from traditional Hakka/Teochew methods and Singaporean food history sources.",
+      "origin": "Hakka and Teochew communities in Singapore; a nostalgic street food now rarely seen.",
+      "imageId": "mea_003.jpeg",
+      "tags": [
+        "assorted",
+        "authentic",
+        "based",
+        "bean",
+        "braised",
+        "chicken",
+        "chinese",
+        "curd",
+        "dish",
+        "featuring",
+        "fermented",
+        "hakka",
+        "heritage",
+        "ingredients",
+        "kai",
+        "lor",
+        "methods",
+        "nostalgic",
+        "note",
+        "once",
+        "popular",
+        "rare",
+        "recipes",
+        "reconstructed",
+        "red",
+        "rich",
+        "sauce",
+        "singapore",
+        "skewers",
+        "stalls",
+        "street",
+        "teochew",
+        "tofu",
+        "traditional",
+        "version",
+        "yik"
+      ],
+      "cost": {
+        "total_sgd": 87.37,
+        "ingredients_sgd": 86.47,
+        "energy_sgd": 0.9,
+        "per_serving_sgd": 14.56,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "chicken wings or drumettes",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 3.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "firm tofu",
+            "cost_sgd": 5.5,
+            "emissions_kgco2e": 6.4,
+            "amount": 2.0,
+            "unit": "blocks"
+          },
+          {
+            "ingredient": "fish cake",
+            "cost_sgd": 16.5,
+            "emissions_kgco2e": 5.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "pig skin",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "tau pok (fried tofu puffs)",
+            "cost_sgd": 16.5,
+            "emissions_kgco2e": 19.2,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "bamboo skewers",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fermented red bean curd (nam yue)",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cubes"
+          },
+          {
+            "ingredient": "red bean curd liquid",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "cups"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 40.974,
+        "ingredients_kgco2e": 39.75,
+        "energy_kgco2e": 1.224,
+        "per_serving_kgco2e": 6.829
+      }
+    },
+    {
+      "id": "mea_004",
+      "name": "Ngoh Hiang (Five-Spice Meat Rolls)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "30 minutes",
+      "servings": 6.0,
+      "description": "A beloved Teochew/Peranakan dish in Singapore, featuring minced pork, prawn, and water chestnut seasoned with five spice, wrapped in beancurd skin and deep-fried. Served with sweet sauce and chili, it's a festive and hawker favorite.",
+      "ingredients": {
+        "main": {
+          "pork shoulder, minced": "400g",
+          "prawns, chopped": "200g",
+          "water chestnuts, chopped": "50g",
+          "carrot, grated": "1 small",
+          "spring onion, chopped": "2 stalks",
+          "egg": "1, beaten",
+          "five spice powder": "1.5 tsp",
+          "white pepper": "1/2 tsp",
+          "salt": "1/2 tsp",
+          "sugar": "1 tsp",
+          "cornstarch": "2 tbsp",
+          "beancurd skin (tau kee)": "2 large sheets",
+          "oil": "for deep frying"
+        }
+      },
+      "steps": [
+        "Mix pork, prawns, water chestnuts, carrot, spring onion, egg, five spice, pepper, salt, sugar, and cornstarch in a bowl until well combined.",
+        "Wipe beancurd skin with a damp cloth and cut into rectangles. Place a portion of filling on each, roll up tightly, and seal edges with a little water or cornstarch paste.",
+        "Heat oil in a wok or deep pan. Fry rolls in batches over medium heat until golden brown and cooked through (about 5-7 minutes). Drain on paper towels.",
+        "Slice and serve with sweet sauce and chili sauce."
+      ],
+      "tips": [
+        "Do not overcrowd the pan when frying for best crispiness.",
+        "Can be made ahead and reheated in an oven or air fryer.",
+        "Serve as part of a festive or celebratory meal."
+      ],
+      "themes": [
+        "pork",
+        "prawn",
+        "Peranakan",
+        "Teochew",
+        "heritage",
+        "festive",
+        "deep-fried"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singaporean Peranakan/Teochew home cooks.",
+      "origin": "Teochew and Peranakan communities in Singapore; a festive and celebratory dish.",
+      "imageId": "mea_004.jpeg",
+      "tags": [
+        "beancurd",
+        "beloved",
+        "chestnut",
+        "chili",
+        "deep",
+        "deep-fried",
+        "dish",
+        "favorite",
+        "featuring",
+        "festive",
+        "five",
+        "fried",
+        "hawker",
+        "heritage",
+        "hiang",
+        "meat",
+        "minced",
+        "ngoh",
+        "peranakan",
+        "pork",
+        "prawn",
+        "rolls",
+        "sauce",
+        "seasoned",
+        "served",
+        "singapore",
+        "skin",
+        "spice",
+        "sweet",
+        "teochew",
+        "water",
+        "wrapped"
+      ],
+      "cost": {
+        "total_sgd": 39.07,
+        "ingredients_sgd": 38.77,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 6.51,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork shoulder, minced",
+            "cost_sgd": 5.28,
+            "emissions_kgco2e": 2.8,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "prawns, chopped",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 3.6,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water chestnuts, chopped",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "carrot, grated",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.8,
+            "amount": 1.0,
+            "unit": "small"
+          },
+          {
+            "ingredient": "spring onion, chopped",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "stalks"
+          },
+          {
+            "ingredient": "egg",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "five spice powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "beancurd skin (tau kee)",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "large"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 21.013,
+        "ingredients_kgco2e": 20.605,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 3.502
+      }
+    },
+    {
+      "id": "mea_005",
+      "name": "Lu Rou Fan (Taiwanese Braised Pork Rice)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "90 minutes",
+      "servings": 6.0,
+      "description": "A beloved Taiwanese-Chinese dish popular in Singapore, featuring minced or diced pork belly braised in soy sauce, spices, and aromatics, served over steamed rice. Savory, rich, and comforting.",
+      "ingredients": {
+        "main": {
+          "pork belly, minced or diced": "500g",
+          "shallots": "6, sliced",
+          "garlic": "4 cloves, minced",
+          "ginger": "2 slices",
+          "star anise": "2",
+          "cinnamon stick": "1",
+          "light soy sauce": "3 tbsp",
+          "dark soy sauce": "2 tbsp",
+          "rock sugar": "1 tbsp",
+          "Shaoxing wine": "2 tbsp",
+          "white pepper": "to taste",
+          "water or stock": "2 cups",
+          "hard-boiled eggs": "4, peeled (optional)",
+          "steamed rice": "for serving",
+          "oil": "2 tbsp",
+          "spring onion": "for garnish"
+        }
+      },
+      "steps": [
+        "Heat oil in a pot. Sauté shallots, garlic, and ginger until fragrant and golden.",
+        "Add pork belly and stir-fry until lightly browned and fat is rendered.",
+        "Add star anise, cinnamon, soy sauces, rock sugar, Shaoxing wine, pepper, and water/stock. Bring to a boil, then reduce heat and simmer for 60-90 minutes until pork is tender and sauce is rich.",
+        "Add hard-boiled eggs in the last 20 minutes if using. Serve pork and sauce over steamed rice, garnished with spring onion."
+      ],
+      "tips": [
+        "Use pork belly for the most authentic, melt-in-your-mouth texture.",
+        "Add fried shallots for extra aroma.",
+        "Leftovers taste even better the next day."
+      ],
+      "themes": [
+        "pork",
+        "rice",
+        "Chinese",
+        "Taiwanese",
+        "heritage",
+        "comfort food",
+        "braised"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singaporean Chinese home cooks.",
+      "origin": "Taiwanese and Chinese communities in Singapore; a popular comfort food at home and in eateries.",
+      "imageId": "mea_005.jpeg",
+      "tags": [
+        "aromatics",
+        "belly",
+        "beloved",
+        "braised",
+        "chinese",
+        "comfort food",
+        "comforting",
+        "diced",
+        "dish",
+        "fan",
+        "featuring",
+        "heritage",
+        "minced",
+        "popular",
+        "pork",
+        "rice",
+        "rich",
+        "rou",
+        "sauce",
+        "savory",
+        "served",
+        "singapore",
+        "soy",
+        "spices",
+        "steamed",
+        "taiwanese"
+      ],
+      "cost": {
+        "total_sgd": 81.26,
+        "ingredients_sgd": 80.36,
+        "energy_sgd": 0.9,
+        "per_serving_sgd": 13.54,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork belly, minced or diced",
+            "cost_sgd": 6.6,
+            "emissions_kgco2e": 3.5,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "star anise",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cinnamon stick",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.15,
+            "emissions_kgco2e": 0.09,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "rock sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water or stock",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "hard-boiled eggs",
+            "cost_sgd": 1.32,
+            "emissions_kgco2e": 18.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "steamed rice",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 4.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "spring onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 34.769,
+        "ingredients_kgco2e": 33.545,
+        "energy_kgco2e": 1.224,
+        "per_serving_kgco2e": 5.795
+      }
+    },
+    {
+      "id": "mea_006",
+      "name": "Braised Duck (Lor Ark)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "90 minutes",
+      "servings": 6.0,
+      "description": "A classic Teochew/Chinese dish in Singapore, featuring whole duck braised in a savory, aromatic soy sauce with spices. Tender, flavorful, and often served with rice or yam rice.",
+      "ingredients": {
+        "main": {
+          "whole duck": "1 (about 2kg), cleaned",
+          "ginger": "4 slices",
+          "garlic": "6 cloves, smashed",
+          "star anise": "3",
+          "cinnamon stick": "1",
+          "cloves": "4",
+          "five spice powder": "1 tsp",
+          "light soy sauce": "6 tbsp",
+          "dark soy sauce": "3 tbsp",
+          "rock sugar": "2 tbsp",
+          "Shaoxing wine": "3 tbsp",
+          "water or stock": "1.5L",
+          "oil": "2 tbsp",
+          "spring onion": "2, cut into sections"
+        }
+      },
+      "steps": [
+        "Heat oil in a large pot. Sauté ginger, garlic, and spring onion until fragrant.",
+        "Add star anise, cinnamon, cloves, and five spice powder. Stir until aromatic.",
+        "Add duck and sear on all sides until lightly browned.",
+        "Add soy sauces, rock sugar, Shaoxing wine, and water/stock. Bring to a boil, then reduce heat and simmer, covered, for 60-90 minutes until duck is tender and flavors are absorbed. Turn duck occasionally.",
+        "Remove duck, chop into pieces, and serve with braising sauce over rice or yam rice."
+      ],
+      "tips": [
+        "Use a heavy pot or Dutch oven for even braising.",
+        "Let duck rest before chopping for cleaner cuts.",
+        "Braising sauce can be used for tofu or eggs as well."
+      ],
+      "themes": [
+        "duck",
+        "Chinese",
+        "Teochew",
+        "heritage",
+        "braised",
+        "festive"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singaporean Teochew/Chinese home cooks.",
+      "origin": "Teochew and Chinese communities in Singapore; a festive and hawker favorite, especially with yam rice.",
+      "imageId": "mea_006.jpeg",
+      "tags": [
+        "ark",
+        "aromatic",
+        "braised",
+        "chinese",
+        "classic",
+        "dish",
+        "duck",
+        "featuring",
+        "festive",
+        "flavorful",
+        "heritage",
+        "lor",
+        "often",
+        "rice",
+        "sauce",
+        "savory",
+        "served",
+        "singapore",
+        "soy",
+        "spices",
+        "tender",
+        "teochew",
+        "whole",
+        "yam"
+      ],
+      "cost": {
+        "total_sgd": 89.9,
+        "ingredients_sgd": 89.0,
+        "energy_sgd": 0.9,
+        "per_serving_sgd": 14.98,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "whole duck",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 39.6,
+            "emissions_kgco2e": 9.0,
+            "amount": 6.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "star anise",
+            "cost_sgd": 3.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cinnamon stick",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cloves",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "five spice powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.3,
+            "emissions_kgco2e": 0.18,
+            "amount": 6.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.15,
+            "emissions_kgco2e": 0.09,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "rock sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.36,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "water or stock",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "l"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "spring onion",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 13.104,
+        "ingredients_kgco2e": 11.88,
+        "energy_kgco2e": 1.224,
+        "per_serving_kgco2e": 2.184
+      }
+    },
+    {
+      "id": "mea_007",
+      "name": "Braised Pork Trotter (Lor Bak)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "90 minutes",
+      "servings": 6.0,
+      "description": "A classic Chinese comfort and festive dish in Singapore, featuring pork trotter braised in soy sauce, spices, and aromatics until tender and gelatinous. Served with rice or noodles.",
+      "ingredients": {
+        "main": {
+          "pork trotter, cut into pieces": "1kg",
+          "ginger": "4 slices",
+          "garlic": "6 cloves, smashed",
+          "star anise": "2",
+          "cinnamon stick": "1",
+          "cloves": "3",
+          "five spice powder": "1 tsp",
+          "light soy sauce": "4 tbsp",
+          "dark soy sauce": "2 tbsp",
+          "rock sugar": "2 tbsp",
+          "Shaoxing wine": "2 tbsp",
+          "water or stock": "1.5L",
+          "oil": "2 tbsp",
+          "spring onion": "2, cut into sections"
+        }
+      },
+      "steps": [
+        "Blanch pork trotter pieces in boiling water for 5 minutes. Drain and set aside.",
+        "Heat oil in a large pot. Sauté ginger, garlic, and spring onion until fragrant.",
+        "Add star anise, cinnamon, cloves, and five spice powder. Stir until aromatic.",
+        "Add pork trotter, soy sauces, rock sugar, Shaoxing wine, and water/stock. Bring to a boil, then reduce heat and simmer, covered, for 60-90 minutes until pork is tender and gelatinous.",
+        "Serve hot with rice or noodles, garnished with spring onion."
+      ],
+      "tips": [
+        "Blanching removes impurities for a clearer sauce.",
+        "Let braised pork rest before serving for best flavor.",
+        "Leftovers taste even better the next day."
+      ],
+      "themes": [
+        "pork",
+        "Chinese",
+        "heritage",
+        "braised",
+        "comfort food",
+        "festive"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singaporean Chinese home cooks.",
+      "origin": "Chinese community in Singapore; a comfort and festive dish often served at family gatherings.",
+      "imageId": "mea_007.jpeg",
+      "tags": [
+        "aromatics",
+        "bak",
+        "braised",
+        "chinese",
+        "classic",
+        "comfort",
+        "comfort food",
+        "dish",
+        "featuring",
+        "festive",
+        "gelatinous",
+        "heritage",
+        "lor",
+        "noodles",
+        "pork",
+        "rice",
+        "sauce",
+        "served",
+        "singapore",
+        "soy",
+        "spices",
+        "tender",
+        "trotter"
+      ],
+      "cost": {
+        "total_sgd": 88.83,
+        "ingredients_sgd": 87.93,
+        "energy_sgd": 0.9,
+        "per_serving_sgd": 14.8,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork trotter, cut into pieces",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 7.0,
+            "amount": 1.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 39.6,
+            "emissions_kgco2e": 9.0,
+            "amount": 6.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "star anise",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cinnamon stick",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cloves",
+            "cost_sgd": 3.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "five spice powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.12,
+            "amount": 4.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "rock sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "water or stock",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "l"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "spring onion",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 20.014,
+        "ingredients_kgco2e": 18.79,
+        "energy_kgco2e": 1.224,
+        "per_serving_kgco2e": 3.336
+      }
+    },
+    {
+      "id": "mea_008",
+      "name": "Coffee Pork Ribs",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "30 minutes",
+      "servings": 4.0,
+      "description": "A zi char classic: pork ribs glazed in a sweet, sticky, aromatic coffee sauce. Tender, juicy, and deeply flavorful.",
+      "ingredients": {
+        "pork ribs": "600g, cut into 2-inch pieces",
+        "marinade": {
+          "soy sauce": "1 tbsp",
+          "Shaoxing wine": "1 tbsp",
+          "white pepper": "1/2 tsp",
+          "cornstarch": "1 tbsp"
+        },
+        "sauce": {
+          "instant coffee powder": "2 tbsp (dissolved in 2 tbsp hot water)",
+          "honey": "2 tbsp",
+          "ketchup": "1 tbsp",
+          "Worcestershire sauce": "1 tbsp",
+          "dark soy sauce": "1 tsp",
+          "sugar": "1 tbsp"
+        },
+        "oil": "for deep frying"
+      },
+      "steps": [
+        "Marinate pork ribs with soy sauce, Shaoxing wine, white pepper, and cornstarch for 30 minutes.",
+        "Heat oil and deep-fry ribs until golden and cooked through. Drain.",
+        "In a wok, combine sauce ingredients and bring to a simmer.",
+        "Add fried ribs, toss to coat and reduce sauce until sticky and glossy.",
+        "Serve hot, garnished with spring onions."
+      ],
+      "tips": [
+        "Use good quality instant coffee for best flavor.",
+        "Do not over-reduce the sauce or it may become bitter."
+      ],
+      "themes": [
+        "zi char",
+        "pork",
+        "fusion",
+        "hawker"
+      ],
+      "source": "https://www.noobcook.com/coffee-pork-ribs/",
+      "origin": "A Singapore zi char favorite, blending Chinese and Western flavors.",
+      "imageId": "mea_008.jpeg",
+      "tags": [
+        "aromatic",
+        "char",
+        "classic",
+        "coffee",
+        "deeply",
+        "flavorful",
+        "fusion",
+        "glazed",
+        "hawker",
+        "juicy",
+        "pork",
+        "ribs",
+        "sauce",
+        "sticky",
+        "sweet",
+        "tender",
+        "zi char"
+      ],
+      "cost": {
+        "total_sgd": 15.43,
+        "ingredients_sgd": 15.13,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 3.86,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork ribs",
+            "cost_sgd": 7.92,
+            "emissions_kgco2e": 4.2,
+            "amount": 600.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "instant coffee powder",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "honey",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "ketchup",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Worcestershire sauce",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.01,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 10.663,
+        "ingredients_kgco2e": 10.255,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 2.666
+      }
+    },
+    {
+      "id": "mea_009",
+      "name": "Ayam Penyet (Smashed Fried Chicken)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes (plus marinating)",
+      "cook_time": "30 minutes",
+      "servings": 4.0,
+      "description": "A popular Indonesian-Singaporean dish: marinated chicken pieces deep-fried until crispy, then smashed and served with sambal, fried tofu, tempeh, and rice.",
+      "ingredients": {
+        "chicken": "1 whole (about 1.2kg), cut into 8 pieces",
+        "marinade": {
+          "garlic": "4 cloves, minced",
+          "shallots": "4, minced",
+          "coriander powder": "2 tsp",
+          "turmeric powder": "1 tsp",
+          "galangal": "1 tbsp, grated",
+          "salt": "1 tsp",
+          "sugar": "1 tsp"
+        },
+        "for frying": {
+          "oil": "as needed"
+        },
+        "to serve": {
+          "sambal": "as needed",
+          "fried tofu": "4 pieces",
+          "fried tempeh": "4 pieces",
+          "steamed rice": "as needed"
+        }
+      },
+      "preparation": [
+        "Rub chicken with marinade ingredients. Marinate at least 2 hours or overnight.",
+        "Heat oil in a wok. Fry chicken pieces until golden and cooked through. Drain on paper towels.",
+        "Gently smash chicken with a pestle or mallet. Serve with sambal, fried tofu, tempeh, and rice."
+      ],
+      "tips": [
+        "Marinate overnight for best flavor.",
+        "Serve with cucumber and lettuce for freshness."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": "38g",
+        "carbohydrates": "8g",
+        "fat": "36g"
+      },
+      "source": "Adapted from Rasa Malaysia, The MeatMen, and Singapore Malay stalls.",
+      "imageId": "mea_009.jpeg",
+      "steps": [
+        "Rub chicken with marinade ingredients. Marinate at least 2 hours or overnight.",
+        "Heat oil in a wok. Fry chicken pieces until golden and cooked through. Drain on paper towels.",
+        "Gently smash chicken with a pestle or mallet. Serve with sambal, fried tofu, tempeh, and rice."
+      ],
+      "tags": [
+        "ayam",
+        "chicken",
+        "crispy",
+        "deep",
+        "dish",
+        "fried",
+        "indonesian",
+        "marinated",
+        "penyet",
+        "pieces",
+        "popular",
+        "rice",
+        "sambal",
+        "served",
+        "singaporean",
+        "smashed",
+        "tempeh",
+        "tofu"
+      ],
+      "cost": {
+        "total_sgd": 109.25,
+        "ingredients_sgd": 108.95,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 27.31,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "chicken",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 6.0,
+            "amount": 1.0,
+            "unit": "whole"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "coriander powder",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "turmeric powder",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "galangal",
+            "cost_sgd": 0.09,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sambal",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fried tofu",
+            "cost_sgd": 11.0,
+            "emissions_kgco2e": 12.8,
+            "amount": 4.0,
+            "unit": "pieces"
+          },
+          {
+            "ingredient": "fried tempeh",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "pieces"
+          },
+          {
+            "ingredient": "steamed rice",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 4.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 35.716,
+        "ingredients_kgco2e": 35.308,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 8.929
+      }
+    },
+    {
+      "id": "mea_010",
+      "name": "Oxtail Stew (Sup Buntut)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "2 hours",
+      "servings": 6.0,
+      "description": "A rich, hearty stew of oxtail simmered with potatoes, carrots, tomatoes, and spices. Popular in Eurasian, Malay, and Indonesian communities in Singapore.",
+      "ingredients": {
+        "Main": {
+          "oxtail": "1.5kg, cut into pieces",
+          "onion": "2, chopped",
+          "garlic": "4 cloves, minced",
+          "ginger": "2 slices",
+          "carrot": "2, cut into chunks",
+          "potatoes": "2, cut into chunks",
+          "tomatoes": "2, quartered",
+          "celery": "2 stalks, chopped",
+          "cloves": "4",
+          "cinnamon stick": "1",
+          "star anise": "2",
+          "beef stock": "2 litres",
+          "salt": "to taste",
+          "black pepper": "to taste",
+          "oil": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Heat oil in a large pot. Sauté onion, garlic, and ginger until fragrant.",
+        "Add oxtail and brown on all sides. Add spices, stock, and bring to a boil. Skim scum.",
+        "Add carrots, potatoes, tomatoes, and celery. Simmer 2 hours until oxtail is tender.",
+        "Season with salt and pepper. Serve hot with rice or bread."
+      ],
+      "tips": [
+        "Cook low and slow for the most tender oxtail.",
+        "Add a splash of Worcestershire sauce for extra depth."
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": "32g",
+        "carbohydrates": "18g",
+        "fat": "32g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Eurasian/Malay kitchens.",
+      "imageId": "mea_010.jpeg",
+      "steps": [
+        "Heat oil in a large pot. Sauté onion, garlic, and ginger until fragrant.",
+        "Add oxtail and brown on all sides. Add spices, stock, and bring to a boil. Skim scum.",
+        "Add carrots, potatoes, tomatoes, and celery. Simmer 2 hours until oxtail is tender.",
+        "Season with salt and pepper. Serve hot with rice or bread."
+      ],
+      "tags": [
+        "buntut",
+        "carrots",
+        "communities",
+        "eurasian",
+        "hearty",
+        "indonesian",
+        "malay",
+        "oxtail",
+        "popular",
+        "potatoes",
+        "rich",
+        "simmered",
+        "singapore",
+        "spices",
+        "stew",
+        "sup",
+        "tomatoes"
+      ],
+      "cost": {
+        "total_sgd": 118.25,
+        "ingredients_sgd": 118.23,
+        "energy_sgd": 0.02,
+        "per_serving_sgd": 19.71,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "oxtail",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "onion",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "carrot",
+            "cost_sgd": 1.6,
+            "emissions_kgco2e": 1.6,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "potatoes",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 1.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tomatoes",
+            "cost_sgd": 1.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "celery",
+            "cost_sgd": 5.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "stalks"
+          },
+          {
+            "ingredient": "cloves",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cinnamon stick",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "star anise",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "beef stock",
+            "cost_sgd": 44.0,
+            "emissions_kgco2e": 120.0,
+            "amount": 2.0,
+            "unit": "litres"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "black pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 131.707,
+        "ingredients_kgco2e": 131.68,
+        "energy_kgco2e": 0.027,
+        "per_serving_kgco2e": 21.951
+      }
+    }
+  ]
+}

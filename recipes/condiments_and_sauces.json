@@ -1,0 +1,803 @@
+{
+  "metadata": {
+    "category": "Condiments and Sauces",
+    "description": "Essential Singaporean condiments, sauces, and accompaniments, including fermented, spicy, and umami-rich staples served with local dishes.",
+    "total_condiments": 6,
+    "last_updated": "2024"
+  },
+  "condiments": [
+    {
+      "id": "con_001",
+      "name": "Cincalok",
+      "type": "Fermented seafood condiment",
+      "origin": "Malay/Peranakan",
+      "description": "A pungent, salty, and slightly sour condiment made from fermented small shrimp (udang geragau), rice, and salt. Popular in Malay and Peranakan cuisine, often served as a dip or side with lime, shallots, and chilies.",
+      "ingredients": {
+        "main": {
+          "small shrimp (udang geragau)": "250g, fresh",
+          "cooked rice": "2 tbsp",
+          "salt": "1 tbsp"
+        },
+        "optional for serving": {
+          "lime juice": "to taste",
+          "shallots": "1, thinly sliced",
+          "red chili": "1, sliced"
+        }
+      },
+      "preparation": [
+        "Rinse shrimp thoroughly and drain.",
+        "Mix shrimp with salt and rice in a clean glass jar.",
+        "Seal and ferment at room temperature for 2-3 days until pink and aromatic.",
+        "Serve with lime juice, shallots, and chili as a dip or side."
+      ],
+      "tips": [
+        "Use only very fresh shrimp for best results.",
+        "Fermentation time may vary with temperature."
+      ],
+      "nutrition": {
+        "serving_size": "1 tbsp",
+        "calories": "~10 kcal",
+        "protein": "1g",
+        "carbohydrates": "1g",
+        "fat": "0g"
+      },
+      "source": "Traditional Malay/Peranakan home recipes.",
+      "imageId": "con_001.jpeg",
+      "themes": [
+        "condiment",
+        "sauce",
+        "side",
+        "iconic",
+        "heritage"
+      ]
+    },
+    {
+      "id": "con_002",
+      "name": "Sambal Chili",
+      "type": "Chili paste/condiment",
+      "origin": "Malay/Chinese/Peranakan",
+      "description": "A spicy, aromatic chili paste made from fresh or dried chilies, garlic, shallots, and belacan (fermented shrimp paste). Used as a condiment or cooking base in countless Singaporean dishes.",
+      "ingredients": {
+        "main": {
+          "red chilies (fresh or dried)": "10, chopped",
+          "shallots": "4, peeled",
+          "garlic": "3 cloves",
+          "belacan (shrimp paste)": "1 tsp, toasted",
+          "oil": "2 tbsp",
+          "salt": "to taste",
+          "sugar": "1 tsp"
+        },
+        "optional": {
+          "lime juice": "to taste",
+          "tamarind juice": "1 tbsp"
+        }
+      },
+      "preparation": [
+        "Blend chilies, shallots, garlic, and belacan into a paste.",
+        "Heat oil in a pan, fry the paste until fragrant and oil separates.",
+        "Season with salt, sugar, and optional lime or tamarind juice.",
+        "Cool and store in a clean jar. Serve as a condiment or use in recipes."
+      ],
+      "tips": [
+        "Adjust chili type and quantity for desired heat.",
+        "Keeps refrigerated for up to 2 weeks."
+      ],
+      "nutrition": {
+        "serving_size": "1 tbsp",
+        "calories": "~20 kcal",
+        "protein": "0.5g",
+        "carbohydrates": "2g",
+        "fat": "1g"
+      },
+      "source": "Adapted from traditional Singaporean sambal recipes.",
+      "imageId": "con_002.jpeg",
+      "themes": [
+        "condiment",
+        "sauce",
+        "side",
+        "iconic",
+        "heritage"
+      ]
+    },
+    {
+      "id": "con_003",
+      "name": "Sambal Belacan",
+      "type": "Chili paste/condiment",
+      "origin": "Malay/Peranakan",
+      "description": "A fiery, umami-rich chili paste made from red chilies and toasted belacan (fermented shrimp paste). Essential as a table condiment for countless Singaporean dishes.",
+      "ingredients": {
+        "main": {
+          "red chilies (fresh or dried)": "8-10, chopped",
+          "belacan (shrimp paste)": "1 tbsp, toasted",
+          "lime juice (calamansi preferred)": "2 tbsp",
+          "salt": "to taste",
+          "sugar": "1/2 tsp"
+        }
+      },
+      "preparation": [
+        "Toast belacan over open flame or dry pan until fragrant.",
+        "Pound or blend chilies and belacan into a coarse paste.",
+        "Mix in lime juice, salt, and sugar. Adjust to taste.",
+        "Serve fresh as a condiment."
+      ],
+      "tips": [
+        "Use calamansi lime for authentic flavor.",
+        "Can be kept refrigerated for up to 1 week."
+      ],
+      "nutrition": {
+        "serving_size": "1 tbsp",
+        "calories": "~15 kcal",
+        "protein": "0.5g",
+        "carbohydrates": "2g",
+        "fat": "0.5g"
+      },
+      "source": "Traditional Malay/Peranakan home recipes.",
+      "imageId": "con_003.jpeg",
+      "themes": [
+        "condiment",
+        "sauce",
+        "side",
+        "iconic",
+        "heritage"
+      ]
+    },
+    {
+      "id": "con_004",
+      "name": "Kicap Manis",
+      "type": "Sweet soy sauce",
+      "origin": "Malay/Indonesian",
+      "description": "A thick, sweetened soy sauce with a rich, molasses-like flavor. Used as a dip, drizzle, or cooking ingredient in Malay and Indonesian dishes.",
+      "ingredients": {
+        "main": {
+          "soy sauce": "250ml",
+          "palm sugar (gula melaka) or brown sugar": "100g, grated",
+          "star anise": "1 piece (optional)",
+          "garlic": "2 cloves, smashed (optional)"
+        }
+      },
+      "preparation": [
+        "Combine soy sauce and sugar in a saucepan. Add star anise and garlic if using.",
+        "Simmer over low heat, stirring, until sugar dissolves and sauce thickens (10-15 min).",
+        "Cool and strain. Store in a clean bottle."
+      ],
+      "tips": [
+        "Use gula melaka for best flavor.",
+        "Store in fridge for up to 1 month."
+      ],
+      "nutrition": {
+        "serving_size": "1 tbsp",
+        "calories": "~30 kcal",
+        "protein": "1g",
+        "carbohydrates": "7g",
+        "fat": "0g"
+      },
+      "source": "Adapted from Malay and Indonesian home recipes.",
+      "imageId": "con_004.jpeg",
+      "themes": [
+        "condiment",
+        "sauce",
+        "side",
+        "iconic",
+        "heritage"
+      ]
+    },
+    {
+      "id": "con_005",
+      "name": "Achar (Nyonya Pickles)",
+      "type": "Pickled vegetables",
+      "origin": "Peranakan/Nyonya",
+      "description": "A tangy, spicy, and slightly sweet pickle made from cucumber, carrot, cabbage, and pineapple, tossed in a turmeric-spiced, peanut-laden sauce. Served as a side or palate cleanser.",
+      "ingredients": {
+        "main": {
+          "cucumber": "1, cut into batons",
+          "carrot": "1, cut into batons",
+          "cabbage": "100g, chopped",
+          "pineapple": "100g, cut into chunks",
+          "salt": "1 tbsp (for salting vegetables)"
+        },
+        "sauce": {
+          "vinegar": "100ml",
+          "sugar": "3 tbsp",
+          "ground peanuts": "3 tbsp",
+          "sesame seeds": "1 tbsp, toasted",
+          "chili paste": "2 tbsp",
+          "turmeric powder": "1 tsp",
+          "garlic": "2 cloves, minced"
+        }
+      },
+      "preparation": [
+        "Salt vegetables and let sit 30 min. Rinse and drain well.",
+        "Mix sauce ingredients in a bowl until sugar dissolves.",
+        "Toss vegetables in sauce. Add peanuts and sesame seeds. Mix well.",
+        "Chill before serving."
+      ],
+      "tips": [
+        "Use fresh, crunchy vegetables for best texture.",
+        "Keeps in fridge for up to 1 week."
+      ],
+      "nutrition": {
+        "serving_size": "2 tbsp",
+        "calories": "~40 kcal",
+        "protein": "1g",
+        "carbohydrates": "7g",
+        "fat": "1g"
+      },
+      "source": "Adapted from Nyonya and Peranakan home recipes.",
+      "imageId": "con_005.jpeg",
+      "themes": [
+        "condiment",
+        "sauce",
+        "side",
+        "iconic",
+        "heritage"
+      ]
+    },
+    {
+      "id": "con_006",
+      "name": "Chinchalok",
+      "type": "Fermented seafood condiment",
+      "origin": "Peranakan/Malay",
+      "description": "A tangy, briny condiment made from fermented small shrimp, similar to cincalok but often served with lime, shallots, and chili. Popular in Melaka and Singapore Peranakan cuisine.",
+      "ingredients": {
+        "main": {
+          "small shrimp (udang geragau)": "200g, fresh",
+          "salt": "2 tbsp",
+          "rice or cooked grains": "1 tbsp (optional)"
+        },
+        "for serving": {
+          "lime juice": "to taste",
+          "shallots": "1, thinly sliced",
+          "red chili": "1, sliced"
+        }
+      },
+      "preparation": [
+        "Mix shrimp with salt (and rice if using) in a clean jar.",
+        "Ferment at room temperature for 2-3 days until pink and aromatic.",
+        "Serve with lime juice, shallots, and chili as a dip or side."
+      ],
+      "tips": [
+        "Use only very fresh shrimp.",
+        "Fermentation time may vary with temperature."
+      ],
+      "nutrition": {
+        "serving_size": "1 tbsp",
+        "calories": "~10 kcal",
+        "protein": "1g",
+        "carbohydrates": "1g",
+        "fat": "0g"
+      },
+      "source": "Traditional Peranakan and Malay home recipes.",
+      "imageId": "con_006.jpeg",
+      "themes": [
+        "condiment",
+        "sauce",
+        "side",
+        "iconic",
+        "heritage"
+      ]
+    },
+    {
+      "id": "con_008",
+      "name": "Satay Peanut Sauce",
+      "difficulty": "Medium",
+      "prep_time": "15 minutes",
+      "cook_time": "30 minutes",
+      "servings": 8,
+      "description": "A rich, nutty, and spicy sauce made from roasted peanuts, spices, and coconut milk. Essential for satay and grilled meats at hawker stalls.",
+      "ingredients": {
+        "roasted peanuts": "200g, ground",
+        "shallots": "6, sliced",
+        "garlic": "3 cloves, minced",
+        "dried chili": "8, soaked and blended",
+        "lemongrass": "2 stalks, sliced",
+        "galangal": "2 slices",
+        "tamarind paste": "1 tbsp",
+        "palm sugar": "2 tbsp",
+        "salt": "1 tsp",
+        "coconut milk": "200ml",
+        "oil": "2 tbsp"
+      },
+      "preparation": [
+        "Blend shallots, garlic, chili, lemongrass, and galangal into a paste.",
+        "Heat oil, fry paste until fragrant. Add peanuts, tamarind, sugar, salt, and coconut milk. Simmer 20–30 minutes until thick."
+      ],
+      "tips": [
+        "Use freshly roasted peanuts for best flavor.",
+        "Adjust chili for desired heat."
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": "5g",
+        "carbohydrates": "10g",
+        "fat": "14g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore hawker stalls.",
+      "imageId": "con_008.jpeg",
+      "themes": [
+        "condiment",
+        "sauce",
+        "side",
+        "iconic",
+        "heritage"
+      ]
+    },
+    {
+      "id": "con_009",
+      "name": "Rojak Sauce",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "0 minutes",
+      "servings": 6,
+      "description": "A sweet, tangy, and spicy sauce for fruit and vegetable rojak, made with shrimp paste, tamarind, sugar, and chili. Iconic at hawker rojak stalls.",
+      "ingredients": {
+        "shrimp paste (hae ko)": "2 tbsp",
+        "tamarind paste": "1 tbsp",
+        "palm sugar": "2 tbsp, grated",
+        "lime juice": "1 tbsp",
+        "chili paste": "1 tbsp",
+        "water": "2 tbsp"
+      },
+      "preparation": [
+        "Mix all ingredients in a bowl until smooth. Adjust sweetness and tang to taste."
+      ],
+      "tips": [
+        "Use Penang-style shrimp paste for authenticity.",
+        "Add crushed peanuts for texture."
+      ],
+      "nutrition": {
+        "calories": 60,
+        "protein": "1g",
+        "carbohydrates": "14g",
+        "fat": "0g"
+      },
+      "source": "Adapted from Rasa Malaysia, The MeatMen, and Singapore rojak stalls.",
+      "imageId": "con_009.jpeg",
+      "themes": [
+        "condiment",
+        "sauce",
+        "side",
+        "iconic",
+        "heritage"
+      ]
+    },
+    {
+      "id": "con_010",
+      "name": "Hainanese Chicken Rice Chili",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "0 minutes",
+      "servings": 8,
+      "description": "A fiery, tangy chili sauce made with red chili, garlic, ginger, and lime. Essential for Hainanese chicken rice in Singapore.",
+      "ingredients": {
+        "red chili": "8, chopped",
+        "garlic": "4 cloves",
+        "ginger": "2 slices",
+        "lime juice": "2 tbsp",
+        "sugar": "1 tsp",
+        "salt": "1/2 tsp",
+        "chicken stock": "2 tbsp"
+      },
+      "preparation": [
+        "Blend all ingredients until smooth. Adjust seasoning to taste."
+      ],
+      "tips": [
+        "Use fresh lime for best flavor.",
+        "Add more chili for extra heat."
+      ],
+      "nutrition": {
+        "calories": 15,
+        "protein": "0g",
+        "carbohydrates": "3g",
+        "fat": "0g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore chicken rice stalls.",
+      "imageId": "con_010.jpeg",
+      "themes": [
+        "condiment",
+        "sauce",
+        "side",
+        "iconic",
+        "heritage"
+      ]
+    },
+    {
+      "id": "con_011",
+      "name": "Garlic Chili Sauce",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "0 minutes",
+      "servings": 8,
+      "description": "A pungent, spicy chili sauce made with garlic, red chili, vinegar, and sugar. Served with noodles, dumplings, and roast meats.",
+      "ingredients": {
+        "red chili": "6, chopped",
+        "garlic": "6 cloves",
+        "vinegar": "2 tbsp",
+        "sugar": "1 tbsp",
+        "salt": "1/2 tsp",
+        "water": "2 tbsp"
+      },
+      "preparation": [
+        "Blend all ingredients until smooth. Adjust seasoning to taste."
+      ],
+      "tips": [
+        "Use rice vinegar for a milder tang.",
+        "Add more garlic for a stronger kick."
+      ],
+      "nutrition": {
+        "calories": 12,
+        "protein": "0g",
+        "carbohydrates": "3g",
+        "fat": "0g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore noodle stalls.",
+      "imageId": "con_011.jpeg",
+      "themes": [
+        "condiment",
+        "sauce",
+        "side",
+        "iconic",
+        "heritage"
+      ]
+    },
+    {
+      "id": "con_012",
+      "name": "Acar Awak (Nyonya Pickled Vegetables)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "10 minutes",
+      "servings": 10,
+      "description": "A spicy, tangy Peranakan pickle of mixed vegetables in a fragrant spice paste and peanut topping. Served at festive occasions and as a side dish.",
+      "ingredients": {
+        "cucumber": "2, cut into batons",
+        "carrot": "2, cut into batons",
+        "long beans": "100g, cut",
+        "cabbage": "200g, cut",
+        "pineapple": "1/2, cut",
+        "salt": "2 tbsp",
+        "vinegar": "100ml",
+        "sugar": "3 tbsp",
+        "spice paste": {
+          "dried chili": "8, soaked",
+          "candlenuts": "4",
+          "galangal": "2 slices",
+          "lemongrass": "2 stalks",
+          "belacan": "1 tsp",
+          "turmeric": "1 tsp"
+        },
+        "roasted peanuts": "50g, crushed"
+      },
+      "preparation": [
+        "Rub vegetables with salt, rinse and drain.",
+        "Blend spice paste ingredients. Fry paste, add vinegar and sugar. Toss with vegetables. Top with peanuts."
+      ],
+      "tips": [
+        "Let pickle sit overnight for best flavor.",
+        "Add more chili for extra heat."
+      ],
+      "nutrition": {
+        "calories": 45,
+        "protein": "1g",
+        "carbohydrates": "8g",
+        "fat": "1g"
+      },
+      "source": "Adapted from Nyonya Cooking, The MeatMen, and Singapore Peranakan kitchens.",
+      "imageId": "con_012.jpeg",
+      "themes": [
+        "condiment",
+        "sauce",
+        "side",
+        "iconic",
+        "heritage"
+      ]
+    },
+    {
+      "id": "con_013",
+      "name": "Pineapple Achar",
+      "difficulty": "Easy",
+      "prep_time": "20 minutes",
+      "cook_time": "0 minutes",
+      "servings": 8,
+      "description": "A sweet, tangy pickle of pineapple, cucumber, and carrot in a spicy vinegar dressing. Served as a side with rice and curries.",
+      "ingredients": {
+        "pineapple": "1, cut into chunks",
+        "cucumber": "1, sliced",
+        "carrot": "1, julienned",
+        "red chili": "2, sliced",
+        "vinegar": "4 tbsp",
+        "sugar": "2 tbsp",
+        "salt": "1 tsp"
+      },
+      "preparation": [
+        "Mix all ingredients in a bowl. Let sit 1 hour before serving."
+      ],
+      "tips": [
+        "Add more chili for extra heat.",
+        "Use rice vinegar for a milder tang."
+      ],
+      "nutrition": {
+        "calories": 30,
+        "protein": "0g",
+        "carbohydrates": "7g",
+        "fat": "0g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore home kitchens.",
+      "imageId": "con_013.jpeg",
+      "themes": [
+        "condiment",
+        "sauce",
+        "side",
+        "iconic",
+        "heritage"
+      ]
+    },
+    {
+      "id": "con_014",
+      "name": "Pickled Green Chili",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "0 minutes",
+      "servings": 10,
+      "description": "A classic condiment of sliced green chili pickled in vinegar and sugar. Served with noodles, rice, and dim sum.",
+      "ingredients": {
+        "green chili": "8, sliced",
+        "vinegar": "200ml",
+        "sugar": "2 tbsp",
+        "salt": "1 tsp"
+      },
+      "preparation": [
+        "Mix all ingredients in a jar. Let sit at least 2 hours before serving."
+      ],
+      "tips": [
+        "Use rice vinegar for a milder flavor.",
+        "Add garlic for extra aroma."
+      ],
+      "nutrition": {
+        "calories": 8,
+        "protein": "0g",
+        "carbohydrates": "2g",
+        "fat": "0g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore noodle stalls.",
+      "imageId": "con_014.jpeg",
+      "themes": [
+        "condiment",
+        "sauce",
+        "side",
+        "iconic",
+        "heritage"
+      ]
+    },
+    {
+      "id": "con_015",
+      "name": "Salted Vegetables (Ham Choy)",
+      "difficulty": "Easy",
+      "prep_time": "15 minutes (plus fermenting)",
+      "cook_time": "0 minutes",
+      "servings": 10,
+      "description": "A traditional Chinese preserved mustard green, salty and tangy. Used in soups, stews, and as a side dish.",
+      "ingredients": {
+        "mustard greens": "1kg, washed and dried",
+        "salt": "100g",
+        "sugar": "2 tbsp",
+        "water": "as needed"
+      },
+      "preparation": [
+        "Rub mustard greens with salt and sugar. Pack tightly in a jar, cover with water. Weigh down and ferment 5–7 days. Rinse before use."
+      ],
+      "tips": [
+        "Use clean, dry jars to prevent spoilage.",
+        "Ferment longer for a stronger flavor."
+      ],
+      "nutrition": {
+        "calories": 10,
+        "protein": "1g",
+        "carbohydrates": "2g",
+        "fat": "0g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore home kitchens.",
+      "imageId": "con_015.jpeg",
+      "themes": [
+        "condiment",
+        "sauce",
+        "side",
+        "iconic",
+        "heritage"
+      ]
+    },
+    {
+      "id": "con_016",
+      "name": "Hoisin Sauce",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "0 minutes",
+      "servings": 12,
+      "description": "A sweet, savory, and tangy sauce made from fermented soybeans, garlic, vinegar, and sugar. Used in stir-fries, as a dip, and for roast meats.",
+      "ingredients": {
+        "fermented soybean paste": "3 tbsp",
+        "soy sauce": "2 tbsp",
+        "peanut butter": "1 tbsp",
+        "honey": "1 tbsp",
+        "vinegar": "1 tbsp",
+        "garlic": "1 clove, minced",
+        "sesame oil": "1 tsp"
+      },
+      "preparation": [
+        "Mix all ingredients in a bowl until smooth. Adjust sweetness and salt to taste."
+      ],
+      "tips": [
+        "Use smooth peanut butter for best texture.",
+        "Add chili for a spicy kick."
+      ],
+      "nutrition": {
+        "calories": 25,
+        "protein": "1g",
+        "carbohydrates": "4g",
+        "fat": "1g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore home kitchens.",
+      "imageId": "con_016.jpeg",
+      "themes": [
+        "condiment",
+        "sauce",
+        "side",
+        "iconic",
+        "heritage"
+      ]
+    },
+    {
+      "id": "con_017",
+      "name": "Homemade Oyster Sauce",
+      "difficulty": "Medium",
+      "prep_time": "15 minutes",
+      "cook_time": "30 minutes",
+      "servings": 12,
+      "description": "A savory, umami-rich sauce made from oysters, soy sauce, and sugar. Used in stir-fries, braises, and as a condiment.",
+      "ingredients": {
+        "fresh oysters": "200g",
+        "soy sauce": "100ml",
+        "sugar": "2 tbsp",
+        "cornstarch": "1 tsp (mixed with 2 tbsp water)"
+      },
+      "preparation": [
+        "Simmer oysters in soy sauce and sugar 20 minutes. Strain, return liquid to pan, thicken with cornstarch slurry. Cool and bottle."
+      ],
+      "tips": [
+        "Use fresh oysters for best flavor.",
+        "Store in fridge up to 2 weeks."
+      ],
+      "nutrition": {
+        "calories": 18,
+        "protein": "1g",
+        "carbohydrates": "3g",
+        "fat": "0g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore home kitchens.",
+      "imageId": "con_017.jpeg",
+      "themes": [
+        "condiment",
+        "sauce",
+        "side",
+        "iconic",
+        "heritage"
+      ]
+    },
+    {
+      "id": "con_018",
+      "name": "Plum Sauce",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "0 minutes",
+      "servings": 10,
+      "description": "A sweet, tangy sauce made from preserved plums, sugar, and vinegar. Served with roast meats, spring rolls, and as a dip.",
+      "ingredients": {
+        "preserved plums": "4, pitted and mashed",
+        "sugar": "2 tbsp",
+        "vinegar": "2 tbsp",
+        "soy sauce": "1 tbsp",
+        "water": "2 tbsp"
+      },
+      "preparation": [
+        "Mix all ingredients in a bowl until smooth. Adjust sweetness and tang to taste."
+      ],
+      "tips": [
+        "Use Chinese preserved plums for authenticity.",
+        "Add chili for a spicy version."
+      ],
+      "nutrition": {
+        "calories": 20,
+        "protein": "0g",
+        "carbohydrates": "5g",
+        "fat": "0g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore home kitchens.",
+      "imageId": "con_018.jpeg",
+      "themes": [
+        "condiment",
+        "sauce",
+        "side",
+        "iconic",
+        "heritage"
+      ]
+    },
+    {
+      "id": "con_019",
+      "name": "XO Scallop/Abalone Sauce",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "30 minutes",
+      "servings": 10,
+      "description": "A luxurious, umami-rich sauce made with dried scallops, abalone, ham, and aromatics. Used in stir-fries, noodles, and as a premium condiment.",
+      "ingredients": {
+        "dried scallops": "30g, soaked and shredded",
+        "abalone (optional)": "1 small, diced",
+        "Jinhua ham": "20g, diced",
+        "garlic": "2 cloves, minced",
+        "shallots": "2, sliced",
+        "dried shrimp": "10g, soaked and chopped",
+        "chili": "1, sliced",
+        "soy sauce": "2 tbsp",
+        "oyster sauce": "1 tbsp",
+        "sugar": "1 tsp",
+        "oil": "2 tbsp"
+      },
+      "preparation": [
+        "Heat oil, fry garlic, shallots, ham, and dried shrimp until fragrant. Add scallops and abalone, cook 5 minutes. Add sauces and sugar, simmer 20 minutes until thick."
+      ],
+      "tips": [
+        "Use more scallops for a richer flavor.",
+        "Store in fridge up to 1 week."
+      ],
+      "nutrition": {
+        "calories": 60,
+        "protein": "4g",
+        "carbohydrates": "3g",
+        "fat": "4g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore home kitchens.",
+      "imageId": "con_019.jpeg",
+      "themes": [
+        "condiment",
+        "sauce",
+        "side",
+        "iconic",
+        "heritage"
+      ]
+    },
+    {
+      "id": "con_020",
+      "name": "Chye Poh (Preserved Radish)",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "0 minutes",
+      "servings": 10,
+      "description": "A classic Teochew and Hokkien condiment: salted, preserved radish used in omelettes, stir-fries, and as a topping for porridge and noodles.",
+      "ingredients": {
+        "daikon radish": "500g, peeled and shredded",
+        "salt": "2 tbsp",
+        "sugar": "1 tbsp"
+      },
+      "preparation": [
+        "Rub radish with salt and sugar. Place in a colander, weigh down, and drain overnight. Rinse before use."
+      ],
+      "tips": [
+        "Use in chye poh omelette or as a topping for porridge.",
+        "Store in fridge up to 2 weeks."
+      ],
+      "nutrition": {
+        "calories": 8,
+        "protein": "0g",
+        "carbohydrates": "2g",
+        "fat": "0g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore home kitchens.",
+      "imageId": "con_020.jpeg",
+      "themes": [
+        "condiment",
+        "sauce",
+        "side",
+        "iconic",
+        "heritage"
+      ]
+    }
+  ]
+} 

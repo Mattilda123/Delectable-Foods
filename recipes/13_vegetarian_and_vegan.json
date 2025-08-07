@@ -1,0 +1,1891 @@
+{
+  "metadata": {
+    "category": "Vegetarian and Vegan",
+    "description": "Plant-based Singaporean dishes, featuring vegetables, tofu, and meat alternatives",
+    "total_recipes": 10,
+    "last_updated": "2024"
+  },
+  "recipes": [
+    {
+      "id": "veg_001",
+      "name": "Hakka Lei Cha (Thunder Tea Rice)",
+      "difficulty": "Hard",
+      "prep_time": "45 minutes",
+      "cook_time": "30 minutes",
+      "servings": 4.0,
+      "description": "A classic Hakka dish of steamed rice topped with a medley of finely chopped vegetables, tofu, peanuts, and pickles, served with a vibrant green herbal tea soup made from ground herbs, tea leaves, nuts, and seeds. Popular in Singapore's hawker centres for its health benefits and unique flavor.",
+      "ingredients": {
+        "lei cha paste": {
+          "fresh basil leaves": "2 cups",
+          "fresh mint leaves": "2 cups",
+          "cilantro": "1/4 cup, chopped",
+          "dried green tea leaves": "1 tbsp",
+          "roasted peanuts": "2/3 cup",
+          "toasted sesame seeds": "3 tbsp",
+          "vegetable oil": "2 tsp",
+          "garlic": "1 tsp, chopped",
+          "black peppercorns": "6",
+          "water": "1 cup cold + 4 cups boiling",
+          "salt": "1 tsp, or to taste"
+        },
+        "rice bowl": {
+          "steamed white or brown rice": "4 servings",
+          "long beans": "1 cup, finely chopped and sautéed",
+          "cabbage": "1 cup, finely chopped and sautéed",
+          "choy sum or spinach": "1 cup, finely chopped and sautéed",
+          "firm tofu (tau kwa)": "1 block, diced and pan-fried",
+          "preserved radish (chai poh)": "1/4 cup, finely chopped",
+          "roasted peanuts": "1/4 cup, chopped",
+          "toasted sesame seeds": "2 tbsp",
+          "fried anchovies (optional)": "1/4 cup"
+        }
+      },
+      "steps": [
+        "Coarsely chop basil and mint. Heat oil in a pan, add garlic, stir until soft. Add basil, mint, and cilantro; stir-fry until bright green. Remove from pan.",
+        "In a blender, grind tea leaves and peppercorns. Add peanuts and sesame seeds; blend until finely ground.",
+        "Add the sautéed herbs and 1 cup cold water to the blender; blend until smooth.",
+        "Add 1 cup boiling water to the herb mixture and blend again until smooth. Pour into a pot, add remaining boiling water and salt, whisk to blend, and heat until hot.",
+        "Prepare all rice toppings: sauté vegetables, pan-fry tofu, chop peanuts and radish, fry anchovies if using.",
+        "To serve, arrange rice in bowls, top with each vegetable, tofu, peanuts, sesame seeds, radish, and anchovies in separate sections.",
+        "Serve with hot lei cha soup on the side. Diners may pour the soup over the rice and toss everything together before eating."
+      ],
+      "tips": [
+        "Use a variety of fresh herbs for the lei cha paste for best flavor.",
+        "Each topping should be cooked and seasoned separately for distinct flavors.",
+        "Brown rice adds a nutty flavor and extra nutrition.",
+        "Omit anchovies for a vegetarian version."
+      ],
+      "themes": [
+        "vegetarian",
+        "vegan",
+        "main",
+        "iconic",
+        "heritage"
+      ],
+      "source": "https://guide.michelin.com/sg/en/article/features/what-is-thunder-tea-rice, https://www.celestialpeach.com/blog/recipe-hakka-lei-cha-thunder-tea-vegan",
+      "origin": "Hakka Lei Cha is a centuries-old dish brought to Singapore by Hakka immigrants. It is celebrated for its adaptability, health benefits, and the communal effort involved in its preparation.",
+      "imageId": "veg_001.jpeg",
+      "tags": [
+        "benefits",
+        "centres",
+        "cha",
+        "chopped",
+        "classic",
+        "dish",
+        "finely",
+        "flavor",
+        "green",
+        "ground",
+        "hakka",
+        "hawker",
+        "health",
+        "herbal",
+        "herbs",
+        "heritage",
+        "iconic",
+        "leaves",
+        "lei",
+        "made",
+        "main",
+        "medley",
+        "nuts",
+        "peanuts",
+        "pickles",
+        "popular",
+        "rice",
+        "seeds",
+        "served",
+        "singapore",
+        "soup",
+        "steamed",
+        "tea",
+        "thunder",
+        "tofu",
+        "topped",
+        "unique",
+        "vegan",
+        "vegetables",
+        "vegetarian",
+        "vibrant"
+      ],
+      "cost": {
+        "total_sgd": 62.93,
+        "ingredients_sgd": 62.63,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 15.73,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "fresh basil leaves",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "fresh mint leaves",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "cilantro",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dried green tea leaves",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "roasted peanuts",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "toasted sesame seeds",
+            "cost_sgd": 0.36,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "vegetable oil",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.007,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "black peppercorns",
+            "cost_sgd": 7.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "steamed white or brown rice",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 18.0,
+            "amount": 4.0,
+            "unit": "servings"
+          },
+          {
+            "ingredient": "long beans",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "cabbage",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "choy sum or spinach",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "firm tofu (tau kwa)",
+            "cost_sgd": 0.82,
+            "emissions_kgco2e": 0.96,
+            "amount": 1.0,
+            "unit": "block"
+          },
+          {
+            "ingredient": "preserved radish (chai poh)",
+            "cost_sgd": 1.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "roasted peanuts",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "toasted sesame seeds",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "fried anchovies (optional)",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 19.438,
+        "ingredients_kgco2e": 19.03,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 4.86
+      }
+    },
+    {
+      "id": "veg_002",
+      "name": "Tahu Telur (Indonesian Beancurd Omelette)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "20 minutes",
+      "servings": 4.0,
+      "description": "A popular Malay-Indonesian hawker dish in Singapore, featuring deep-fried tofu and egg tower, served with a sweet-spicy peanut sauce, cucumber, and bean sprouts. Crispy on the outside, soft inside, and bursting with flavor.",
+      "ingredients": {
+        "main": {
+          "firm tofu (tau kwa)": "2 blocks (about 400g)",
+          "eggs": "4, large",
+          "bean sprouts": "1 cup, blanched",
+          "cucumber": "1, julienned",
+          "carrot": "1, julienned (optional)",
+          "oil": "for deep frying"
+        },
+        "peanut sauce": {
+          "roasted peanuts": "1/2 cup, ground",
+          "garlic": "2 cloves",
+          "red chilies": "2, deseeded",
+          "tamarind juice": "2 tbsp",
+          "dark soy sauce (kecap manis)": "2 tbsp",
+          "palm sugar or brown sugar": "2 tbsp",
+          "water": "1/2 cup (adjust for consistency)",
+          "salt": "to taste"
+        },
+        "garnish": {
+          "fried shallots": "2 tbsp",
+          "chopped coriander": "as desired"
+        }
+      },
+      "steps": [
+        "Cut tofu into cubes and pat dry. Beat eggs in a large bowl, then gently fold in tofu cubes.",
+        "Heat oil in a deep pan or wok. Pour the tofu-egg mixture into a round mold or directly into the oil, shaping into a tall 'tower' if possible. Fry until golden brown and crispy on all sides. Drain on paper towels.",
+        "For the peanut sauce: Blend or pound peanuts, garlic, and chilies into a coarse paste. In a saucepan, combine the paste with tamarind juice, kecap manis, sugar, water, and salt. Simmer until thickened, adjusting water for desired consistency.",
+        "To serve: Place the fried tofu-egg tower on a plate. Top with blanched bean sprouts, cucumber, and carrot. Generously spoon over the warm peanut sauce.",
+        "Garnish with fried shallots and coriander. Serve immediately."
+      ],
+      "tips": [
+        "Use a metal ring mold for a tall, restaurant-style presentation, or simply fry as a flat omelette.",
+        "Kecap manis (sweet soy sauce) is essential for authentic flavor.",
+        "Adjust chili quantity for desired spiciness.",
+        "Best served fresh and hot for maximum crispiness."
+      ],
+      "themes": [
+        "tofu",
+        "egg",
+        "hawker",
+        "Malay",
+        "Indonesian",
+        "heritage",
+        "vegetarian"
+      ],
+      "source": "Adapted from Rasa Malaysia, The MeatMen, and Singapore/Malay hawker stalls.",
+      "origin": "Malay and Indonesian communities; a hawker favorite in Singapore, especially at Geylang Serai and food courts.",
+      "imageId": "veg_002.jpeg",
+      "tags": [
+        "bean",
+        "beancurd",
+        "bursting",
+        "crispy",
+        "cucumber",
+        "deep",
+        "dish",
+        "egg",
+        "featuring",
+        "flavor",
+        "fried",
+        "hawker",
+        "heritage",
+        "indonesian",
+        "malay",
+        "omelette",
+        "peanut",
+        "popular",
+        "sauce",
+        "served",
+        "singapore",
+        "soft",
+        "spicy",
+        "sprouts",
+        "sweet",
+        "tahu",
+        "telur",
+        "tofu",
+        "tower",
+        "vegetarian"
+      ],
+      "cost": {
+        "total_sgd": 53.9,
+        "ingredients_sgd": 53.7,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 13.47,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "firm tofu (tau kwa)",
+            "cost_sgd": 5.5,
+            "emissions_kgco2e": 6.4,
+            "amount": 2.0,
+            "unit": "blocks"
+          },
+          {
+            "ingredient": "eggs",
+            "cost_sgd": 1.32,
+            "emissions_kgco2e": 18.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "bean sprouts",
+            "cost_sgd": 0.25,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "cucumber",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "carrot",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.8,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "roasted peanuts",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "red chilies",
+            "cost_sgd": 17.6,
+            "emissions_kgco2e": 4.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tamarind juice",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce (kecap manis)",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "palm sugar or brown sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fried shallots",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chopped coriander",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 39.062,
+        "ingredients_kgco2e": 38.79,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 9.766
+      }
+    },
+    {
+      "id": "veg_003",
+      "name": "Vegetarian Fried Bee Hoon (Singapore Style)",
+      "difficulty": "Easy",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "servings": 2.0,
+      "description": "A classic Singaporean vegetarian breakfast staple: stir-fried rice vermicelli with cabbage, mushrooms, tofu, carrots, and bean sprouts. Served at hawker centers and vegetarian stalls, often with curry gravy or sambal.",
+      "ingredients": {
+        "main": {
+          "dried bee hoon (rice vermicelli)": "120g",
+          "garlic": "2 cloves, minced",
+          "ginger": "1 small slice, grated or thinly sliced",
+          "carrot": "1/2 cup, julienned",
+          "wood ear mushroom": "1/4 cup, chopped",
+          "shiitake mushrooms": "4 stalks, chopped",
+          "firm tofu": "1/4 cup, cubed",
+          "cabbage": "1 cup, chopped",
+          "bean sprouts": "3/4 cup",
+          "sunflower oil": "as needed",
+          "water": "100ml or more, as needed"
+        },
+        "seasoning": {
+          "vegetarian mushroom oyster sauce": "2 tsp",
+          "dark soy sauce": "1 tsp",
+          "light soy sauce": "2 tsp",
+          "sesame oil": "1 tsp",
+          "white pepper": "pinch"
+        },
+        "garnish": {
+          "spring onions": "to taste",
+          "fried shallots": "to taste",
+          "cut chili": "optional",
+          "vegetarian sambal chili": "optional"
+        }
+      },
+      "preparation": [
+        "Soak rice vermicelli in warm water for at least 15 minutes until semi-soft. Drain and set aside.",
+        "Heat oil in a large skillet or wok. Sauté garlic and ginger until aromatic.",
+        "Add carrot, mushrooms, and tofu. Sauté for 2-3 minutes. Add cabbage and a little soy sauce or salt. Sauté until almost cooked.",
+        "Add vermicelli and water, then all seasonings. Add bean sprouts and sauté until everything is evenly coated. Use chopsticks to help loosen the noodles. Cover and cook for 1-2 minutes.",
+        "Uncover and sauté until gravy is almost dried up and noodles are soft. Add water if needed. Adjust seasonings to taste.",
+        "Transfer to a plate and top with garnishes. Serve hot."
+      ],
+      "tips": [
+        "Different brands of rice vermicelli absorb different amounts of water. Adjust as needed.",
+        "For a more moist version, add extra water and cover to steam briefly."
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": "8g",
+        "carbohydrates": "60g",
+        "fat": "6g"
+      },
+      "source": "Adapted from Veggie Temptation, Wikipedia, and local hawker practice.",
+      "imageId": "veg_003.jpeg",
+      "steps": [
+        "Soak rice vermicelli in warm water for at least 15 minutes until semi-soft. Drain and set aside.",
+        "Heat oil in a large skillet or wok. Sauté garlic and ginger until aromatic.",
+        "Add carrot, mushrooms, and tofu. Sauté for 2-3 minutes. Add cabbage and a little soy sauce or salt. Sauté until almost cooked.",
+        "Add vermicelli and water, then all seasonings. Add bean sprouts and sauté until everything is evenly coated. Use chopsticks to help loosen the noodles. Cover and cook for 1-2 minutes.",
+        "Uncover and sauté until gravy is almost dried up and noodles are soft. Add water if needed. Adjust seasonings to taste.",
+        "Transfer to a plate and top with garnishes. Serve hot."
+      ],
+      "tags": [
+        "bean",
+        "bee",
+        "breakfast",
+        "cabbage",
+        "carrots",
+        "centers",
+        "classic",
+        "curry",
+        "fried",
+        "gravy",
+        "hawker",
+        "hoon",
+        "mushrooms",
+        "often",
+        "rice",
+        "sambal",
+        "served",
+        "singapore",
+        "singaporean",
+        "sprouts",
+        "stalls",
+        "staple",
+        "stir",
+        "style",
+        "tofu",
+        "vegetarian",
+        "vermicelli"
+      ],
+      "cost": {
+        "total_sgd": 97.03,
+        "ingredients_sgd": 96.88,
+        "energy_sgd": 0.15,
+        "per_serving_sgd": 48.52,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "dried bee hoon (rice vermicelli)",
+            "cost_sgd": 0.26,
+            "emissions_kgco2e": 0.54,
+            "amount": 120.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "small"
+          },
+          {
+            "ingredient": "carrot",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.8,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "wood ear mushroom",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "shiitake mushrooms",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "stalks"
+          },
+          {
+            "ingredient": "firm tofu",
+            "cost_sgd": 2.75,
+            "emissions_kgco2e": 3.2,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cabbage",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "bean sprouts",
+            "cost_sgd": 3.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sunflower oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "vegetarian mushroom oyster sauce",
+            "cost_sgd": 0.08,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.01,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.02,
+            "amount": 2.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sesame oil",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fried shallots",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cut chili",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "vegetarian sambal chili",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 18.974,
+        "ingredients_kgco2e": 18.77,
+        "energy_kgco2e": 0.204,
+        "per_serving_kgco2e": 9.487
+      }
+    },
+    {
+      "id": "veg_004",
+      "name": "Vegetarian Lor Mee (Braised Noodles)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "40 minutes",
+      "servings": 3.0,
+      "description": "A vegetarian take on the Hokkien-Singaporean classic: thick yellow noodles in a rich, starchy braised gravy with mushrooms, tofu, and vegetables. Served with vinegar, garlic, and chili.",
+      "ingredients": {
+        "Main": {
+          "noodles": "400g thick yellow noodles",
+          "shiitake mushrooms": "6, soaked and sliced",
+          "firm tofu": "200g, cubed",
+          "carrot": "1, julienned",
+          "bok choy": "100g, chopped",
+          "vegetable stock": "1 litre",
+          "cornstarch": "2 tbsp (mixed with 3 tbsp water)",
+          "soy sauce": "2 tbsp",
+          "dark soy sauce": "1 tbsp",
+          "sugar": "1 tsp",
+          "white pepper": "1/2 tsp",
+          "garlic": "3 cloves, minced",
+          "oil": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Heat oil in a pot. Sauté garlic, mushrooms, tofu, and carrot until fragrant.",
+        "Add vegetable stock, soy sauces, sugar, and pepper. Simmer 20 minutes.",
+        "Add bok choy. Stir in cornstarch slurry to thicken gravy.",
+        "Blanch noodles and divide into bowls. Ladle gravy and toppings over. Serve with vinegar, minced garlic, and chili."
+      ],
+      "tips": [
+        "Add mock meat or gluten for extra protein.",
+        "Adjust gravy thickness to taste."
+      ],
+      "nutrition": {
+        "calories": 410,
+        "protein": "16g",
+        "carbohydrates": "70g",
+        "fat": "8g"
+      },
+      "source": "Adapted from Veggie Temptation, The MeatMen, and Singapore vegetarian stalls.",
+      "imageId": "veg_004.jpeg",
+      "steps": [
+        "Heat oil in a pot. Sauté garlic, mushrooms, tofu, and carrot until fragrant.",
+        "Add vegetable stock, soy sauces, sugar, and pepper. Simmer 20 minutes.",
+        "Add bok choy. Stir in cornstarch slurry to thicken gravy.",
+        "Blanch noodles and divide into bowls. Ladle gravy and toppings over. Serve with vinegar, minced garlic, and chili."
+      ],
+      "tags": [
+        "braised",
+        "chili",
+        "classic",
+        "garlic",
+        "gravy",
+        "hokkien",
+        "lor",
+        "mee",
+        "mushrooms",
+        "noodles",
+        "rich",
+        "served",
+        "singaporean",
+        "starchy",
+        "take",
+        "thick",
+        "tofu",
+        "vegetables",
+        "vegetarian",
+        "vinegar",
+        "yellow"
+      ],
+      "cost": {
+        "total_sgd": 73.39,
+        "ingredients_sgd": 72.99,
+        "energy_sgd": 0.4,
+        "per_serving_sgd": 24.46,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "noodles",
+            "cost_sgd": 1.32,
+            "emissions_kgco2e": 1.0,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "shiitake mushrooms",
+            "cost_sgd": 48.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "firm tofu",
+            "cost_sgd": 0.55,
+            "emissions_kgco2e": 0.64,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "carrot",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.8,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "bok choy",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "vegetable stock",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 2.0,
+            "amount": 1.0,
+            "unit": "litre"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 19.8,
+            "emissions_kgco2e": 4.5,
+            "amount": 3.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 9.759,
+        "ingredients_kgco2e": 9.215,
+        "energy_kgco2e": 0.544,
+        "per_serving_kgco2e": 3.253
+      }
+    },
+    {
+      "id": "veg_005",
+      "name": "Thunder Tea Rice (Lei Cha Fan)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "30 minutes",
+      "servings": 4.0,
+      "description": "A Hakka heritage dish popular at Singapore vegetarian stalls: rice topped with assorted vegetables, tofu, peanuts, and served with a fragrant green tea and herb soup.",
+      "ingredients": {
+        "rice": "2 cups cooked jasmine or brown rice",
+        "chye sim or bok choy": "100g, chopped",
+        "long beans": "100g, chopped",
+        "cabbage": "100g, shredded",
+        "firm tofu": "150g, diced",
+        "pickled radish (chai poh)": "2 tbsp, rinsed",
+        "roasted peanuts": "1/2 cup, chopped",
+        "sesame seeds": "2 tbsp",
+        "oil": "2 tbsp",
+        "salt": "to taste",
+        "soup": {
+          "green tea leaves": "2 tbsp",
+          "basil leaves": "1/2 cup",
+          "mint leaves": "1/2 cup",
+          "coriander leaves": "1/2 cup",
+          "roasted peanuts": "2 tbsp",
+          "sesame seeds": "2 tbsp",
+          "water": "3 cups",
+          "salt": "to taste"
+        }
+      },
+      "preparation": [
+        "Prepare all vegetables and tofu. Stir-fry each topping separately with a little oil and salt until cooked. Set aside.",
+        "For soup: Blend tea leaves, herbs, peanuts, and sesame seeds with water until smooth. Simmer gently, season with salt.",
+        "To serve: Place rice in bowls, arrange toppings on top. Pour hot green tea soup over or serve on the side."
+      ],
+      "tips": [
+        "Use a mix of herbs for the most aromatic soup.",
+        "Add more peanuts or seeds for a richer broth."
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": "18g",
+        "carbohydrates": "75g",
+        "fat": "12g"
+      },
+      "source": "Adapted from The MeatMen, Veggie Temptation, and Singapore Hakka home kitchens.",
+      "imageId": "veg_005.jpeg",
+      "steps": [
+        "Prepare all vegetables and tofu. Stir-fry each topping separately with a little oil and salt until cooked. Set aside.",
+        "For soup: Blend tea leaves, herbs, peanuts, and sesame seeds with water until smooth. Simmer gently, season with salt.",
+        "To serve: Place rice in bowls, arrange toppings on top. Pour hot green tea soup over or serve on the side."
+      ],
+      "tags": [
+        "assorted",
+        "cha",
+        "dish",
+        "fan",
+        "fragrant",
+        "green",
+        "hakka",
+        "herb",
+        "heritage",
+        "lei",
+        "peanuts",
+        "popular",
+        "rice",
+        "served",
+        "singapore",
+        "soup",
+        "stalls",
+        "tea",
+        "thunder",
+        "tofu",
+        "topped",
+        "vegetables",
+        "vegetarian"
+      ],
+      "cost": {
+        "total_sgd": 20.99,
+        "ingredients_sgd": 20.69,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 5.25,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "chye sim or bok choy",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "long beans",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "cabbage",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "firm tofu",
+            "cost_sgd": 0.41,
+            "emissions_kgco2e": 0.48,
+            "amount": 150.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "pickled radish (chai poh)",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "roasted peanuts",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sesame seeds",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "green tea leaves",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "basil leaves",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "mint leaves",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "coriander leaves",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "roasted peanuts",
+            "cost_sgd": 0.18,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sesame seeds",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 11.068,
+        "ingredients_kgco2e": 10.66,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 2.767
+      }
+    },
+    {
+      "id": "veg_006",
+      "name": "Sayur Lodeh (Vegetable Coconut Curry)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "30 minutes",
+      "servings": 4.0,
+      "description": "A classic Malay/Peranakan vegetable curry: assorted vegetables simmered in a fragrant coconut milk broth with lemongrass, galangal, and spices. Served with rice or lontong (compressed rice cakes).",
+      "ingredients": {
+        "vegetables": {
+          "cabbage": "200g, chopped",
+          "long beans": "100g, cut into 2-inch pieces",
+          "carrot": "1, sliced",
+          "eggplant": "1 small, cubed",
+          "tofu puffs": "8, halved",
+          "tempeh": "100g, cubed (optional)"
+        },
+        "spice paste": {
+          "shallots": "6, peeled",
+          "garlic": "3 cloves",
+          "red chilies": "4, seeded",
+          "lemongrass": "1 stalk, white part only",
+          "galangal": "1 tbsp, sliced",
+          "turmeric powder": "1 tsp",
+          "coriander powder": "1 tsp"
+        },
+        "broth": {
+          "coconut milk": "400ml",
+          "water": "400ml",
+          "salt": "to taste",
+          "sugar": "1 tsp"
+        }
+      },
+      "preparation": [
+        "Blend spice paste ingredients until smooth.",
+        "Heat oil in a pot, sauté spice paste until fragrant.",
+        "Add vegetables, stir-fry 2–3 minutes. Add coconut milk, water, salt, and sugar. Simmer 20–25 minutes until vegetables are tender.",
+        "Add tofu puffs and tempeh, simmer 5 more minutes. Serve hot with rice or lontong."
+      ],
+      "tips": [
+        "Use a mix of vegetables for best flavor and texture.",
+        "Serve with sambal for extra heat."
+      ],
+      "nutrition": {
+        "calories": 260,
+        "protein": "8g",
+        "carbohydrates": "18g",
+        "fat": "18g"
+      },
+      "source": "Adapted from Rasa Malaysia, The MeatMen, and Singapore Malay kitchens.",
+      "imageId": "veg_006.jpeg",
+      "steps": [
+        "Blend spice paste ingredients until smooth.",
+        "Heat oil in a pot, sauté spice paste until fragrant.",
+        "Add vegetables, stir-fry 2–3 minutes. Add coconut milk, water, salt, and sugar. Simmer 20–25 minutes until vegetables are tender.",
+        "Add tofu puffs and tempeh, simmer 5 more minutes. Serve hot with rice or lontong."
+      ],
+      "tags": [
+        "assorted",
+        "broth",
+        "cakes",
+        "classic",
+        "coconut",
+        "compressed",
+        "curry",
+        "fragrant",
+        "galangal",
+        "lemongrass",
+        "lodeh",
+        "lontong",
+        "malay",
+        "milk",
+        "peranakan",
+        "rice",
+        "sayur",
+        "served",
+        "simmered",
+        "spices",
+        "vegetable",
+        "vegetables"
+      ],
+      "cost": {
+        "total_sgd": 105.98,
+        "ingredients_sgd": 105.68,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 26.5,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "cabbage",
+            "cost_sgd": 0.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "long beans",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "carrot",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.8,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "eggplant",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "small"
+          },
+          {
+            "ingredient": "tofu puffs",
+            "cost_sgd": 22.0,
+            "emissions_kgco2e": 25.6,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tempeh",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 19.8,
+            "emissions_kgco2e": 4.5,
+            "amount": 3.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "red chilies",
+            "cost_sgd": 35.2,
+            "emissions_kgco2e": 8.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "lemongrass",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "stalk"
+          },
+          {
+            "ingredient": "galangal",
+            "cost_sgd": 0.09,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "turmeric powder",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "coriander powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 0.76,
+            "amount": 400.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 400.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 45.073,
+        "ingredients_kgco2e": 44.665,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 11.268
+      }
+    },
+    {
+      "id": "veg_007",
+      "name": "Lontong (Compressed Rice Cakes)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes (plus soaking)",
+      "cook_time": "1 hour 30 minutes",
+      "servings": 6.0,
+      "description": "A staple accompaniment to sayur lodeh and festive Malay meals: rice cooked, compressed, and cut into firm cakes. Served with coconut curries, sambal, and serunding (spiced coconut).",
+      "ingredients": {
+        "Main": {
+          "long grain rice": "2 cups, rinsed and soaked 1 hour",
+          "water": "as needed",
+          "banana leaves or plastic wrap": "for shaping"
+        }
+      },
+      "preparation": [
+        "Drain soaked rice. Boil in plenty of water until just cooked but still firm. Drain well.",
+        "Spread rice onto a tray, cool slightly. Pack tightly into banana leaf or plastic wrap, roll into a log, and secure ends.",
+        "Steam 1 hour until firm. Cool completely, then slice into thick rounds. Serve with sayur lodeh, sambal, and serunding."
+      ],
+      "tips": [
+        "Use banana leaves for best flavor and aroma.",
+        "Let lontong cool fully before slicing for clean edges."
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": "4g",
+        "carbohydrates": "40g",
+        "fat": "0g"
+      },
+      "source": "Adapted from Rasa Malaysia, The MeatMen, and Singapore Malay kitchens.",
+      "imageId": "veg_007.jpeg",
+      "steps": [
+        "Drain soaked rice. Boil in plenty of water until just cooked but still firm. Drain well.",
+        "Spread rice onto a tray, cool slightly. Pack tightly into banana leaf or plastic wrap, roll into a log, and secure ends.",
+        "Steam 1 hour until firm. Cool completely, then slice into thick rounds. Serve with sayur lodeh, sambal, and serunding."
+      ],
+      "tags": [
+        "accompaniment",
+        "cakes",
+        "coconut",
+        "compressed",
+        "cooked",
+        "curries",
+        "cut",
+        "festive",
+        "firm",
+        "lodeh",
+        "lontong",
+        "malay",
+        "meals",
+        "rice",
+        "sambal",
+        "sayur",
+        "serunding",
+        "served",
+        "spiced",
+        "staple"
+      ],
+      "cost": {
+        "total_sgd": 4.71,
+        "ingredients_sgd": 4.7,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 0.79,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "long grain rice",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "banana leaves or plastic wrap",
+            "cost_sgd": 0.3,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 9.014,
+        "ingredients_kgco2e": 9.0,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 1.502
+      }
+    },
+    {
+      "id": "veg_008",
+      "name": "Kedondong Salad (Ambarella Salad)",
+      "difficulty": "Easy",
+      "prep_time": "15 minutes",
+      "cook_time": "0 minutes",
+      "servings": 4.0,
+      "description": "A refreshing Peranakan and Malay salad of shredded kedondong (ambarella), carrots, cucumber, and peanuts, tossed in a tangy, spicy dressing. Popular at Nyonya and Malay tables.",
+      "ingredients": {
+        "Main": {
+          "kedondong (ambarella)": "2, peeled and shredded",
+          "carrot": "1, julienned",
+          "cucumber": "1, julienned",
+          "roasted peanuts": "1/4 cup, crushed",
+          "red chili": "1, sliced",
+          "lime juice": "2 tbsp",
+          "sugar": "1 tbsp",
+          "salt": "1/2 tsp",
+          "soy sauce": "1 tbsp"
+        }
+      },
+      "preparation": [
+        "Combine all ingredients in a large bowl. Toss well to coat with dressing.",
+        "Let sit 10 minutes for flavors to meld. Serve chilled or at room temperature."
+      ],
+      "tips": [
+        "Substitute green apple if kedondong is unavailable.",
+        "Add fried shallots for extra crunch."
+      ],
+      "nutrition": {
+        "calories": 80,
+        "protein": "2g",
+        "carbohydrates": "14g",
+        "fat": "2g"
+      },
+      "source": "Adapted from Nyonya Cooking, Rasa Malaysia, and Singapore Peranakan kitchens.",
+      "imageId": "veg_008.jpeg",
+      "steps": [
+        "Combine all ingredients in a large bowl. Toss well to coat with dressing.",
+        "Let sit 10 minutes for flavors to meld. Serve chilled or at room temperature."
+      ],
+      "tags": [
+        "ambarella",
+        "carrots",
+        "cucumber",
+        "dressing",
+        "kedondong",
+        "malay",
+        "nyonya",
+        "peanuts",
+        "peranakan",
+        "popular",
+        "refreshing",
+        "salad",
+        "shredded",
+        "spicy",
+        "tables",
+        "tangy",
+        "tossed"
+      ],
+      "cost": {
+        "total_sgd": 33.99,
+        "ingredients_sgd": 33.99,
+        "energy_sgd": 0.0,
+        "per_serving_sgd": 8.5,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "kedondong (ambarella)",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "carrot",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.8,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cucumber",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "roasted peanuts",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "red chili",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "lime juice",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 3.345,
+        "ingredients_kgco2e": 3.345,
+        "energy_kgco2e": 0.0,
+        "per_serving_kgco2e": 0.836
+      }
+    },
+    {
+      "id": "veg_009",
+      "name": "Vadai (Indian-Style Savory Fritters)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes (plus soaking)",
+      "cook_time": "30 minutes",
+      "servings": 8.0,
+      "description": "A popular Indian-Singaporean snack: deep-fried savory fritters made from urad dal (black gram), spices, and curry leaves. Crispy outside, fluffy inside, often served with green chili or coconut chutney.",
+      "ingredients": {
+        "Main": {
+          "urad dal (black gram)": "200g, soaked 4 hours",
+          "onion": "1, finely chopped",
+          "green chili": "2, chopped",
+          "curry leaves": "10, torn",
+          "cumin seeds": "1 tsp",
+          "salt": "1 tsp",
+          "baking soda": "1/4 tsp",
+          "oil": "for deep frying"
+        }
+      },
+      "preparation": [
+        "Drain soaked dal. Grind to a thick, coarse paste with minimal water.",
+        "Mix in onion, chili, curry leaves, cumin, salt, and baking soda.",
+        "Shape into small discs or rings. Fry in hot oil until golden and crisp. Drain on paper towels.",
+        "Serve hot with green chili or coconut chutney."
+      ],
+      "tips": [
+        "Do not add too much water when grinding dal.",
+        "Add chopped spinach or grated carrot for variation."
+      ],
+      "nutrition": {
+        "calories": 110,
+        "protein": "4g",
+        "carbohydrates": "16g",
+        "fat": "3g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Indian stalls.",
+      "imageId": "veg_009.jpeg",
+      "steps": [
+        "Drain soaked dal. Grind to a thick, coarse paste with minimal water.",
+        "Mix in onion, chili, curry leaves, cumin, salt, and baking soda.",
+        "Shape into small discs or rings. Fry in hot oil until golden and crisp. Drain on paper towels.",
+        "Serve hot with green chili or coconut chutney."
+      ],
+      "tags": [
+        "black",
+        "chili",
+        "chutney",
+        "coconut",
+        "crispy",
+        "curry",
+        "dal",
+        "deep",
+        "fluffy",
+        "fried",
+        "fritters",
+        "gram",
+        "green",
+        "indian",
+        "leaves",
+        "made",
+        "often",
+        "popular",
+        "savory",
+        "served",
+        "singaporean",
+        "snack",
+        "spices",
+        "style",
+        "urad",
+        "vadai"
+      ],
+      "cost": {
+        "total_sgd": 108.12,
+        "ingredients_sgd": 107.82,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 13.51,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "urad dal (black gram)",
+            "cost_sgd": 1.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "green chili",
+            "cost_sgd": 17.6,
+            "emissions_kgco2e": 4.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "curry leaves",
+            "cost_sgd": 80.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 10.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cumin seeds",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "baking soda",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 11.611,
+        "ingredients_kgco2e": 11.203,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 1.451
+      }
+    },
+    {
+      "id": "veg_010",
+      "name": "Chap Chye (Mixed Vegetable Stew)",
+      "difficulty": "Easy",
+      "prep_time": "20 minutes",
+      "cook_time": "40 minutes",
+      "servings": 6.0,
+      "description": "A classic Peranakan and Chinese New Year dish: braised mixed vegetables with cabbage, mushrooms, bean curd sticks, glass noodles, and black fungus in a savory bean paste sauce.",
+      "ingredients": {
+        "Main": {
+          "napa cabbage": "400g, chopped",
+          "dried shiitake mushrooms": "6, soaked and sliced",
+          "bean curd sticks": "100g, soaked and cut",
+          "black fungus": "30g, soaked and sliced",
+          "carrot": "1, sliced",
+          "glass noodles": "50g, soaked",
+          "garlic": "3 cloves, minced",
+          "fermented bean paste (taucheo)": "2 tbsp",
+          "soy sauce": "2 tbsp",
+          "sugar": "1 tsp",
+          "water": "500ml",
+          "oil": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Heat oil in a wok. Sauté garlic and bean paste until fragrant.",
+        "Add mushrooms, black fungus, carrot, and cabbage. Stir-fry 2–3 minutes.",
+        "Add bean curd sticks, glass noodles, soy sauce, sugar, and water. Simmer 30–40 minutes until vegetables are tender and flavors meld.",
+        "Serve hot with rice."
+      ],
+      "tips": [
+        "Add lily buds or dried beancurd skin for extra texture.",
+        "Use vegetarian oyster sauce for more umami."
+      ],
+      "nutrition": {
+        "calories": 120,
+        "protein": "5g",
+        "carbohydrates": "20g",
+        "fat": "3g"
+      },
+      "source": "Adapted from Nyonya Cooking, The MeatMen, and Singapore Peranakan kitchens.",
+      "imageId": "veg_010.jpeg",
+      "steps": [
+        "Heat oil in a wok. Sauté garlic and bean paste until fragrant.",
+        "Add mushrooms, black fungus, carrot, and cabbage. Stir-fry 2–3 minutes.",
+        "Add bean curd sticks, glass noodles, soy sauce, sugar, and water. Simmer 30–40 minutes until vegetables are tender and flavors meld.",
+        "Serve hot with rice."
+      ],
+      "tags": [
+        "bean",
+        "black",
+        "braised",
+        "cabbage",
+        "chap",
+        "chinese",
+        "chye",
+        "classic",
+        "curd",
+        "dish",
+        "fungus",
+        "glass",
+        "mixed",
+        "mushrooms",
+        "noodles",
+        "paste",
+        "peranakan",
+        "sauce",
+        "savory",
+        "stew",
+        "sticks",
+        "vegetable",
+        "vegetables",
+        "year"
+      ],
+      "cost": {
+        "total_sgd": 71.48,
+        "ingredients_sgd": 71.08,
+        "energy_sgd": 0.4,
+        "per_serving_sgd": 11.91,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "napa cabbage",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "dried shiitake mushrooms",
+            "cost_sgd": 48.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "bean curd sticks",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "black fungus",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "carrot",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.8,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "glass noodles",
+            "cost_sgd": 0.17,
+            "emissions_kgco2e": 0.125,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 19.8,
+            "emissions_kgco2e": 4.5,
+            "amount": 3.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "fermented bean paste (taucheo)",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 500.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 6.214,
+        "ingredients_kgco2e": 5.67,
+        "energy_kgco2e": 0.544,
+        "per_serving_kgco2e": 1.036
+      }
+    }
+  ]
+}

@@ -1,0 +1,4884 @@
+{
+  "metadata": {
+    "category": "Peranakan Cuisine",
+    "description": "Traditional Peranakan (Straits Chinese) dishes, blending Chinese cooking techniques with Malay spices and ingredients",
+    "total_recipes": 33,
+    "last_updated": "2024"
+  },
+  "recipes": [
+    {
+      "id": "per_001",
+      "name": "Ayam Buah Keluak",
+      "difficulty": "Hard",
+      "prep_time": "1 hour (including preparation of buah keluak)",
+      "cook_time": "2 hours",
+      "servings": 6.0,
+      "description": "Classic Peranakan chicken stew with earthy buah keluak nuts, pork, and aromatic spices.",
+      "ingredients": {
+        "chicken": {
+          "chicken": "1.5kg, cut into pieces"
+        },
+        "buah keluak": {
+          "buah keluak nuts": "10, soaked and flesh extracted"
+        },
+        "spice paste": {
+          "shallots": "8",
+          "garlic": "4 cloves",
+          "candlenuts": "6",
+          "dried chilies": "8, soaked",
+          "belacan": "1 tsp",
+          "galangal": "2cm, sliced",
+          "lemongrass": "2 stalks, sliced"
+        },
+        "other": {
+          "pork belly": "200g, cut into chunks",
+          "tamarind juice": "2 tbsp",
+          "water": "1L",
+          "salt and sugar": "to taste"
+        }
+      },
+      "steps": [
+        "Blend spice paste ingredients until smooth. Fry in oil until fragrant.",
+        "Add chicken and pork, brown lightly.",
+        "Add buah keluak flesh, tamarind juice, and water. Simmer 1.5–2 hours until meat is tender.",
+        "Season to taste and serve with rice."
+      ],
+      "tips": [
+        "Soak buah keluak overnight and scrub thoroughly.",
+        "Adjust tamarind for desired tanginess."
+      ],
+      "themes": [
+        "peranakan",
+        "heritage",
+        "main",
+        "iconic",
+        "rice",
+        "noodle",
+        "soup",
+        "vegetarian",
+        "seafood",
+        "snack",
+        "breakfast",
+        "dessert"
+      ],
+      "source": "https://www.noobcook.com/ayam-buah-keluak/",
+      "origin": "Ayam Buah Keluak is a signature Peranakan dish, blending Malay and Chinese influences.",
+      "imageId": "per_001.jpeg",
+      "tags": [
+        "aromatic",
+        "ayam",
+        "breakfast",
+        "buah",
+        "chicken",
+        "classic",
+        "dessert",
+        "earthy",
+        "heritage",
+        "iconic",
+        "keluak",
+        "main",
+        "noodle",
+        "nuts",
+        "peranakan",
+        "pork",
+        "rice",
+        "seafood",
+        "snack",
+        "soup",
+        "spices",
+        "stew",
+        "vegetarian"
+      ],
+      "cost": {
+        "total_sgd": 287.23,
+        "ingredients_sgd": 287.21,
+        "energy_sgd": 0.02,
+        "per_serving_sgd": 47.87,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "chicken",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 9.0,
+            "amount": 1.5,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "buah keluak nuts",
+            "cost_sgd": 80.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 10.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "candlenuts",
+            "cost_sgd": 48.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dried chilies",
+            "cost_sgd": 70.4,
+            "emissions_kgco2e": 16.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "belacan",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "galangal",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cm"
+          },
+          {
+            "ingredient": "lemongrass",
+            "cost_sgd": 1.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "stalks"
+          },
+          {
+            "ingredient": "pork belly",
+            "cost_sgd": 2.64,
+            "emissions_kgco2e": 1.4,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "tamarind juice",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "l"
+          },
+          {
+            "ingredient": "salt and sugar",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 32.927,
+        "ingredients_kgco2e": 32.9,
+        "energy_kgco2e": 0.027,
+        "per_serving_kgco2e": 5.488
+      }
+    },
+    {
+      "id": "per_002",
+      "name": "Babi Pong Tay",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "1.5 hours",
+      "servings": 6.0,
+      "description": "Peranakan braised pork belly with fermented bean paste, mushrooms, and potatoes.",
+      "ingredients": {
+        "pork": {
+          "pork belly": "1kg, cut into chunks"
+        },
+        "spice paste": {
+          "shallots": "8",
+          "garlic": "4 cloves",
+          "fermented bean paste": "2 tbsp",
+          "dark soy sauce": "2 tbsp",
+          "sugar": "2 tbsp"
+        },
+        "other": {
+          "dried mushrooms": "8, soaked and halved",
+          "potatoes": "2, peeled and cut into chunks",
+          "water": "1L"
+        }
+      },
+      "steps": [
+        "Blend shallots and garlic, fry in oil until fragrant.",
+        "Add pork belly, brown lightly, then add bean paste, soy sauce, and sugar.",
+        "Add mushrooms, potatoes, and water. Simmer 1.5 hours until pork is tender and sauce is thick.",
+        "Serve with steamed rice."
+      ],
+      "tips": [
+        "Use pork belly with skin for best texture.",
+        "Let stew rest overnight for deeper flavor."
+      ],
+      "themes": [
+        "peranakan",
+        "braised",
+        "heritage"
+      ],
+      "source": "https://www.noobcook.com/babi-pong-tay/",
+      "origin": "Babi Pong Tay is a classic Peranakan comfort food, often served at family gatherings.",
+      "imageId": "per_002.jpeg",
+      "tags": [
+        "babi",
+        "bean",
+        "belly",
+        "braised",
+        "fermented",
+        "heritage",
+        "mushrooms",
+        "paste",
+        "peranakan",
+        "pong",
+        "pork",
+        "potatoes",
+        "tay"
+      ],
+      "cost": {
+        "total_sgd": 137.2,
+        "ingredients_sgd": 137.19,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 22.87,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork belly",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 7.0,
+            "amount": 1.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "fermented bean paste",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dried mushrooms",
+            "cost_sgd": 64.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "potatoes",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 1.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "l"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 14.104,
+        "ingredients_kgco2e": 14.09,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 2.351
+      }
+    },
+    {
+      "id": "per_003",
+      "name": "Kueh Pie Tee",
+      "difficulty": "Hard",
+      "prep_time": "2 hours (including shell preparation)",
+      "cook_time": "1 hour",
+      "servings": 24.0,
+      "description": "Crispy pastry cups filled with braised turnip, carrots, and prawns, topped with chili and coriander, a Peranakan party favorite.",
+      "ingredients": {
+        "shells": {
+          "plain flour": "100g",
+          "rice flour": "50g",
+          "cornstarch": "25g",
+          "egg": "1",
+          "water": "200ml",
+          "salt": "1/4 tsp"
+        },
+        "filling": {
+          "turnip (jicama)": "500g, shredded",
+          "carrot": "1, shredded",
+          "dried shrimp": "2 tbsp, soaked and chopped",
+          "garlic": "2 cloves, minced",
+          "shallots": "4, sliced",
+          "prawns": "100g, shelled and chopped",
+          "soy sauce": "1 tbsp",
+          "sugar": "1 tbsp"
+        },
+        "toppings": {
+          "chopped coriander": "as needed",
+          "chili sauce": "as needed"
+        }
+      },
+      "steps": [
+        "Mix shell ingredients to form a thin batter. Dip pie tee mould in hot oil, then in batter, and fry until crisp. Drain and cool.",
+        "Fry garlic, shallots, and dried shrimp. Add turnip, carrot, prawns, soy sauce, and sugar. Cook until soft and dry.",
+        "Fill shells with turnip mixture, top with coriander and chili sauce. Serve immediately."
+      ],
+      "tips": [
+        "Make shells ahead and store airtight.",
+        "Fill just before serving to keep shells crisp."
+      ],
+      "themes": [
+        "peranakan",
+        "snack",
+        "party"
+      ],
+      "source": "https://www.noobcook.com/kueh-pie-tee/",
+      "origin": "Kueh Pie Tee is a Peranakan party snack, popular at festive gatherings.",
+      "imageId": "per_003.jpeg",
+      "tags": [
+        "braised",
+        "carrots",
+        "chili",
+        "coriander",
+        "crispy",
+        "cups",
+        "favorite",
+        "filled",
+        "kueh",
+        "party",
+        "pastry",
+        "peranakan",
+        "pie",
+        "prawns",
+        "snack",
+        "tee",
+        "topped",
+        "turnip"
+      ],
+      "cost": {
+        "total_sgd": 46.14,
+        "ingredients_sgd": 46.13,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 1.92,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "plain flour",
+            "cost_sgd": 0.25,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "rice flour",
+            "cost_sgd": 0.11,
+            "emissions_kgco2e": 0.225,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 25.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "egg",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "turnip (jicama)",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "carrot",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.8,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dried shrimp",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "prawns",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.8,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chopped coriander",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "chili sauce",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 12.884,
+        "ingredients_kgco2e": 12.87,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 0.537
+      }
+    },
+    {
+      "id": "per_004",
+      "name": "Perut Ikan",
+      "difficulty": "Hard",
+      "prep_time": "1.5 hours",
+      "cook_time": "1 hour",
+      "servings": 8.0,
+      "description": "Peranakan spicy and tangy curry of pickled fish stomach, vegetables, and aromatic herbs.",
+      "ingredients": {
+        "base": {
+          "pickled fish stomach (perut ikan) or mackerel": "300g",
+          "pineapple, cut into chunks": "200g",
+          "long beans, cut": "100g",
+          "cabbage, cut": "200g",
+          "brinjal, cut": "1",
+          "torch ginger flower, sliced": "1",
+          "laksa leaves, sliced": "1 bunch",
+          "tamarind juice": "200ml",
+          "coconut milk": "400ml",
+          "oil": "3 tbsp"
+        },
+        "rempah": {
+          "shallots": "8",
+          "garlic": "4 cloves",
+          "lemongrass": "2 stalks",
+          "galangal": "30g",
+          "turmeric": "20g",
+          "dried chillies, soaked": "10",
+          "belacan": "1 tsp"
+        }
+      },
+      "steps": [
+        "Blend rempah ingredients. Fry in oil until fragrant.",
+        "Add pickled fish stomach, vegetables, pineapple, and tamarind juice. Simmer 20 minutes.",
+        "Add coconut milk and herbs. Simmer 10 minutes. Serve hot."
+      ],
+      "tips": [
+        "Use fresh herbs for authentic flavor.",
+        "Adjust tamarind for desired tanginess."
+      ],
+      "themes": [
+        "peranakan",
+        "curry",
+        "seafood",
+        "vegetable"
+      ],
+      "source": "https://www.noobcook.com/perut-ikan/",
+      "origin": "A Peranakan specialty, found at Nyonya restaurants and festive occasions.",
+      "imageId": "per_004.jpeg",
+      "tags": [
+        "aromatic",
+        "curry",
+        "fish",
+        "herbs",
+        "ikan",
+        "peranakan",
+        "perut",
+        "pickled",
+        "seafood",
+        "spicy",
+        "stomach",
+        "tangy",
+        "vegetable",
+        "vegetables"
+      ],
+      "cost": {
+        "total_sgd": 161.65,
+        "ingredients_sgd": 161.64,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 20.21,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pickled fish stomach (perut ikan) or mackerel",
+            "cost_sgd": 4.95,
+            "emissions_kgco2e": 1.5,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "pineapple, cut into chunks",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "long beans, cut",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "cabbage, cut",
+            "cost_sgd": 0.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "brinjal, cut",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "torch ginger flower, sliced",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "laksa leaves, sliced",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "bunch"
+          },
+          {
+            "ingredient": "tamarind juice",
+            "cost_sgd": 0.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 0.76,
+            "amount": 400.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.27,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "lemongrass",
+            "cost_sgd": 1.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "stalks"
+          },
+          {
+            "ingredient": "galangal",
+            "cost_sgd": 0.18,
+            "emissions_kgco2e": 0.0,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "turmeric",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 20.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "dried chillies, soaked",
+            "cost_sgd": 80.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 10.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "belacan",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 8.544,
+        "ingredients_kgco2e": 8.53,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 1.068
+      }
+    },
+    {
+      "id": "per_005",
+      "name": "Kerabu Bee Hoon",
+      "difficulty": "Medium",
+      "prep_time": "45 minutes",
+      "cook_time": "10 minutes",
+      "servings": 8.0,
+      "description": "Peranakan cold rice vermicelli salad with herbs, prawns, and a tangy spicy dressing.",
+      "ingredients": {
+        "base": {
+          "rice vermicelli (bee hoon)": "400g, soaked and blanched",
+          "prawns, shelled and cooked": "200g",
+          "cucumber, julienned": "1",
+          "carrot, julienned": "1",
+          "bean sprouts": "100g",
+          "laksa leaves, sliced": "1 bunch",
+          "mint leaves": "1 bunch",
+          "fried shallots": "for garnish"
+        },
+        "dressing": {
+          "lime juice": "4 tbsp",
+          "fish sauce": "2 tbsp",
+          "sugar": "2 tbsp",
+          "chilli padi, sliced": "2",
+          "belacan": "1 tsp (toasted)"
+        }
+      },
+      "steps": [
+        "Mix dressing ingredients until sugar dissolves.",
+        "Toss bee hoon, prawns, vegetables, and herbs with dressing.",
+        "Garnish with fried shallots. Serve chilled."
+      ],
+      "tips": [
+        "Use fresh herbs for best flavor.",
+        "Serve immediately for best texture."
+      ],
+      "themes": [
+        "peranakan",
+        "salad",
+        "noodle",
+        "cold"
+      ],
+      "source": "https://www.noobcook.com/kerabu-bee-hoon/",
+      "origin": "A Peranakan salad, popular at festive gatherings and potlucks.",
+      "imageId": "per_005.jpeg",
+      "tags": [
+        "bee",
+        "cold",
+        "dressing",
+        "herbs",
+        "hoon",
+        "kerabu",
+        "noodle",
+        "peranakan",
+        "prawns",
+        "rice",
+        "salad",
+        "spicy",
+        "tangy",
+        "vermicelli"
+      ],
+      "cost": {
+        "total_sgd": 12.46,
+        "ingredients_sgd": 12.36,
+        "energy_sgd": 0.1,
+        "per_serving_sgd": 1.56,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice vermicelli (bee hoon)",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 1.8,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "prawns, shelled and cooked",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 3.6,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "cucumber, julienned",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "carrot, julienned",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.8,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "bean sprouts",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "laksa leaves, sliced",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "bunch"
+          },
+          {
+            "ingredient": "mint leaves",
+            "cost_sgd": 0.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "bunch"
+          },
+          {
+            "ingredient": "fried shallots",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "lime juice",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "fish sauce",
+            "cost_sgd": 0.49,
+            "emissions_kgco2e": 0.15,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chilli padi, sliced",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "belacan",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 6.516,
+        "ingredients_kgco2e": 6.38,
+        "energy_kgco2e": 0.136,
+        "per_serving_kgco2e": 0.815
+      }
+    },
+    {
+      "id": "per_006",
+      "name": "Semur (Peranakan Beef Stew)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "2 hours",
+      "servings": 6.0,
+      "description": "A rich, aromatic Peranakan stew of beef braised with sweet soy sauce, potatoes, tomatoes, and spices. Sweet, savory, and deeply comforting.",
+      "ingredients": {
+        "Main": {
+          "beef shin or brisket": "1kg, cut into chunks",
+          "potatoes": "3, peeled and cut into chunks",
+          "tomatoes": "2, quartered",
+          "onion": "2, sliced",
+          "garlic": "4 cloves, minced",
+          "ginger": "2 slices",
+          "cinnamon stick": "1",
+          "cloves": "4",
+          "star anise": "2",
+          "nutmeg": "1/2 tsp, grated",
+          "kicap manis (sweet soy sauce)": "4 tbsp",
+          "light soy sauce": "2 tbsp",
+          "sugar": "1 tbsp",
+          "black pepper": "to taste",
+          "water": "1 litre",
+          "oil": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Heat oil in a large pot. Sauté onion, garlic, and ginger until fragrant.",
+        "Add beef and brown on all sides. Add spices, soy sauces, sugar, and water. Bring to a boil, skim scum.",
+        "Add potatoes and tomatoes. Simmer 2 hours until beef is tender and sauce is rich.",
+        "Season with black pepper. Serve hot with rice."
+      ],
+      "tips": [
+        "Use brisket or shin for best texture.",
+        "Add carrots or hard-boiled eggs for variation."
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": "32g",
+        "carbohydrates": "22g",
+        "fat": "22g"
+      },
+      "source": "Adapted from Nyonya Cooking, Rasa Malaysia, and Singapore Peranakan kitchens.",
+      "imageId": "per_006.jpeg",
+      "steps": [
+        "Heat oil in a large pot. Sauté onion, garlic, and ginger until fragrant.",
+        "Add beef and brown on all sides. Add spices, soy sauces, sugar, and water. Bring to a boil, skim scum.",
+        "Add potatoes and tomatoes. Simmer 2 hours until beef is tender and sauce is rich.",
+        "Season with black pepper. Serve hot with rice."
+      ],
+      "tags": [
+        "aromatic",
+        "beef",
+        "braised",
+        "comforting",
+        "deeply",
+        "peranakan",
+        "potatoes",
+        "rich",
+        "sauce",
+        "savory",
+        "semur",
+        "soy",
+        "spices",
+        "stew",
+        "sweet",
+        "tomatoes"
+      ],
+      "cost": {
+        "total_sgd": 79.47,
+        "ingredients_sgd": 79.45,
+        "energy_sgd": 0.02,
+        "per_serving_sgd": 13.25,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "beef shin or brisket",
+            "cost_sgd": 22.0,
+            "emissions_kgco2e": 60.0,
+            "amount": 1.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "potatoes",
+            "cost_sgd": 1.8,
+            "emissions_kgco2e": 1.5,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tomatoes",
+            "cost_sgd": 1.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "onion",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "cinnamon stick",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cloves",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "star anise",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "nutmeg",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "kicap manis (sweet soy sauce)",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.12,
+            "amount": 4.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "black pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "litre"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 70.302,
+        "ingredients_kgco2e": 70.275,
+        "energy_kgco2e": 0.027,
+        "per_serving_kgco2e": 11.717
+      }
+    },
+    {
+      "id": "per_007",
+      "name": "Putugal (Steamed Tapioca Banana Kueh)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "30 minutes",
+      "servings": 12.0,
+      "description": "A traditional Eurasian and Peranakan steamed kueh made with tapioca, banana, and coconut, colored blue with butterfly pea flower. Soft, chewy, and lightly sweet.",
+      "ingredients": {
+        "Main": {
+          "grated tapioca": "400g",
+          "ripe banana": "2, sliced",
+          "grated coconut": "100g",
+          "sugar": "80g",
+          "salt": "1/2 tsp",
+          "coconut milk": "100ml",
+          "butterfly pea flower water (optional)": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Mix grated tapioca, sugar, salt, coconut milk, and butterfly pea water (if using) to form a thick batter.",
+        "Line a steaming tray with banana leaf. Spread half the batter, layer with banana slices, then cover with remaining batter.",
+        "Steam 30 minutes until set. Cool, cut into pieces, and coat with grated coconut."
+      ],
+      "tips": [
+        "Use ripe bananas for best flavor.",
+        "Add a pinch of salt to the coconut for extra taste."
+      ],
+      "nutrition": {
+        "calories": 110,
+        "protein": "1g",
+        "carbohydrates": "25g",
+        "fat": "2g"
+      },
+      "source": "Adapted from Eurasian and Peranakan home kitchens, Nyonya Cooking.",
+      "imageId": "per_007.jpeg",
+      "steps": [
+        "Mix grated tapioca, sugar, salt, coconut milk, and butterfly pea water (if using) to form a thick batter.",
+        "Line a steaming tray with banana leaf. Spread half the batter, layer with banana slices, then cover with remaining batter.",
+        "Steam 30 minutes until set. Cool, cut into pieces, and coat with grated coconut."
+      ],
+      "tags": [
+        "banana",
+        "blue",
+        "butterfly",
+        "chewy",
+        "coconut",
+        "colored",
+        "eurasian",
+        "flower",
+        "kueh",
+        "lightly",
+        "made",
+        "pea",
+        "peranakan",
+        "putugal",
+        "soft",
+        "steamed",
+        "sweet",
+        "tapioca",
+        "traditional"
+      ],
+      "cost": {
+        "total_sgd": 6.45,
+        "ingredients_sgd": 6.15,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 0.54,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "grated tapioca",
+            "cost_sgd": 3.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "ripe banana",
+            "cost_sgd": 0.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "grated coconut",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.08,
+            "amount": 80.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.22,
+            "emissions_kgco2e": 0.19,
+            "amount": 100.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "butterfly pea flower water (optional)",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.36,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 1.538,
+        "ingredients_kgco2e": 1.13,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 0.128
+      }
+    },
+    {
+      "id": "per_008",
+      "name": "Lor Kai Yik (Braised Chicken and Tofu in Red Fermented Bean Curd)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "1 hour",
+      "servings": 6.0,
+      "description": "A unique Hokkien-Peranakan dish: chicken, tofu, and vegetables braised in a savory-sweet sauce with red fermented bean curd, garlic, and five spice. Rich, tangy, and deeply flavorful.",
+      "ingredients": {
+        "Main": {
+          "chicken": "800g, cut into pieces",
+          "firm tofu": "2 blocks, cut into cubes",
+          "daikon": "1, peeled and cut into chunks",
+          "red fermented bean curd (nam yue)": "2 cubes, mashed",
+          "garlic": "4 cloves, minced",
+          "five spice powder": "1 tsp",
+          "sugar": "1 tbsp",
+          "light soy sauce": "2 tbsp",
+          "dark soy sauce": "1 tbsp",
+          "water": "600ml",
+          "oil": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Heat oil in a pot. Sauté garlic and bean curd until fragrant.",
+        "Add chicken, daikon, five spice, sugar, soy sauces, and water. Bring to a boil, then simmer 45–60 minutes until chicken and daikon are tender and sauce is rich.",
+        "Add tofu, simmer 10 more minutes. Serve hot with rice."
+      ],
+      "tips": [
+        "Use pork belly for variation.",
+        "Add hard-boiled eggs for extra richness."
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": "22g",
+        "carbohydrates": "12g",
+        "fat": "20g"
+      },
+      "source": "Adapted from Nyonya Cooking, The MeatMen, and Singapore Peranakan kitchens.",
+      "imageId": "per_008.jpeg",
+      "steps": [
+        "Heat oil in a pot. Sauté garlic and bean curd until fragrant.",
+        "Add chicken, daikon, five spice, sugar, soy sauces, and water. Bring to a boil, then simmer 45–60 minutes until chicken and daikon are tender and sauce is rich.",
+        "Add tofu, simmer 10 more minutes. Serve hot with rice."
+      ],
+      "tags": [
+        "bean",
+        "braised",
+        "chicken",
+        "curd",
+        "deeply",
+        "dish",
+        "fermented",
+        "five",
+        "flavorful",
+        "garlic",
+        "hokkien",
+        "kai",
+        "lor",
+        "peranakan",
+        "red",
+        "rich",
+        "sauce",
+        "savory",
+        "spice",
+        "sweet",
+        "tangy",
+        "tofu",
+        "unique",
+        "vegetables",
+        "yik"
+      ],
+      "cost": {
+        "total_sgd": 63.27,
+        "ingredients_sgd": 63.26,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 10.54,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "chicken",
+            "cost_sgd": 7.04,
+            "emissions_kgco2e": 4.8,
+            "amount": 800.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "firm tofu",
+            "cost_sgd": 5.5,
+            "emissions_kgco2e": 6.4,
+            "amount": 2.0,
+            "unit": "blocks"
+          },
+          {
+            "ingredient": "daikon",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "red fermented bean curd (nam yue)",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cubes"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "five spice powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 600.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 17.499,
+        "ingredients_kgco2e": 17.485,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 2.916
+      }
+    },
+    {
+      "id": "per_009",
+      "name": "Ngoh Hiang (Five-Spice Meat Rolls)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "30 minutes",
+      "servings": 8.0,
+      "description": "A classic Peranakan and Teochew dish: minced pork, prawn, and water chestnut seasoned with five spice, wrapped in beancurd skin and deep-fried. Served with sweet sauce and chili.",
+      "ingredients": {
+        "Main": {
+          "minced pork": "400g",
+          "prawns": "200g, chopped",
+          "water chestnut": "6, chopped",
+          "carrot": "1, grated",
+          "spring onions": "2, chopped",
+          "five spice powder": "1 tsp",
+          "soy sauce": "2 tbsp",
+          "sugar": "1 tbsp",
+          "white pepper": "1/2 tsp",
+          "beancurd skin": "4 sheets",
+          "oil": "for frying"
+        }
+      },
+      "preparation": [
+        "Mix all filling ingredients. Spread on beancurd skin, roll up and seal.",
+        "Steam 15 minutes, then deep-fry until golden. Slice and serve with sweet sauce and chili."
+      ],
+      "tips": [
+        "Chill rolls before frying for easier slicing.",
+        "Add yam for extra texture."
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": "10g",
+        "carbohydrates": "8g",
+        "fat": "12g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Peranakan kitchens.",
+      "imageId": "per_009.jpeg",
+      "steps": [
+        "Mix all filling ingredients. Spread on beancurd skin, roll up and seal.",
+        "Steam 15 minutes, then deep-fry until golden. Slice and serve with sweet sauce and chili."
+      ],
+      "tags": [
+        "beancurd",
+        "chestnut",
+        "chili",
+        "classic",
+        "deep",
+        "dish",
+        "five",
+        "fried",
+        "hiang",
+        "meat",
+        "minced",
+        "ngoh",
+        "peranakan",
+        "pork",
+        "prawn",
+        "rolls",
+        "sauce",
+        "seasoned",
+        "served",
+        "skin",
+        "spice",
+        "sweet",
+        "teochew",
+        "water",
+        "wrapped"
+      ],
+      "cost": {
+        "total_sgd": 53.71,
+        "ingredients_sgd": 53.41,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 6.71,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "minced pork",
+            "cost_sgd": 5.28,
+            "emissions_kgco2e": 2.8,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "prawns",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 3.6,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water chestnut",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "carrot",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.8,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "five spice powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "beancurd skin",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "sheets"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 16.083,
+        "ingredients_kgco2e": 15.675,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 2.01
+      }
+    },
+    {
+      "id": "per_010",
+      "name": "Hae Cho (Prawn Rolls)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "30 minutes",
+      "servings": 8.0,
+      "description": "A Teochew and Peranakan favorite: prawn and pork rolls seasoned with five spice, wrapped in beancurd skin and deep-fried. Served at festive occasions and as a snack.",
+      "ingredients": {
+        "Main": {
+          "prawns": "300g, chopped",
+          "minced pork": "200g",
+          "carrot": "1, grated",
+          "water chestnut": "4, chopped",
+          "five spice powder": "1 tsp",
+          "soy sauce": "1 tbsp",
+          "sugar": "1 tsp",
+          "white pepper": "1/2 tsp",
+          "beancurd skin": "3 sheets",
+          "oil": "for frying"
+        }
+      },
+      "preparation": [
+        "Mix all filling ingredients. Spread on beancurd skin, roll up and seal.",
+        "Steam 10 minutes, then deep-fry until golden. Slice and serve."
+      ],
+      "tips": [
+        "Add yam for extra texture.",
+        "Serve with sweet sauce or chili."
+      ],
+      "nutrition": {
+        "calories": 160,
+        "protein": "9g",
+        "carbohydrates": "7g",
+        "fat": "10g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Teochew kitchens.",
+      "imageId": "per_010.jpeg",
+      "steps": [
+        "Mix all filling ingredients. Spread on beancurd skin, roll up and seal.",
+        "Steam 10 minutes, then deep-fry until golden. Slice and serve."
+      ],
+      "tags": [
+        "beancurd",
+        "cho",
+        "deep",
+        "favorite",
+        "festive",
+        "five",
+        "fried",
+        "hae",
+        "occasions",
+        "peranakan",
+        "pork",
+        "prawn",
+        "rolls",
+        "seasoned",
+        "served",
+        "skin",
+        "snack",
+        "spice",
+        "teochew",
+        "wrapped"
+      ],
+      "cost": {
+        "total_sgd": 40.81,
+        "ingredients_sgd": 40.51,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 5.1,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "prawns",
+            "cost_sgd": 6.6,
+            "emissions_kgco2e": 5.4,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "minced pork",
+            "cost_sgd": 2.64,
+            "emissions_kgco2e": 1.4,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "carrot",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.8,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water chestnut",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "five spice powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "beancurd skin",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "sheets"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 14.043,
+        "ingredients_kgco2e": 13.635,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 1.755
+      }
+    },
+    {
+      "id": "per_011",
+      "name": "Peng Kueh (Pink Rice Dumplings)",
+      "difficulty": "Medium",
+      "prep_time": "40 minutes",
+      "cook_time": "40 minutes",
+      "servings": 12.0,
+      "description": "A Teochew and Peranakan snack: pink steamed dumplings filled with glutinous rice, mushrooms, peanuts, and dried shrimp. Served at breakfast and snack stalls.",
+      "ingredients": {
+        "Main": {
+          "glutinous rice": "300g, soaked",
+          "dried shiitake mushrooms": "4, soaked and chopped",
+          "dried shrimp": "30g, soaked and chopped",
+          "peanuts": "50g, roasted and chopped",
+          "shallots": "2, sliced",
+          "rice flour": "200g",
+          "hot water": "150ml (as needed)",
+          "red food coloring": "a few drops",
+          "salt": "1/2 tsp",
+          "oil": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Fry shallots, mushrooms, and shrimp. Add rice, peanuts, and salt. Cook until fragrant.",
+        "Mix rice flour, hot water, and coloring to form a dough. Roll out, fill with rice mixture, shape in molds.",
+        "Steam 15–20 minutes until cooked. Serve warm."
+      ],
+      "tips": [
+        "Use special peng kueh molds for authentic shape.",
+        "Serve with sweet soy sauce."
+      ],
+      "nutrition": {
+        "calories": 110,
+        "protein": "3g",
+        "carbohydrates": "22g",
+        "fat": "2g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Teochew kitchens.",
+      "imageId": "per_011.jpeg",
+      "steps": [
+        "Fry shallots, mushrooms, and shrimp. Add rice, peanuts, and salt. Cook until fragrant.",
+        "Mix rice flour, hot water, and coloring to form a dough. Roll out, fill with rice mixture, shape in molds.",
+        "Steam 15–20 minutes until cooked. Serve warm."
+      ],
+      "tags": [
+        "breakfast",
+        "dried",
+        "dumplings",
+        "filled",
+        "glutinous",
+        "kueh",
+        "mushrooms",
+        "peanuts",
+        "peng",
+        "peranakan",
+        "pink",
+        "rice",
+        "served",
+        "shrimp",
+        "snack",
+        "stalls",
+        "steamed",
+        "teochew"
+      ],
+      "cost": {
+        "total_sgd": 51.27,
+        "ingredients_sgd": 50.87,
+        "energy_sgd": 0.4,
+        "per_serving_sgd": 4.27,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "glutinous rice",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 1.35,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "dried shiitake mushrooms",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dried shrimp",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "peanuts",
+            "cost_sgd": 0.3,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "rice flour",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.9,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "hot water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 150.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "red food coloring",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 3.474,
+        "ingredients_kgco2e": 2.93,
+        "energy_kgco2e": 0.544,
+        "per_serving_kgco2e": 0.29
+      }
+    },
+    {
+      "id": "per_012",
+      "name": "Soon Kueh (Bamboo Shoot Dumplings)",
+      "difficulty": "Medium",
+      "prep_time": "40 minutes",
+      "cook_time": "30 minutes",
+      "servings": 12.0,
+      "description": "A Teochew and Peranakan snack: steamed dumplings filled with bamboo shoots, jicama, and dried shrimp. Served at breakfast and snack stalls.",
+      "ingredients": {
+        "Main": {
+          "rice flour": "200g",
+          "tapioca flour": "50g",
+          "hot water": "200ml (as needed)",
+          "bamboo shoots": "100g, shredded",
+          "jicama (bangkuang)": "200g, shredded",
+          "dried shrimp": "30g, soaked and chopped",
+          "carrot": "1, shredded",
+          "shallots": "2, sliced",
+          "salt": "1/2 tsp",
+          "oil": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Fry shallots, shrimp, bamboo, jicama, and carrot. Season with salt.",
+        "Mix flours and hot water to form a dough. Roll out, fill with vegetable mixture, shape in molds.",
+        "Steam 10–12 minutes until translucent. Serve warm."
+      ],
+      "tips": [
+        "Use special soon kueh molds for authentic shape.",
+        "Serve with sweet soy sauce and chili."
+      ],
+      "nutrition": {
+        "calories": 80,
+        "protein": "2g",
+        "carbohydrates": "18g",
+        "fat": "1g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Teochew kitchens.",
+      "imageId": "per_012.jpeg",
+      "steps": [
+        "Fry shallots, shrimp, bamboo, jicama, and carrot. Season with salt.",
+        "Mix flours and hot water to form a dough. Roll out, fill with vegetable mixture, shape in molds.",
+        "Steam 10–12 minutes until translucent. Serve warm."
+      ],
+      "tags": [
+        "bamboo",
+        "breakfast",
+        "dried",
+        "dumplings",
+        "filled",
+        "jicama",
+        "kueh",
+        "peranakan",
+        "served",
+        "shoot",
+        "shoots",
+        "shrimp",
+        "snack",
+        "soon",
+        "stalls",
+        "steamed",
+        "teochew"
+      ],
+      "cost": {
+        "total_sgd": 13.54,
+        "ingredients_sgd": 13.24,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 1.13,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice flour",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.9,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "tapioca flour",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "hot water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "bamboo shoots",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "jicama (bangkuang)",
+            "cost_sgd": 1.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "dried shrimp",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "carrot",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.8,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 2.788,
+        "ingredients_kgco2e": 2.38,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 0.232
+      }
+    },
+    {
+      "id": "per_013",
+      "name": "Inchi Kabin (Nyonya Fried Chicken)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes (plus marinating)",
+      "cook_time": "30 minutes",
+      "servings": 6.0,
+      "description": "A Penang Nyonya specialty: spiced fried chicken marinated with coconut milk, five spice, and aromatics. Crispy, juicy, and fragrant.",
+      "ingredients": {
+        "Main": {
+          "chicken": "1.2kg, cut into pieces",
+          "coconut milk": "100ml",
+          "five spice powder": "1 tsp",
+          "coriander powder": "1 tsp",
+          "cumin powder": "1 tsp",
+          "turmeric powder": "1 tsp",
+          "soy sauce": "2 tbsp",
+          "sugar": "1 tsp",
+          "salt": "1 tsp",
+          "egg": "1",
+          "oil": "for frying"
+        }
+      },
+      "preparation": [
+        "Mix all marinade ingredients. Coat chicken, marinate at least 4 hours or overnight.",
+        "Heat oil, fry chicken until golden and cooked through. Drain and serve hot."
+      ],
+      "tips": [
+        "Marinate overnight for best flavor.",
+        "Serve with Worcestershire sauce dip."
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": "28g",
+        "carbohydrates": "4g",
+        "fat": "20g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Penang Nyonya kitchens.",
+      "imageId": "per_013.jpeg",
+      "steps": [
+        "Mix all marinade ingredients. Coat chicken, marinate at least 4 hours or overnight.",
+        "Heat oil, fry chicken until golden and cooked through. Drain and serve hot."
+      ],
+      "tags": [
+        "aromatics",
+        "chicken",
+        "coconut",
+        "crispy",
+        "five",
+        "fragrant",
+        "fried",
+        "inchi",
+        "juicy",
+        "kabin",
+        "marinated",
+        "milk",
+        "nyonya",
+        "penang",
+        "specialty",
+        "spice",
+        "spiced"
+      ],
+      "cost": {
+        "total_sgd": 15.98,
+        "ingredients_sgd": 15.68,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 2.66,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "chicken",
+            "cost_sgd": 10.56,
+            "emissions_kgco2e": 7.2,
+            "amount": 1.2,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.22,
+            "emissions_kgco2e": 0.19,
+            "amount": 100.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "five spice powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "coriander powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "cumin powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "turmeric powder",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "egg",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 18.366,
+        "ingredients_kgco2e": 17.957,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 3.061
+      }
+    },
+    {
+      "id": "per_014",
+      "name": "Bak Chang (Nyonya Rice Dumplings)",
+      "difficulty": "Hard",
+      "prep_time": "2 hours (plus soaking)",
+      "cook_time": "2 hours",
+      "servings": 12.0,
+      "description": "A festive Peranakan dumpling: glutinous rice filled with pork, candied winter melon, mushrooms, and spices, wrapped in bamboo leaves and boiled. Distinctive blue from butterfly pea flower.",
+      "ingredients": {
+        "Main": {
+          "glutinous rice": "600g, soaked",
+          "butterfly pea flowers": "20, steeped in hot water",
+          "pork belly": "300g, diced",
+          "dried shiitake mushrooms": "6, soaked and chopped",
+          "candied winter melon": "50g, diced",
+          "dried shrimp": "30g, soaked and chopped",
+          "shallots": "4, sliced",
+          "garlic": "2 cloves, minced",
+          "five spice powder": "1 tsp",
+          "soy sauce": "2 tbsp",
+          "sugar": "1 tbsp",
+          "salt": "1 tsp",
+          "bamboo leaves": "for wrapping"
+        }
+      },
+      "preparation": [
+        "Fry shallots, garlic, pork, mushrooms, shrimp, and winter melon. Season with spices, soy, sugar, and salt.",
+        "Divide rice, color half with blue pea water. Layer white and blue rice, add filling, wrap in bamboo leaves, tie securely.",
+        "Boil 2 hours until tender. Serve warm."
+      ],
+      "tips": [
+        "Use blue pea flower for authentic color.",
+        "Serve with sweet chili sauce."
+      ],
+      "nutrition": {
+        "calories": 220,
+        "protein": "6g",
+        "carbohydrates": "40g",
+        "fat": "4g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Penang Nyonya kitchens.",
+      "imageId": "per_014.jpeg",
+      "steps": [
+        "Fry shallots, garlic, pork, mushrooms, shrimp, and winter melon. Season with spices, soy, sugar, and salt.",
+        "Divide rice, color half with blue pea water. Layer white and blue rice, add filling, wrap in bamboo leaves, tie securely.",
+        "Boil 2 hours until tender. Serve warm."
+      ],
+      "tags": [
+        "bak",
+        "bamboo",
+        "blue",
+        "boiled",
+        "butterfly",
+        "candied",
+        "chang",
+        "distinctive",
+        "dumpling",
+        "dumplings",
+        "festive",
+        "filled",
+        "flower",
+        "glutinous",
+        "leaves",
+        "melon",
+        "mushrooms",
+        "nyonya",
+        "pea",
+        "peranakan",
+        "pork",
+        "rice",
+        "spices",
+        "winter",
+        "wrapped"
+      ],
+      "cost": {
+        "total_sgd": 157.28,
+        "ingredients_sgd": 157.26,
+        "energy_sgd": 0.02,
+        "per_serving_sgd": 13.11,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "glutinous rice",
+            "cost_sgd": 1.32,
+            "emissions_kgco2e": 2.7,
+            "amount": 600.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "butterfly pea flowers",
+            "cost_sgd": 66.0,
+            "emissions_kgco2e": 240.0,
+            "amount": 20.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "pork belly",
+            "cost_sgd": 3.96,
+            "emissions_kgco2e": 2.1,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "dried shiitake mushrooms",
+            "cost_sgd": 48.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "candied winter melon",
+            "cost_sgd": 0.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "dried shrimp",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "five spice powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "bamboo leaves",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 247.905,
+        "ingredients_kgco2e": 247.877,
+        "energy_kgco2e": 0.027,
+        "per_serving_kgco2e": 20.659
+      }
+    },
+    {
+      "id": "per_015",
+      "name": "Babi Assam (Tamarind Pork)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "1 hour",
+      "servings": 6.0,
+      "description": "A tangy, aromatic Peranakan stew: pork belly braised with tamarind, chilies, and spices. Served with rice at Nyonya homes.",
+      "ingredients": {
+        "Main": {
+          "pork belly": "800g, cut into chunks",
+          "tamarind pulp": "3 tbsp, soaked in 200ml water",
+          "dried chilies": "8, soaked",
+          "shallots": "6",
+          "garlic": "3 cloves",
+          "ginger": "2cm, sliced",
+          "belacan": "1 tsp",
+          "sugar": "1 tbsp",
+          "salt": "1 tsp",
+          "oil": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Blend chilies, shallots, garlic, ginger, and belacan. Fry in oil until fragrant.",
+        "Add pork, brown lightly. Add tamarind water, sugar, and salt. Simmer 1 hour until pork is tender and sauce is thick."
+      ],
+      "tips": [
+        "Use pork shoulder for a leaner version.",
+        "Add pineapple for extra tang."
+      ],
+      "nutrition": {
+        "calories": 340,
+        "protein": "18g",
+        "carbohydrates": "10g",
+        "fat": "26g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Peranakan kitchens.",
+      "imageId": "per_015.jpeg",
+      "steps": [
+        "Blend chilies, shallots, garlic, ginger, and belacan. Fry in oil until fragrant.",
+        "Add pork, brown lightly. Add tamarind water, sugar, and salt. Simmer 1 hour until pork is tender and sauce is thick."
+      ],
+      "tags": [
+        "aromatic",
+        "assam",
+        "babi",
+        "belly",
+        "braised",
+        "chilies",
+        "homes",
+        "nyonya",
+        "peranakan",
+        "pork",
+        "rice",
+        "served",
+        "spices",
+        "stew",
+        "tamarind",
+        "tangy"
+      ],
+      "cost": {
+        "total_sgd": 137.03,
+        "ingredients_sgd": 137.02,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 22.84,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork belly",
+            "cost_sgd": 10.56,
+            "emissions_kgco2e": 5.6,
+            "amount": 800.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "tamarind pulp",
+            "cost_sgd": 0.09,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dried chilies",
+            "cost_sgd": 70.4,
+            "emissions_kgco2e": 16.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 19.8,
+            "emissions_kgco2e": 4.5,
+            "amount": 3.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cm"
+          },
+          {
+            "ingredient": "belacan",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 26.311,
+        "ingredients_kgco2e": 26.298,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 4.385
+      }
+    },
+    {
+      "id": "per_016",
+      "name": "Itek Tim (Salted Vegetable Duck Soup)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "2 hours",
+      "servings": 8.0,
+      "description": "A classic Peranakan soup: duck simmered with salted vegetables, tomatoes, and sour plums. Tangy, savory, and comforting.",
+      "ingredients": {
+        "Main": {
+          "duck": "1.5kg, cut into pieces",
+          "salted mustard greens": "300g, rinsed and cut",
+          "tomatoes": "2, quartered",
+          "sour plums": "4",
+          "ginger": "4 slices",
+          "garlic": "4 cloves, smashed",
+          "white peppercorns": "1 tbsp, crushed",
+          "water": "2.5 litres"
+        }
+      },
+      "preparation": [
+        "Blanch duck pieces, drain. Add all ingredients to a large pot, bring to a boil, simmer 2 hours until duck is tender and soup is flavorful."
+      ],
+      "tips": [
+        "Use old duck for richer broth.",
+        "Add more sour plums for extra tang."
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": "16g",
+        "carbohydrates": "6g",
+        "fat": "10g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Peranakan kitchens.",
+      "imageId": "per_016.jpeg",
+      "steps": [
+        "Blanch duck pieces, drain. Add all ingredients to a large pot, bring to a boil, simmer 2 hours until duck is tender and soup is flavorful."
+      ],
+      "tags": [
+        "classic",
+        "comforting",
+        "duck",
+        "itek",
+        "peranakan",
+        "plums",
+        "salted",
+        "savory",
+        "simmered",
+        "soup",
+        "sour",
+        "tangy",
+        "tim",
+        "tomatoes",
+        "vegetable",
+        "vegetables"
+      ],
+      "cost": {
+        "total_sgd": 102.17,
+        "ingredients_sgd": 102.15,
+        "energy_sgd": 0.02,
+        "per_serving_sgd": 12.77,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "duck",
+            "cost_sgd": 18.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "salted mustard greens",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 0.15,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "tomatoes",
+            "cost_sgd": 1.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sour plums",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "white peppercorns",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.5,
+            "unit": "litres"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 6.177,
+        "ingredients_kgco2e": 6.15,
+        "energy_kgco2e": 0.027,
+        "per_serving_kgco2e": 0.772
+      }
+    },
+    {
+      "id": "per_017",
+      "name": "Seh Bak (Nyonya Braised Pork Belly)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "2 hours",
+      "servings": 6.0,
+      "description": "A Penang Nyonya favorite: pork belly braised with five spice, garlic, and soy sauce. Rich, savory, and melt-in-your-mouth.",
+      "ingredients": {
+        "Main": {
+          "pork belly": "1kg, cut into chunks",
+          "five spice powder": "2 tsp",
+          "soy sauce": "3 tbsp",
+          "dark soy sauce": "1 tbsp",
+          "sugar": "2 tbsp",
+          "garlic": "8 cloves, smashed",
+          "water": "1.5 litres"
+        }
+      },
+      "preparation": [
+        "Fry garlic and five spice in oil. Add pork, brown lightly. Add soy sauces, sugar, and water. Simmer 2 hours until pork is tender and sauce is rich."
+      ],
+      "tips": [
+        "Let stew rest overnight for deeper flavor.",
+        "Serve with steamed buns or rice."
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": "20g",
+        "carbohydrates": "10g",
+        "fat": "36g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Penang Nyonya kitchens.",
+      "imageId": "per_017.jpeg",
+      "steps": [
+        "Fry garlic and five spice in oil. Add pork, brown lightly. Add soy sauces, sugar, and water. Simmer 2 hours until pork is tender and sauce is rich."
+      ],
+      "tags": [
+        "bak",
+        "belly",
+        "braised",
+        "favorite",
+        "five",
+        "garlic",
+        "melt",
+        "mouth",
+        "nyonya",
+        "penang",
+        "pork",
+        "rich",
+        "sauce",
+        "savory",
+        "seh",
+        "soy",
+        "spice",
+        "your"
+      ],
+      "cost": {
+        "total_sgd": 66.29,
+        "ingredients_sgd": 66.27,
+        "energy_sgd": 0.02,
+        "per_serving_sgd": 11.05,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork belly",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 7.0,
+            "amount": 1.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "five spice powder",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.15,
+            "emissions_kgco2e": 0.09,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 52.8,
+            "emissions_kgco2e": 12.0,
+            "amount": 8.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "litres"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 19.177,
+        "ingredients_kgco2e": 19.15,
+        "energy_kgco2e": 0.027,
+        "per_serving_kgco2e": 3.196
+      }
+    },
+    {
+      "id": "per_018",
+      "name": "Swikee (Frog Leg Soup)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "1 hour",
+      "servings": 4.0,
+      "description": "A Peranakan and Indonesian specialty: frog legs simmered in a ginger-garlic broth with Chinese celery and white pepper. Delicate, savory, and warming.",
+      "ingredients": {
+        "Main": {
+          "frog legs": "500g, cleaned",
+          "ginger": "4 slices",
+          "garlic": "4 cloves, smashed",
+          "white pepper": "1 tsp",
+          "Chinese celery": "1 bunch, chopped",
+          "water": "1.5 litres",
+          "salt": "to taste"
+        }
+      },
+      "preparation": [
+        "Blanch frog legs, drain. Add all ingredients to a pot, bring to a boil, simmer 1 hour. Season to taste and serve hot."
+      ],
+      "tips": [
+        "Add more ginger for extra warmth.",
+        "Serve with steamed rice."
+      ],
+      "nutrition": {
+        "calories": 110,
+        "protein": "18g",
+        "carbohydrates": "2g",
+        "fat": "4g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Peranakan kitchens.",
+      "imageId": "per_018.jpeg",
+      "steps": [
+        "Blanch frog legs, drain. Add all ingredients to a pot, bring to a boil, simmer 1 hour. Season to taste and serve hot."
+      ],
+      "tags": [
+        "broth",
+        "celery",
+        "chinese",
+        "delicate",
+        "frog",
+        "garlic",
+        "ginger",
+        "indonesian",
+        "leg",
+        "legs",
+        "pepper",
+        "peranakan",
+        "savory",
+        "simmered",
+        "soup",
+        "specialty",
+        "swikee",
+        "warming",
+        "white"
+      ],
+      "cost": {
+        "total_sgd": 56.02,
+        "ingredients_sgd": 56.01,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 14.0,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "frog legs",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "Chinese celery",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "bunch"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "litres"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 6.514,
+        "ingredients_kgco2e": 6.5,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 1.628
+      }
+    },
+    {
+      "id": "per_019",
+      "name": "Kueh Salat (Kuih Seri Muka)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes (plus soaking)",
+      "cook_time": "1 hour",
+      "servings": 16.0,
+      "description": "A classic Peranakan kueh: two layers of glutinous rice and pandan custard, rich, fragrant, and colorful. Served at festive occasions and kueh stalls.",
+      "ingredients": {
+        "Main": {
+          "glutinous rice": "400g, soaked",
+          "coconut milk": "300ml",
+          "pandan juice": "100ml",
+          "eggs": "4",
+          "sugar": "180g",
+          "plain flour": "50g",
+          "cornstarch": "30g",
+          "salt": "1/2 tsp"
+        }
+      },
+      "preparation": [
+        "Steam glutinous rice with half the coconut milk and salt. Press into a lined pan.",
+        "Mix eggs, sugar, flour, cornstarch, pandan juice, and remaining coconut milk. Pour over rice, steam 40 minutes until set. Cool, cut into squares."
+      ],
+      "tips": [
+        "Use fresh pandan juice for best aroma.",
+        "Chill before cutting for clean layers."
+      ],
+      "nutrition": {
+        "calories": 120,
+        "protein": "2g",
+        "carbohydrates": "24g",
+        "fat": "3g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore kueh stalls.",
+      "imageId": "per_019.jpeg",
+      "steps": [
+        "Steam glutinous rice with half the coconut milk and salt. Press into a lined pan.",
+        "Mix eggs, sugar, flour, cornstarch, pandan juice, and remaining coconut milk. Pour over rice, steam 40 minutes until set. Cool, cut into squares."
+      ],
+      "tags": [
+        "classic",
+        "colorful",
+        "custard",
+        "festive",
+        "fragrant",
+        "glutinous",
+        "kueh",
+        "kuih",
+        "layers",
+        "muka",
+        "occasions",
+        "pandan",
+        "peranakan",
+        "rice",
+        "rich",
+        "salat",
+        "seri",
+        "served",
+        "stalls"
+      ],
+      "cost": {
+        "total_sgd": 4.43,
+        "ingredients_sgd": 4.42,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 0.28,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "glutinous rice",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 1.8,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 0.57,
+            "amount": 300.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "pandan juice",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "eggs",
+            "cost_sgd": 1.32,
+            "emissions_kgco2e": 18.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.3,
+            "emissions_kgco2e": 0.18,
+            "amount": 180.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "plain flour",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 21.064,
+        "ingredients_kgco2e": 21.05,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 1.316
+      }
+    },
+    {
+      "id": "per_020",
+      "name": "Kari Kapitan (Nyonya Chicken Curry)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "1 hour",
+      "servings": 6.0,
+      "description": "A rich, aromatic Peranakan chicken curry with coconut milk, candlenuts, and spices. Served with rice or bread at Nyonya homes.",
+      "ingredients": {
+        "Main": {
+          "chicken": "1.2kg, cut into pieces",
+          "coconut milk": "400ml",
+          "candlenuts": "6",
+          "shallots": "8",
+          "garlic": "4 cloves",
+          "ginger": "2cm, sliced",
+          "lemongrass": "2 stalks, sliced",
+          "dried chilies": "8, soaked",
+          "turmeric": "2cm, sliced",
+          "galangal": "2cm, sliced",
+          "belacan": "1 tsp",
+          "potatoes": "2, peeled and cut",
+          "salt": "1 tsp",
+          "sugar": "1 tbsp",
+          "oil": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Blend shallots, garlic, ginger, lemongrass, chilies, turmeric, galangal, candlenuts, and belacan. Fry in oil until fragrant.",
+        "Add chicken, brown lightly. Add coconut milk, potatoes, salt, and sugar. Simmer 1 hour until chicken is tender and sauce is thick."
+      ],
+      "tips": [
+        "Use kampung chicken for best texture.",
+        "Serve with steamed rice or bread."
+      ],
+      "nutrition": {
+        "calories": 340,
+        "protein": "22g",
+        "carbohydrates": "12g",
+        "fat": "24g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Peranakan kitchens.",
+      "imageId": "per_020.jpeg",
+      "steps": [
+        "Blend shallots, garlic, ginger, lemongrass, chilies, turmeric, galangal, candlenuts, and belacan. Fry in oil until fragrant.",
+        "Add chicken, brown lightly. Add coconut milk, potatoes, salt, and sugar. Simmer 1 hour until chicken is tender and sauce is thick."
+      ],
+      "tags": [
+        "aromatic",
+        "bread",
+        "candlenuts",
+        "chicken",
+        "coconut",
+        "curry",
+        "homes",
+        "kapitan",
+        "kari",
+        "milk",
+        "nyonya",
+        "peranakan",
+        "rice",
+        "rich",
+        "served",
+        "spices"
+      ],
+      "cost": {
+        "total_sgd": 227.02,
+        "ingredients_sgd": 227.01,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 37.84,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "chicken",
+            "cost_sgd": 10.56,
+            "emissions_kgco2e": 7.2,
+            "amount": 1.2,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 0.76,
+            "amount": 400.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "candlenuts",
+            "cost_sgd": 48.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cm"
+          },
+          {
+            "ingredient": "lemongrass",
+            "cost_sgd": 1.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "stalks"
+          },
+          {
+            "ingredient": "dried chilies",
+            "cost_sgd": 70.4,
+            "emissions_kgco2e": 16.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "turmeric",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cm"
+          },
+          {
+            "ingredient": "galangal",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cm"
+          },
+          {
+            "ingredient": "belacan",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "potatoes",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 1.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 31.171,
+        "ingredients_kgco2e": 31.158,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 5.195
+      }
+    },
+    {
+      "id": "per_021",
+      "name": "Nyonya Stewed Pork Ribs",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "1.5 hours",
+      "servings": 6.0,
+      "description": "A comforting Peranakan stew: pork ribs braised with soy sauce, garlic, and spices. Tender, savory, and perfect with rice.",
+      "ingredients": {
+        "Main": {
+          "pork ribs": "1kg, cut into pieces",
+          "soy sauce": "3 tbsp",
+          "dark soy sauce": "1 tbsp",
+          "garlic": "6 cloves, smashed",
+          "five spice powder": "1 tsp",
+          "sugar": "2 tbsp",
+          "water": "1 litre"
+        }
+      },
+      "preparation": [
+        "Fry garlic and five spice in oil. Add pork ribs, brown lightly. Add soy sauces, sugar, and water. Simmer 1.5 hours until ribs are tender and sauce is rich."
+      ],
+      "tips": [
+        "Let stew rest overnight for deeper flavor.",
+        "Serve with steamed rice."
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": "18g",
+        "carbohydrates": "8g",
+        "fat": "24g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Peranakan kitchens.",
+      "imageId": "per_021.jpeg",
+      "steps": [
+        "Fry garlic and five spice in oil. Add pork ribs, brown lightly. Add soy sauces, sugar, and water. Simmer 1.5 hours until ribs are tender and sauce is rich."
+      ],
+      "tags": [
+        "braised",
+        "comforting",
+        "garlic",
+        "nyonya",
+        "peranakan",
+        "perfect",
+        "pork",
+        "ribs",
+        "rice",
+        "sauce",
+        "savory",
+        "soy",
+        "spices",
+        "stew",
+        "stewed",
+        "tender"
+      ],
+      "cost": {
+        "total_sgd": 53.07,
+        "ingredients_sgd": 53.06,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 8.84,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork ribs",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 7.0,
+            "amount": 1.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.15,
+            "emissions_kgco2e": 0.09,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 39.6,
+            "emissions_kgco2e": 9.0,
+            "amount": 6.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "five spice powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "litre"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 16.164,
+        "ingredients_kgco2e": 16.15,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 2.694
+      }
+    },
+    {
+      "id": "per_022",
+      "name": "Asam Prawn (Tamarind Prawns)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "20 minutes",
+      "servings": 4.0,
+      "description": "A tangy, savory Peranakan dish: prawns marinated in tamarind and sugar, pan-fried until caramelized. Served with rice at Nyonya homes.",
+      "ingredients": {
+        "Main": {
+          "large prawns": "500g, shell-on",
+          "tamarind pulp": "2 tbsp, soaked in 100ml water",
+          "sugar": "2 tbsp",
+          "salt": "1/2 tsp",
+          "oil": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Marinate prawns in tamarind water, sugar, and salt 15 minutes. Heat oil, fry prawns until caramelized and cooked through. Serve hot."
+      ],
+      "tips": [
+        "Use large, fresh prawns for best flavor.",
+        "Do not overcook prawns."
+      ],
+      "nutrition": {
+        "calories": 140,
+        "protein": "16g",
+        "carbohydrates": "8g",
+        "fat": "4g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Peranakan kitchens.",
+      "imageId": "per_022.jpeg",
+      "steps": [
+        "Marinate prawns in tamarind water, sugar, and salt 15 minutes. Heat oil, fry prawns until caramelized and cooked through. Serve hot."
+      ],
+      "tags": [
+        "asam",
+        "caramelized",
+        "dish",
+        "fried",
+        "homes",
+        "marinated",
+        "nyonya",
+        "peranakan",
+        "prawn",
+        "prawns",
+        "rice",
+        "savory",
+        "served",
+        "sugar",
+        "tamarind",
+        "tangy"
+      ],
+      "cost": {
+        "total_sgd": 12.54,
+        "ingredients_sgd": 12.34,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 3.14,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "large prawns",
+            "cost_sgd": 11.0,
+            "emissions_kgco2e": 9.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "tamarind pulp",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 9.982,
+        "ingredients_kgco2e": 9.71,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 2.495
+      }
+    },
+    {
+      "id": "per_023",
+      "name": "Lor Bak (Nyonya Braised Pork)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "2 hours",
+      "servings": 6.0,
+      "description": "A Penang Nyonya classic: pork belly braised with five spice, soy sauce, and garlic. Rich, savory, and melt-in-your-mouth.",
+      "ingredients": {
+        "Main": {
+          "pork belly": "1kg, cut into chunks",
+          "five spice powder": "2 tsp",
+          "soy sauce": "3 tbsp",
+          "dark soy sauce": "1 tbsp",
+          "sugar": "2 tbsp",
+          "garlic": "8 cloves, smashed",
+          "water": "1.5 litres"
+        }
+      },
+      "preparation": [
+        "Fry garlic and five spice in oil. Add pork, brown lightly. Add soy sauces, sugar, and water. Simmer 2 hours until pork is tender and sauce is rich."
+      ],
+      "tips": [
+        "Let stew rest overnight for deeper flavor.",
+        "Serve with steamed buns or rice."
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": "20g",
+        "carbohydrates": "10g",
+        "fat": "36g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Penang Nyonya kitchens.",
+      "imageId": "per_023.jpeg",
+      "steps": [
+        "Fry garlic and five spice in oil. Add pork, brown lightly. Add soy sauces, sugar, and water. Simmer 2 hours until pork is tender and sauce is rich."
+      ],
+      "tags": [
+        "bak",
+        "belly",
+        "braised",
+        "classic",
+        "five",
+        "garlic",
+        "lor",
+        "melt",
+        "mouth",
+        "nyonya",
+        "penang",
+        "pork",
+        "rich",
+        "sauce",
+        "savory",
+        "soy",
+        "spice",
+        "your"
+      ],
+      "cost": {
+        "total_sgd": 66.29,
+        "ingredients_sgd": 66.27,
+        "energy_sgd": 0.02,
+        "per_serving_sgd": 11.05,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork belly",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 7.0,
+            "amount": 1.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "five spice powder",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.15,
+            "emissions_kgco2e": 0.09,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 52.8,
+            "emissions_kgco2e": 12.0,
+            "amount": 8.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "litres"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 19.177,
+        "ingredients_kgco2e": 19.15,
+        "energy_kgco2e": 0.027,
+        "per_serving_kgco2e": 3.196
+      }
+    },
+    {
+      "id": "per_024",
+      "name": "Kueh Dadar (Pandan Coconut Crepes)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "servings": 12.0,
+      "description": "A Peranakan and Malay kueh: pandan crepes filled with sweet coconut and palm sugar. Soft, fragrant, and colorful. Served at kueh stalls and festive occasions.",
+      "ingredients": {
+        "Main": {
+          "plain flour": "100g",
+          "eggs": "2",
+          "pandan juice": "100ml",
+          "coconut milk": "100ml",
+          "salt": "1/4 tsp",
+          "grated coconut": "150g",
+          "gula melaka (palm sugar)": "80g, chopped",
+          "salt (for filling)": "1/4 tsp"
+        }
+      },
+      "preparation": [
+        "Mix flour, eggs, pandan juice, coconut milk, and salt to form a batter. Cook thin crepes in a pan.",
+        "Melt palm sugar with a little water, add coconut and salt. Cook until thick. Fill crepes with coconut mixture, roll up. Serve at room temperature."
+      ],
+      "tips": [
+        "Use fresh pandan juice for best aroma.",
+        "Serve on banana leaves for presentation."
+      ],
+      "nutrition": {
+        "calories": 90,
+        "protein": "2g",
+        "carbohydrates": "18g",
+        "fat": "2g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore kueh stalls.",
+      "imageId": "per_024.jpeg",
+      "steps": [
+        "Mix flour, eggs, pandan juice, coconut milk, and salt to form a batter. Cook thin crepes in a pan.",
+        "Melt palm sugar with a little water, add coconut and salt. Cook until thick. Fill crepes with coconut mixture, roll up. Serve at room temperature."
+      ],
+      "tags": [
+        "coconut",
+        "colorful",
+        "crepes",
+        "dadar",
+        "festive",
+        "filled",
+        "fragrant",
+        "kueh",
+        "malay",
+        "occasions",
+        "palm",
+        "pandan",
+        "peranakan",
+        "served",
+        "soft",
+        "stalls",
+        "sugar",
+        "sweet"
+      ],
+      "cost": {
+        "total_sgd": 4.89,
+        "ingredients_sgd": 4.69,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 0.41,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "plain flour",
+            "cost_sgd": 0.25,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "eggs",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "pandan juice",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.22,
+            "emissions_kgco2e": 0.19,
+            "amount": 100.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "grated coconut",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 150.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "gula melaka (palm sugar)",
+            "cost_sgd": 0.16,
+            "emissions_kgco2e": 0.0,
+            "amount": 80.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salt (for filling)",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 10.462,
+        "ingredients_kgco2e": 10.19,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.872
+      }
+    },
+    {
+      "id": "per_025",
+      "name": "Kueh Talam (Pandan Coconut Layer Cake)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "1 hour",
+      "servings": 16.0,
+      "description": "A Peranakan kueh: two layers of pandan and coconut, steamed until set. Soft, fragrant, and colorful. Served at kueh stalls and festive occasions.",
+      "ingredients": {
+        "Main": {
+          "rice flour": "100g",
+          "tapioca flour": "50g",
+          "coconut milk": "300ml",
+          "pandan juice": "100ml",
+          "sugar": "120g",
+          "salt": "1/2 tsp"
+        }
+      },
+      "preparation": [
+        "Mix flours, sugar, pandan juice, and half the coconut milk for the green layer. Pour into a lined pan, steam 20 minutes.",
+        "Mix remaining coconut milk and salt for the white layer. Pour over green layer, steam 20 minutes until set. Cool, cut into squares."
+      ],
+      "tips": [
+        "Use fresh pandan juice for best aroma.",
+        "Chill before cutting for clean layers."
+      ],
+      "nutrition": {
+        "calories": 80,
+        "protein": "1g",
+        "carbohydrates": "18g",
+        "fat": "2g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore kueh stalls.",
+      "imageId": "per_025.jpeg",
+      "steps": [
+        "Mix flours, sugar, pandan juice, and half the coconut milk for the green layer. Pour into a lined pan, steam 20 minutes.",
+        "Mix remaining coconut milk and salt for the white layer. Pour over green layer, steam 20 minutes until set. Cool, cut into squares."
+      ],
+      "tags": [
+        "cake",
+        "coconut",
+        "colorful",
+        "festive",
+        "fragrant",
+        "kueh",
+        "layer",
+        "layers",
+        "occasions",
+        "pandan",
+        "peranakan",
+        "served",
+        "soft",
+        "stalls",
+        "steamed",
+        "talam"
+      ],
+      "cost": {
+        "total_sgd": 2.31,
+        "ingredients_sgd": 2.3,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 0.14,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice flour",
+            "cost_sgd": 0.22,
+            "emissions_kgco2e": 0.45,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "tapioca flour",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 0.57,
+            "amount": 300.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "pandan juice",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.12,
+            "amount": 120.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 1.654,
+        "ingredients_kgco2e": 1.64,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 0.103
+      }
+    },
+    {
+      "id": "per_026",
+      "name": "Udang Masak Nanas (Pineapple Prawn Curry)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "30 minutes",
+      "servings": 6.0,
+      "description": "A tangy, aromatic Peranakan curry: prawns and pineapple simmered in a spicy coconut gravy. Served with rice at Nyonya homes.",
+      "ingredients": {
+        "large prawns": "500g, shelled and deveined",
+        "pineapple": "1/2, cut into chunks",
+        "coconut milk": "400ml",
+        "rempah (spice paste)": {
+          "shallots": "6",
+          "garlic": "3 cloves",
+          "dried chilies": "8, soaked",
+          "lemongrass": "1 stalk, sliced",
+          "belacan": "1 tsp",
+          "turmeric": "2cm, sliced"
+        },
+        "tamarind juice": "2 tbsp",
+        "salt": "1 tsp",
+        "sugar": "1 tbsp",
+        "oil": "2 tbsp"
+      },
+      "preparation": [
+        "Blend rempah ingredients. Fry in oil until fragrant.",
+        "Add pineapple, fry 2 minutes. Add coconut milk, tamarind, salt, and sugar. Simmer 10 minutes.",
+        "Add prawns, cook until just done. Serve hot with rice."
+      ],
+      "tips": [
+        "Do not overcook prawns.",
+        "Add more chilies for extra heat."
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": "16g",
+        "carbohydrates": "12g",
+        "fat": "8g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Peranakan kitchens.",
+      "imageId": "per_026.jpeg",
+      "steps": [
+        "Blend rempah ingredients. Fry in oil until fragrant.",
+        "Add pineapple, fry 2 minutes. Add coconut milk, tamarind, salt, and sugar. Simmer 10 minutes.",
+        "Add prawns, cook until just done. Serve hot with rice."
+      ],
+      "tags": [
+        "aromatic",
+        "coconut",
+        "curry",
+        "gravy",
+        "homes",
+        "masak",
+        "nanas",
+        "nyonya",
+        "peranakan",
+        "pineapple",
+        "prawn",
+        "prawns",
+        "rice",
+        "served",
+        "simmered",
+        "spicy",
+        "tangy",
+        "udang"
+      ],
+      "cost": {
+        "total_sgd": 141.15,
+        "ingredients_sgd": 140.85,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 23.52,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "large prawns",
+            "cost_sgd": 11.0,
+            "emissions_kgco2e": 9.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "pineapple",
+            "cost_sgd": 2.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 0.76,
+            "amount": 400.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 19.8,
+            "emissions_kgco2e": 4.5,
+            "amount": 3.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "dried chilies",
+            "cost_sgd": 70.4,
+            "emissions_kgco2e": 16.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "lemongrass",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "stalk"
+          },
+          {
+            "ingredient": "belacan",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "turmeric",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cm"
+          },
+          {
+            "ingredient": "tamarind juice",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 30.866,
+        "ingredients_kgco2e": 30.457,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 5.144
+      }
+    },
+    {
+      "id": "per_027",
+      "name": "Belimbing Masak Lemak (Starfruit in Coconut Gravy)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "30 minutes",
+      "servings": 6.0,
+      "description": "A unique Peranakan and Malay dish: starfruit (belimbing) cooked in a spicy, creamy coconut gravy with dried shrimp and turmeric. Served with rice.",
+      "ingredients": {
+        "belimbing (starfruit)": "300g, sliced",
+        "coconut milk": "400ml",
+        "dried shrimp": "30g, soaked and chopped",
+        "rempah (spice paste)": {
+          "shallots": "6",
+          "garlic": "2 cloves",
+          "fresh chili": "4",
+          "turmeric": "2cm, sliced"
+        },
+        "salt": "1 tsp",
+        "sugar": "1 tbsp",
+        "oil": "2 tbsp"
+      },
+      "preparation": [
+        "Blend rempah ingredients. Fry in oil until fragrant.",
+        "Add dried shrimp, fry 2 minutes. Add coconut milk, belimbing, salt, and sugar. Simmer 15 minutes until belimbing is tender. Serve hot."
+      ],
+      "tips": [
+        "Use young, sour starfruit for best flavor.",
+        "Add prawns for a heartier dish."
+      ],
+      "nutrition": {
+        "calories": 120,
+        "protein": "4g",
+        "carbohydrates": "10g",
+        "fat": "8g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Peranakan kitchens.",
+      "imageId": "per_027.jpeg",
+      "steps": [
+        "Blend rempah ingredients. Fry in oil until fragrant.",
+        "Add dried shrimp, fry 2 minutes. Add coconut milk, belimbing, salt, and sugar. Simmer 15 minutes until belimbing is tender. Serve hot."
+      ],
+      "tags": [
+        "belimbing",
+        "coconut",
+        "cooked",
+        "creamy",
+        "dish",
+        "dried",
+        "gravy",
+        "lemak",
+        "malay",
+        "masak",
+        "peranakan",
+        "rice",
+        "served",
+        "shrimp",
+        "spicy",
+        "starfruit",
+        "turmeric",
+        "unique"
+      ],
+      "cost": {
+        "total_sgd": 85.98,
+        "ingredients_sgd": 85.68,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 14.33,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "belimbing (starfruit)",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 0.76,
+            "amount": 400.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "dried shrimp",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "fresh chili",
+            "cost_sgd": 35.2,
+            "emissions_kgco2e": 8.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "turmeric",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cm"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 12.365,
+        "ingredients_kgco2e": 11.957,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 2.061
+      }
+    },
+    {
+      "id": "per_028",
+      "name": "Kiam Chye Buey (Peranakan Mustard Green Stew)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "2 hours",
+      "servings": 8.0,
+      "description": "A tangy, savory stew of leftover roast meats, salted mustard greens, tomatoes, and tamarind. Served at Peranakan homes after festive feasts.",
+      "ingredients": {
+        "Main": {
+          "salted mustard greens": "500g, rinsed and cut",
+          "leftover roast meats": "500g (duck, pork, or chicken)",
+          "tomatoes": "2, quartered",
+          "dried chilies": "6, soaked",
+          "tamarind juice": "3 tbsp",
+          "ginger": "4 slices",
+          "garlic": "4 cloves, smashed",
+          "water": "2 litres",
+          "salt": "to taste"
+        }
+      },
+      "preparation": [
+        "Blanch salted mustard greens. Add all ingredients to a large pot, bring to a boil, simmer 2 hours until flavors meld. Serve hot."
+      ],
+      "tips": [
+        "Use a mix of meats for best flavor.",
+        "Add more tamarind for extra tang."
+      ],
+      "nutrition": {
+        "calories": 110,
+        "protein": "10g",
+        "carbohydrates": "6g",
+        "fat": "6g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Peranakan kitchens.",
+      "imageId": "per_028.jpeg",
+      "steps": [
+        "Blanch salted mustard greens. Add all ingredients to a large pot, bring to a boil, simmer 2 hours until flavors meld. Serve hot."
+      ],
+      "tags": [
+        "buey",
+        "chye",
+        "feasts",
+        "festive",
+        "green",
+        "greens",
+        "homes",
+        "kiam",
+        "leftover",
+        "meats",
+        "mustard",
+        "peranakan",
+        "roast",
+        "salted",
+        "savory",
+        "served",
+        "stew",
+        "tamarind",
+        "tangy",
+        "tomatoes"
+      ],
+      "cost": {
+        "total_sgd": 110.36,
+        "ingredients_sgd": 110.34,
+        "energy_sgd": 0.02,
+        "per_serving_sgd": 13.79,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "salted mustard greens",
+            "cost_sgd": 0.55,
+            "emissions_kgco2e": 0.25,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "leftover roast meats",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "tomatoes",
+            "cost_sgd": 1.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dried chilies",
+            "cost_sgd": 52.8,
+            "emissions_kgco2e": 12.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tamarind juice",
+            "cost_sgd": 0.09,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "litres"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 18.777,
+        "ingredients_kgco2e": 18.75,
+        "energy_kgco2e": 0.027,
+        "per_serving_kgco2e": 2.347
+      }
+    },
+    {
+      "id": "per_029",
+      "name": "Bakwan Kepiting (Crabmeat Meatball Soup)",
+      "difficulty": "Medium",
+      "prep_time": "40 minutes",
+      "cook_time": "1 hour",
+      "servings": 8.0,
+      "description": "A festive Peranakan soup: pork and crabmeat balls simmered in a clear broth with bamboo shoots and vegetables. Served at celebrations and family gatherings.",
+      "ingredients": {
+        "Main": {
+          "crabmeat": "200g",
+          "minced pork": "300g",
+          "prawns": "100g, chopped",
+          "bamboo shoots": "100g, sliced",
+          "carrot": "1, sliced",
+          "spring onions": "2, chopped",
+          "egg": "1",
+          "cornstarch": "2 tbsp",
+          "chicken stock": "2 litres",
+          "salt": "1 tsp",
+          "white pepper": "1/2 tsp"
+        }
+      },
+      "preparation": [
+        "Mix crabmeat, pork, prawns, egg, cornstarch, salt, and pepper. Shape into balls.",
+        "Bring stock to a boil, add meatballs, bamboo, and carrot. Simmer 30 minutes. Garnish with spring onions. Serve hot."
+      ],
+      "tips": [
+        "Use fresh crabmeat for best flavor.",
+        "Add glass noodles for variation."
+      ],
+      "nutrition": {
+        "calories": 140,
+        "protein": "14g",
+        "carbohydrates": "6g",
+        "fat": "6g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Peranakan kitchens.",
+      "imageId": "per_029.jpeg",
+      "steps": [
+        "Mix crabmeat, pork, prawns, egg, cornstarch, salt, and pepper. Shape into balls.",
+        "Bring stock to a boil, add meatballs, bamboo, and carrot. Simmer 30 minutes. Garnish with spring onions. Serve hot."
+      ],
+      "tags": [
+        "bakwan",
+        "balls",
+        "bamboo",
+        "broth",
+        "celebrations",
+        "clear",
+        "crabmeat",
+        "family",
+        "festive",
+        "gatherings",
+        "kepiting",
+        "meatball",
+        "peranakan",
+        "pork",
+        "served",
+        "shoots",
+        "simmered",
+        "soup",
+        "vegetables"
+      ],
+      "cost": {
+        "total_sgd": 37.64,
+        "ingredients_sgd": 37.63,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 4.71,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "crabmeat",
+            "cost_sgd": 5.5,
+            "emissions_kgco2e": 3.6,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "minced pork",
+            "cost_sgd": 3.96,
+            "emissions_kgco2e": 2.1,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "prawns",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.8,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "bamboo shoots",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "carrot",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.8,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "egg",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chicken stock",
+            "cost_sgd": 17.6,
+            "emissions_kgco2e": 12.0,
+            "amount": 2.0,
+            "unit": "litres"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 27.216,
+        "ingredients_kgco2e": 27.203,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 3.402
+      }
+    },
+    {
+      "id": "per_030",
+      "name": "Nasi Ulam (Herbed Rice Salad)",
+      "difficulty": "Medium",
+      "prep_time": "40 minutes",
+      "cook_time": "20 minutes",
+      "servings": 8.0,
+      "description": "A refreshing Peranakan salad: rice tossed with a medley of fresh herbs, dried shrimp, and toasted coconut. Served at festive occasions and potlucks.",
+      "ingredients": {
+        "Main": {
+          "cooked rice": "600g, cooled",
+          "fresh herbs (daun kaduk, mint, laksa leaves, etc.)": "2 cups, finely sliced",
+          "dried shrimp": "30g, soaked and chopped",
+          "toasted grated coconut": "50g",
+          "shallots": "4, sliced",
+          "lemongrass": "1 stalk, finely sliced",
+          "salt": "1 tsp",
+          "lime juice": "2 tbsp",
+          "chili": "2, sliced"
+        }
+      },
+      "preparation": [
+        "Toss all ingredients together in a large bowl. Adjust seasoning to taste. Serve at room temperature."
+      ],
+      "tips": [
+        "Use a variety of fresh herbs for best flavor.",
+        "Add fried fish for a heartier salad."
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": "4g",
+        "carbohydrates": "36g",
+        "fat": "3g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Peranakan kitchens.",
+      "imageId": "per_030.jpeg",
+      "steps": [
+        "Toss all ingredients together in a large bowl. Adjust seasoning to taste. Serve at room temperature."
+      ],
+      "tags": [
+        "coconut",
+        "dried",
+        "festive",
+        "fresh",
+        "herbed",
+        "herbs",
+        "medley",
+        "nasi",
+        "occasions",
+        "peranakan",
+        "potlucks",
+        "refreshing",
+        "rice",
+        "salad",
+        "served",
+        "shrimp",
+        "toasted",
+        "tossed",
+        "ulam"
+      ],
+      "cost": {
+        "total_sgd": 39.82,
+        "ingredients_sgd": 39.62,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 4.98,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "cooked rice",
+            "cost_sgd": 1.32,
+            "emissions_kgco2e": 2.7,
+            "amount": 600.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "fresh herbs (daun kaduk, mint, laksa leaves, etc.)",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "dried shrimp",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "toasted grated coconut",
+            "cost_sgd": 0.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "lemongrass",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "stalk"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "lime juice",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chili",
+            "cost_sgd": 17.6,
+            "emissions_kgco2e": 4.0,
+            "amount": 2.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 6.974,
+        "ingredients_kgco2e": 6.702,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.872
+      }
+    },
+    {
+      "id": "per_031",
+      "name": "Pineapple Fried Rice (Nasi Goreng Nanas)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "20 minutes",
+      "servings": 6.0,
+      "description": "A festive Peranakan and Thai-inspired fried rice: rice stir-fried with pineapple, prawns, cashews, and spices. Served in a pineapple shell at parties.",
+      "ingredients": {
+        "Main": {
+          "cooked rice": "500g, cooled",
+          "pineapple": "1/2, diced",
+          "prawns": "200g, peeled",
+          "cashew nuts": "50g",
+          "egg": "2, beaten",
+          "garlic": "2 cloves, minced",
+          "shallots": "2, sliced",
+          "curry powder": "1 tsp",
+          "soy sauce": "1 tbsp",
+          "fish sauce": "1 tbsp",
+          "spring onions": "2, chopped",
+          "oil": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Heat oil, fry garlic and shallots. Add egg, scramble. Add prawns, pineapple, and rice. Stir in curry powder, soy, and fish sauce. Toss with cashews and spring onions. Serve hot."
+      ],
+      "tips": [
+        "Use day-old rice for best texture.",
+        "Serve in a hollowed pineapple for presentation."
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": "12g",
+        "carbohydrates": "54g",
+        "fat": "7g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Peranakan kitchens.",
+      "imageId": "per_031.jpeg",
+      "steps": [
+        "Heat oil, fry garlic and shallots. Add egg, scramble. Add prawns, pineapple, and rice. Stir in curry powder, soy, and fish sauce. Toss with cashews and spring onions. Serve hot."
+      ],
+      "tags": [
+        "cashews",
+        "festive",
+        "fried",
+        "goreng",
+        "inspired",
+        "nanas",
+        "nasi",
+        "parties",
+        "peranakan",
+        "pineapple",
+        "prawns",
+        "rice",
+        "served",
+        "shell",
+        "spices",
+        "stir",
+        "thai"
+      ],
+      "cost": {
+        "total_sgd": 35.8,
+        "ingredients_sgd": 35.6,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 5.97,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "cooked rice",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 2.25,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "pineapple",
+            "cost_sgd": 2.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "prawns",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 3.6,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "cashew nuts",
+            "cost_sgd": 0.9,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "egg",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "curry powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "fish sauce",
+            "cost_sgd": 0.25,
+            "emissions_kgco2e": 0.075,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 20.807,
+        "ingredients_kgco2e": 20.535,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 3.468
+      }
+    },
+    {
+      "id": "per_032",
+      "name": "Buah Papaya Masak Titek (Peppery Papaya Soup)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "1 hour",
+      "servings": 6.0,
+      "description": "A classic Eurasian and Peranakan soup: green papaya simmered with pork ribs, white pepper, and garlic. Peppery, savory, and comforting.",
+      "ingredients": {
+        "Main": {
+          "green papaya": "1, peeled and cut into chunks",
+          "pork ribs": "500g, cut into pieces",
+          "white peppercorns": "2 tbsp, crushed",
+          "garlic": "6 cloves, smashed",
+          "water": "2 litres",
+          "salt": "to taste"
+        }
+      },
+      "preparation": [
+        "Blanch pork ribs, drain. Add all ingredients to a pot, bring to a boil, simmer 1 hour until papaya is tender and soup is peppery. Serve hot."
+      ],
+      "tips": [
+        "Use green, unripe papaya for best texture.",
+        "Add more pepper for extra heat."
+      ],
+      "nutrition": {
+        "calories": 110,
+        "protein": "10g",
+        "carbohydrates": "8g",
+        "fat": "4g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Eurasian/Peranakan kitchens.",
+      "imageId": "per_032.jpeg",
+      "steps": [
+        "Blanch pork ribs, drain. Add all ingredients to a pot, bring to a boil, simmer 1 hour until papaya is tender and soup is peppery. Serve hot."
+      ],
+      "tags": [
+        "buah",
+        "classic",
+        "comforting",
+        "eurasian",
+        "garlic",
+        "green",
+        "masak",
+        "papaya",
+        "pepper",
+        "peppery",
+        "peranakan",
+        "pork",
+        "ribs",
+        "savory",
+        "simmered",
+        "soup",
+        "titek",
+        "white"
+      ],
+      "cost": {
+        "total_sgd": 49.35,
+        "ingredients_sgd": 49.34,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 8.22,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "green papaya",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "pork ribs",
+            "cost_sgd": 6.6,
+            "emissions_kgco2e": 3.5,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "white peppercorns",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 39.6,
+            "emissions_kgco2e": 9.0,
+            "amount": 6.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "litres"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 13.014,
+        "ingredients_kgco2e": 13.0,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 2.169
+      }
+    },
+    {
+      "id": "per_033",
+      "name": "Kuih Bongkong (Steamed Coconut Pudding)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "40 minutes",
+      "servings": 12.0,
+      "description": "A traditional Peranakan and Malay kueh: steamed coconut pudding with gula melaka, wrapped in banana leaves. Soft, fragrant, and lightly sweet.",
+      "ingredients": {
+        "Main": {
+          "rice flour": "100g",
+          "tapioca flour": "50g",
+          "coconut milk": "300ml",
+          "gula melaka (palm sugar)": "100g, chopped",
+          "banana leaves": "for wrapping",
+          "salt": "1/2 tsp"
+        }
+      },
+      "preparation": [
+        "Mix flours, coconut milk, and salt. Pour a little batter onto banana leaf, add gula melaka, cover with more batter. Wrap and fold. Steam 30–40 minutes until set. Serve warm or at room temperature."
+      ],
+      "tips": [
+        "Use fresh banana leaves for best aroma.",
+        "Add pandan juice for extra fragrance."
+      ],
+      "nutrition": {
+        "calories": 80,
+        "protein": "1g",
+        "carbohydrates": "18g",
+        "fat": "2g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore kueh stalls.",
+      "imageId": "per_033.jpeg",
+      "steps": [
+        "Mix flours, coconut milk, and salt. Pour a little batter onto banana leaf, add gula melaka, cover with more batter. Wrap and fold. Steam 30–40 minutes until set. Serve warm or at room temperature."
+      ],
+      "tags": [
+        "banana",
+        "bongkong",
+        "coconut",
+        "fragrant",
+        "gula",
+        "kueh",
+        "kuih",
+        "leaves",
+        "lightly",
+        "malay",
+        "melaka",
+        "peranakan",
+        "pudding",
+        "soft",
+        "steamed",
+        "sweet",
+        "traditional",
+        "wrapped"
+      ],
+      "cost": {
+        "total_sgd": 3.01,
+        "ingredients_sgd": 2.61,
+        "energy_sgd": 0.4,
+        "per_serving_sgd": 0.25,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice flour",
+            "cost_sgd": 0.22,
+            "emissions_kgco2e": 0.45,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "tapioca flour",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 0.57,
+            "amount": 300.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "gula melaka (palm sugar)",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "banana leaves",
+            "cost_sgd": 0.3,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 2.064,
+        "ingredients_kgco2e": 1.52,
+        "energy_kgco2e": 0.544,
+        "per_serving_kgco2e": 0.172
+      }
+    }
+  ]
+}

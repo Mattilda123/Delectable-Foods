@@ -1,0 +1,4332 @@
+{
+  "metadata": {
+    "category": "Desserts and Sweets",
+    "description": "Traditional and modern Singaporean desserts and sweet treats, including kueh, ice kachang, and other sweet delights",
+    "total_recipes": 22,
+    "last_updated": "2024"
+  },
+  "recipes": [
+    {
+      "id": "des_001",
+      "name": "Pengat Pisang (Banana Coconut Dessert)",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "20 minutes",
+      "servings": 4.0,
+      "description": "A classic Malay and Peranakan dessert popular in Singapore, featuring ripe bananas gently simmered in coconut milk with palm sugar and sago pearls. Served warm or chilled, this sweet soup is a nostalgic treat at home and festive gatherings.",
+      "ingredients": {
+        "main": {
+          "ripe bananas (pisang raja, pisang kepok, or cavendish)": "3-4, sliced into thick rounds",
+          "sago pearls": "1/2 cup (about 50g)",
+          "palm sugar (gula melaka) or dark brown sugar": "1/3 cup (about 70g), chopped",
+          "coconut milk": "400ml (1 can or fresh equivalent)",
+          "water": "3 cups (720ml)",
+          "pandan leaves": "2, knotted (optional)",
+          "salt": "1/4 tsp"
+        }
+      },
+      "steps": [
+        "Soak sago pearls in water for 10 minutes, then drain.",
+        "Bring a pot of water to boil. Add sago pearls and cook, stirring, until translucent (about 8-10 minutes). Drain and rinse under cold water to remove excess starch. Set aside.",
+        "In a separate pot, combine water, palm sugar, and pandan leaves. Bring to a boil, stirring to dissolve the sugar.",
+        "Add sliced bananas and simmer gently for 5-7 minutes until just tender but not mushy.",
+        "Add coconut milk and salt. Stir gently and bring to a gentle simmer (do not boil).",
+        "Add cooked sago pearls and stir to combine. Taste and adjust sweetness if needed.",
+        "Serve warm in bowls, or chill and serve cold."
+      ],
+      "tips": [
+        "Use slightly underripe bananas for firmer texture, or riper bananas for a softer, sweeter dessert.",
+        "Pandan leaves add fragrance but can be omitted if unavailable.",
+        "Can substitute sago with small tapioca pearls if needed.",
+        "Delicious both warm and cold."
+      ],
+      "themes": [
+        "dessert",
+        "sweet",
+        "snack",
+        "iconic",
+        "heritage"
+      ],
+      "source": "Adapted from Serious Eats, Rasa Malaysia, and Singapore/Malaysia home cooks.",
+      "origin": "Malay and Peranakan communities in Singapore and Malaysia; a traditional festive and everyday dessert.",
+      "imageId": "des_001.jpeg",
+      "tags": [
+        "banana",
+        "bananas",
+        "chilled",
+        "classic",
+        "coconut",
+        "dessert",
+        "featuring",
+        "festive",
+        "gatherings",
+        "gently",
+        "heritage",
+        "home",
+        "iconic",
+        "malay",
+        "milk",
+        "nostalgic",
+        "palm",
+        "pearls",
+        "pengat",
+        "peranakan",
+        "pisang",
+        "popular",
+        "ripe",
+        "sago",
+        "served",
+        "simmered",
+        "singapore",
+        "snack",
+        "soup",
+        "sugar",
+        "sweet",
+        "treat",
+        "warm"
+      ],
+      "cost": {
+        "total_sgd": 22.08,
+        "ingredients_sgd": 21.88,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 5.52,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "ripe bananas (pisang raja, pisang kepok, or cavendish)",
+            "cost_sgd": 0.9,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sago pearls",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "palm sugar (gula melaka) or dark brown sugar",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 0.76,
+            "amount": 400.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "pandan leaves",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 1.532,
+        "ingredients_kgco2e": 1.26,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.383
+      }
+    },
+    {
+      "id": "des_002",
+      "name": "Kueh Abuk Abuk Sagu (Steamed Sago Cake)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "30 minutes",
+      "servings": 8.0,
+      "description": "A traditional Malay/Peranakan steamed kueh made from sago pearls, grated coconut, and palm sugar, wrapped in banana leaves and steamed. Chewy, fragrant, and sweet, it's a festive treat in Singapore and Malaysia.",
+      "ingredients": {
+        "main": {
+          "sago pearls": "250g (about 1.5 cups)",
+          "grated fresh coconut": "1 cup",
+          "palm sugar (gula melaka), chopped": "1/2 cup (100g)",
+          "salt": "1/2 tsp",
+          "banana leaves": "as needed, cut into rectangles and softened"
+        }
+      },
+      "steps": [
+        "Soak sago pearls in water for 15 minutes, then drain well.",
+        "Mix sago with a pinch of salt. Place a spoonful of sago on a banana leaf, add a little palm sugar and grated coconut, then top with more sago to cover.",
+        "Wrap into a parcel and fold or secure with a toothpick. Repeat for all parcels.",
+        "Steam over high heat for 25-30 minutes until sago turns translucent and set. Let cool slightly before serving."
+      ],
+      "tips": [
+        "Use freshly grated coconut for best flavor.",
+        "Banana leaves add aroma and prevent sticking.",
+        "Can be served warm or at room temperature."
+      ],
+      "themes": [
+        "kueh",
+        "Malay",
+        "Peranakan",
+        "dessert",
+        "heritage",
+        "steamed"
+      ],
+      "source": "Adapted from Rasa Malaysia, The MeatMen, and Singapore/Malay/Peranakan home cooks.",
+      "origin": "Malay and Peranakan communities in Singapore and Malaysia; a festive and everyday treat.",
+      "imageId": "des_002.jpeg",
+      "tags": [
+        "abuk",
+        "banana",
+        "cake",
+        "chewy",
+        "coconut",
+        "dessert",
+        "festive",
+        "fragrant",
+        "grated",
+        "heritage",
+        "kueh",
+        "leaves",
+        "made",
+        "malay",
+        "malaysia",
+        "palm",
+        "pearls",
+        "peranakan",
+        "sago",
+        "sagu",
+        "singapore",
+        "steamed",
+        "sugar",
+        "sweet",
+        "traditional",
+        "treat",
+        "wrapped"
+      ],
+      "cost": {
+        "total_sgd": 5.95,
+        "ingredients_sgd": 5.65,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 0.74,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "sago pearls",
+            "cost_sgd": 0.25,
+            "emissions_kgco2e": 0.0,
+            "amount": 250.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "grated fresh coconut",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "palm sugar (gula melaka), chopped",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "banana leaves",
+            "cost_sgd": 0.3,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 0.908,
+        "ingredients_kgco2e": 0.5,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 0.113
+      }
+    },
+    {
+      "id": "des_003",
+      "name": "Gingko Nut Barley (Fu Chok Yi Mai)",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes (plus soaking time)",
+      "cook_time": "60 minutes",
+      "servings": 6.0,
+      "description": "A classic Chinese dessert soup in Singapore, featuring barley, dried bean curd sheets, and gingko nuts simmered in a lightly sweet broth. Nourishing, cooling, and popular at dessert stalls.",
+      "ingredients": {
+        "main": {
+          "pearl barley": "100g",
+          "dried bean curd sheets (fu chok)": "2 sheets, broken into pieces",
+          "gingko nuts, shelled and split": "100g",
+          "rock sugar": "80g (to taste)",
+          "water": "2L"
+        }
+      },
+      "steps": [
+        "Rinse barley and soak for 30 minutes. Rinse gingko nuts and remove any bitter core.",
+        "Bring water to a boil. Add barley and simmer for 30 minutes.",
+        "Add gingko nuts and continue simmering for 15 minutes.",
+        "Add bean curd sheets and rock sugar. Simmer until bean curd dissolves and soup is creamy (about 15 minutes). Adjust sweetness to taste. Serve hot or chilled."
+      ],
+      "tips": [
+        "Remove the green core from gingko nuts to avoid bitterness.",
+        "Dessert can be served hot or cold.",
+        "Add pandan leaves for extra fragrance if desired."
+      ],
+      "themes": [
+        "dessert",
+        "Chinese",
+        "heritage",
+        "soup",
+        "barley",
+        "bean curd",
+        "gingko nut"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singaporean Chinese home cooks.",
+      "origin": "Chinese community in Singapore; a popular dessert at hawker and dessert stalls.",
+      "imageId": "des_003.jpeg",
+      "tags": [
+        "barley",
+        "bean",
+        "bean curd",
+        "broth",
+        "chinese",
+        "chok",
+        "classic",
+        "cooling",
+        "curd",
+        "dessert",
+        "dried",
+        "featuring",
+        "gingko",
+        "gingko nut",
+        "heritage",
+        "lightly",
+        "mai",
+        "nourishing",
+        "nut",
+        "nuts",
+        "popular",
+        "sheets",
+        "simmered",
+        "singapore",
+        "soup",
+        "stalls",
+        "sweet"
+      ],
+      "cost": {
+        "total_sgd": 17.63,
+        "ingredients_sgd": 17.03,
+        "energy_sgd": 0.6,
+        "per_serving_sgd": 2.94,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pearl barley",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "dried bean curd sheets (fu chok)",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "sheets"
+          },
+          {
+            "ingredient": "gingko nuts, shelled and split",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "rock sugar",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.08,
+            "amount": 80.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "l"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 0.896,
+        "ingredients_kgco2e": 0.08,
+        "energy_kgco2e": 0.816,
+        "per_serving_kgco2e": 0.149
+      }
+    },
+    {
+      "id": "des_004",
+      "name": "Tau Suan (Split Mung Bean Dessert)",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes (plus soaking time)",
+      "cook_time": "40 minutes",
+      "servings": 6.0,
+      "description": "A beloved Teochew/Chinese dessert in Singapore, featuring split mung beans cooked until just tender, thickened with sweet potato flour, and served with fried dough sticks (youtiao). Sweet, silky, and comforting.",
+      "ingredients": {
+        "main": {
+          "split mung beans (moong dal)": "200g",
+          "rock sugar": "100g (to taste)",
+          "water": "1.5L",
+          "sweet potato flour or tapioca starch": "2 tbsp (mixed with 4 tbsp water)",
+          "pandan leaves": "2, knotted",
+          "salt": "1/4 tsp"
+        },
+        "for serving": {
+          "youtiao (fried dough sticks)": "sliced"
+        }
+      },
+      "steps": [
+        "Rinse mung beans and soak for 1 hour. Drain.",
+        "Bring water and pandan leaves to a boil. Add mung beans and simmer until just tender but not mushy (about 30 minutes).",
+        "Add rock sugar and salt, stir to dissolve.",
+        "Slowly stir in sweet potato flour slurry to thicken to a silky consistency.",
+        "Serve hot, topped with sliced youtiao."
+      ],
+      "tips": [
+        "Do not overcook mung beans; they should retain their shape.",
+        "Sweet potato flour gives the best texture, but tapioca starch can be used.",
+        "Serve immediately for best texture."
+      ],
+      "themes": [
+        "dessert",
+        "Chinese",
+        "Teochew",
+        "heritage",
+        "mung bean",
+        "hawker",
+        "comfort food"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singaporean Chinese home cooks.",
+      "origin": "Teochew and Chinese communities in Singapore; a hawker and dessert stall favorite.",
+      "imageId": "des_004.jpeg",
+      "tags": [
+        "bean",
+        "beans",
+        "beloved",
+        "chinese",
+        "comfort food",
+        "comforting",
+        "cooked",
+        "dessert",
+        "dough",
+        "featuring",
+        "flour",
+        "fried",
+        "hawker",
+        "heritage",
+        "mung",
+        "mung bean",
+        "potato",
+        "served",
+        "silky",
+        "singapore",
+        "split",
+        "sticks",
+        "suan",
+        "sweet",
+        "tau",
+        "tender",
+        "teochew",
+        "thickened",
+        "youtiao"
+      ],
+      "cost": {
+        "total_sgd": 26.34,
+        "ingredients_sgd": 25.94,
+        "energy_sgd": 0.4,
+        "per_serving_sgd": 4.39,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "split mung beans (moong dal)",
+            "cost_sgd": 0.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "rock sugar",
+            "cost_sgd": 0.17,
+            "emissions_kgco2e": 0.1,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "l"
+          },
+          {
+            "ingredient": "sweet potato flour or tapioca starch",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "pandan leaves",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "youtiao (fried dough sticks)",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 1.144,
+        "ingredients_kgco2e": 0.6,
+        "energy_kgco2e": 0.544,
+        "per_serving_kgco2e": 0.191
+      }
+    },
+    {
+      "id": "des_005",
+      "name": "Papaya Milk Sago",
+      "difficulty": "Easy",
+      "prep_time": "15 minutes",
+      "cook_time": "20 minutes",
+      "servings": 4.0,
+      "description": "A refreshing Singaporean/Chinese dessert featuring chewy sago pearls, ripe papaya, and creamy milk or coconut milk, lightly sweetened and served chilled. Popular at dessert stalls and as a cooling treat.",
+      "ingredients": {
+        "main": {
+          "small sago pearls": "1/2 cup (about 80g)",
+          "ripe papaya, peeled and diced": "1 medium (about 400g)",
+          "evaporated milk or coconut milk": "1 cup (250ml)",
+          "water": "3 cups (750ml)",
+          "rock sugar or caster sugar": "to taste",
+          "ice cubes": "for serving (optional)"
+        }
+      },
+      "steps": [
+        "Bring water to a boil. Add sago pearls and cook, stirring, until translucent (about 10-12 minutes). Drain and rinse under cold water. Set aside.",
+        "Blend half the papaya with milk and sugar until smooth. Dice the remaining papaya.",
+        "Combine sago, papaya puree, diced papaya, and more milk if needed. Adjust sweetness to taste.",
+        "Chill and serve cold, with ice cubes if desired."
+      ],
+      "tips": [
+        "Use ripe, fragrant papaya for best flavor.",
+        "Evaporated milk gives a creamy taste, but coconut milk can be used for a tropical twist.",
+        "Serve well-chilled for maximum refreshment."
+      ],
+      "themes": [
+        "dessert",
+        "Chinese",
+        "sago",
+        "milk",
+        "papaya",
+        "refreshing",
+        "chilled"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singaporean Chinese home cooks.",
+      "origin": "Chinese community in Singapore; a popular dessert at dessert stalls and home.",
+      "imageId": "des_005.jpeg",
+      "tags": [
+        "chewy",
+        "chilled",
+        "chinese",
+        "coconut",
+        "cooling",
+        "creamy",
+        "dessert",
+        "featuring",
+        "lightly",
+        "milk",
+        "papaya",
+        "pearls",
+        "popular",
+        "refreshing",
+        "ripe",
+        "sago",
+        "served",
+        "singaporean",
+        "stalls",
+        "sweetened",
+        "treat"
+      ],
+      "cost": {
+        "total_sgd": 5.4,
+        "ingredients_sgd": 5.2,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 1.35,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "small sago pearls",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ripe papaya, peeled and diced",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "medium"
+          },
+          {
+            "ingredient": "evaporated milk or coconut milk",
+            "cost_sgd": 0.55,
+            "emissions_kgco2e": 0.475,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "rock sugar or caster sugar",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 1.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ice cubes",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 1.747,
+        "ingredients_kgco2e": 1.475,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.437
+      }
+    },
+    {
+      "id": "des_006",
+      "name": "Watermelon Milk Sago",
+      "difficulty": "Easy",
+      "prep_time": "15 minutes",
+      "cook_time": "20 minutes",
+      "servings": 4.0,
+      "description": "A cooling Singaporean/Chinese dessert featuring chewy sago pearls, juicy watermelon, and creamy milk or coconut milk, lightly sweetened and served chilled. Perfect for hot days and dessert stalls.",
+      "ingredients": {
+        "main": {
+          "small sago pearls": "1/2 cup (about 80g)",
+          "watermelon, peeled and diced": "400g",
+          "evaporated milk or coconut milk": "1 cup (250ml)",
+          "water": "3 cups (750ml)",
+          "rock sugar or caster sugar": "to taste",
+          "ice cubes": "for serving (optional)"
+        }
+      },
+      "steps": [
+        "Bring water to a boil. Add sago pearls and cook, stirring, until translucent (about 10-12 minutes). Drain and rinse under cold water. Set aside.",
+        "Blend half the watermelon with milk and sugar until smooth. Dice the remaining watermelon.",
+        "Combine sago, watermelon puree, diced watermelon, and more milk if needed. Adjust sweetness to taste.",
+        "Chill and serve cold, with ice cubes if desired."
+      ],
+      "tips": [
+        "Use sweet, ripe watermelon for best flavor.",
+        "Evaporated milk gives a creamy taste, but coconut milk can be used for a tropical twist.",
+        "Serve well-chilled for maximum refreshment."
+      ],
+      "themes": [
+        "dessert",
+        "Chinese",
+        "sago",
+        "milk",
+        "watermelon",
+        "refreshing",
+        "chilled"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singaporean Chinese home cooks.",
+      "origin": "Chinese community in Singapore; a popular dessert at dessert stalls and home.",
+      "imageId": "des_006.jpeg",
+      "tags": [
+        "chewy",
+        "chilled",
+        "chinese",
+        "coconut",
+        "cooling",
+        "creamy",
+        "days",
+        "dessert",
+        "featuring",
+        "juicy",
+        "lightly",
+        "milk",
+        "pearls",
+        "perfect",
+        "refreshing",
+        "sago",
+        "served",
+        "singaporean",
+        "stalls",
+        "sweetened",
+        "watermelon"
+      ],
+      "cost": {
+        "total_sgd": 5.4,
+        "ingredients_sgd": 5.2,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 1.35,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "small sago pearls",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "watermelon, peeled and diced",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "evaporated milk or coconut milk",
+            "cost_sgd": 0.55,
+            "emissions_kgco2e": 0.475,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "rock sugar or caster sugar",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 1.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ice cubes",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 1.747,
+        "ingredients_kgco2e": 1.475,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.437
+      }
+    },
+    {
+      "id": "des_007",
+      "name": "Durian Pengat",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "servings": 4.0,
+      "description": "A rich, creamy, and decadent dessert made from fresh durian, coconut cream, and palm sugar. A Peranakan and Malay favorite, especially during durian season.",
+      "ingredients": {
+        "main": {
+          "fresh durian flesh": "300g (from 2 durians)",
+          "coconut cream": "250ml",
+          "palm sugar (gula melaka)": "50g, shaved",
+          "salt": "generous pinch"
+        }
+      },
+      "steps": [
+        "Mix durian flesh, coconut cream, palm sugar, and salt in a bowl until well blended.",
+        "Adjust sweetness and creaminess to taste.",
+        "Chill and serve cold."
+      ],
+      "tips": [
+        "Use Mao Shan Wang or D24 durian for best flavor.",
+        "Can be made ahead and stored in the fridge for up to a week."
+      ],
+      "themes": [
+        "dessert",
+        "durian",
+        "Peranakan",
+        "Malay",
+        "heritage"
+      ],
+      "source": "Adapted from Camemberu, Rasa Malaysia, and Singapore home cooks.",
+      "origin": "Malay and Peranakan communities in Singapore and Malaysia.",
+      "imageId": "des_007.jpeg",
+      "tags": [
+        "coconut",
+        "cream",
+        "creamy",
+        "decadent",
+        "dessert",
+        "durian",
+        "especially",
+        "favorite",
+        "fresh",
+        "heritage",
+        "made",
+        "malay",
+        "palm",
+        "pengat",
+        "peranakan",
+        "rich",
+        "season",
+        "sugar"
+      ],
+      "cost": {
+        "total_sgd": 5.7,
+        "ingredients_sgd": 5.6,
+        "energy_sgd": 0.1,
+        "per_serving_sgd": 1.42,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "fresh durian flesh",
+            "cost_sgd": 2.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "coconut cream",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 250.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "palm sugar (gula melaka)",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 0.636,
+        "ingredients_kgco2e": 0.5,
+        "energy_kgco2e": 0.136,
+        "per_serving_kgco2e": 0.159
+      }
+    },
+    {
+      "id": "des_008",
+      "name": "Chendol",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "30 minutes",
+      "servings": 6.0,
+      "description": "A beloved shaved ice dessert with pandan jelly noodles, coconut milk, and palm sugar syrup. Iconic at hawker centers and dessert stalls.",
+      "ingredients": {
+        "pandan jelly": {
+          "pandan leaves": "10, sliced",
+          "mung bean flour": "100g",
+          "alkaline water (optional)": "1/2 tsp",
+          "salt": "pinch",
+          "sugar": "45g",
+          "water": "650ml"
+        },
+        "toppings": {
+          "coconut milk": "500ml, mixed with pinch of salt",
+          "gula melaka syrup": "100ml or as needed",
+          "red beans, sweetened": "optional",
+          "attap seeds": "optional"
+        }
+      },
+      "steps": [
+        "Blend pandan leaves with water, strain to get pandan water.",
+        "Mix pandan water with mung bean flour, salt, and sugar. Cook over medium heat, whisking until thick and translucent.",
+        "Press batter through a perforated ladle into ice water to form noodles. Drain and set aside.",
+        "Serve with shaved ice, coconut milk, gula melaka syrup, and toppings."
+      ],
+      "tips": [
+        "Add sweet corn, red beans, or attap seeds for extra texture.",
+        "Chill coconut milk before serving for best flavor."
+      ],
+      "themes": [
+        "dessert",
+        "coconut",
+        "pandan",
+        "hawker",
+        "heritage"
+      ],
+      "source": "Adapted from The MeatMen, My Singapore Food, SBS, and Singapore home cooks.",
+      "origin": "Malay, Peranakan, and Chinese communities in Singapore and Malaysia.",
+      "imageId": "des_008.jpeg",
+      "tags": [
+        "beloved",
+        "centers",
+        "chendol",
+        "coconut",
+        "dessert",
+        "hawker",
+        "heritage",
+        "ice",
+        "iconic",
+        "jelly",
+        "milk",
+        "noodles",
+        "palm",
+        "pandan",
+        "shaved",
+        "stalls",
+        "sugar",
+        "syrup"
+      ],
+      "cost": {
+        "total_sgd": 95.02,
+        "ingredients_sgd": 94.72,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 15.84,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pandan leaves",
+            "cost_sgd": 80.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 10.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "mung bean flour",
+            "cost_sgd": 0.25,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "alkaline water (optional)",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.045,
+            "amount": 45.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 650.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.95,
+            "amount": 500.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "gula melaka syrup",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "red beans, sweetened",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "attap seeds",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 1.903,
+        "ingredients_kgco2e": 1.495,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 0.317
+      }
+    },
+    {
+      "id": "des_009",
+      "name": "Ice Kacang (Ais Kacang)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "10 minutes",
+      "servings": 4.0,
+      "description": "A mountain of shaved ice with sweet syrups, red beans, grass jelly, sweet corn, and more. A colorful, refreshing Singaporean and Malaysian dessert.",
+      "ingredients": {
+        "main": {
+          "ice cubes": "4 cups",
+          "sweetened red beans": "1 can (450g)",
+          "grass jelly": "1 can (540g), cubed",
+          "creamed sweet corn": "1 can (400g)",
+          "attap seeds (palm seeds)": "1 can (230g)",
+          "condensed milk": "as needed",
+          "evaporated milk": "as needed"
+        },
+        "syrups": {
+          "gula melaka": "1/2 cup, melted with 1/2 cup water",
+          "simple syrup": "1/2 cup sugar + 1/2 cup water, divided and colored red/green"
+        }
+      },
+      "steps": [
+        "Prepare syrups: cook sugar and water, divide and color as desired. Melt gula melaka with water.",
+        "Shave ice using a blender or ice shaver.",
+        "Layer red beans, grass jelly, sweet corn, attap seeds in bowl. Top with shaved ice.",
+        "Drizzle with syrups, condensed milk, and evaporated milk. Serve immediately."
+      ],
+      "tips": [
+        "Add cendol jelly, peanuts, or ice cream for extra toppings.",
+        "Use a mix of syrups for authentic color and flavor."
+      ],
+      "themes": [
+        "dessert",
+        "ice",
+        "hawker",
+        "heritage",
+        "colorful"
+      ],
+      "source": "Adapted from Rasa Malaysia, What To Cook Today, Serious Eats, and Singapore home cooks.",
+      "origin": "Singapore and Malaysia; a hawker and food court favorite.",
+      "imageId": "des_009.jpeg",
+      "tags": [
+        "ais",
+        "beans",
+        "colorful",
+        "corn",
+        "dessert",
+        "grass",
+        "hawker",
+        "heritage",
+        "ice",
+        "jelly",
+        "kacang",
+        "malaysian",
+        "mountain",
+        "red",
+        "refreshing",
+        "shaved",
+        "singaporean",
+        "sweet",
+        "syrups"
+      ],
+      "cost": {
+        "total_sgd": 25.7,
+        "ingredients_sgd": 25.6,
+        "energy_sgd": 0.1,
+        "per_serving_sgd": 6.42,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "ice cubes",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "sweetened red beans",
+            "cost_sgd": 1.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "can"
+          },
+          {
+            "ingredient": "grass jelly",
+            "cost_sgd": 3.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "can"
+          },
+          {
+            "ingredient": "creamed sweet corn",
+            "cost_sgd": 3.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "can"
+          },
+          {
+            "ingredient": "attap seeds (palm seeds)",
+            "cost_sgd": 3.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "can"
+          },
+          {
+            "ingredient": "condensed milk",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.9,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "evaporated milk",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.9,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "gula melaka",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "simple syrup",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 3.936,
+        "ingredients_kgco2e": 3.8,
+        "energy_kgco2e": 0.136,
+        "per_serving_kgco2e": 0.984
+      }
+    },
+    {
+      "id": "des_010",
+      "name": "Bubur Cha Cha",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "30 minutes",
+      "servings": 6.0,
+      "description": "A vibrant Nyonya dessert soup of sweet potatoes, yam, sago, and colorful tapioca jellies in coconut milk. Served warm or cold.",
+      "ingredients": {
+        "main": {
+          "sweet potatoes (orange, purple, yellow)": "500g, peeled and cubed",
+          "yam (taro)": "200g, peeled and cubed",
+          "sago pearls": "1/2 cup",
+          "tapioca flour": "100g (for jellies)",
+          "coconut milk": "400ml",
+          "pandan leaves": "2, knotted",
+          "sugar": "to taste",
+          "salt": "1/4 tsp"
+        }
+      },
+      "steps": [
+        "Steam sweet potatoes and yam until tender.",
+        "Cook sago pearls in boiling water until translucent, drain and rinse.",
+        "Make tapioca jellies: mix flour with water and food coloring, knead, cut, and boil until translucent.",
+        "Simmer coconut milk with pandan, sugar, and salt. Add all ingredients and serve warm or cold."
+      ],
+      "tips": [
+        "Use a mix of sweet potato colors for visual appeal.",
+        "Can be made ahead and chilled."
+      ],
+      "themes": [
+        "dessert",
+        "Nyonya",
+        "coconut",
+        "yam",
+        "heritage"
+      ],
+      "source": "Adapted from Rasa Malaysia, The MeatMen, and Singapore home cooks.",
+      "origin": "Peranakan and Malay communities in Singapore and Malaysia.",
+      "imageId": "des_010.jpeg",
+      "tags": [
+        "bubur",
+        "cha",
+        "coconut",
+        "cold",
+        "colorful",
+        "dessert",
+        "heritage",
+        "jellies",
+        "milk",
+        "nyonya",
+        "potatoes",
+        "sago",
+        "served",
+        "soup",
+        "sweet",
+        "tapioca",
+        "vibrant",
+        "warm",
+        "yam"
+      ],
+      "cost": {
+        "total_sgd": 21.98,
+        "ingredients_sgd": 21.68,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 3.66,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "sweet potatoes (orange, purple, yellow)",
+            "cost_sgd": 0.3,
+            "emissions_kgco2e": 0.25,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "yam (taro)",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sago pearls",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tapioca flour",
+            "cost_sgd": 0.25,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 0.76,
+            "amount": 400.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "pandan leaves",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 1.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 2.918,
+        "ingredients_kgco2e": 2.51,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 0.486
+      }
+    },
+    {
+      "id": "des_011",
+      "name": "Pulut Hitam (Black Glutinous Rice Dessert)",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes (plus soaking)",
+      "cook_time": "1 hour",
+      "servings": 6.0,
+      "description": "A comforting dessert of black glutinous rice slow-cooked with coconut milk and palm sugar. Served warm or cold.",
+      "ingredients": {
+        "main": {
+          "black glutinous rice": "200g, soaked overnight",
+          "water": "1.5L",
+          "pandan leaves": "2, knotted",
+          "palm sugar (gula melaka)": "100g, chopped",
+          "coconut milk": "200ml",
+          "salt": "1/4 tsp"
+        }
+      },
+      "steps": [
+        "Rinse and soak rice overnight. Drain.",
+        "Simmer rice with water and pandan leaves until soft and porridge-like (about 1 hour).",
+        "Add palm sugar and salt, stir to dissolve.",
+        "Serve with a swirl of coconut milk, warm or chilled."
+      ],
+      "tips": [
+        "Soaking rice shortens cooking time.",
+        "Add more water for a thinner consistency."
+      ],
+      "themes": [
+        "dessert",
+        "rice",
+        "coconut",
+        "heritage"
+      ],
+      "source": "Adapted from Rasa Malaysia, The MeatMen, and Singapore home cooks.",
+      "origin": "Malay, Peranakan, and Chinese communities in Singapore and Malaysia.",
+      "imageId": "des_011.jpeg",
+      "tags": [
+        "black",
+        "coconut",
+        "cold",
+        "comforting",
+        "cooked",
+        "dessert",
+        "glutinous",
+        "heritage",
+        "hitam",
+        "milk",
+        "palm",
+        "pulut",
+        "rice",
+        "served",
+        "slow",
+        "sugar",
+        "warm"
+      ],
+      "cost": {
+        "total_sgd": 18.19,
+        "ingredients_sgd": 18.18,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 3.03,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "black glutinous rice",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.9,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "l"
+          },
+          {
+            "ingredient": "pandan leaves",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "palm sugar (gula melaka)",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.38,
+            "amount": 200.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 1.794,
+        "ingredients_kgco2e": 1.78,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 0.299
+      }
+    },
+    {
+      "id": "des_012",
+      "name": "Kueh Lapis (Layer Cake)",
+      "difficulty": "Hard",
+      "prep_time": "40 minutes",
+      "cook_time": "1 hour",
+      "servings": 10.0,
+      "description": "A festive steamed cake with colorful layers of coconut and rice flour, flavored with pandan and coconut milk. Chewy, sweet, and nostalgic.",
+      "ingredients": {
+        "main": {
+          "rice flour": "200g",
+          "tapioca flour": "100g",
+          "coconut milk": "400ml",
+          "sugar": "200g",
+          "water": "400ml",
+          "pandan juice": "100ml",
+          "food coloring": "as needed",
+          "salt": "1/4 tsp"
+        }
+      },
+      "steps": [
+        "Mix flours, sugar, salt, coconut milk, water, and pandan juice into a smooth batter.",
+        "Divide batter and color as desired.",
+        "Steam each layer in a greased pan, pouring and steaming one color at a time (about 5-7 minutes per layer).",
+        "Cool, slice, and serve."
+      ],
+      "tips": [
+        "Use a sharp knife greased with oil for clean slices.",
+        "Let cake cool completely before slicing."
+      ],
+      "themes": [
+        "dessert",
+        "kueh",
+        "layer cake",
+        "heritage",
+        "festive"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore home cooks.",
+      "origin": "Peranakan and Malay communities in Singapore and Malaysia.",
+      "imageId": "des_012.jpeg",
+      "tags": [
+        "cake",
+        "chewy",
+        "coconut",
+        "colorful",
+        "dessert",
+        "festive",
+        "flavored",
+        "flour",
+        "heritage",
+        "kueh",
+        "lapis",
+        "layer",
+        "layer cake",
+        "layers",
+        "milk",
+        "nostalgic",
+        "pandan",
+        "rice",
+        "steamed",
+        "sweet"
+      ],
+      "cost": {
+        "total_sgd": 11.01,
+        "ingredients_sgd": 11.0,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 1.1,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice flour",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.9,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "tapioca flour",
+            "cost_sgd": 0.25,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 0.76,
+            "amount": 400.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 0.2,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 400.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "pandan juice",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "food coloring",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 2.374,
+        "ingredients_kgco2e": 2.36,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 0.237
+      }
+    },
+    {
+      "id": "des_013",
+      "name": "Ondeh Ondeh",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "servings": 20.0,
+      "description": "Chewy glutinous rice balls filled with molten palm sugar and coated in fresh coconut. A bite-sized Peranakan and Malay treat.",
+      "ingredients": {
+        "main": {
+          "glutinous rice flour": "250g",
+          "pandan juice": "150ml",
+          "palm sugar (gula melaka), chopped": "100g",
+          "grated fresh coconut": "1 cup",
+          "salt": "1/4 tsp"
+        }
+      },
+      "steps": [
+        "Mix glutinous rice flour with pandan juice to form a soft dough.",
+        "Wrap dough around a small piece of palm sugar, seal well.",
+        "Boil balls until they float, then roll in grated coconut mixed with salt.",
+        "Serve at room temperature."
+      ],
+      "tips": [
+        "Use freshly grated coconut for best flavor.",
+        "Seal dough well to prevent sugar from leaking."
+      ],
+      "themes": [
+        "dessert",
+        "kueh",
+        "Peranakan",
+        "Malay",
+        "heritage"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore home cooks.",
+      "origin": "Peranakan and Malay communities in Singapore and Malaysia.",
+      "imageId": "des_013.jpeg",
+      "tags": [
+        "balls",
+        "bite",
+        "chewy",
+        "coated",
+        "coconut",
+        "dessert",
+        "filled",
+        "fresh",
+        "glutinous",
+        "heritage",
+        "kueh",
+        "malay",
+        "molten",
+        "ondeh",
+        "palm",
+        "peranakan",
+        "rice",
+        "sized",
+        "sugar",
+        "treat"
+      ],
+      "cost": {
+        "total_sgd": 4.05,
+        "ingredients_sgd": 3.85,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 0.2,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "glutinous rice flour",
+            "cost_sgd": 0.55,
+            "emissions_kgco2e": 1.125,
+            "amount": 250.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "pandan juice",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 150.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "palm sugar (gula melaka), chopped",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "grated fresh coconut",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 1.897,
+        "ingredients_kgco2e": 1.625,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.095
+      }
+    },
+    {
+      "id": "des_014",
+      "name": "Sago Gula Melaka",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "20 minutes",
+      "servings": 6.0,
+      "description": "A simple yet decadent dessert of sago pearls topped with coconut milk and palm sugar syrup. Served chilled.",
+      "ingredients": {
+        "main": {
+          "sago pearls": "1 cup (about 150g)",
+          "water": "1.5L",
+          "palm sugar (gula melaka)": "100g, chopped",
+          "coconut milk": "200ml",
+          "salt": "1/4 tsp"
+        }
+      },
+      "steps": [
+        "Boil sago pearls in water until translucent, stirring to prevent sticking. Drain and rinse under cold water.",
+        "Melt palm sugar with a little water to make syrup.",
+        "Serve sago in bowls, topped with coconut milk and palm sugar syrup."
+      ],
+      "tips": [
+        "Rinse sago well to remove excess starch.",
+        "Chill before serving for best texture."
+      ],
+      "themes": [
+        "dessert",
+        "sago",
+        "coconut",
+        "heritage"
+      ],
+      "source": "Adapted from Rasa Malaysia, The MeatMen, and Singapore home cooks.",
+      "origin": "Malay, Peranakan, and Chinese communities in Singapore and Malaysia.",
+      "imageId": "des_014.jpeg",
+      "tags": [
+        "chilled",
+        "coconut",
+        "decadent",
+        "dessert",
+        "gula",
+        "heritage",
+        "melaka",
+        "milk",
+        "palm",
+        "pearls",
+        "sago",
+        "served",
+        "simple",
+        "sugar",
+        "syrup",
+        "topped",
+        "yet"
+      ],
+      "cost": {
+        "total_sgd": 2.19,
+        "ingredients_sgd": 1.99,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 0.37,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "sago pearls",
+            "cost_sgd": 0.25,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "l"
+          },
+          {
+            "ingredient": "palm sugar (gula melaka)",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.38,
+            "amount": 200.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 1.152,
+        "ingredients_kgco2e": 0.88,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.192
+      }
+    },
+    {
+      "id": "des_015",
+      "name": "Cheng Tng (Clear Sweet Soup)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "1 hour",
+      "servings": 8.0,
+      "description": "A refreshing Teochew dessert soup: dried longan, barley, lotus seeds, white fungus, and sweet potato simmered in a light syrup. Served hot or cold at dessert stalls.",
+      "ingredients": {
+        "Main": {
+          "dried longan": "50g",
+          "barley": "30g",
+          "lotus seeds": "30g",
+          "white fungus": "20g, soaked and torn",
+          "sweet potato": "1, cubed",
+          "dried persimmon": "2, sliced (optional)",
+          "rock sugar": "80g",
+          "water": "2 litres"
+        }
+      },
+      "preparation": [
+        "Soak lotus seeds and white fungus. Combine all ingredients in a pot, bring to a boil, simmer 1 hour. Serve hot or cold."
+      ],
+      "tips": [
+        "Add ginkgo nuts for extra texture.",
+        "Adjust sweetness to taste."
+      ],
+      "nutrition": {
+        "calories": 90,
+        "protein": "2g",
+        "carbohydrates": "22g",
+        "fat": "0g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore dessert stalls.",
+      "imageId": "des_015.jpeg",
+      "steps": [
+        "Soak lotus seeds and white fungus. Combine all ingredients in a pot, bring to a boil, simmer 1 hour. Serve hot or cold."
+      ],
+      "tags": [
+        "barley",
+        "cheng",
+        "clear",
+        "cold",
+        "dessert",
+        "dried",
+        "fungus",
+        "light",
+        "longan",
+        "lotus",
+        "potato",
+        "refreshing",
+        "seeds",
+        "served",
+        "simmered",
+        "soup",
+        "stalls",
+        "sweet",
+        "syrup",
+        "teochew",
+        "tng",
+        "white"
+      ],
+      "cost": {
+        "total_sgd": 17.78,
+        "ingredients_sgd": 17.77,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 2.22,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "dried longan",
+            "cost_sgd": 0.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "barley",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "lotus seeds",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "white fungus",
+            "cost_sgd": 0.16,
+            "emissions_kgco2e": 0.0,
+            "amount": 20.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sweet potato",
+            "cost_sgd": 0.6,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dried persimmon",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "rock sugar",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.08,
+            "amount": 80.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "litres"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 0.594,
+        "ingredients_kgco2e": 0.58,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 0.074
+      }
+    },
+    {
+      "id": "des_016",
+      "name": "Red Bean Soup (Hong Dou Tang)",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes (plus soaking)",
+      "cook_time": "1 hour",
+      "servings": 6.0,
+      "description": "A classic Chinese dessert soup of red beans simmered with dried tangerine peel and rock sugar. Served hot or cold.",
+      "ingredients": {
+        "main": {
+          "red beans (adzuki beans)": "200g, soaked overnight",
+          "water": "1.5L",
+          "dried tangerine peel": "1 small piece",
+          "rock sugar": "100g",
+          "pandan leaves": "2, knotted (optional)"
+        }
+      },
+      "steps": [
+        "Rinse and soak beans overnight. Drain.",
+        "Simmer beans, tangerine peel, and pandan leaves in water until beans are soft (about 1 hour).",
+        "Add rock sugar, stir to dissolve. Serve hot or chilled."
+      ],
+      "tips": [
+        "Add sago pearls for extra texture.",
+        "Adjust sweetness to taste."
+      ],
+      "themes": [
+        "dessert",
+        "Chinese",
+        "soup",
+        "heritage"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore home cooks.",
+      "origin": "Chinese community in Singapore and Malaysia.",
+      "imageId": "des_016.jpeg",
+      "tags": [
+        "bean",
+        "beans",
+        "chinese",
+        "classic",
+        "cold",
+        "dessert",
+        "dou",
+        "dried",
+        "heritage",
+        "hong",
+        "peel",
+        "red",
+        "rock",
+        "served",
+        "simmered",
+        "soup",
+        "sugar",
+        "tang",
+        "tangerine"
+      ],
+      "cost": {
+        "total_sgd": 24.98,
+        "ingredients_sgd": 24.96,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 4.16,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "red beans (adzuki beans)",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "l"
+          },
+          {
+            "ingredient": "dried tangerine peel",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "small"
+          },
+          {
+            "ingredient": "rock sugar",
+            "cost_sgd": 0.17,
+            "emissions_kgco2e": 0.1,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "pandan leaves",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 0.114,
+        "ingredients_kgco2e": 0.1,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 0.019
+      }
+    },
+    {
+      "id": "des_017",
+      "name": "Mango Pomelo Sago",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "20 minutes",
+      "servings": 6.0,
+      "description": "A refreshing dessert of mango puree, pomelo sacs, sago pearls, and coconut milk. Served chilled, popular at dessert shops.",
+      "ingredients": {
+        "main": {
+          "ripe mangoes": "2 large, peeled and diced",
+          "pomelo": "1/2, peeled and separated into sacs",
+          "sago pearls": "1/2 cup",
+          "coconut milk": "200ml",
+          "evaporated milk": "100ml",
+          "sugar": "to taste"
+        }
+      },
+      "steps": [
+        "Cook sago pearls in boiling water until translucent, drain and rinse.",
+        "Blend one mango with coconut milk, evaporated milk, and sugar to make a smooth puree.",
+        "Combine puree with sago, diced mango, and pomelo sacs. Chill and serve cold."
+      ],
+      "tips": [
+        "Use ripe, sweet mangoes for best flavor.",
+        "Chill thoroughly before serving."
+      ],
+      "themes": [
+        "dessert",
+        "fruit",
+        "sago",
+        "heritage"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore dessert shops.",
+      "origin": "Modern Singaporean and Hong Kong dessert shops.",
+      "imageId": "des_017.jpeg",
+      "tags": [
+        "chilled",
+        "coconut",
+        "dessert",
+        "fruit",
+        "heritage",
+        "mango",
+        "milk",
+        "pearls",
+        "pomelo",
+        "popular",
+        "puree",
+        "refreshing",
+        "sacs",
+        "sago",
+        "served",
+        "shops"
+      ],
+      "cost": {
+        "total_sgd": 15.51,
+        "ingredients_sgd": 15.31,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 2.58,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "ripe mangoes",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "large"
+          },
+          {
+            "ingredient": "pomelo",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sago pearls",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.38,
+            "amount": 200.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "evaporated milk",
+            "cost_sgd": 0.22,
+            "emissions_kgco2e": 0.19,
+            "amount": 100.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 1.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 1.842,
+        "ingredients_kgco2e": 1.57,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.307
+      }
+    },
+    {
+      "id": "des_018",
+      "name": "Orh Nee (Yam Paste)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "40 minutes",
+      "servings": 8.0,
+      "description": "A Teochew classic dessert of steamed yam paste, sweetened and enriched with lard or coconut milk, topped with ginkgo nuts.",
+      "ingredients": {
+        "main": {
+          "yam (taro)": "800g, peeled and steamed",
+          "sugar": "150g",
+          "coconut milk": "200ml",
+          "vegetable oil or lard": "3 tbsp",
+          "ginkgo nuts": "20, cooked and peeled"
+        }
+      },
+      "steps": [
+        "Steam yam until soft, mash or blend until smooth.",
+        "Cook yam paste with sugar and oil/lard over low heat until thick and glossy.",
+        "Stir in coconut milk, cook until smooth and creamy.",
+        "Serve warm, topped with ginkgo nuts."
+      ],
+      "tips": [
+        "Use lard for traditional flavor, or coconut oil for a vegetarian version.",
+        "Can be made ahead and reheated."
+      ],
+      "themes": [
+        "dessert",
+        "yam",
+        "Teochew",
+        "heritage"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Teochew restaurants.",
+      "origin": "Teochew community in Singapore and Malaysia.",
+      "imageId": "des_018.jpeg",
+      "tags": [
+        "classic",
+        "coconut",
+        "dessert",
+        "enriched",
+        "ginkgo",
+        "heritage",
+        "lard",
+        "milk",
+        "nee",
+        "nuts",
+        "orh",
+        "paste",
+        "steamed",
+        "sweetened",
+        "teochew",
+        "topped",
+        "yam"
+      ],
+      "cost": {
+        "total_sgd": 163.29,
+        "ingredients_sgd": 162.89,
+        "energy_sgd": 0.4,
+        "per_serving_sgd": 20.41,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "yam (taro)",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 800.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.25,
+            "emissions_kgco2e": 0.15,
+            "amount": 150.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.38,
+            "amount": 200.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "vegetable oil or lard",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.27,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "ginkgo nuts",
+            "cost_sgd": 160.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 20.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 1.344,
+        "ingredients_kgco2e": 0.8,
+        "energy_kgco2e": 0.544,
+        "per_serving_kgco2e": 0.168
+      }
+    },
+    {
+      "id": "des_019",
+      "name": "Sweet Corn Ice Cream",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "20 minutes",
+      "servings": 8.0,
+      "description": "A nostalgic Singaporean treat: creamy ice cream made with sweet corn, coconut cream, and milk powder. Served in a cup or as an ice cream sandwich.",
+      "ingredients": {
+        "main": {
+          "corn cobs": "4, kernels reserved",
+          "thickened cream": "600ml",
+          "egg yolks": "5",
+          "sugar": "3/4 cup",
+          "vanilla bean paste": "1 tbsp",
+          "milk powder": "5 tbsp",
+          "coconut cream": "1 tbsp",
+          "water": "1 cup"
+        }
+      },
+      "steps": [
+        "Simmer cream and corn cobs in a saucepan for 10-15 minutes. Remove cobs.",
+        "Boil corn kernels with water for 15 minutes. Set aside.",
+        "Beat egg yolks, sugar, vanilla, coconut cream, and milk powder until pale and fluffy.",
+        "Add to warm cream, mix well. Add corn kernels, blend until smooth.",
+        "Pour into a tin, cover, and freeze for 10 hours before serving."
+      ],
+      "tips": [
+        "Serve in a cup or as an ice cream sandwich with bread.",
+        "Use fresh corn for best flavor."
+      ],
+      "themes": [
+        "dessert",
+        "ice cream",
+        "corn",
+        "nostalgic",
+        "hawker"
+      ],
+      "source": "Adapted from Cook Republic, Singapore hawker stalls, and home cooks.",
+      "origin": "Singapore and Malaysia; a hawker and pasar malam favorite.",
+      "imageId": "des_019.jpeg",
+      "tags": [
+        "coconut",
+        "corn",
+        "cream",
+        "creamy",
+        "cup",
+        "dessert",
+        "hawker",
+        "ice",
+        "ice cream",
+        "made",
+        "milk",
+        "nostalgic",
+        "powder",
+        "sandwich",
+        "served",
+        "singaporean",
+        "sweet",
+        "treat"
+      ],
+      "cost": {
+        "total_sgd": 16.74,
+        "ingredients_sgd": 16.54,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 2.09,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "corn cobs",
+            "cost_sgd": 4.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "thickened cream",
+            "cost_sgd": 4.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 600.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "egg yolks",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 22.5,
+            "amount": 5.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 4.95,
+            "emissions_kgco2e": 3.0,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "vanilla bean paste",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "milk powder",
+            "cost_sgd": 0.17,
+            "emissions_kgco2e": 0.142,
+            "amount": 5.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "coconut cream",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "cup"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 25.914,
+        "ingredients_kgco2e": 25.642,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 3.239
+      }
+    },
+    {
+      "id": "des_020",
+      "name": "Ang Ku Kueh (Red Tortoise Cake)",
+      "difficulty": "Medium",
+      "prep_time": "1 hour (plus resting)",
+      "cook_time": "30 minutes",
+      "servings": 12.0,
+      "description": "A traditional Peranakan and Chinese pastry with a soft, chewy glutinous rice flour skin and sweet mung bean or peanut filling. Molded to resemble a tortoise shell and served at celebrations for good luck.",
+      "ingredients": {
+        "skin": {
+          "glutinous rice flour": "200g",
+          "sweet potato (orange, steamed and mashed)": "100g",
+          "sugar": "40g",
+          "vegetable oil": "2 tbsp",
+          "water": "100ml (as needed)",
+          "red food coloring": "a few drops (optional)"
+        },
+        "filling": {
+          "split mung beans (or peanuts)": "100g, soaked and steamed",
+          "sugar": "60g",
+          "vegetable oil": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Steam and mash sweet potato. Mix with glutinous rice flour, sugar, oil, and enough water to form a soft dough. Add food coloring if using. Rest 30 minutes.",
+        "For filling: Steam mung beans until soft, mash, and mix with sugar and oil. Cool and shape into 12 small balls.",
+        "Divide dough into 12 pieces. Flatten each, wrap around a ball of filling, and shape in an ang ku kueh mold. Place on oiled banana leaf squares.",
+        "Steam over medium heat for 8–10 minutes. Brush with oil. Cool before serving."
+      ],
+      "tips": [
+        "Use orange sweet potato for best color and texture.",
+        "Traditional molds give the tortoise shell pattern, but any small mold can be used."
+      ],
+      "nutrition": {
+        "calories": 140,
+        "protein": "2g",
+        "carbohydrates": "28g",
+        "fat": "3g"
+      },
+      "source": "Adapted from Rasa Malaysia, Nyonya Cooking, and Singapore Infopedia.",
+      "imageId": "des_020.jpeg",
+      "steps": [
+        "Steam and mash sweet potato. Mix with glutinous rice flour, sugar, oil, and enough water to form a soft dough. Add food coloring if using. Rest 30 minutes.",
+        "For filling: Steam mung beans until soft, mash, and mix with sugar and oil. Cool and shape into 12 small balls.",
+        "Divide dough into 12 pieces. Flatten each, wrap around a ball of filling, and shape in an ang ku kueh mold. Place on oiled banana leaf squares.",
+        "Steam over medium heat for 8–10 minutes. Brush with oil. Cool before serving."
+      ],
+      "tags": [
+        "ang",
+        "bean",
+        "cake",
+        "celebrations",
+        "chewy",
+        "chinese",
+        "filling",
+        "flour",
+        "glutinous",
+        "good",
+        "kueh",
+        "luck",
+        "molded",
+        "mung",
+        "pastry",
+        "peanut",
+        "peranakan",
+        "red",
+        "resemble",
+        "rice",
+        "served",
+        "shell",
+        "skin",
+        "soft",
+        "sweet",
+        "tortoise",
+        "traditional"
+      ],
+      "cost": {
+        "total_sgd": 9.83,
+        "ingredients_sgd": 9.53,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 0.82,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "glutinous rice flour",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.9,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sweet potato (orange, steamed and mashed)",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.05,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.04,
+            "amount": 40.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "vegetable oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "red food coloring",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "split mung beans (or peanuts)",
+            "cost_sgd": 0.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 60.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "vegetable oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 1.818,
+        "ingredients_kgco2e": 1.41,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 0.151
+      }
+    },
+    {
+      "id": "des_021",
+      "name": "Tau Sar Piah (Mung Bean Pastry)",
+      "difficulty": "Medium",
+      "prep_time": "1 hour 30 minutes",
+      "cook_time": "30 minutes",
+      "servings": 16.0,
+      "description": "A flaky, layered pastry filled with sweet or savory mung bean paste. Popular as a snack or festive treat in Singapore and Malaysia, especially during Chinese festivals.",
+      "ingredients": {
+        "water dough": {
+          "all-purpose flour": "150g",
+          "sugar": "20g",
+          "vegetable oil": "40g",
+          "water": "60ml"
+        },
+        "oil dough": {
+          "all-purpose flour": "100g",
+          "vegetable oil": "50g"
+        },
+        "filling": {
+          "split mung beans": "120g, soaked and steamed",
+          "sugar": "60g (for sweet version)",
+          "salt": "1/2 tsp (for savory version)",
+          "vegetable oil": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Prepare water dough: Mix flour, sugar, oil, and water to form a soft dough. Rest 30 minutes.",
+        "Prepare oil dough: Mix flour and oil to form a soft dough. Rest 30 minutes.",
+        "For filling: Steam mung beans until soft, mash, and mix with sugar (or salt) and oil. Cool and divide into 16 balls.",
+        "Divide both doughs into 16 pieces. Wrap oil dough inside water dough, flatten, roll up, then flatten and roll up again for layers. Flatten, wrap around filling, and shape into balls. Place on baking tray, brush with oil or egg wash.",
+        "Bake at 180°C (350°F) for 25–30 minutes until golden. Cool before serving."
+      ],
+      "tips": [
+        "For extra flakiness, repeat the rolling process twice.",
+        "Both sweet and savory versions are popular in Singapore."
+      ],
+      "nutrition": {
+        "calories": 120,
+        "protein": "3g",
+        "carbohydrates": "20g",
+        "fat": "4g"
+      },
+      "source": "Adapted from Nyonya Cooking, The MeatMen, and Singapore Infopedia.",
+      "imageId": "des_021.jpeg",
+      "steps": [
+        "Prepare water dough: Mix flour, sugar, oil, and water to form a soft dough. Rest 30 minutes.",
+        "Prepare oil dough: Mix flour and oil to form a soft dough. Rest 30 minutes.",
+        "For filling: Steam mung beans until soft, mash, and mix with sugar (or salt) and oil. Cool and divide into 16 balls.",
+        "Divide both doughs into 16 pieces. Wrap oil dough inside water dough, flatten, roll up, then flatten and roll up again for layers. Flatten, wrap around filling, and shape into balls. Place on baking tray, brush with oil or egg wash.",
+        "Bake at 180°C (350°F) for 25–30 minutes until golden. Cool before serving."
+      ],
+      "tags": [
+        "bean",
+        "chinese",
+        "especially",
+        "festivals",
+        "festive",
+        "filled",
+        "flaky",
+        "layered",
+        "malaysia",
+        "mung",
+        "paste",
+        "pastry",
+        "piah",
+        "popular",
+        "sar",
+        "savory",
+        "singapore",
+        "snack",
+        "sweet",
+        "tau",
+        "treat"
+      ],
+      "cost": {
+        "total_sgd": 3.05,
+        "ingredients_sgd": 2.75,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 0.19,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "all-purpose flour",
+            "cost_sgd": 0.38,
+            "emissions_kgco2e": 0.0,
+            "amount": 150.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.02,
+            "amount": 20.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "vegetable oil",
+            "cost_sgd": 0.18,
+            "emissions_kgco2e": 0.24,
+            "amount": 40.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 60.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "all-purpose flour",
+            "cost_sgd": 0.25,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "vegetable oil",
+            "cost_sgd": 0.22,
+            "emissions_kgco2e": 0.3,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "split mung beans",
+            "cost_sgd": 0.36,
+            "emissions_kgco2e": 0.0,
+            "amount": 120.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 60.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "vegetable oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 1.708,
+        "ingredients_kgco2e": 1.3,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 0.107
+      }
+    },
+    {
+      "id": "des_022",
+      "name": "Kueh Abuk-Abuk Sagu (Steamed Sago Cake)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "30 minutes",
+      "servings": 10.0,
+      "description": "A traditional Malay and Peranakan steamed kueh made with sago pearls, grated coconut, and palm sugar, wrapped in banana leaves. Chewy, fragrant, and lightly sweet.",
+      "ingredients": {
+        "Main": {
+          "sago pearls": "200g, soaked 1 hour",
+          "grated coconut": "100g",
+          "gula melaka (palm sugar)": "80g, chopped",
+          "salt": "1/2 tsp",
+          "banana leaves": "for wrapping"
+        }
+      },
+      "preparation": [
+        "Mix soaked sago with salt. Spread half in banana leaf, add coconut and palm sugar, cover with remaining sago.",
+        "Wrap and fold into parcels. Steam 30 minutes until translucent and set. Cool before serving."
+      ],
+      "tips": [
+        "Use fresh banana leaves for best aroma.",
+        "Add a little pandan juice for extra fragrance."
+      ],
+      "nutrition": {
+        "calories": 110,
+        "protein": "1g",
+        "carbohydrates": "25g",
+        "fat": "2g"
+      },
+      "source": "Adapted from Nyonya Cooking, The MeatMen, and Singapore Malay kitchens.",
+      "imageId": "des_022.jpeg",
+      "steps": [
+        "Mix soaked sago with salt. Spread half in banana leaf, add coconut and palm sugar, cover with remaining sago.",
+        "Wrap and fold into parcels. Steam 30 minutes until translucent and set. Cool before serving."
+      ],
+      "tags": [
+        "abuk",
+        "banana",
+        "cake",
+        "chewy",
+        "coconut",
+        "fragrant",
+        "grated",
+        "kueh",
+        "leaves",
+        "lightly",
+        "made",
+        "malay",
+        "palm",
+        "pearls",
+        "peranakan",
+        "sago",
+        "sagu",
+        "steamed",
+        "sugar",
+        "sweet",
+        "traditional",
+        "wrapped"
+      ],
+      "cost": {
+        "total_sgd": 2.86,
+        "ingredients_sgd": 2.56,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 0.29,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "sago pearls",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "grated coconut",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "gula melaka (palm sugar)",
+            "cost_sgd": 0.16,
+            "emissions_kgco2e": 0.0,
+            "amount": 80.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "banana leaves",
+            "cost_sgd": 0.3,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 0.908,
+        "ingredients_kgco2e": 0.5,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 0.091
+      }
+    },
+    {
+      "id": "des_023",
+      "name": "Putu Piring (Steamed Rice Flour Cake with Palm Sugar)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "20 minutes",
+      "servings": 8.0,
+      "description": "A beloved Malay and Indian steamed cake: soft rice flour discs filled with molten palm sugar, steamed and served with grated coconut. Iconic at pasar malams and hawker stalls.",
+      "ingredients": {
+        "Main": {
+          "rice flour": "250g",
+          "water": "150ml (as needed)",
+          "gula melaka (palm sugar)": "80g, chopped",
+          "salt": "1/2 tsp",
+          "grated coconut": "100g",
+          "banana leaves": "for lining"
+        }
+      },
+      "preparation": [
+        "Mix rice flour, salt, and water to form a crumbly, moist mixture.",
+        "Fill small molds with flour, add palm sugar in center, cover with more flour. Press gently.",
+        "Steam 10–12 minutes until set. Serve hot with grated coconut."
+      ],
+      "tips": [
+        "Use freshly grated coconut for best taste.",
+        "Line molds with banana leaf for aroma."
+      ],
+      "nutrition": {
+        "calories": 120,
+        "protein": "2g",
+        "carbohydrates": "26g",
+        "fat": "2g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Malay/Indian stalls.",
+      "imageId": "des_023.jpeg",
+      "steps": [
+        "Mix rice flour, salt, and water to form a crumbly, moist mixture.",
+        "Fill small molds with flour, add palm sugar in center, cover with more flour. Press gently.",
+        "Steam 10–12 minutes until set. Serve hot with grated coconut."
+      ],
+      "tags": [
+        "beloved",
+        "cake",
+        "coconut",
+        "discs",
+        "filled",
+        "flour",
+        "grated",
+        "hawker",
+        "iconic",
+        "indian",
+        "malams",
+        "malay",
+        "molten",
+        "palm",
+        "pasar",
+        "piring",
+        "putu",
+        "rice",
+        "served",
+        "soft",
+        "stalls",
+        "steamed",
+        "sugar"
+      ],
+      "cost": {
+        "total_sgd": 3.11,
+        "ingredients_sgd": 2.91,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 0.39,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice flour",
+            "cost_sgd": 0.55,
+            "emissions_kgco2e": 1.125,
+            "amount": 250.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 150.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "gula melaka (palm sugar)",
+            "cost_sgd": 0.16,
+            "emissions_kgco2e": 0.0,
+            "amount": 80.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "grated coconut",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "banana leaves",
+            "cost_sgd": 0.3,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 1.897,
+        "ingredients_kgco2e": 1.625,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.237
+      }
+    },
+    {
+      "id": "des_024",
+      "name": "Frog Leg Porridge (Tian Ji Zhou)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "1 hour",
+      "servings": 4.0,
+      "description": "A comforting Teochew-style porridge with tender frog legs, ginger, spring onions, and a savory soy-based sauce. A supper favorite at Singapore hawker stalls.",
+      "ingredients": {
+        "Main": {
+          "frog legs": "500g, cleaned and cut",
+          "rice": "1 cup, rinsed",
+          "ginger": "4 slices",
+          "spring onions": "2, chopped",
+          "light soy sauce": "2 tbsp",
+          "dark soy sauce": "1 tbsp",
+          "sesame oil": "1 tbsp",
+          "white pepper": "1/2 tsp",
+          "water": "1.5 litres",
+          "oil": "1 tbsp"
+        }
+      },
+      "preparation": [
+        "Cook rice with water and ginger until porridge is creamy (about 45 minutes).",
+        "Heat oil in a pan, sauté frog legs until just cooked. Add soy sauces, sesame oil, pepper, and a little water. Simmer 5 minutes.",
+        "Serve frog legs and sauce over hot porridge. Garnish with spring onions."
+      ],
+      "tips": [
+        "Use chicken if frog legs are unavailable.",
+        "Add fried shallots for extra flavor."
+      ],
+      "nutrition": {
+        "calories": 210,
+        "protein": "18g",
+        "carbohydrates": "28g",
+        "fat": "4g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore supper stalls.",
+      "imageId": "des_024.jpeg",
+      "steps": [
+        "Cook rice with water and ginger until porridge is creamy (about 45 minutes).",
+        "Heat oil in a pan, sauté frog legs until just cooked. Add soy sauces, sesame oil, pepper, and a little water. Simmer 5 minutes.",
+        "Serve frog legs and sauce over hot porridge. Garnish with spring onions."
+      ],
+      "tags": [
+        "based",
+        "comforting",
+        "favorite",
+        "frog",
+        "ginger",
+        "hawker",
+        "leg",
+        "legs",
+        "onions",
+        "porridge",
+        "sauce",
+        "savory",
+        "singapore",
+        "soy",
+        "spring",
+        "stalls",
+        "style",
+        "supper",
+        "tender",
+        "teochew",
+        "tian",
+        "zhou"
+      ],
+      "cost": {
+        "total_sgd": 35.29,
+        "ingredients_sgd": 35.28,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 8.82,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "frog legs",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "rice",
+            "cost_sgd": 0.55,
+            "emissions_kgco2e": 1.125,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sesame oil",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "litres"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.09,
+            "amount": 1.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 3.719,
+        "ingredients_kgco2e": 3.705,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 0.93
+      }
+    },
+    {
+      "id": "des_025",
+      "name": "Chin Chow (Grass Jelly Dessert)",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "0 minutes",
+      "servings": 6.0,
+      "description": "A cooling dessert: grass jelly cubes served with syrup and sometimes longan or attap seeds. Popular at hawker dessert stalls.",
+      "ingredients": {
+        "Main": {
+          "grass jelly (chin chow)": "1 can or 400g block, cubed",
+          "sugar syrup": "200ml",
+          "longan (optional)": "1 can, drained",
+          "attap seeds (optional)": "100g"
+        }
+      },
+      "preparation": [
+        "Cut grass jelly into cubes. Serve in bowls with syrup and optional toppings. Serve chilled."
+      ],
+      "tips": [
+        "Use homemade syrup for best flavor.",
+        "Add ice for extra refreshment."
+      ],
+      "nutrition": {
+        "calories": 60,
+        "protein": "1g",
+        "carbohydrates": "15g",
+        "fat": "0g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore dessert stalls.",
+      "imageId": "des_025.jpeg",
+      "steps": [
+        "Cut grass jelly into cubes. Serve in bowls with syrup and optional toppings. Serve chilled."
+      ],
+      "tags": [
+        "attap",
+        "chin",
+        "chow",
+        "cooling",
+        "cubes",
+        "dessert",
+        "grass",
+        "hawker",
+        "jelly",
+        "longan",
+        "popular",
+        "seeds",
+        "served",
+        "sometimes",
+        "stalls",
+        "syrup"
+      ],
+      "cost": {
+        "total_sgd": 7.53,
+        "ingredients_sgd": 7.53,
+        "energy_sgd": 0.0,
+        "per_serving_sgd": 1.26,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "grass jelly (chin chow)",
+            "cost_sgd": 3.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "can"
+          },
+          {
+            "ingredient": "sugar syrup",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 0.2,
+            "amount": 200.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "longan (optional)",
+            "cost_sgd": 3.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "can"
+          },
+          {
+            "ingredient": "attap seeds (optional)",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 0.2,
+        "ingredients_kgco2e": 0.2,
+        "energy_kgco2e": 0.0,
+        "per_serving_kgco2e": 0.033
+      }
+    },
+    {
+      "id": "des_026",
+      "name": "Cheng Tng (Clear Sweet Soup)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "1 hour",
+      "servings": 8.0,
+      "description": "A refreshing Teochew dessert soup: dried longan, barley, lotus seeds, white fungus, and sweet potato simmered in a light syrup. Served hot or cold at dessert stalls.",
+      "ingredients": {
+        "Main": {
+          "dried longan": "50g",
+          "barley": "30g",
+          "lotus seeds": "30g",
+          "white fungus": "20g, soaked and torn",
+          "sweet potato": "1, cubed",
+          "dried persimmon": "2, sliced (optional)",
+          "rock sugar": "80g",
+          "water": "2 litres"
+        }
+      },
+      "preparation": [
+        "Soak lotus seeds and white fungus. Combine all ingredients in a pot, bring to a boil, simmer 1 hour. Serve hot or cold."
+      ],
+      "tips": [
+        "Add ginkgo nuts for extra texture.",
+        "Adjust sweetness to taste."
+      ],
+      "nutrition": {
+        "calories": 90,
+        "protein": "2g",
+        "carbohydrates": "22g",
+        "fat": "0g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore dessert stalls.",
+      "imageId": "des_026.jpeg",
+      "steps": [
+        "Soak lotus seeds and white fungus. Combine all ingredients in a pot, bring to a boil, simmer 1 hour. Serve hot or cold."
+      ],
+      "tags": [
+        "barley",
+        "cheng",
+        "clear",
+        "cold",
+        "dessert",
+        "dried",
+        "fungus",
+        "light",
+        "longan",
+        "lotus",
+        "potato",
+        "refreshing",
+        "seeds",
+        "served",
+        "simmered",
+        "soup",
+        "stalls",
+        "sweet",
+        "syrup",
+        "teochew",
+        "tng",
+        "white"
+      ],
+      "cost": {
+        "total_sgd": 17.78,
+        "ingredients_sgd": 17.77,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 2.22,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "dried longan",
+            "cost_sgd": 0.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "barley",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "lotus seeds",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "white fungus",
+            "cost_sgd": 0.16,
+            "emissions_kgco2e": 0.0,
+            "amount": 20.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sweet potato",
+            "cost_sgd": 0.6,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dried persimmon",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "rock sugar",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.08,
+            "amount": 80.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "litres"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 0.594,
+        "ingredients_kgco2e": 0.58,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 0.074
+      }
+    },
+    {
+      "id": "des_027",
+      "name": "Tang Yuan (Glutinous Rice Balls in Syrup)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "servings": 8.0,
+      "description": "A festive Chinese dessert: glutinous rice balls filled with black sesame or peanut, served in a sweet ginger syrup. Popular during Dongzhi and at dessert stalls.",
+      "ingredients": {
+        "Main": {
+          "glutinous rice flour": "200g",
+          "water": "120ml (as needed)",
+          "black sesame paste or peanut butter": "80g",
+          "ginger": "4 slices",
+          "rock sugar": "60g",
+          "water (for syrup)": "1 litre"
+        }
+      },
+      "preparation": [
+        "Mix flour and water to form a dough. Wrap dough around filling, roll into balls.",
+        "Boil balls until they float. Simmer ginger, rock sugar, and water for syrup. Serve tang yuan in syrup."
+      ],
+      "tips": [
+        "Use fresh ginger for a fragrant syrup.",
+        "Serve hot or at room temperature."
+      ],
+      "nutrition": {
+        "calories": 90,
+        "protein": "2g",
+        "carbohydrates": "20g",
+        "fat": "1g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore dessert stalls.",
+      "imageId": "des_027.jpeg",
+      "steps": [
+        "Mix flour and water to form a dough. Wrap dough around filling, roll into balls.",
+        "Boil balls until they float. Simmer ginger, rock sugar, and water for syrup. Serve tang yuan in syrup."
+      ],
+      "tags": [
+        "balls",
+        "black",
+        "chinese",
+        "dessert",
+        "dongzhi",
+        "festive",
+        "filled",
+        "ginger",
+        "glutinous",
+        "peanut",
+        "popular",
+        "rice",
+        "served",
+        "sesame",
+        "stalls",
+        "sweet",
+        "syrup",
+        "tang",
+        "yuan"
+      ],
+      "cost": {
+        "total_sgd": 25.0,
+        "ingredients_sgd": 24.8,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 3.13,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "glutinous rice flour",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.9,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 120.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "black sesame paste or peanut butter",
+            "cost_sgd": 0.26,
+            "emissions_kgco2e": 0.96,
+            "amount": 80.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "rock sugar",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 60.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water (for syrup)",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "litre"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 2.192,
+        "ingredients_kgco2e": 1.92,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.274
+      }
+    },
+    {
+      "id": "des_028",
+      "name": "Gulab Jamun",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "30 minutes",
+      "servings": 12.0,
+      "description": "A classic Indian sweet: deep-fried milk balls soaked in cardamom-scented syrup. Popular at Indian restaurants and during Deepavali in Singapore.",
+      "ingredients": {
+        "Main": {
+          "milk powder": "200g",
+          "plain flour": "50g",
+          "baking powder": "1/2 tsp",
+          "ghee": "2 tbsp",
+          "milk": "100ml (as needed)",
+          "sugar": "200g",
+          "water": "250ml",
+          "cardamom pods": "4",
+          "rose water": "1 tsp",
+          "oil": "for frying"
+        }
+      },
+      "preparation": [
+        "Mix milk powder, flour, baking powder, ghee, and milk to form a soft dough. Shape into balls.",
+        "Fry until golden. Simmer sugar, water, cardamom, and rose water for syrup. Soak balls in syrup. Serve at room temperature."
+      ],
+      "tips": [
+        "Do not overwork dough for soft texture.",
+        "Serve chilled or at room temperature."
+      ],
+      "nutrition": {
+        "calories": 120,
+        "protein": "2g",
+        "carbohydrates": "24g",
+        "fat": "3g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Indian kitchens.",
+      "imageId": "des_028.jpeg",
+      "steps": [
+        "Mix milk powder, flour, baking powder, ghee, and milk to form a soft dough. Shape into balls.",
+        "Fry until golden. Simmer sugar, water, cardamom, and rose water for syrup. Soak balls in syrup. Serve at room temperature."
+      ],
+      "tags": [
+        "balls",
+        "cardamom",
+        "classic",
+        "deep",
+        "deepavali",
+        "fried",
+        "gulab",
+        "indian",
+        "jamun",
+        "milk",
+        "popular",
+        "restaurants",
+        "scented",
+        "singapore",
+        "soaked",
+        "sweet",
+        "syrup"
+      ],
+      "cost": {
+        "total_sgd": 16.05,
+        "ingredients_sgd": 15.76,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 1.34,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "milk powder",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.38,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "plain flour",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "baking powder",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ghee",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "milk",
+            "cost_sgd": 0.22,
+            "emissions_kgco2e": 0.19,
+            "amount": 100.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 0.2,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 250.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "cardamom pods",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "rose water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 7.178,
+        "ingredients_kgco2e": 6.77,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 0.598
+      }
+    },
+    {
+      "id": "des_029",
+      "name": "Mango Pudding",
+      "difficulty": "Easy",
+      "prep_time": "15 minutes",
+      "cook_time": "10 minutes",
+      "servings": 6.0,
+      "description": "A creamy, fruity dessert: mango puree set with gelatin and milk, served chilled. Popular at Chinese restaurants and dessert stalls.",
+      "ingredients": {
+        "Main": {
+          "ripe mango": "2, pureed",
+          "gelatin powder": "2 tsp",
+          "hot water": "50ml",
+          "sugar": "60g",
+          "milk": "200ml",
+          "evaporated milk": "100ml"
+        }
+      },
+      "preparation": [
+        "Dissolve gelatin in hot water. Mix with mango puree, sugar, milk, and evaporated milk. Pour into molds, chill until set."
+      ],
+      "tips": [
+        "Use ripe, sweet mangoes for best flavor.",
+        "Top with fresh mango cubes."
+      ],
+      "nutrition": {
+        "calories": 110,
+        "protein": "3g",
+        "carbohydrates": "22g",
+        "fat": "2g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore dessert stalls.",
+      "imageId": "des_029.jpeg",
+      "steps": [
+        "Dissolve gelatin in hot water. Mix with mango puree, sugar, milk, and evaporated milk. Pour into molds, chill until set."
+      ],
+      "tags": [
+        "chilled",
+        "chinese",
+        "creamy",
+        "dessert",
+        "fruity",
+        "gelatin",
+        "mango",
+        "milk",
+        "popular",
+        "pudding",
+        "puree",
+        "restaurants",
+        "served",
+        "stalls"
+      ],
+      "cost": {
+        "total_sgd": 4.88,
+        "ingredients_sgd": 4.78,
+        "energy_sgd": 0.1,
+        "per_serving_sgd": 0.81,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "ripe mango",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "gelatin powder",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "hot water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 60.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "milk",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.38,
+            "amount": 200.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "evaporated milk",
+            "cost_sgd": 0.22,
+            "emissions_kgco2e": 0.19,
+            "amount": 100.0,
+            "unit": "ml"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 0.766,
+        "ingredients_kgco2e": 0.63,
+        "energy_kgco2e": 0.136,
+        "per_serving_kgco2e": 0.128
+      }
+    },
+    {
+      "id": "des_030",
+      "name": "Tapioca Cake (Kueh Ubi Kayu)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "40 minutes",
+      "servings": 12.0,
+      "description": "A traditional Peranakan and Malay kueh: steamed grated tapioca cake with coconut and sugar, sometimes colored with pandan. Chewy, sweet, and fragrant.",
+      "ingredients": {
+        "Main": {
+          "grated tapioca": "400g",
+          "sugar": "100g",
+          "coconut milk": "150ml",
+          "grated coconut": "100g",
+          "salt": "1/2 tsp",
+          "pandan juice (optional)": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Mix tapioca, sugar, coconut milk, salt, and pandan juice. Steam 40 minutes until set. Cool, cut into pieces, coat with grated coconut."
+      ],
+      "tips": [
+        "Use fresh grated tapioca for best texture.",
+        "Add a pinch of salt to the coconut for extra taste."
+      ],
+      "nutrition": {
+        "calories": 90,
+        "protein": "1g",
+        "carbohydrates": "20g",
+        "fat": "2g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Peranakan kitchens.",
+      "imageId": "des_030.jpeg",
+      "steps": [
+        "Mix tapioca, sugar, coconut milk, salt, and pandan juice. Steam 40 minutes until set. Cool, cut into pieces, coat with grated coconut."
+      ],
+      "tags": [
+        "cake",
+        "chewy",
+        "coconut",
+        "colored",
+        "fragrant",
+        "grated",
+        "kayu",
+        "kueh",
+        "malay",
+        "pandan",
+        "peranakan",
+        "sometimes",
+        "steamed",
+        "sugar",
+        "sweet",
+        "tapioca",
+        "traditional",
+        "ubi"
+      ],
+      "cost": {
+        "total_sgd": 6.0,
+        "ingredients_sgd": 5.6,
+        "energy_sgd": 0.4,
+        "per_serving_sgd": 0.5,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "grated tapioca",
+            "cost_sgd": 3.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.17,
+            "emissions_kgco2e": 0.1,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 0.285,
+            "amount": 150.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "grated coconut",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "pandan juice (optional)",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 1.429,
+        "ingredients_kgco2e": 0.885,
+        "energy_kgco2e": 0.544,
+        "per_serving_kgco2e": 0.119
+      }
+    },
+    {
+      "id": "des_031",
+      "name": "Kueh Tutu",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "servings": 12.0,
+      "description": "A nostalgic street snack: steamed rice flour cakes filled with grated coconut or peanut. Soft, fluffy, and lightly sweet. Iconic at pasar malams and snack stalls.",
+      "ingredients": {
+        "Main": {
+          "rice flour": "300g",
+          "water": "100ml (as needed)",
+          "grated coconut": "100g",
+          "gula melaka (palm sugar)": "60g, chopped",
+          "roasted peanuts": "60g, crushed",
+          "salt": "1/2 tsp"
+        }
+      },
+      "preparation": [
+        "Mix rice flour and water to form a crumbly mixture. Fill molds with flour, add coconut/gula melaka or peanut, cover with more flour. Steam 10–12 minutes."
+      ],
+      "tips": [
+        "Use special kueh tutu molds for authentic shape.",
+        "Serve warm for best texture."
+      ],
+      "nutrition": {
+        "calories": 60,
+        "protein": "1g",
+        "carbohydrates": "14g",
+        "fat": "1g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore snack stalls.",
+      "imageId": "des_031.jpeg",
+      "steps": [
+        "Mix rice flour and water to form a crumbly mixture. Fill molds with flour, add coconut/gula melaka or peanut, cover with more flour. Steam 10–12 minutes."
+      ],
+      "tags": [
+        "cakes",
+        "coconut",
+        "filled",
+        "flour",
+        "fluffy",
+        "grated",
+        "iconic",
+        "kueh",
+        "lightly",
+        "malams",
+        "nostalgic",
+        "pasar",
+        "peanut",
+        "rice",
+        "snack",
+        "soft",
+        "stalls",
+        "steamed",
+        "street",
+        "sweet",
+        "tutu"
+      ],
+      "cost": {
+        "total_sgd": 3.24,
+        "ingredients_sgd": 3.04,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 0.27,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice flour",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 1.35,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "grated coconut",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "gula melaka (palm sugar)",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 60.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "roasted peanuts",
+            "cost_sgd": 0.36,
+            "emissions_kgco2e": 0.0,
+            "amount": 60.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 2.122,
+        "ingredients_kgco2e": 1.85,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.177
+      }
+    },
+    {
+      "id": "des_032",
+      "name": "Kuih Kosui",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "30 minutes",
+      "servings": 16.0,
+      "description": "A Peranakan steamed cake: soft, bouncy cakes made from rice flour, tapioca flour, and palm sugar, coated in grated coconut. Served at kueh stalls and festive occasions.",
+      "ingredients": {
+        "Main": {
+          "rice flour": "100g",
+          "tapioca flour": "50g",
+          "gula melaka (palm sugar)": "100g, chopped",
+          "water": "300ml",
+          "alkaline water": "1/2 tsp (optional)",
+          "grated coconut": "100g",
+          "salt": "1/2 tsp"
+        }
+      },
+      "preparation": [
+        "Dissolve palm sugar in water. Mix with flours and alkaline water. Pour into molds, steam 30 minutes. Cool, cut, and coat with coconut."
+      ],
+      "tips": [
+        "Use fresh grated coconut for best flavor.",
+        "Add pandan juice for aroma."
+      ],
+      "nutrition": {
+        "calories": 50,
+        "protein": "0.5g",
+        "carbohydrates": "12g",
+        "fat": "1g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Peranakan kitchens.",
+      "imageId": "des_032.jpeg",
+      "steps": [
+        "Dissolve palm sugar in water. Mix with flours and alkaline water. Pour into molds, steam 30 minutes. Cool, cut, and coat with coconut."
+      ],
+      "tags": [
+        "bouncy",
+        "cake",
+        "cakes",
+        "coated",
+        "coconut",
+        "festive",
+        "flour",
+        "grated",
+        "kosui",
+        "kueh",
+        "kuih",
+        "made",
+        "occasions",
+        "palm",
+        "peranakan",
+        "rice",
+        "served",
+        "soft",
+        "stalls",
+        "steamed",
+        "sugar",
+        "tapioca"
+      ],
+      "cost": {
+        "total_sgd": 2.75,
+        "ingredients_sgd": 2.45,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 0.17,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice flour",
+            "cost_sgd": 0.22,
+            "emissions_kgco2e": 0.45,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "tapioca flour",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "gula melaka (palm sugar)",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 300.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "alkaline water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "grated coconut",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 1.358,
+        "ingredients_kgco2e": 0.95,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 0.085
+      }
+    },
+    {
+      "id": "des_033",
+      "name": "Sago Gula Melaka",
+      "difficulty": "Easy",
+      "prep_time": "15 minutes",
+      "cook_time": "20 minutes",
+      "servings": 8.0,
+      "description": "A classic Peranakan dessert: sago pearls served with coconut milk and palm sugar syrup. Chewy, creamy, and fragrant.",
+      "ingredients": {
+        "Main": {
+          "sago pearls": "200g",
+          "coconut milk": "200ml",
+          "gula melaka (palm sugar)": "100g, chopped",
+          "water": "500ml",
+          "salt": "1/2 tsp"
+        }
+      },
+      "preparation": [
+        "Boil sago until translucent, drain and rinse. Dissolve palm sugar in water to make syrup. Serve sago with coconut milk and syrup."
+      ],
+      "tips": [
+        "Rinse sago well to remove excess starch.",
+        "Chill before serving for best texture."
+      ],
+      "nutrition": {
+        "calories": 80,
+        "protein": "1g",
+        "carbohydrates": "18g",
+        "fat": "2g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Peranakan kitchens.",
+      "imageId": "des_033.jpeg",
+      "steps": [
+        "Boil sago until translucent, drain and rinse. Dissolve palm sugar in water to make syrup. Serve sago with coconut milk and syrup."
+      ],
+      "tags": [
+        "chewy",
+        "classic",
+        "coconut",
+        "creamy",
+        "dessert",
+        "fragrant",
+        "gula",
+        "melaka",
+        "milk",
+        "palm",
+        "pearls",
+        "peranakan",
+        "sago",
+        "served",
+        "sugar",
+        "syrup"
+      ],
+      "cost": {
+        "total_sgd": 2.14,
+        "ingredients_sgd": 1.94,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 0.27,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "sago pearls",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.38,
+            "amount": 200.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "gula melaka (palm sugar)",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 500.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 1.152,
+        "ingredients_kgco2e": 0.88,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.144
+      }
+    },
+    {
+      "id": "des_034",
+      "name": "Mee Jiang Kueh (Peanut Pancake)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "20 minutes",
+      "servings": 8.0,
+      "description": "A popular breakfast snack: thick, fluffy pancake filled with crushed peanuts and sugar. Sold at hawker breakfast stalls and markets.",
+      "ingredients": {
+        "Main": {
+          "all-purpose flour": "200g",
+          "rice flour": "50g",
+          "yeast": "1 tsp",
+          "sugar": "60g",
+          "baking powder": "1/2 tsp",
+          "water": "250ml (as needed)",
+          "crushed peanuts": "100g",
+          "caster sugar": "50g"
+        }
+      },
+      "preparation": [
+        "Mix flours, yeast, sugar, baking powder, and water to form a batter. Let rise 1 hour.",
+        "Pour batter into a pan, cook until bubbles form. Sprinkle peanuts and sugar, fold and cut."
+      ],
+      "tips": [
+        "Let batter rise for a fluffy texture.",
+        "Add sweet corn for variation."
+      ],
+      "nutrition": {
+        "calories": 160,
+        "protein": "4g",
+        "carbohydrates": "32g",
+        "fat": "3g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore breakfast stalls.",
+      "imageId": "des_034.jpeg",
+      "steps": [
+        "Mix flours, yeast, sugar, baking powder, and water to form a batter. Let rise 1 hour.",
+        "Pour batter into a pan, cook until bubbles form. Sprinkle peanuts and sugar, fold and cut."
+      ],
+      "tags": [
+        "breakfast",
+        "crushed",
+        "filled",
+        "fluffy",
+        "hawker",
+        "jiang",
+        "kueh",
+        "markets",
+        "mee",
+        "pancake",
+        "peanut",
+        "peanuts",
+        "popular",
+        "snack",
+        "sold",
+        "stalls",
+        "sugar",
+        "thick"
+      ],
+      "cost": {
+        "total_sgd": 3.6,
+        "ingredients_sgd": 3.4,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 0.45,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "all-purpose flour",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "rice flour",
+            "cost_sgd": 0.11,
+            "emissions_kgco2e": 0.225,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "yeast",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 60.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "baking powder",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 250.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "crushed peanuts",
+            "cost_sgd": 0.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "caster sugar",
+            "cost_sgd": 0.08,
+            "emissions_kgco2e": 0.05,
+            "amount": 50.0,
+            "unit": "g"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 0.607,
+        "ingredients_kgco2e": 0.335,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.076
+      }
+    },
+    {
+      "id": "des_035",
+      "name": "Tau Huey (Soybean Pudding)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes (plus soaking)",
+      "cook_time": "30 minutes",
+      "servings": 8.0,
+      "description": "A classic Singaporean dessert: silky smooth soybean pudding served with a light sugar syrup. Popular at dessert stalls and breakfast shops.",
+      "ingredients": {
+        "Main": {
+          "dried soybeans": "200g, soaked overnight",
+          "water": "1.5 litres",
+          "gypsum powder (food grade)": "1 tsp",
+          "sugar": "100g",
+          "pandan leaves": "2, tied in a knot"
+        }
+      },
+      "preparation": [
+        "Blend soaked soybeans with water, strain to get soy milk. Bring to a boil with pandan leaves, simmer 10 minutes. Remove leaves.",
+        "Dissolve gypsum powder in a little water, pour hot soy milk over it. Let set 20 minutes. Serve with sugar syrup."
+      ],
+      "tips": [
+        "Use food-grade gypsum for best texture.",
+        "Serve warm or chilled."
+      ],
+      "nutrition": {
+        "calories": 90,
+        "protein": "5g",
+        "carbohydrates": "14g",
+        "fat": "2g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore dessert stalls.",
+      "imageId": "des_035.jpeg",
+      "steps": [
+        "Blend soaked soybeans with water, strain to get soy milk. Bring to a boil with pandan leaves, simmer 10 minutes. Remove leaves.",
+        "Dissolve gypsum powder in a little water, pour hot soy milk over it. Let set 20 minutes. Serve with sugar syrup."
+      ],
+      "tags": [
+        "breakfast",
+        "classic",
+        "dessert",
+        "huey",
+        "light",
+        "popular",
+        "pudding",
+        "served",
+        "shops",
+        "silky",
+        "singaporean",
+        "smooth",
+        "soybean",
+        "stalls",
+        "sugar",
+        "syrup",
+        "tau"
+      ],
+      "cost": {
+        "total_sgd": 18.11,
+        "ingredients_sgd": 17.8,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 2.26,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "dried soybeans",
+            "cost_sgd": 1.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "litres"
+          },
+          {
+            "ingredient": "gypsum powder (food grade)",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.17,
+            "emissions_kgco2e": 0.1,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "pandan leaves",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 0.508,
+        "ingredients_kgco2e": 0.1,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 0.064
+      }
+    }
+  ]
+}

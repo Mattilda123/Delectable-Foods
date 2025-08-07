@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "category": "Festive and Celebration",
+    "description": "Special Singaporean dishes for festivals, celebrations, and important occasions",
+    "total_recipes": 2,
+    "last_updated": "2024"
+  },
+  "recipes": [
+    {
+      "id": "fes_001",
+      "name": "Roti Kirai (Lacy Pancake)",
+      "difficulty": "Easy",
+      "prep_time": "15 minutes",
+      "cook_time": "20 minutes",
+      "servings": 4.0,
+      "description": "A festive Malay snack and side dish in Singapore, Roti Kirai are delicate, net-like pancakes made from a turmeric-flavored batter, traditionally served with chicken or beef curry. Popular at weddings and special occasions.",
+      "ingredients": {
+        "main": {
+          "plain flour": "2 cups (250g)",
+          "eggs": "2, large",
+          "coconut milk": "1 cup (250ml)",
+          "water": "1 cup (250ml)",
+          "turmeric powder": "1/2 tsp",
+          "salt": "1/2 tsp",
+          "oil": "for greasing pan"
+        }
+      },
+      "steps": [
+        "In a large bowl, whisk together flour, turmeric, and salt. In another bowl, beat eggs, then add coconut milk and water. Gradually whisk wet ingredients into dry to form a smooth, thin batter.",
+        "Strain batter to remove lumps. Pour into a roti kirai cup or squeeze bottle (or use a fork for a DIY version).",
+        "Heat a nonstick pan over medium heat and lightly grease. Drizzle batter in a lacy, circular pattern to form a net. Cook for 1-2 minutes until set but not browned. No need to flip.",
+        "Remove and fold or roll into bundles. Repeat with remaining batter, greasing pan as needed.",
+        "Serve warm with chicken or beef curry."
+      ],
+      "tips": [
+        "Batter should be thin enough to flow easily; add more water if needed.",
+        "A special roti kirai cup makes the lacy pattern easier, but a squeeze bottle or fork works in a pinch.",
+        "Can be made ahead and reheated gently in a steamer."
+      ],
+      "themes": [
+        "festive",
+        "celebration",
+        "main",
+        "iconic",
+        "heritage"
+      ],
+      "source": "Adapted from Rasa Malaysia, The MeatMen, and Singapore/Malay home cooks.",
+      "origin": "Malay community in Singapore and Malaysia; a festive dish for weddings and gatherings.",
+      "imageId": "fes_001.jpeg",
+      "tags": [
+        "batter",
+        "beef",
+        "celebration",
+        "chicken",
+        "curry",
+        "delicate",
+        "dish",
+        "festive",
+        "flavored",
+        "heritage",
+        "iconic",
+        "kirai",
+        "lacy",
+        "made",
+        "main",
+        "malay",
+        "net",
+        "occasions",
+        "pancake",
+        "pancakes",
+        "popular",
+        "roti",
+        "served",
+        "side",
+        "singapore",
+        "snack",
+        "special",
+        "traditionally",
+        "turmeric",
+        "weddings"
+      ],
+      "cost": {
+        "total_sgd": 17.91,
+        "ingredients_sgd": 17.71,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 4.48,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "plain flour",
+            "cost_sgd": 5.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "eggs",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.55,
+            "emissions_kgco2e": 0.475,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "turmeric powder",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 16.247,
+        "ingredients_kgco2e": 15.975,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 4.062
+      }
+    },
+    {
+      "id": "fes_002",
+      "name": "Braised Sea Cucumber with Mushrooms",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes (plus soaking time)",
+      "cook_time": "90 minutes",
+      "servings": 6.0,
+      "description": "A luxurious Chinese banquet and festive dish in Singapore, featuring tender sea cucumber braised with shiitake mushrooms, dried scallops, and aromatics in a savory oyster sauce gravy. Served at celebrations and special occasions.",
+      "ingredients": {
+        "main": {
+          "dried sea cucumber": "500g, soaked and cleaned",
+          "dried shiitake mushrooms": "8, soaked and stems removed",
+          "dried scallops (optional)": "6, soaked",
+          "ginger": "4 slices",
+          "garlic": "4 cloves, smashed",
+          "spring onion": "2, cut into sections",
+          "oyster sauce": "3 tbsp",
+          "light soy sauce": "2 tbsp",
+          "dark soy sauce": "1 tbsp",
+          "rock sugar": "1 tbsp",
+          "Shaoxing wine": "2 tbsp",
+          "chicken stock": "1L",
+          "cornstarch": "1 tbsp (mixed with 2 tbsp water)",
+          "oil": "2 tbsp"
+        }
+      },
+      "steps": [
+        "Heat oil in a wok. Sauté ginger, garlic, and spring onion until fragrant.",
+        "Add mushrooms and dried scallops, stir-fry for 2 minutes. Add sea cucumber and toss gently.",
+        "Add oyster sauce, soy sauces, rock sugar, Shaoxing wine, and chicken stock. Bring to a boil, then reduce heat and simmer gently for 60-90 minutes until sea cucumber is tender and flavors are absorbed.",
+        "Thicken sauce with cornstarch slurry. Adjust seasoning to taste. Serve hot, garnished with spring onion."
+      ],
+      "tips": [
+        "Soak and clean sea cucumber thoroughly before cooking.",
+        "Use good quality dried mushrooms for best flavor.",
+        "Can add abalone or fish maw for a more luxurious version."
+      ],
+      "themes": [
+        "festive",
+        "celebration",
+        "main",
+        "iconic",
+        "heritage"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singaporean Chinese home cooks.",
+      "origin": "Chinese community in Singapore; a festive and banquet favorite, especially during Lunar New Year.",
+      "imageId": "fes_002.jpeg",
+      "tags": [
+        "aromatics",
+        "banquet",
+        "braised",
+        "celebration",
+        "celebrations",
+        "chinese",
+        "cucumber",
+        "dish",
+        "dried",
+        "featuring",
+        "festive",
+        "gravy",
+        "heritage",
+        "iconic",
+        "luxurious",
+        "main",
+        "mushrooms",
+        "occasions",
+        "oyster",
+        "sauce",
+        "savory",
+        "scallops",
+        "sea",
+        "served",
+        "shiitake",
+        "singapore",
+        "special",
+        "tender"
+      ],
+      "cost": {
+        "total_sgd": 177.82,
+        "ingredients_sgd": 176.92,
+        "energy_sgd": 0.9,
+        "per_serving_sgd": 29.64,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "dried sea cucumber",
+            "cost_sgd": 0.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "dried shiitake mushrooms",
+            "cost_sgd": 64.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dried scallops (optional)",
+            "cost_sgd": 48.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "spring onion",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.16,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "rock sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chicken stock",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 6.0,
+            "amount": 1.0,
+            "unit": "l"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 15.909,
+        "ingredients_kgco2e": 14.685,
+        "energy_kgco2e": 1.224,
+        "per_serving_kgco2e": 2.651
+      }
+    }
+  ]
+}

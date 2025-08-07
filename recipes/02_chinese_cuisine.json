@@ -1,0 +1,5369 @@
+{
+  "metadata": {
+    "category": "Chinese Cuisine",
+    "description": "Traditional Chinese dishes adapted to Singaporean tastes, including Cantonese, Teochew, Hokkien, Hainanese, and Hakka styles",
+    "total_recipes": 24,
+    "last_updated": "2024"
+  },
+  "recipes": [
+    {
+      "id": "chi_001",
+      "name": "Chwee Jia Bao (Water Chestnut Bun)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "servings": 6.0,
+      "description": "A traditional Teochew/Chinese steamed bun filled with sweet water chestnut paste. This bun is rare in modern Singapore, but was once a popular dim sum and festive treat. (Note: Authentic recipes are scarce; this is a reconstructed version based on traditional methods.)",
+      "ingredients": {
+        "dough": {
+          "plain flour": "250g",
+          "yeast": "1 tsp",
+          "sugar": "2 tbsp",
+          "warm water": "120ml",
+          "baking powder": "1/2 tsp",
+          "oil": "1 tbsp"
+        },
+        "filling": {
+          "fresh water chestnuts": "200g, peeled and chopped",
+          "sugar": "3 tbsp",
+          "cornstarch": "1 tbsp (mixed with 2 tbsp water)",
+          "oil": "1 tsp"
+        }
+      },
+      "steps": [
+        "Mix flour, yeast, sugar, and warm water to form a dough. Knead until smooth, cover, and let rise for 1 hour.",
+        "Meanwhile, cook chopped water chestnuts with sugar and oil in a pan. Add cornstarch slurry and cook until thickened. Cool completely.",
+        "Punch down dough and divide into 6 pieces. Flatten each, fill with water chestnut mixture, and seal into a bun shape.",
+        "Place buns on parchment squares, cover, and let rise 20 minutes.",
+        "Steam over high heat for 12-15 minutes until fluffy and cooked through. Serve warm."
+      ],
+      "tips": [
+        "Use fresh water chestnuts for best texture and sweetness.",
+        "Buns can be frozen after steaming and reheated by steaming again.",
+        "If you have a family recipe, use that for the most authentic result!"
+      ],
+      "themes": [
+        "chinese",
+        "heritage",
+        "main",
+        "iconic",
+        "rice",
+        "noodle",
+        "soup",
+        "vegetarian",
+        "seafood",
+        "snack",
+        "breakfast",
+        "dessert"
+      ],
+      "source": "Reconstructed from traditional Teochew/Chinese methods and Singaporean food history sources.",
+      "origin": "Teochew/Chinese community in Singapore; a rare but nostalgic steamed bun once found at dim sum and festive tables.",
+      "imageId": "chi_001.jpeg",
+      "tags": [
+        "authentic",
+        "bao",
+        "based",
+        "breakfast",
+        "bun",
+        "chestnut",
+        "chinese",
+        "chwee",
+        "dessert",
+        "dim",
+        "festive",
+        "filled",
+        "heritage",
+        "iconic",
+        "jia",
+        "main",
+        "methods",
+        "modern",
+        "noodle",
+        "note",
+        "once",
+        "paste",
+        "popular",
+        "rare",
+        "recipes",
+        "reconstructed",
+        "rice",
+        "scarce",
+        "seafood",
+        "singapore",
+        "snack",
+        "soup",
+        "steamed",
+        "sum",
+        "sweet",
+        "teochew",
+        "traditional",
+        "treat",
+        "vegetarian",
+        "version",
+        "water"
+      ],
+      "cost": {
+        "total_sgd": 3.06,
+        "ingredients_sgd": 2.86,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 0.51,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "plain flour",
+            "cost_sgd": 0.62,
+            "emissions_kgco2e": 0.0,
+            "amount": 250.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "yeast",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "warm water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 120.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "baking powder",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.09,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "fresh water chestnuts",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.045,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 0.467,
+        "ingredients_kgco2e": 0.195,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.078
+      }
+    },
+    {
+      "id": "chi_002",
+      "name": "Kong Ba Bao (Braised Pork Belly Bun)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "2 hours",
+      "servings": 6.0,
+      "description": "A beloved Hokkien/Teochew dish in Singapore, featuring melt-in-your-mouth pork belly braised in soy sauce, spices, and aromatics, served in a fluffy steamed bun with pickled mustard greens. A festive and hawker favorite.",
+      "ingredients": {
+        "pork belly": {
+          "pork belly, skin-on": "600g",
+          "dark soy sauce": "2 tbsp",
+          "light soy sauce": "3 tbsp",
+          "rock sugar": "2 tbsp",
+          "Shaoxing wine": "2 tbsp",
+          "star anise": "2",
+          "cinnamon stick": "1",
+          "cloves": "3",
+          "garlic": "6 cloves, smashed",
+          "ginger": "3 slices",
+          "water": "2 cups (500ml)"
+        },
+        "buns": {
+          "plain flour": "300g",
+          "yeast": "1 tsp",
+          "sugar": "2 tbsp",
+          "baking powder": "1 tsp",
+          "warm water": "150ml",
+          "oil": "1 tbsp"
+        },
+        "pickled mustard greens (optional)": {
+          "pickled mustard greens (mui choy)": "100g, rinsed and chopped",
+          "sugar": "1 tsp",
+          "oil": "1 tsp"
+        }
+      },
+      "steps": [
+        "Blanch pork belly in boiling water for 5 minutes. Drain and cut into thick slices.",
+        "In a pot, caramelize rock sugar in a little oil. Add pork belly and sear until lightly browned.",
+        "Add soy sauces, Shaoxing wine, star anise, cinnamon, cloves, garlic, ginger, and water. Bring to a boil, then cover and simmer for 1.5-2 hours until pork is tender and sauce is rich.",
+        "For buns: Mix flour, yeast, sugar, baking powder, water, and oil to form a dough. Knead until smooth, cover, and let rise 1 hour. Divide into 6-8 pieces, shape into ovals, fold over parchment, and let rise 20 minutes. Steam for 10 minutes until fluffy.",
+        "For pickled mustard greens: Stir-fry with sugar and oil until fragrant.",
+        "To serve: Open each bun, add a slice of braised pork belly, a spoonful of sauce, and some pickled mustard greens. Enjoy warm."
+      ],
+      "tips": [
+        "Use skin-on pork belly for the most authentic texture.",
+        "Buns and pork can be made ahead and reheated by steaming.",
+        "Pickled mustard greens add a tangy contrast to the rich pork."
+      ],
+      "themes": [
+        "pork",
+        "bun",
+        "Chinese",
+        "hawker",
+        "heritage",
+        "festive"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Hokkien/Teochew home cooks.",
+      "origin": "Hokkien and Teochew communities in Singapore; a festive and hawker favorite, especially during celebrations.",
+      "imageId": "chi_002.jpeg",
+      "tags": [
+        "aromatics",
+        "bao",
+        "belly",
+        "beloved",
+        "braised",
+        "bun",
+        "chinese",
+        "dish",
+        "favorite",
+        "featuring",
+        "festive",
+        "fluffy",
+        "greens",
+        "hawker",
+        "heritage",
+        "hokkien",
+        "kong",
+        "melt",
+        "mouth",
+        "mustard",
+        "pickled",
+        "pork",
+        "sauce",
+        "served",
+        "singapore",
+        "soy",
+        "spices",
+        "steamed",
+        "teochew",
+        "your"
+      ],
+      "cost": {
+        "total_sgd": 73.29,
+        "ingredients_sgd": 73.27,
+        "energy_sgd": 0.02,
+        "per_serving_sgd": 12.22,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork belly, skin-on",
+            "cost_sgd": 7.92,
+            "emissions_kgco2e": 4.2,
+            "amount": 600.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.15,
+            "emissions_kgco2e": 0.09,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "rock sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "star anise",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cinnamon stick",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cloves",
+            "cost_sgd": 3.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 39.6,
+            "emissions_kgco2e": 9.0,
+            "amount": 6.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 18.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "plain flour",
+            "cost_sgd": 0.75,
+            "emissions_kgco2e": 0.0,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "yeast",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "baking powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "warm water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 150.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.09,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "pickled mustard greens (mui choy)",
+            "cost_sgd": 0.3,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 13.562,
+        "ingredients_kgco2e": 13.535,
+        "energy_kgco2e": 0.027,
+        "per_serving_kgco2e": 2.26
+      }
+    },
+    {
+      "id": "chi_003",
+      "name": "Wonton Mee (Wantan Mee)",
+      "difficulty": "Medium",
+      "prep_time": "10 minutes",
+      "cook_time": "20 minutes",
+      "servings": 2.0,
+      "description": "A beloved Singaporean and Malaysian noodle dish featuring springy egg noodles tossed in a savory soy sauce mixture, served with choy sum, char siu (Chinese BBQ pork), and delicate pork wontons, garnished with pickled green chillies.",
+      "ingredients": {
+        "main": {
+          "egg noodles": "2 servings, fresh or dried",
+          "choy sum (or gai lan)": "100g, cut into 4cm lengths",
+          "char siu (Chinese BBQ pork)": "80g, thinly sliced",
+          "pickled green chillies": "to serve"
+        },
+        "wontons": {
+          "wonton wrappers": "6-8 pieces",
+          "ground pork or chicken thighs": "100g",
+          "garlic chives or spring onions": "1 tbsp, finely chopped",
+          "salt": "1/4 tsp",
+          "white pepper": "1/8 tsp"
+        },
+        "sauce": {
+          "duck fat or pork lard": "1 tsp (or neutral oil)",
+          "thick sweet soy sauce (kecap manis)": "1 tsp",
+          "light soy sauce": "1 tsp",
+          "dark soy sauce": "1/2 tsp",
+          "sesame oil": "a dash",
+          "salt": "a pinch"
+        }
+      },
+      "instructions": [
+        "Mix ground pork/chicken with salt, white pepper, and chives. Place a small amount in each wonton wrapper, moisten edges, fold and seal.",
+        "Combine all sauce ingredients in a serving bowl and set aside.",
+        "Bring two pots of salted water to a boil. In one, cook noodles for about 1 minute (or as per package), then drain and toss in the sauce bowl.",
+        "In the second pot, cook wontons for 3-5 minutes until they float. In the last 30 seconds, add choy sum to blanch. Remove both.",
+        "Toss noodles thoroughly in sauce, adding a splash of noodle water if needed.",
+        "Top noodles with char siu, wontons, and choy sum. Garnish with pickled green chillies and a dash of white pepper. Serve immediately."
+      ],
+      "nutrition": {
+        "calories": "~400 kcal",
+        "carbohydrates": "55g",
+        "protein": "20g",
+        "fat": "12g"
+      },
+      "source": "Adapted from The Muddled Pantry and Nyonya Cooking, both reputable sources for Southeast Asian cuisine.",
+      "imageId": "chi_003.jpeg",
+      "steps": [],
+      "tags": [
+        "bbq",
+        "beloved",
+        "char",
+        "chillies",
+        "chinese",
+        "choy",
+        "delicate",
+        "dish",
+        "egg",
+        "featuring",
+        "garnished",
+        "green",
+        "malaysian",
+        "mee",
+        "mixture",
+        "noodle",
+        "noodles",
+        "pickled",
+        "pork",
+        "sauce",
+        "savory",
+        "served",
+        "singaporean",
+        "siu",
+        "soy",
+        "springy",
+        "sum",
+        "tossed",
+        "wantan",
+        "wonton",
+        "wontons"
+      ],
+      "cost": {
+        "total_sgd": 74.63,
+        "ingredients_sgd": 74.43,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 37.31,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "egg noodles",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "servings"
+          },
+          {
+            "ingredient": "choy sum (or gai lan)",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "char siu (Chinese BBQ pork)",
+            "cost_sgd": 1.06,
+            "emissions_kgco2e": 0.56,
+            "amount": 80.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "pickled green chillies",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "wonton wrappers",
+            "cost_sgd": 48.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ground pork or chicken thighs",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 0.6,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "garlic chives or spring onions",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.018,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "duck fat or pork lard",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.035,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "thick sweet soy sauce (kecap manis)",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.01,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.01,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 3.3,
+            "emissions_kgco2e": 2.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sesame oil",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 13.505,
+        "ingredients_kgco2e": 13.233,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 6.753
+      }
+    },
+    {
+      "id": "chi_004",
+      "name": "Har Cheong Gai (Prawn Paste Chicken)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes (plus marinating)",
+      "cook_time": "20 minutes",
+      "servings": 4.0,
+      "description": "A Singapore zi char and hawker favorite: crispy, juicy fried chicken wings marinated in fermented prawn paste, garlic, and spices. Served with lime and chili dip.",
+      "ingredients": {
+        "chicken wings": "1kg, separated into drumettes and flats",
+        "marinade": {
+          "fermented prawn paste (har cheong)": "2 tbsp",
+          "Shaoxing wine": "1 tbsp",
+          "sugar": "1 tsp",
+          "white pepper": "1/2 tsp",
+          "sesame oil": "1 tsp",
+          "garlic": "2 cloves, minced",
+          "cornstarch": "2 tbsp",
+          "plain flour": "2 tbsp"
+        },
+        "for frying": {
+          "oil": "as needed"
+        }
+      },
+      "preparation": [
+        "Mix marinade ingredients. Coat chicken wings and marinate at least 4 hours or overnight.",
+        "Heat oil in a wok or deep fryer. Coat wings in extra cornstarch if desired. Fry in batches until golden and crisp (about 8 minutes per batch). Drain on paper towels.",
+        "Serve hot with lime wedges and chili dip."
+      ],
+      "tips": [
+        "Marinate overnight for best flavor.",
+        "Use potato starch for extra crispiness if desired."
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": "28g",
+        "carbohydrates": "10g",
+        "fat": "30g"
+      },
+      "source": "Adapted from Rasa Malaysia, The MeatMen, and Singapore zi char stalls.",
+      "imageId": "chi_004.jpeg",
+      "steps": [
+        "Mix marinade ingredients. Coat chicken wings and marinate at least 4 hours or overnight.",
+        "Heat oil in a wok or deep fryer. Coat wings in extra cornstarch if desired. Fry in batches until golden and crisp (about 8 minutes per batch). Drain on paper towels.",
+        "Serve hot with lime wedges and chili dip."
+      ],
+      "tags": [
+        "char",
+        "cheong",
+        "chicken",
+        "chili",
+        "crispy",
+        "dip",
+        "favorite",
+        "fermented",
+        "fried",
+        "gai",
+        "garlic",
+        "har",
+        "hawker",
+        "juicy",
+        "lime",
+        "marinated",
+        "paste",
+        "prawn",
+        "served",
+        "singapore",
+        "spices",
+        "wings"
+      ],
+      "cost": {
+        "total_sgd": 29.54,
+        "ingredients_sgd": 29.34,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 7.38,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "chicken wings",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 6.0,
+            "amount": 1.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "fermented prawn paste (har cheong)",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 0.54,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sesame oil",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "plain flour",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 15.817,
+        "ingredients_kgco2e": 15.545,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 3.954
+      }
+    },
+    {
+      "id": "chi_005",
+      "name": "Claypot Rice (with Chicken and Chinese Sausage)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes (plus soaking)",
+      "cook_time": "1 hour",
+      "servings": 4.0,
+      "description": "A classic Cantonese-Singaporean dish: fragrant rice cooked in a claypot with marinated chicken, Chinese sausage, mushrooms, and salted fish. Finished with a savory soy sauce and crispy rice crust.",
+      "ingredients": {
+        "rice": "2 cups, rinsed and soaked 30 min",
+        "chicken thigh (bone-in, chopped)": "400g",
+        "Chinese sausage (lap cheong)": "2, sliced",
+        "dried shiitake mushrooms": "4, soaked and sliced",
+        "salted fish (optional)": "30g, diced",
+        "ginger": "3 slices",
+        "spring onions": "2, chopped",
+        "marinade": {
+          "soy sauce": "1 tbsp",
+          "oyster sauce": "1 tbsp",
+          "Shaoxing wine": "1 tbsp",
+          "sesame oil": "1 tsp",
+          "sugar": "1 tsp",
+          "white pepper": "1/2 tsp",
+          "cornstarch": "1 tsp"
+        },
+        "sauce": {
+          "light soy sauce": "2 tbsp",
+          "dark soy sauce": "1 tbsp",
+          "hot water": "2 tbsp",
+          "sugar": "1 tsp"
+        }
+      },
+      "preparation": [
+        "Marinate chicken with marinade ingredients for at least 30 minutes.",
+        "Drain soaked rice and add to claypot with 2.5 cups water. Bring to a boil, then simmer 10 minutes.",
+        "Arrange chicken, mushrooms, sausage, ginger, and salted fish on top. Cover and cook 20–25 minutes on low heat until chicken is cooked and rice is tender.",
+        "Mix sauce ingredients and pour over rice. Garnish with spring onions. Serve hot, scraping up crispy rice crust."
+      ],
+      "tips": [
+        "Use a heavy claypot for best results.",
+        "Add salted fish for authentic flavor, but it can be omitted."
+      ],
+      "nutrition": {
+        "calories": 650,
+        "protein": "32g",
+        "carbohydrates": "80g",
+        "fat": "22g"
+      },
+      "source": "Adapted from The Woks of Life, Rasa Malaysia, and Singapore hawker stalls.",
+      "imageId": "chi_005.jpeg",
+      "steps": [
+        "Marinate chicken with marinade ingredients for at least 30 minutes.",
+        "Drain soaked rice and add to claypot with 2.5 cups water. Bring to a boil, then simmer 10 minutes.",
+        "Arrange chicken, mushrooms, sausage, ginger, and salted fish on top. Cover and cook 20–25 minutes on low heat until chicken is cooked and rice is tender.",
+        "Mix sauce ingredients and pour over rice. Garnish with spring onions. Serve hot, scraping up crispy rice crust."
+      ],
+      "tags": [
+        "cantonese",
+        "chicken",
+        "chinese",
+        "classic",
+        "claypot",
+        "cooked",
+        "crispy",
+        "crust",
+        "dish",
+        "finished",
+        "fish",
+        "fragrant",
+        "marinated",
+        "mushrooms",
+        "rice",
+        "salted",
+        "sauce",
+        "sausage",
+        "savory",
+        "singaporean",
+        "soy"
+      ],
+      "cost": {
+        "total_sgd": 69.26,
+        "ingredients_sgd": 69.25,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 17.31,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "chicken thigh (bone-in, chopped)",
+            "cost_sgd": 3.52,
+            "emissions_kgco2e": 2.4,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "Chinese sausage (lap cheong)",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dried shiitake mushrooms",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salted fish (optional)",
+            "cost_sgd": 0.49,
+            "emissions_kgco2e": 0.15,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 18.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sesame oil",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "hot water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 14.094,
+        "ingredients_kgco2e": 14.08,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 3.523
+      }
+    },
+    {
+      "id": "chi_006",
+      "name": "Steamed Minced Pork with Salted Egg (Hom Yee Jing Yuk Beng)",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "30 minutes",
+      "servings": 4.0,
+      "description": "A comforting home-style dish: minced pork patty steamed with salted egg yolk, soy sauce, and white pepper. Juicy, savory, and perfect with rice.",
+      "ingredients": {
+        "Main": {
+          "minced pork": "400g",
+          "salted egg yolks": "2, halved",
+          "light soy sauce": "1 tbsp",
+          "Shaoxing wine": "1 tbsp",
+          "white pepper": "1/2 tsp",
+          "sugar": "1/2 tsp",
+          "cornstarch": "1 tbsp",
+          "sesame oil": "1 tsp",
+          "spring onions": "2, chopped"
+        }
+      },
+      "preparation": [
+        "Mix minced pork with soy sauce, wine, pepper, sugar, cornstarch, and sesame oil. Spread evenly in a shallow dish.",
+        "Press salted egg yolk halves into the pork. Steam over high heat for 25–30 minutes until set and juicy.",
+        "Garnish with spring onions. Serve hot with rice."
+      ],
+      "tips": [
+        "Use fatty pork for a juicier patty.",
+        "Add a little water to the pork mixture for extra tenderness."
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": "22g",
+        "carbohydrates": "4g",
+        "fat": "24g"
+      },
+      "source": "Adapted from The Woks of Life, Rasa Malaysia, and Singapore home kitchens.",
+      "imageId": "chi_006.jpeg",
+      "steps": [
+        "Mix minced pork with soy sauce, wine, pepper, sugar, cornstarch, and sesame oil. Spread evenly in a shallow dish.",
+        "Press salted egg yolk halves into the pork. Steam over high heat for 25–30 minutes until set and juicy.",
+        "Garnish with spring onions. Serve hot with rice."
+      ],
+      "tags": [
+        "beng",
+        "comforting",
+        "dish",
+        "egg",
+        "hom",
+        "home",
+        "jing",
+        "juicy",
+        "minced",
+        "patty",
+        "pepper",
+        "perfect",
+        "pork",
+        "rice",
+        "salted",
+        "sauce",
+        "savory",
+        "soy",
+        "steamed",
+        "style",
+        "white",
+        "yee",
+        "yolk",
+        "yuk"
+      ],
+      "cost": {
+        "total_sgd": 14.52,
+        "ingredients_sgd": 14.22,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 3.63,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "minced pork",
+            "cost_sgd": 5.28,
+            "emissions_kgco2e": 2.8,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salted egg yolks",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 1.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sesame oil",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 15.638,
+        "ingredients_kgco2e": 15.23,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 3.909
+      }
+    },
+    {
+      "id": "chi_007",
+      "name": "Siew Mai (Pork and Shrimp Dumplings)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "servings": 12.0,
+      "description": "A classic Cantonese dim sum: open-faced dumplings filled with pork, shrimp, and mushrooms. Steamed and served with soy sauce or chili oil.",
+      "ingredients": {
+        "Main": {
+          "minced pork": "300g",
+          "shrimp": "100g, chopped",
+          "shiitake mushrooms": "2, soaked and chopped",
+          "water chestnut": "2, chopped",
+          "spring onions": "2, chopped",
+          "soy sauce": "1 tbsp",
+          "oyster sauce": "1 tbsp",
+          "sesame oil": "1 tsp",
+          "white pepper": "1/2 tsp",
+          "wonton wrappers": "12"
+        }
+      },
+      "preparation": [
+        "Mix all filling ingredients. Place a spoonful in each wrapper, shape into open dumplings.",
+        "Steam 8–10 minutes until cooked. Serve hot."
+      ],
+      "tips": [
+        "Add a bit of crab roe for color.",
+        "Serve with chili oil or soy sauce."
+      ],
+      "nutrition": {
+        "calories": 60,
+        "protein": "5g",
+        "carbohydrates": "4g",
+        "fat": "2g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore dim sum restaurants.",
+      "imageId": "chi_007.jpeg",
+      "steps": [
+        "Mix all filling ingredients. Place a spoonful in each wrapper, shape into open dumplings.",
+        "Steam 8–10 minutes until cooked. Serve hot."
+      ],
+      "tags": [
+        "cantonese",
+        "chili",
+        "classic",
+        "dim",
+        "dumplings",
+        "faced",
+        "filled",
+        "mai",
+        "mushrooms",
+        "open",
+        "pork",
+        "sauce",
+        "served",
+        "shrimp",
+        "siew",
+        "soy",
+        "steamed",
+        "sum"
+      ],
+      "cost": {
+        "total_sgd": 123.5,
+        "ingredients_sgd": 123.3,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 10.29,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "minced pork",
+            "cost_sgd": 3.96,
+            "emissions_kgco2e": 2.1,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "shrimp",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "shiitake mushrooms",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water chestnut",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sesame oil",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "wonton wrappers",
+            "cost_sgd": 96.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 12.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 4.802,
+        "ingredients_kgco2e": 4.53,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.4
+      }
+    },
+    {
+      "id": "chi_008",
+      "name": "Har Gow (Shrimp Dumplings)",
+      "difficulty": "Medium",
+      "prep_time": "40 minutes",
+      "cook_time": "15 minutes",
+      "servings": 12.0,
+      "description": "A dim sum favorite: translucent dumplings filled with shrimp and bamboo shoots, wrapped in a delicate wheat starch skin. Steamed and served hot.",
+      "ingredients": {
+        "Main": {
+          "shrimp": "200g, chopped",
+          "bamboo shoots": "50g, chopped",
+          "pork fat": "30g, minced (optional)",
+          "white pepper": "1/4 tsp",
+          "salt": "1/2 tsp",
+          "sugar": "1/2 tsp",
+          "sesame oil": "1 tsp",
+          "wheat starch": "100g",
+          "tapioca starch": "50g",
+          "boiling water": "120ml"
+        }
+      },
+      "preparation": [
+        "Mix shrimp, bamboo, pork fat, and seasonings. Mix starches with boiling water to form a dough. Roll thin, fill with shrimp mixture, shape into dumplings.",
+        "Steam 6–8 minutes until translucent. Serve hot."
+      ],
+      "tips": [
+        "Keep dough covered to prevent drying.",
+        "Serve with chili oil or soy sauce."
+      ],
+      "nutrition": {
+        "calories": 50,
+        "protein": "3g",
+        "carbohydrates": "7g",
+        "fat": "1g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore dim sum restaurants.",
+      "imageId": "chi_008.jpeg",
+      "steps": [
+        "Mix shrimp, bamboo, pork fat, and seasonings. Mix starches with boiling water to form a dough. Roll thin, fill with shrimp mixture, shape into dumplings.",
+        "Steam 6–8 minutes until translucent. Serve hot."
+      ],
+      "tags": [
+        "bamboo",
+        "delicate",
+        "dim",
+        "dumplings",
+        "favorite",
+        "filled",
+        "gow",
+        "har",
+        "served",
+        "shoots",
+        "shrimp",
+        "skin",
+        "starch",
+        "steamed",
+        "sum",
+        "translucent",
+        "wheat",
+        "wrapped"
+      ],
+      "cost": {
+        "total_sgd": 9.06,
+        "ingredients_sgd": 8.91,
+        "energy_sgd": 0.15,
+        "per_serving_sgd": 0.76,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "shrimp",
+            "cost_sgd": 1.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "bamboo shoots",
+            "cost_sgd": 0.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "pork fat",
+            "cost_sgd": 0.4,
+            "emissions_kgco2e": 0.21,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 1.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sesame oil",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "wheat starch",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "tapioca starch",
+            "cost_sgd": 0.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "boiling water",
+            "cost_sgd": 0.53,
+            "emissions_kgco2e": 0.72,
+            "amount": 120.0,
+            "unit": "ml"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 2.634,
+        "ingredients_kgco2e": 2.43,
+        "energy_kgco2e": 0.204,
+        "per_serving_kgco2e": 0.22
+      }
+    },
+    {
+      "id": "chi_009",
+      "name": "Chee Cheong Fun (Rice Noodle Rolls)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "servings": 8.0,
+      "description": "A Cantonese and local breakfast favorite: silky rice noodle rolls filled with shrimp, char siu, or plain, served with sweet soy sauce and sesame seeds.",
+      "ingredients": {
+        "Main": {
+          "rice flour": "150g",
+          "tapioca flour": "30g",
+          "wheat starch": "20g",
+          "water": "400ml",
+          "oil": "1 tbsp",
+          "shrimp or char siu": "100g, chopped (optional)",
+          "sweet soy sauce": "4 tbsp",
+          "sesame seeds": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Mix flours, water, and oil. Steam thin layers in a tray, add filling, roll up. Slice and serve with soy sauce and sesame seeds."
+      ],
+      "tips": [
+        "Use a nonstick tray for easy rolling.",
+        "Serve warm for best texture."
+      ],
+      "nutrition": {
+        "calories": 90,
+        "protein": "2g",
+        "carbohydrates": "18g",
+        "fat": "1g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore dim sum stalls.",
+      "imageId": "chi_009.jpeg",
+      "steps": [
+        "Mix flours, water, and oil. Steam thin layers in a tray, add filling, roll up. Slice and serve with soy sauce and sesame seeds."
+      ],
+      "tags": [
+        "breakfast",
+        "cantonese",
+        "char",
+        "chee",
+        "cheong",
+        "favorite",
+        "filled",
+        "fun",
+        "local",
+        "noodle",
+        "plain",
+        "rice",
+        "rolls",
+        "sauce",
+        "seeds",
+        "served",
+        "sesame",
+        "shrimp",
+        "silky",
+        "siu",
+        "soy",
+        "sweet"
+      ],
+      "cost": {
+        "total_sgd": 2.07,
+        "ingredients_sgd": 1.87,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 0.26,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice flour",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 0.675,
+            "amount": 150.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "tapioca flour",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.0,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "wheat starch",
+            "cost_sgd": 0.16,
+            "emissions_kgco2e": 0.0,
+            "amount": 20.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 400.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.09,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "shrimp or char siu",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sweet soy sauce",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.12,
+            "amount": 4.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sesame seeds",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 1.157,
+        "ingredients_kgco2e": 0.885,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.145
+      }
+    },
+    {
+      "id": "chi_010",
+      "name": "Xiao Long Bao (Soup Dumplings)",
+      "difficulty": "Hard",
+      "prep_time": "1 hour (plus chilling)",
+      "cook_time": "15 minutes",
+      "servings": 16.0,
+      "description": "A Shanghai specialty: delicate dumplings filled with pork and a rich, savory soup. Steamed and served with black vinegar and ginger.",
+      "ingredients": {
+        "Main": {
+          "minced pork": "300g",
+          "ginger": "1 tbsp, grated",
+          "spring onions": "2, chopped",
+          "soy sauce": "1 tbsp",
+          "shaoxing wine": "1 tbsp",
+          "sesame oil": "1 tsp",
+          "sugar": "1/2 tsp",
+          "gelatinized pork stock": "100g, diced and chilled",
+          "dumpling wrappers": "16"
+        }
+      },
+      "preparation": [
+        "Mix pork, ginger, spring onions, seasonings, and stock. Place filling in wrappers, seal well.",
+        "Steam 8–10 minutes until cooked. Serve with black vinegar and ginger."
+      ],
+      "tips": [
+        "Chill stock until firm for easy wrapping.",
+        "Serve hot for best soup texture."
+      ],
+      "nutrition": {
+        "calories": 70,
+        "protein": "4g",
+        "carbohydrates": "6g",
+        "fat": "3g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore dim sum restaurants.",
+      "imageId": "chi_010.jpeg",
+      "steps": [
+        "Mix pork, ginger, spring onions, seasonings, and stock. Place filling in wrappers, seal well.",
+        "Steam 8–10 minutes until cooked. Serve with black vinegar and ginger."
+      ],
+      "tags": [
+        "bao",
+        "black",
+        "delicate",
+        "dumplings",
+        "filled",
+        "ginger",
+        "long",
+        "pork",
+        "rich",
+        "savory",
+        "served",
+        "shanghai",
+        "soup",
+        "specialty",
+        "steamed",
+        "vinegar",
+        "xiao"
+      ],
+      "cost": {
+        "total_sgd": 139.78,
+        "ingredients_sgd": 139.63,
+        "energy_sgd": 0.15,
+        "per_serving_sgd": 8.74,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "minced pork",
+            "cost_sgd": 3.96,
+            "emissions_kgco2e": 2.1,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 0.09,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "shaoxing wine",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sesame oil",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 1.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "gelatinized pork stock",
+            "cost_sgd": 1.32,
+            "emissions_kgco2e": 0.7,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "dumpling wrappers",
+            "cost_sgd": 128.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 16.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 6.434,
+        "ingredients_kgco2e": 6.23,
+        "energy_kgco2e": 0.204,
+        "per_serving_kgco2e": 0.402
+      }
+    },
+    {
+      "id": "chi_011",
+      "name": "Chicken Feet (Phoenix Claws)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "1 hour",
+      "servings": 8.0,
+      "description": "A dim sum classic: chicken feet deep-fried, then braised in a savory black bean sauce until tender. Served at dim sum restaurants and hawker stalls.",
+      "ingredients": {
+        "Main": {
+          "chicken feet": "500g, cleaned",
+          "black bean sauce": "2 tbsp",
+          "soy sauce": "2 tbsp",
+          "oyster sauce": "1 tbsp",
+          "sugar": "1 tbsp",
+          "garlic": "3 cloves, minced",
+          "ginger": "2 slices",
+          "chili": "1, sliced",
+          "oil": "for frying",
+          "water": "as needed"
+        }
+      },
+      "preparation": [
+        "Deep-fry chicken feet until golden. Soak in cold water, then braise with sauces, garlic, ginger, and chili 1 hour until tender."
+      ],
+      "tips": [
+        "Soak feet in ice water for a puffy texture.",
+        "Serve with extra chili for heat."
+      ],
+      "nutrition": {
+        "calories": 90,
+        "protein": "6g",
+        "carbohydrates": "4g",
+        "fat": "6g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore dim sum restaurants.",
+      "imageId": "chi_011.jpeg",
+      "steps": [
+        "Deep-fry chicken feet until golden. Soak in cold water, then braise with sauces, garlic, ginger, and chili 1 hour until tender."
+      ],
+      "tags": [
+        "bean",
+        "black",
+        "braised",
+        "chicken",
+        "classic",
+        "claws",
+        "deep",
+        "dim",
+        "feet",
+        "fried",
+        "hawker",
+        "phoenix",
+        "restaurants",
+        "sauce",
+        "savory",
+        "served",
+        "stalls",
+        "sum",
+        "tender"
+      ],
+      "cost": {
+        "total_sgd": 49.71,
+        "ingredients_sgd": 49.7,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 6.21,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "chicken feet",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 3.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "black bean sauce",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 19.8,
+            "emissions_kgco2e": 4.5,
+            "amount": 3.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "chili",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 15.589,
+        "ingredients_kgco2e": 15.575,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 1.949
+      }
+    },
+    {
+      "id": "chi_012",
+      "name": "Liu Sha Bao (Salted Egg Custard Buns)",
+      "difficulty": "Medium",
+      "prep_time": "40 minutes (plus rising)",
+      "cook_time": "15 minutes",
+      "servings": 12.0,
+      "description": "A modern dim sum favorite: steamed buns filled with molten salted egg yolk custard. Soft, fluffy, and rich. Served at dim sum restaurants and bakeries.",
+      "ingredients": {
+        "Main": {
+          "plain flour": "300g",
+          "yeast": "1 tsp",
+          "sugar": "60g",
+          "milk": "150ml",
+          "butter": "40g",
+          "salted egg yolks": "4, steamed and mashed",
+          "custard powder": "2 tbsp",
+          "milk powder": "2 tbsp",
+          "condensed milk": "2 tbsp",
+          "salt": "1/2 tsp"
+        }
+      },
+      "preparation": [
+        "Mix flour, yeast, sugar, and milk to form a dough. Let rise 1 hour. Mix filling ingredients. Divide dough, fill with custard, shape into buns. Steam 10–12 minutes."
+      ],
+      "tips": [
+        "Use salted duck egg yolks for best flavor.",
+        "Serve warm for molten center."
+      ],
+      "nutrition": {
+        "calories": 120,
+        "protein": "3g",
+        "carbohydrates": "20g",
+        "fat": "3g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore dim sum bakeries.",
+      "imageId": "chi_012.jpeg",
+      "steps": [
+        "Mix flour, yeast, sugar, and milk to form a dough. Let rise 1 hour. Mix filling ingredients. Divide dough, fill with custard, shape into buns. Steam 10–12 minutes."
+      ],
+      "tags": [
+        "bakeries",
+        "bao",
+        "buns",
+        "custard",
+        "dim",
+        "egg",
+        "favorite",
+        "filled",
+        "fluffy",
+        "liu",
+        "modern",
+        "molten",
+        "restaurants",
+        "rich",
+        "salted",
+        "served",
+        "sha",
+        "soft",
+        "steamed",
+        "sum",
+        "yolk"
+      ],
+      "cost": {
+        "total_sgd": 4.26,
+        "ingredients_sgd": 4.11,
+        "energy_sgd": 0.15,
+        "per_serving_sgd": 0.36,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "plain flour",
+            "cost_sgd": 0.75,
+            "emissions_kgco2e": 0.0,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "yeast",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 60.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "milk",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 0.285,
+            "amount": 150.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "butter",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.48,
+            "amount": 40.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salted egg yolks",
+            "cost_sgd": 1.32,
+            "emissions_kgco2e": 18.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "custard powder",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "milk powder",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.057,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "condensed milk",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.057,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 19.643,
+        "ingredients_kgco2e": 19.439,
+        "energy_kgco2e": 0.204,
+        "per_serving_kgco2e": 1.637
+      }
+    },
+    {
+      "id": "chi_013",
+      "name": "Wolfberry Osmanthus Jelly",
+      "difficulty": "Easy",
+      "prep_time": "15 minutes",
+      "cook_time": "10 minutes",
+      "servings": 8.0,
+      "description": "A refreshing dim sum dessert: floral osmanthus jelly with wolfberries (goji berries). Served chilled at dim sum restaurants and dessert stalls.",
+      "ingredients": {
+        "Main": {
+          "osmanthus flowers": "2 tbsp, dried",
+          "goji berries (wolfberries)": "2 tbsp",
+          "rock sugar": "60g",
+          "agar agar powder": "10g",
+          "water": "1 litre"
+        }
+      },
+      "preparation": [
+        "Boil water, add osmanthus, goji, and rock sugar. Simmer 5 minutes. Stir in agar agar, dissolve. Pour into molds, chill until set."
+      ],
+      "tips": [
+        "Use more osmanthus for stronger aroma.",
+        "Serve well chilled."
+      ],
+      "nutrition": {
+        "calories": 30,
+        "protein": "0g",
+        "carbohydrates": "7g",
+        "fat": "0g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore dessert stalls.",
+      "imageId": "chi_013.jpeg",
+      "steps": [
+        "Boil water, add osmanthus, goji, and rock sugar. Simmer 5 minutes. Stir in agar agar, dissolve. Pour into molds, chill until set."
+      ],
+      "tags": [
+        "berries",
+        "chilled",
+        "dessert",
+        "dim",
+        "floral",
+        "goji",
+        "jelly",
+        "osmanthus",
+        "refreshing",
+        "restaurants",
+        "served",
+        "stalls",
+        "sum",
+        "wolfberries",
+        "wolfberry"
+      ],
+      "cost": {
+        "total_sgd": 0.7,
+        "ingredients_sgd": 0.6,
+        "energy_sgd": 0.1,
+        "per_serving_sgd": 0.09,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "osmanthus flowers",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "goji berries (wolfberries)",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "rock sugar",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 60.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "agar agar powder",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 10.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "litre"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 0.196,
+        "ingredients_kgco2e": 0.06,
+        "energy_kgco2e": 0.136,
+        "per_serving_kgco2e": 0.024
+      }
+    },
+    {
+      "id": "chi_014",
+      "name": "Tofu Skin Rolls (Sin Juk Gyun)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "servings": 10.0,
+      "description": "A dim sum staple: beancurd skin rolls filled with pork, shrimp, and vegetables, steamed or fried. Served with soy sauce or chili.",
+      "ingredients": {
+        "Main": {
+          "beancurd skin": "5 sheets",
+          "minced pork": "300g",
+          "shrimp": "100g, chopped",
+          "carrot": "1, grated",
+          "spring onions": "2, chopped",
+          "shiitake mushrooms": "2, soaked and chopped",
+          "soy sauce": "1 tbsp",
+          "oyster sauce": "1 tbsp",
+          "white pepper": "1/2 tsp",
+          "cornstarch": "1 tbsp",
+          "oil": "for frying"
+        }
+      },
+      "preparation": [
+        "Mix filling ingredients. Spread on beancurd skin, roll up and seal. Steam 10 minutes or fry until golden. Slice and serve."
+      ],
+      "tips": [
+        "Serve with sweet soy sauce or chili dip.",
+        "Add bamboo shoots for crunch."
+      ],
+      "nutrition": {
+        "calories": 80,
+        "protein": "5g",
+        "carbohydrates": "6g",
+        "fat": "4g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore dim sum restaurants.",
+      "imageId": "chi_014.jpeg",
+      "steps": [
+        "Mix filling ingredients. Spread on beancurd skin, roll up and seal. Steam 10 minutes or fry until golden. Slice and serve."
+      ],
+      "tags": [
+        "beancurd",
+        "chili",
+        "dim",
+        "filled",
+        "fried",
+        "gyun",
+        "juk",
+        "pork",
+        "rolls",
+        "sauce",
+        "served",
+        "shrimp",
+        "sin",
+        "skin",
+        "soy",
+        "staple",
+        "steamed",
+        "sum",
+        "tofu",
+        "vegetables"
+      ],
+      "cost": {
+        "total_sgd": 72.68,
+        "ingredients_sgd": 72.48,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 7.27,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "beancurd skin",
+            "cost_sgd": 40.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 5.0,
+            "unit": "sheets"
+          },
+          {
+            "ingredient": "minced pork",
+            "cost_sgd": 3.96,
+            "emissions_kgco2e": 2.1,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "shrimp",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "carrot",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.8,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "shiitake mushrooms",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 11.602,
+        "ingredients_kgco2e": 11.33,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 1.16
+      }
+    },
+    {
+      "id": "chi_015",
+      "name": "Sesame Balls (Jian Dui)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "servings": 16.0,
+      "description": "A popular dim sum and snack: deep-fried glutinous rice balls filled with sweet red bean paste, coated in sesame seeds. Crispy outside, chewy inside.",
+      "ingredients": {
+        "Main": {
+          "glutinous rice flour": "200g",
+          "sugar": "60g",
+          "water": "120ml (as needed)",
+          "red bean paste": "100g",
+          "white sesame seeds": "60g",
+          "oil": "for frying"
+        }
+      },
+      "preparation": [
+        "Mix flour, sugar, and water to form a dough. Wrap dough around red bean paste, roll into balls, coat with sesame seeds. Fry until golden."
+      ],
+      "tips": [
+        "Keep oil at medium heat for even frying.",
+        "Serve warm for best texture."
+      ],
+      "nutrition": {
+        "calories": 70,
+        "protein": "1g",
+        "carbohydrates": "14g",
+        "fat": "2g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore bakeries.",
+      "imageId": "chi_015.jpeg",
+      "steps": [
+        "Mix flour, sugar, and water to form a dough. Wrap dough around red bean paste, roll into balls, coat with sesame seeds. Fry until golden."
+      ],
+      "tags": [
+        "balls",
+        "bean",
+        "chewy",
+        "coated",
+        "crispy",
+        "deep",
+        "dim",
+        "dui",
+        "filled",
+        "fried",
+        "glutinous",
+        "jian",
+        "paste",
+        "popular",
+        "red",
+        "rice",
+        "seeds",
+        "sesame",
+        "snack",
+        "sum",
+        "sweet"
+      ],
+      "cost": {
+        "total_sgd": 6.02,
+        "ingredients_sgd": 5.82,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 0.38,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "glutinous rice flour",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.9,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 60.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 120.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "red bean paste",
+            "cost_sgd": 0.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "white sesame seeds",
+            "cost_sgd": 0.48,
+            "emissions_kgco2e": 0.0,
+            "amount": 60.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 7.232,
+        "ingredients_kgco2e": 6.96,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.452
+      }
+    },
+    {
+      "id": "chi_016",
+      "name": "Shrimp Stuffed Eggplants",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "servings": 8.0,
+      "description": "A dim sum and zi char favorite: eggplant slices stuffed with shrimp paste, pan-fried and served with savory sauce. Popular at hawker stalls and dim sum restaurants.",
+      "ingredients": {
+        "eggplant": "2, sliced",
+        "shrimp": "200g, minced",
+        "spring onions": "2, chopped",
+        "soy sauce": "1 tbsp",
+        "white pepper": "1/2 tsp",
+        "cornstarch": "1 tbsp",
+        "oil": "for frying",
+        "sauce": {
+          "oyster sauce": "1 tbsp",
+          "soy sauce": "1 tbsp",
+          "sugar": "1 tsp",
+          "water": "100ml"
+        }
+      },
+      "preparation": [
+        "Mix shrimp, spring onions, soy, pepper, and cornstarch. Sandwich between eggplant slices. Pan-fry until golden. Simmer sauce ingredients, pour over eggplant."
+      ],
+      "tips": [
+        "Use long eggplants for easy stuffing.",
+        "Serve with steamed rice."
+      ],
+      "nutrition": {
+        "calories": 60,
+        "protein": "4g",
+        "carbohydrates": "8g",
+        "fat": "2g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore zi char stalls.",
+      "imageId": "chi_016.jpeg",
+      "steps": [
+        "Mix shrimp, spring onions, soy, pepper, and cornstarch. Sandwich between eggplant slices. Pan-fry until golden. Simmer sauce ingredients, pour over eggplant."
+      ],
+      "tags": [
+        "char",
+        "dim",
+        "eggplant",
+        "eggplants",
+        "favorite",
+        "fried",
+        "hawker",
+        "paste",
+        "popular",
+        "restaurants",
+        "sauce",
+        "savory",
+        "served",
+        "shrimp",
+        "slices",
+        "stalls",
+        "stuffed",
+        "sum"
+      ],
+      "cost": {
+        "total_sgd": 13.44,
+        "ingredients_sgd": 13.24,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 1.68,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "eggplant",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "shrimp",
+            "cost_sgd": 1.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "ml"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 17.737,
+        "ingredients_kgco2e": 17.465,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 2.217
+      }
+    },
+    {
+      "id": "chi_017",
+      "name": "Red Bean Pancake (Wo Bing)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "servings": 8.0,
+      "description": "A dim sum and snack favorite: crispy pan-fried pancakes filled with sweet red bean paste. Served at dim sum restaurants and bakeries.",
+      "ingredients": {
+        "Main": {
+          "plain flour": "200g",
+          "sugar": "40g",
+          "water": "100ml (as needed)",
+          "red bean paste": "120g",
+          "sesame seeds": "2 tbsp",
+          "oil": "for frying"
+        }
+      },
+      "preparation": [
+        "Mix flour, sugar, and water to form a dough. Roll out, fill with red bean paste, fold and seal. Pan-fry until golden, sprinkle with sesame seeds."
+      ],
+      "tips": [
+        "Serve warm for best flavor.",
+        "Add more sesame seeds for aroma."
+      ],
+      "nutrition": {
+        "calories": 90,
+        "protein": "2g",
+        "carbohydrates": "18g",
+        "fat": "2g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore bakeries.",
+      "imageId": "chi_017.jpeg",
+      "steps": [
+        "Mix flour, sugar, and water to form a dough. Roll out, fill with red bean paste, fold and seal. Pan-fry until golden, sprinkle with sesame seeds."
+      ],
+      "tags": [
+        "bakeries",
+        "bean",
+        "bing",
+        "crispy",
+        "dim",
+        "favorite",
+        "filled",
+        "fried",
+        "pancake",
+        "pancakes",
+        "paste",
+        "red",
+        "restaurants",
+        "served",
+        "snack",
+        "sum",
+        "sweet"
+      ],
+      "cost": {
+        "total_sgd": 5.89,
+        "ingredients_sgd": 5.69,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 0.74,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "plain flour",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.04,
+            "amount": 40.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "red bean paste",
+            "cost_sgd": 0.48,
+            "emissions_kgco2e": 0.0,
+            "amount": 120.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sesame seeds",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 6.312,
+        "ingredients_kgco2e": 6.04,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.789
+      }
+    },
+    {
+      "id": "chi_018",
+      "name": "Sugar Cane Prawn",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "15 minutes",
+      "servings": 8.0,
+      "description": "A festive dim sum and zi char dish: shrimp paste molded around sugar cane sticks, steamed or fried. Sweet, savory, and aromatic.",
+      "ingredients": {
+        "Main": {
+          "shrimp": "300g, minced",
+          "pork fat": "50g, minced (optional)",
+          "spring onions": "2, chopped",
+          "garlic": "2 cloves, minced",
+          "sugar cane sticks": "8, cut into 10cm pieces",
+          "soy sauce": "1 tbsp",
+          "white pepper": "1/2 tsp",
+          "cornstarch": "1 tbsp",
+          "oil": "for frying"
+        }
+      },
+      "preparation": [
+        "Mix shrimp, pork fat, spring onions, garlic, soy, pepper, and cornstarch. Mold around sugar cane sticks. Steam 8 minutes or fry until golden. Serve hot."
+      ],
+      "tips": [
+        "Use fresh sugar cane for best aroma.",
+        "Serve with sweet chili sauce."
+      ],
+      "nutrition": {
+        "calories": 70,
+        "protein": "5g",
+        "carbohydrates": "6g",
+        "fat": "3g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore zi char stalls.",
+      "imageId": "chi_018.jpeg",
+      "steps": [
+        "Mix shrimp, pork fat, spring onions, garlic, soy, pepper, and cornstarch. Mold around sugar cane sticks. Steam 8 minutes or fry until golden. Serve hot."
+      ],
+      "tags": [
+        "aromatic",
+        "cane",
+        "char",
+        "dim",
+        "dish",
+        "festive",
+        "fried",
+        "molded",
+        "paste",
+        "prawn",
+        "savory",
+        "shrimp",
+        "steamed",
+        "sticks",
+        "sugar",
+        "sum",
+        "sweet"
+      ],
+      "cost": {
+        "total_sgd": 40.48,
+        "ingredients_sgd": 40.33,
+        "energy_sgd": 0.15,
+        "per_serving_sgd": 5.06,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "shrimp",
+            "cost_sgd": 2.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "pork fat",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 0.35,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "sugar cane sticks",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 8.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 19.984,
+        "ingredients_kgco2e": 19.78,
+        "energy_kgco2e": 0.204,
+        "per_serving_kgco2e": 2.498
+      }
+    },
+    {
+      "id": "chi_019",
+      "name": "Malay Steamed Cake (Ma Lai Gao)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes (plus rising)",
+      "cook_time": "30 minutes",
+      "servings": 10.0,
+      "description": "A soft, fluffy Cantonese steamed cake with caramel flavor. Served at dim sum restaurants and bakeries in Singapore.",
+      "ingredients": {
+        "Main": {
+          "plain flour": "200g",
+          "baking powder": "2 tsp",
+          "baking soda": "1/2 tsp",
+          "sugar": "120g",
+          "eggs": "3",
+          "evaporated milk": "100ml",
+          "oil": "60ml",
+          "water": "60ml"
+        }
+      },
+      "preparation": [
+        "Beat eggs and sugar until pale. Add milk, oil, water, then flour, baking powder, and soda. Pour into a lined pan, steam 30 minutes until set."
+      ],
+      "tips": [
+        "Let batter rest for a fluffier cake.",
+        "Serve warm for best texture."
+      ],
+      "nutrition": {
+        "calories": 120,
+        "protein": "3g",
+        "carbohydrates": "22g",
+        "fat": "3g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore dim sum bakeries.",
+      "imageId": "chi_019.jpeg",
+      "steps": [
+        "Beat eggs and sugar until pale. Add milk, oil, water, then flour, baking powder, and soda. Pour into a lined pan, steam 30 minutes until set."
+      ],
+      "tags": [
+        "bakeries",
+        "cake",
+        "cantonese",
+        "caramel",
+        "dim",
+        "flavor",
+        "fluffy",
+        "gao",
+        "lai",
+        "malay",
+        "restaurants",
+        "served",
+        "singapore",
+        "soft",
+        "steamed",
+        "sum"
+      ],
+      "cost": {
+        "total_sgd": 4.49,
+        "ingredients_sgd": 4.19,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 0.45,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "plain flour",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "baking powder",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "baking soda",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.12,
+            "amount": 120.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "eggs",
+            "cost_sgd": 0.99,
+            "emissions_kgco2e": 13.5,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "evaporated milk",
+            "cost_sgd": 0.22,
+            "emissions_kgco2e": 0.19,
+            "amount": 100.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.26,
+            "emissions_kgco2e": 0.36,
+            "amount": 60.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 60.0,
+            "unit": "ml"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 14.578,
+        "ingredients_kgco2e": 14.17,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 1.458
+      }
+    },
+    {
+      "id": "chi_020",
+      "name": "Ban Mian (Handmade Noodles)",
+      "difficulty": "Medium",
+      "prep_time": "40 minutes",
+      "cook_time": "20 minutes",
+      "servings": 6.0,
+      "description": "A hawker favorite: handmade wheat noodles served in a savory broth with pork, egg, vegetables, and anchovies. Popular at food courts and noodle stalls in Singapore.",
+      "ingredients": {
+        "Main": {
+          "plain flour": "300g",
+          "egg": "2",
+          "water": "120ml (as needed)",
+          "salt": "1/2 tsp",
+          "pork mince": "200g",
+          "vegetables": "100g (choy sum or spinach)",
+          "ikan bilis (anchovies)": "50g, fried",
+          "garlic": "2 cloves, minced",
+          "soy sauce": "1 tbsp",
+          "chicken stock": "1.5 litres"
+        }
+      },
+      "preparation": [
+        "Mix flour, egg, salt, and water to form a dough. Rest 30 minutes, roll and cut into noodles.",
+        "Cook noodles in boiling water. Simmer stock, add pork, vegetables, garlic, and soy. Add noodles, top with egg and fried ikan bilis. Serve hot."
+      ],
+      "tips": [
+        "Use a pasta machine for even noodles.",
+        "Add chili for extra heat."
+      ],
+      "nutrition": {
+        "calories": 220,
+        "protein": "10g",
+        "carbohydrates": "36g",
+        "fat": "4g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore noodle stalls.",
+      "imageId": "chi_020.jpeg",
+      "steps": [
+        "Mix flour, egg, salt, and water to form a dough. Rest 30 minutes, roll and cut into noodles.",
+        "Cook noodles in boiling water. Simmer stock, add pork, vegetables, garlic, and soy. Add noodles, top with egg and fried ikan bilis. Serve hot."
+      ],
+      "tags": [
+        "anchovies",
+        "ban",
+        "broth",
+        "courts",
+        "egg",
+        "favorite",
+        "food",
+        "handmade",
+        "hawker",
+        "mian",
+        "noodle",
+        "noodles",
+        "popular",
+        "pork",
+        "savory",
+        "served",
+        "singapore",
+        "stalls",
+        "vegetables",
+        "wheat"
+      ],
+      "cost": {
+        "total_sgd": 32.2,
+        "ingredients_sgd": 32.0,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 5.37,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "plain flour",
+            "cost_sgd": 0.75,
+            "emissions_kgco2e": 0.0,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "egg",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 120.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "pork mince",
+            "cost_sgd": 2.64,
+            "emissions_kgco2e": 1.4,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "vegetables",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.2,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "ikan bilis (anchovies)",
+            "cost_sgd": 0.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chicken stock",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 9.0,
+            "amount": 1.5,
+            "unit": "litres"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 23.402,
+        "ingredients_kgco2e": 23.13,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 3.9
+      }
+    },
+    {
+      "id": "chi_031",
+      "name": "Beef Kway Teow (Beef Hor Fun)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "servings": 4.0,
+      "description": "A classic Singaporean hawker dish: silky flat rice noodles stir-fried with tender beef slices, bean sprouts, and a savory black bean sauce.",
+      "ingredients": {
+        "Main": {
+          "flat rice noodles (kway teow)": "400g",
+          "beef sirloin": "250g, thinly sliced",
+          "bean sprouts": "100g",
+          "garlic": "3 cloves, minced",
+          "dark soy sauce": "2 tbsp",
+          "light soy sauce": "1 tbsp",
+          "oyster sauce": "1 tbsp",
+          "black bean sauce": "1 tbsp",
+          "cornstarch": "1 tsp",
+          "water": "2 tbsp",
+          "oil": "2 tbsp",
+          "spring onions": "2, sliced"
+        }
+      },
+      "preparation": [
+        "Marinate beef with 1/2 the soy sauces, cornstarch, and water for 10 minutes.",
+        "Heat oil, fry garlic, add beef, stir-fry until just cooked. Remove.",
+        "Add more oil, fry noodles, add sauces, toss. Return beef, add bean sprouts and spring onions. Serve hot."
+      ],
+      "tips": [
+        "Use high heat for wok hei.",
+        "Do not overcook beef."
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": "28g",
+        "carbohydrates": "60g",
+        "fat": "10g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore hawker stalls.",
+      "imageId": "chi_031.jpeg",
+      "steps": [
+        "Marinate beef with 1/2 the soy sauces, cornstarch, and water for 10 minutes.",
+        "Heat oil, fry garlic, add beef, stir-fry until just cooked. Remove.",
+        "Add more oil, fry noodles, add sauces, toss. Return beef, add bean sprouts and spring onions. Serve hot."
+      ],
+      "tags": [
+        "bean",
+        "beef",
+        "black",
+        "classic",
+        "dish",
+        "flat",
+        "fried",
+        "fun",
+        "hawker",
+        "hor",
+        "kway",
+        "noodles",
+        "rice",
+        "sauce",
+        "savory",
+        "silky",
+        "singaporean",
+        "slices",
+        "sprouts",
+        "stir",
+        "tender",
+        "teow"
+      ],
+      "cost": {
+        "total_sgd": 31.28,
+        "ingredients_sgd": 31.08,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 7.82,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "flat rice noodles (kway teow)",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 1.8,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "beef sirloin",
+            "cost_sgd": 5.5,
+            "emissions_kgco2e": 15.0,
+            "amount": 250.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "bean sprouts",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 19.8,
+            "emissions_kgco2e": 4.5,
+            "amount": 3.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "black bean sauce",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 24.242,
+        "ingredients_kgco2e": 23.97,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 6.06
+      }
+    },
+    {
+      "id": "chi_032",
+      "name": "Curry Chicken Noodles",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "40 minutes",
+      "servings": 6.0,
+      "description": "A comforting bowl of yellow noodles in a rich, spicy coconut curry broth with chicken, tau pok, and potatoes. A hawker favourite.",
+      "ingredients": {
+        "yellow noodles": "400g",
+        "chicken pieces": "500g",
+        "potatoes": "2, peeled and cut",
+        "tau pok (fried tofu puffs)": "8, halved",
+        "coconut milk": "400ml",
+        "curry paste": {
+          "shallots": "6",
+          "garlic": "3 cloves",
+          "dried chilies": "8, soaked",
+          "lemongrass": "1 stalk",
+          "curry powder": "2 tbsp"
+        },
+        "chicken stock": "1 litre",
+        "salt": "1 tsp",
+        "sugar": "1 tbsp",
+        "oil": "2 tbsp"
+      },
+      "preparation": [
+        "Blend curry paste. Fry in oil until fragrant.",
+        "Add chicken, brown. Add potatoes, stock, coconut milk, salt, and sugar. Simmer until chicken and potatoes are cooked.",
+        "Blanch noodles, place in bowls. Ladle curry, add tau pok. Serve hot."
+      ],
+      "tips": [
+        "Add bean sprouts for crunch.",
+        "Use fresh curry paste for best flavor."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": "28g",
+        "carbohydrates": "60g",
+        "fat": "18g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore hawker stalls.",
+      "imageId": "chi_032.jpeg",
+      "steps": [
+        "Blend curry paste. Fry in oil until fragrant.",
+        "Add chicken, brown. Add potatoes, stock, coconut milk, salt, and sugar. Simmer until chicken and potatoes are cooked.",
+        "Blanch noodles, place in bowls. Ladle curry, add tau pok. Serve hot."
+      ],
+      "tags": [
+        "bowl",
+        "broth",
+        "chicken",
+        "coconut",
+        "comforting",
+        "curry",
+        "favourite",
+        "hawker",
+        "noodles",
+        "pok",
+        "potatoes",
+        "rich",
+        "spicy",
+        "tau",
+        "yellow"
+      ],
+      "cost": {
+        "total_sgd": 153.46,
+        "ingredients_sgd": 153.06,
+        "energy_sgd": 0.4,
+        "per_serving_sgd": 25.58,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "yellow noodles",
+            "cost_sgd": 1.32,
+            "emissions_kgco2e": 1.0,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "chicken pieces",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 3.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "potatoes",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 1.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tau pok (fried tofu puffs)",
+            "cost_sgd": 22.0,
+            "emissions_kgco2e": 25.6,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 0.76,
+            "amount": 400.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 19.8,
+            "emissions_kgco2e": 4.5,
+            "amount": 3.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "dried chilies",
+            "cost_sgd": 70.4,
+            "emissions_kgco2e": 16.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "lemongrass",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "stalk"
+          },
+          {
+            "ingredient": "curry powder",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chicken stock",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 6.0,
+            "amount": 1.0,
+            "unit": "litre"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 58.601,
+        "ingredients_kgco2e": 58.057,
+        "energy_kgco2e": 0.544,
+        "per_serving_kgco2e": 9.767
+      }
+    },
+    {
+      "id": "chi_033",
+      "name": "Orh Kueh (Steamed Yam Cake)",
+      "difficulty": "Medium",
+      "prep_time": "40 minutes",
+      "cook_time": "1 hour",
+      "servings": 12.0,
+      "description": "A savory steamed cake made with yam, rice flour, and dried shrimp, topped with fried shallots and spring onions. Popular as a breakfast or snack.",
+      "ingredients": {
+        "Main": {
+          "yam (taro)": "400g, peeled and diced",
+          "rice flour": "200g",
+          "tapioca flour": "50g",
+          "dried shrimp": "50g, soaked and chopped",
+          "water": "600ml",
+          "shallots": "4, sliced",
+          "spring onions": "2, chopped",
+          "salt": "1 tsp",
+          "white pepper": "1/2 tsp",
+          "oil": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Fry shallots in oil, set aside. Fry yam and dried shrimp in remaining oil.",
+        "Mix flours, water, salt, and pepper. Add yam mixture. Pour into greased tray.",
+        "Steam 1 hour until set. Cool, slice, and top with fried shallots and spring onions."
+      ],
+      "tips": [
+        "Serve with chili sauce.",
+        "Add Chinese sausage for variation."
+      ],
+      "nutrition": {
+        "calories": 120,
+        "protein": "3g",
+        "carbohydrates": "24g",
+        "fat": "2g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore hawker stalls.",
+      "imageId": "chi_033.jpeg",
+      "steps": [
+        "Fry shallots in oil, set aside. Fry yam and dried shrimp in remaining oil.",
+        "Mix flours, water, salt, and pepper. Add yam mixture. Pour into greased tray.",
+        "Steam 1 hour until set. Cool, slice, and top with fried shallots and spring onions."
+      ],
+      "tags": [
+        "breakfast",
+        "cake",
+        "dried",
+        "flour",
+        "fried",
+        "kueh",
+        "made",
+        "onions",
+        "orh",
+        "popular",
+        "rice",
+        "savory",
+        "shallots",
+        "shrimp",
+        "snack",
+        "spring",
+        "steamed",
+        "topped",
+        "yam"
+      ],
+      "cost": {
+        "total_sgd": 24.51,
+        "ingredients_sgd": 24.5,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 2.04,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "yam (taro)",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "rice flour",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.9,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "tapioca flour",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "dried shrimp",
+            "cost_sgd": 0.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 600.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 3.496,
+        "ingredients_kgco2e": 3.482,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 0.291
+      }
+    },
+    {
+      "id": "chi_034",
+      "name": "Sliced Fish Soup in Milky Broth",
+      "difficulty": "Medium",
+      "prep_time": "25 minutes",
+      "cook_time": "30 minutes",
+      "servings": 4.0,
+      "description": "A light, nourishing soup of fresh fish slices in a milky, peppery broth with vegetables and tofu. A hawker and home-cooked favourite.",
+      "ingredients": {
+        "Main": {
+          "fresh fish fillet (mackerel or batang)": "300g, sliced",
+          "tofu": "1 block, cubed",
+          "tomato": "1, cut into wedges",
+          "preserved mustard greens": "30g, rinsed and sliced",
+          "ginger": "4 slices",
+          "evaporated milk": "100ml",
+          "water": "1.2 litres",
+          "white pepper": "1/2 tsp",
+          "salt": "1 tsp",
+          "oil": "1 tbsp",
+          "spring onions": "2, chopped"
+        }
+      },
+      "preparation": [
+        "Heat oil, fry ginger. Add water, bring to boil. Add fish, tofu, tomato, mustard greens, salt, and pepper. Simmer 10 minutes.",
+        "Add evaporated milk, simmer 2 minutes. Garnish with spring onions. Serve hot."
+      ],
+      "tips": [
+        "Use fresh fish for best flavor.",
+        "Add lettuce or seaweed for variation."
+      ],
+      "nutrition": {
+        "calories": 160,
+        "protein": "18g",
+        "carbohydrates": "6g",
+        "fat": "7g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore hawker stalls.",
+      "imageId": "chi_034.jpeg",
+      "steps": [
+        "Heat oil, fry ginger. Add water, bring to boil. Add fish, tofu, tomato, mustard greens, salt, and pepper. Simmer 10 minutes.",
+        "Add evaporated milk, simmer 2 minutes. Garnish with spring onions. Serve hot."
+      ],
+      "tags": [
+        "broth",
+        "cooked",
+        "favourite",
+        "fish",
+        "fresh",
+        "hawker",
+        "home",
+        "light",
+        "milky",
+        "nourishing",
+        "peppery",
+        "sliced",
+        "slices",
+        "soup",
+        "tofu",
+        "vegetables"
+      ],
+      "cost": {
+        "total_sgd": 37.56,
+        "ingredients_sgd": 37.26,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 9.39,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "fresh fish fillet (mackerel or batang)",
+            "cost_sgd": 4.95,
+            "emissions_kgco2e": 1.5,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "tofu",
+            "cost_sgd": 0.82,
+            "emissions_kgco2e": 0.96,
+            "amount": 1.0,
+            "unit": "block"
+          },
+          {
+            "ingredient": "tomato",
+            "cost_sgd": 0.7,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "preserved mustard greens",
+            "cost_sgd": 0.09,
+            "emissions_kgco2e": 0.0,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "evaporated milk",
+            "cost_sgd": 0.22,
+            "emissions_kgco2e": 0.19,
+            "amount": 100.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.2,
+            "unit": "litres"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.09,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 5.551,
+        "ingredients_kgco2e": 5.143,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 1.388
+      }
+    },
+    {
+      "id": "chi_035",
+      "name": "Har Cheong Kai (Prawn Paste Fried Chicken)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "20 minutes",
+      "servings": 4.0,
+      "description": "A beloved Singaporean zi char dish: chicken wings marinated in fermented prawn paste, then deep-fried until crispy and fragrant.",
+      "ingredients": {
+        "Main": {
+          "chicken mid-joint wings": "600g",
+          "fermented prawn paste (har cheong)": "2 tbsp",
+          "rice flour": "3 tbsp",
+          "cornstarch": "2 tbsp",
+          "egg": "1",
+          "sugar": "1 tsp",
+          "white pepper": "1/2 tsp",
+          "oil": "for deep frying"
+        }
+      },
+      "preparation": [
+        "Marinate chicken with prawn paste, egg, sugar, and pepper for at least 2 hours.",
+        "Coat with rice flour and cornstarch. Deep fry until golden and crispy. Drain and serve hot."
+      ],
+      "tips": [
+        "Marinate overnight for deeper flavor.",
+        "Serve with lime wedges."
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": "22g",
+        "carbohydrates": "12g",
+        "fat": "20g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore zi char stalls.",
+      "imageId": "chi_035.jpeg",
+      "steps": [
+        "Marinate chicken with prawn paste, egg, sugar, and pepper for at least 2 hours.",
+        "Coat with rice flour and cornstarch. Deep fry until golden and crispy. Drain and serve hot."
+      ],
+      "tags": [
+        "beloved",
+        "char",
+        "cheong",
+        "chicken",
+        "crispy",
+        "deep",
+        "dish",
+        "fermented",
+        "fragrant",
+        "fried",
+        "har",
+        "kai",
+        "marinated",
+        "paste",
+        "prawn",
+        "singaporean",
+        "wings"
+      ],
+      "cost": {
+        "total_sgd": 13.01,
+        "ingredients_sgd": 12.81,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 3.25,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "chicken mid-joint wings",
+            "cost_sgd": 5.28,
+            "emissions_kgco2e": 3.6,
+            "amount": 600.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "fermented prawn paste (har cheong)",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 0.54,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "rice flour",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.202,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "egg",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 15.12,
+        "ingredients_kgco2e": 14.848,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 3.78
+      }
+    },
+    {
+      "id": "chi_036",
+      "name": "Chilled Tofu with Century Egg and Pickles",
+      "difficulty": "Easy",
+      "prep_time": "15 minutes",
+      "cook_time": "0 minutes",
+      "servings": 4.0,
+      "description": "A refreshing cold dish: silken tofu topped with diced century egg, pickled vegetables, and a savory soy dressing. Popular at Chinese restaurants and home tables.",
+      "ingredients": {
+        "Main": {
+          "silken tofu": "1 block, chilled",
+          "century eggs": "2, peeled and diced",
+          "pickled mustard greens": "50g, chopped",
+          "light soy sauce": "2 tbsp",
+          "sesame oil": "1 tsp",
+          "spring onions": "2, chopped",
+          "fried shallots": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Place tofu on a serving plate. Top with century egg and pickles.",
+        "Drizzle with soy sauce and sesame oil. Garnish with spring onions and fried shallots. Serve cold."
+      ],
+      "tips": [
+        "Use soft silken tofu for best texture.",
+        "Add chili oil for a spicy kick."
+      ],
+      "nutrition": {
+        "calories": 110,
+        "protein": "7g",
+        "carbohydrates": "4g",
+        "fat": "7g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore home kitchens.",
+      "imageId": "chi_036.jpeg",
+      "steps": [
+        "Place tofu on a serving plate. Top with century egg and pickles.",
+        "Drizzle with soy sauce and sesame oil. Garnish with spring onions and fried shallots. Serve cold."
+      ],
+      "tags": [
+        "century",
+        "chilled",
+        "chinese",
+        "cold",
+        "diced",
+        "dish",
+        "dressing",
+        "egg",
+        "home",
+        "pickled",
+        "pickles",
+        "popular",
+        "refreshing",
+        "restaurants",
+        "savory",
+        "silken",
+        "soy",
+        "tables",
+        "tofu",
+        "topped",
+        "vegetables"
+      ],
+      "cost": {
+        "total_sgd": 6.29,
+        "ingredients_sgd": 6.29,
+        "energy_sgd": 0.0,
+        "per_serving_sgd": 1.57,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "silken tofu",
+            "cost_sgd": 0.82,
+            "emissions_kgco2e": 0.96,
+            "amount": 1.0,
+            "unit": "block"
+          },
+          {
+            "ingredient": "century eggs",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "pickled mustard greens",
+            "cost_sgd": 0.15,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sesame oil",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fried shallots",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 12.42,
+        "ingredients_kgco2e": 12.42,
+        "energy_kgco2e": 0.0,
+        "per_serving_kgco2e": 3.105
+      }
+    },
+    {
+      "id": "chi_037",
+      "name": "Duck Roll Tempura",
+      "difficulty": "Medium",
+      "prep_time": "40 minutes",
+      "cook_time": "30 minutes",
+      "servings": 6.0,
+      "description": "A creative fusion dish: shredded duck wrapped in beancurd skin, battered and deep-fried tempura-style. Crispy outside, juicy inside.",
+      "ingredients": {
+        "Main": {
+          "roast duck meat": "300g, shredded",
+          "beancurd skin": "6 sheets",
+          "spring onions": "2, cut into strips",
+          "tempura batter mix": "1 cup",
+          "water": "as needed",
+          "oil": "for deep frying"
+        }
+      },
+      "preparation": [
+        "Place duck and spring onions on beancurd skin, roll up tightly.",
+        "Dip in tempura batter, deep fry until golden and crisp. Drain and slice. Serve hot."
+      ],
+      "tips": [
+        "Seal rolls with a flour paste.",
+        "Serve with sweet chili sauce."
+      ],
+      "nutrition": {
+        "calories": 260,
+        "protein": "14g",
+        "carbohydrates": "18g",
+        "fat": "14g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore zi char stalls.",
+      "imageId": "chi_037.jpeg",
+      "steps": [
+        "Place duck and spring onions on beancurd skin, roll up tightly.",
+        "Dip in tempura batter, deep fry until golden and crisp. Drain and slice. Serve hot."
+      ],
+      "tags": [
+        "battered",
+        "beancurd",
+        "creative",
+        "crispy",
+        "deep",
+        "dish",
+        "duck",
+        "fried",
+        "fusion",
+        "juicy",
+        "roll",
+        "shredded",
+        "skin",
+        "style",
+        "tempura",
+        "wrapped"
+      ],
+      "cost": {
+        "total_sgd": 62.7,
+        "ingredients_sgd": 62.4,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 10.45,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "roast duck meat",
+            "cost_sgd": 3.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "beancurd skin",
+            "cost_sgd": 48.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "sheets"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tempura batter mix",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 8.808,
+        "ingredients_kgco2e": 8.4,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 1.468
+      }
+    },
+    {
+      "id": "chi_038",
+      "name": "Char Siew (BBQ Pork)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes (+marinate 4h)",
+      "cook_time": "40 minutes",
+      "servings": 6.0,
+      "description": "A Cantonese classic: pork shoulder marinated in a sweet-savory sauce, roasted until caramelized and tender. A staple at Chinese roast meat stalls.",
+      "ingredients": {
+        "Main": {
+          "pork shoulder": "800g, cut into strips",
+          "char siew sauce": "3 tbsp",
+          "hoisin sauce": "2 tbsp",
+          "honey": "2 tbsp",
+          "soy sauce": "2 tbsp",
+          "oyster sauce": "1 tbsp",
+          "five spice powder": "1 tsp",
+          "red food coloring": "optional"
+        }
+      },
+      "preparation": [
+        "Marinate pork with all sauces and spices for at least 4 hours.",
+        "Roast at 200°C for 30–40 minutes, basting occasionally. Slice and serve."
+      ],
+      "tips": [
+        "Use pork belly for a fattier version.",
+        "Baste with honey for extra glaze."
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": "22g",
+        "carbohydrates": "14g",
+        "fat": "20g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore roast meat stalls.",
+      "imageId": "chi_038.jpeg",
+      "steps": [
+        "Marinate pork with all sauces and spices for at least 4 hours.",
+        "Roast at 200°C for 30–40 minutes, basting occasionally. Slice and serve."
+      ],
+      "tags": [
+        "bbq",
+        "cantonese",
+        "caramelized",
+        "char",
+        "chinese",
+        "classic",
+        "marinated",
+        "meat",
+        "pork",
+        "roast",
+        "roasted",
+        "sauce",
+        "savory",
+        "shoulder",
+        "siew",
+        "stalls",
+        "staple",
+        "sweet",
+        "tender"
+      ],
+      "cost": {
+        "total_sgd": 19.66,
+        "ingredients_sgd": 19.26,
+        "energy_sgd": 0.4,
+        "per_serving_sgd": 3.28,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork shoulder",
+            "cost_sgd": 10.56,
+            "emissions_kgco2e": 5.6,
+            "amount": 800.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "char siew sauce",
+            "cost_sgd": 0.18,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "hoisin sauce",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "honey",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "five spice powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "red food coloring",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 6.204,
+        "ingredients_kgco2e": 5.66,
+        "energy_kgco2e": 0.544,
+        "per_serving_kgco2e": 1.034
+      }
+    },
+    {
+      "id": "chi_039",
+      "name": "Crispy Roast Pork (Siu Yuk)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes (+marinate 2h)",
+      "cook_time": "1 hour",
+      "servings": 8.0,
+      "description": "A Cantonese favourite: pork belly roasted until the skin is shatteringly crisp, with juicy, flavorful meat. Served at roast meat stalls and festive occasions.",
+      "ingredients": {
+        "Main": {
+          "pork belly": "1kg, skin on",
+          "salt": "2 tbsp",
+          "five spice powder": "2 tsp",
+          "white pepper": "1 tsp",
+          "rice wine": "1 tbsp"
+        }
+      },
+      "preparation": [
+        "Score pork skin, rub meat side with five spice, pepper, and wine. Rub salt on skin. Marinate 2 hours.",
+        "Roast at 220°C for 30 minutes, then 250°C for 20–30 minutes until skin is crisp. Rest, slice, and serve."
+      ],
+      "tips": [
+        "Prick skin all over for maximum crispiness.",
+        "Roast on a rack for even heat."
+      ],
+      "nutrition": {
+        "calories": 410,
+        "protein": "18g",
+        "carbohydrates": "0g",
+        "fat": "38g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore roast meat stalls.",
+      "imageId": "chi_039.jpeg",
+      "steps": [
+        "Score pork skin, rub meat side with five spice, pepper, and wine. Rub salt on skin. Marinate 2 hours.",
+        "Roast at 220°C for 30 minutes, then 250°C for 20–30 minutes until skin is crisp. Rest, slice, and serve."
+      ],
+      "tags": [
+        "belly",
+        "cantonese",
+        "crisp",
+        "crispy",
+        "favourite",
+        "festive",
+        "flavorful",
+        "juicy",
+        "meat",
+        "occasions",
+        "pork",
+        "roast",
+        "roasted",
+        "served",
+        "shatteringly",
+        "siu",
+        "skin",
+        "stalls",
+        "yuk"
+      ],
+      "cost": {
+        "total_sgd": 13.31,
+        "ingredients_sgd": 13.3,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 1.66,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork belly",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 7.0,
+            "amount": 1.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.015,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "five spice powder",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "rice wine",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.068,
+            "amount": 1.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 7.096,
+        "ingredients_kgco2e": 7.082,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 0.887
+      }
+    },
+    {
+      "id": "chi_040",
+      "name": "Vinegar Pork Trotters (Zhu Jiao Cu)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "2 hours",
+      "servings": 6.0,
+      "description": "A traditional Chinese dish of pork trotters braised in sweet black vinegar, ginger, and eggs. Rich, tangy, and nourishing—especially popular as a confinement dish.",
+      "ingredients": {
+        "main": {
+          "pork trotters": "1kg, cut into chunks",
+          "old ginger": "200g, peeled and sliced thick",
+          "hard-boiled eggs": "6, peeled",
+          "sweet black vinegar (Chan Kong Thye or similar)": "500ml",
+          "water": "500ml",
+          "rock sugar": "50g (or to taste)",
+          "light soy sauce": "2 tbsp",
+          "dark soy sauce": "1 tbsp",
+          "Shaoxing wine": "2 tbsp (optional)",
+          "oil": "2 tbsp",
+          "salt": "to taste"
+        }
+      },
+      "steps": [
+        "Blanch pork trotters in boiling water for 5 minutes. Drain and rinse.",
+        "Heat oil in a large pot. Fry ginger slices until fragrant and slightly browned.",
+        "Add pork trotters and stir-fry for 2–3 minutes.",
+        "Add black vinegar, water, rock sugar, soy sauces, and Shaoxing wine. Bring to a boil, then reduce to a simmer.",
+        "Cover and simmer for 1.5–2 hours until pork is tender.",
+        "Add hard-boiled eggs in the last 30 minutes of cooking.",
+        "Adjust seasoning with salt and more sugar or vinegar to taste.",
+        "Serve hot, with rice."
+      ],
+      "tips": [
+        "Use old ginger for a stronger, warming flavor.",
+        "The dish tastes even better the next day as flavors develop.",
+        "Add more eggs if desired—they soak up the delicious sauce!"
+      ],
+      "themes": [
+        "Chinese",
+        "braised",
+        "pork",
+        "confinement",
+        "heritage",
+        "comfort food"
+      ],
+      "source": "Adapted from Singapore/Malaysia Chinese home cook recipes.",
+      "origin": "Vinegar Pork Trotters is a traditional Chinese dish, especially popular for postpartum recovery and festive occasions.",
+      "imageId": "chi_040.jpeg",
+      "tags": [
+        "black",
+        "braised",
+        "chinese",
+        "comfort food",
+        "confinement",
+        "dish",
+        "eggs",
+        "especially",
+        "ginger",
+        "heritage",
+        "jiao",
+        "nourishing",
+        "popular",
+        "pork",
+        "rich",
+        "sweet",
+        "tangy",
+        "traditional",
+        "trotters",
+        "vinegar",
+        "zhu"
+      ],
+      "cost": {
+        "total_sgd": 19.1,
+        "ingredients_sgd": 19.08,
+        "energy_sgd": 0.02,
+        "per_serving_sgd": 3.18,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork trotters",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 7.0,
+            "amount": 1.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "old ginger",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "hard-boiled eggs",
+            "cost_sgd": 1.98,
+            "emissions_kgco2e": 27.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sweet black vinegar (Chan Kong Thye or similar)",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 500.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 500.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "rock sugar",
+            "cost_sgd": 0.08,
+            "emissions_kgco2e": 0.05,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 34.847,
+        "ingredients_kgco2e": 34.82,
+        "energy_kgco2e": 0.027,
+        "per_serving_kgco2e": 5.808
+      }
+    },
+    {
+      "id": "chi_041",
+      "name": "Sweet and Sour Pork (Gu Lou Yuk)",
+      "difficulty": "Medium",
+      "prep_time": "25 minutes",
+      "cook_time": "20 minutes",
+      "servings": 4.0,
+      "description": "A Cantonese classic: crispy pork pieces tossed in a tangy, sweet, and savory sauce with pineapple, peppers, and onions. A favorite at Chinese restaurants and zi char stalls.",
+      "ingredients": {
+        "main": {
+          "pork shoulder or loin": "400g, cut into bite-sized pieces",
+          "salt": "1/2 tsp",
+          "white pepper": "1/4 tsp",
+          "Shaoxing wine": "1 tbsp",
+          "egg": "1",
+          "cornstarch": "4 tbsp (plus extra for dredging)",
+          "oil": "for deep frying"
+        },
+        "vegetables": {
+          "red and green bell peppers": "1/2 each, cut into chunks",
+          "onion": "1 small, cut into chunks",
+          "pineapple": "1/2 cup, cut into chunks"
+        },
+        "sauce": {
+          "tomato ketchup": "3 tbsp",
+          "rice vinegar": "2 tbsp",
+          "sugar": "2 tbsp",
+          "light soy sauce": "1 tbsp",
+          "Worcestershire sauce": "1 tsp",
+          "water": "3 tbsp",
+          "cornstarch": "1 tsp (mixed with 1 tbsp water, for thickening)"
+        }
+      },
+      "steps": [
+        "Marinate pork with salt, pepper, Shaoxing wine, egg, and 4 tbsp cornstarch for 15 minutes.",
+        "Dredge pork pieces in extra cornstarch. Deep fry in hot oil (170°C/340°F) until golden and crispy. Drain on paper towels.",
+        "In a bowl, mix all sauce ingredients except cornstarch slurry.",
+        "Heat 1 tbsp oil in a wok. Stir-fry onion and peppers for 1 minute. Add pineapple, fry briefly.",
+        "Pour in sauce, bring to a simmer. Add cornstarch slurry and cook until thickened and glossy.",
+        "Add fried pork, toss quickly to coat. Serve immediately."
+      ],
+      "tips": [
+        "Use pork shoulder for juicier, more tender pieces.",
+        "Fry pork twice for extra crispiness.",
+        "Adjust sugar and vinegar to taste for your preferred balance."
+      ],
+      "themes": [
+        "Chinese",
+        "Cantonese",
+        "pork",
+        "zi char",
+        "sweet and sour",
+        "restaurant classic"
+      ],
+      "source": "Adapted from Singapore zi char, Cantonese home cook, and restaurant recipes.",
+      "origin": "Sweet and Sour Pork is a Cantonese classic, now a favorite at Chinese restaurants worldwide.",
+      "imageId": "chi_041.jpeg",
+      "tags": [
+        "cantonese",
+        "char",
+        "chinese",
+        "classic",
+        "crispy",
+        "favorite",
+        "lou",
+        "onions",
+        "peppers",
+        "pieces",
+        "pineapple",
+        "pork",
+        "restaurant classic",
+        "restaurants",
+        "sauce",
+        "savory",
+        "sour",
+        "stalls",
+        "sweet",
+        "sweet and sour",
+        "tangy",
+        "tossed",
+        "yuk",
+        "zi char"
+      ],
+      "cost": {
+        "total_sgd": 20.42,
+        "ingredients_sgd": 20.22,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 5.11,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork shoulder or loin",
+            "cost_sgd": 5.28,
+            "emissions_kgco2e": 2.8,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "egg",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "red and green bell peppers",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1.0,
+            "unit": "small"
+          },
+          {
+            "ingredient": "pineapple",
+            "cost_sgd": 2.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tomato ketchup",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "rice vinegar",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.135,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Worcestershire sauce",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 15.467,
+        "ingredients_kgco2e": 15.195,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 3.867
+      }
+    },
+    {
+      "id": "chi_042",
+      "name": "Sweet and Sour Fish (Tang Cu Yu)",
+      "difficulty": "Medium",
+      "prep_time": "25 minutes",
+      "cook_time": "20 minutes",
+      "servings": 4.0,
+      "description": "A zi char and restaurant favorite: crispy fried fish fillets or whole fish, tossed in a tangy, sweet, and savory sauce with pineapple, peppers, and onions.",
+      "ingredients": {
+        "main": {
+          "white fish fillets (e.g., tilapia, snapper, seabass)": "400g, cut into large chunks (or 1 whole fish, cleaned and scored)",
+          "salt": "1/2 tsp",
+          "white pepper": "1/4 tsp",
+          "Shaoxing wine": "1 tbsp",
+          "egg": "1",
+          "cornstarch": "4 tbsp (plus extra for dredging)",
+          "oil": "for deep frying"
+        },
+        "vegetables": {
+          "red and green bell peppers": "1/2 each, cut into chunks",
+          "onion": "1 small, cut into chunks",
+          "pineapple": "1/2 cup, cut into chunks"
+        },
+        "sauce": {
+          "tomato ketchup": "3 tbsp",
+          "rice vinegar": "2 tbsp",
+          "sugar": "2 tbsp",
+          "light soy sauce": "1 tbsp",
+          "Worcestershire sauce": "1 tsp",
+          "water": "3 tbsp",
+          "cornstarch": "1 tsp (mixed with 1 tbsp water, for thickening)"
+        }
+      },
+      "steps": [
+        "Marinate fish with salt, pepper, Shaoxing wine, egg, and 4 tbsp cornstarch for 10–15 minutes.",
+        "Dredge fish pieces in extra cornstarch. Deep fry in hot oil (170°C/340°F) until golden and crispy. Drain on paper towels.",
+        "In a bowl, mix all sauce ingredients except cornstarch slurry.",
+        "Heat 1 tbsp oil in a wok. Stir-fry onion and peppers for 1 minute. Add pineapple, fry briefly.",
+        "Pour in sauce, bring to a simmer. Add cornstarch slurry and cook until thickened and glossy.",
+        "Add fried fish, toss gently to coat. Serve immediately."
+      ],
+      "tips": [
+        "Use firm white fish for best texture.",
+        "Fry fish twice for extra crispiness.",
+        "Adjust sugar and vinegar to taste for your preferred balance."
+      ],
+      "themes": [
+        "Chinese",
+        "Cantonese",
+        "fish",
+        "zi char",
+        "sweet and sour",
+        "restaurant classic"
+      ],
+      "source": "Adapted from Singapore zi char, Cantonese home cook, and restaurant recipes.",
+      "origin": "Sweet and Sour Fish is a Cantonese classic, now a favorite at Chinese restaurants and zi char stalls worldwide.",
+      "imageId": "chi_042.jpeg",
+      "tags": [
+        "cantonese",
+        "char",
+        "chinese",
+        "crispy",
+        "favorite",
+        "fillets",
+        "fish",
+        "fried",
+        "onions",
+        "peppers",
+        "pineapple",
+        "restaurant",
+        "restaurant classic",
+        "sauce",
+        "savory",
+        "sour",
+        "sweet",
+        "sweet and sour",
+        "tang",
+        "tangy",
+        "tossed",
+        "whole",
+        "zi char"
+      ],
+      "cost": {
+        "total_sgd": 21.74,
+        "ingredients_sgd": 21.54,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 5.44,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "white fish fillets (e.g., tilapia, snapper, seabass)",
+            "cost_sgd": 6.6,
+            "emissions_kgco2e": 2.0,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "egg",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "red and green bell peppers",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1.0,
+            "unit": "small"
+          },
+          {
+            "ingredient": "pineapple",
+            "cost_sgd": 2.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tomato ketchup",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "rice vinegar",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.135,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Worcestershire sauce",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 14.667,
+        "ingredients_kgco2e": 14.395,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 3.667
+      }
+    },
+    {
+      "id": "chi_043",
+      "name": "Stir-Fried Bittergourd with Egg (Ku Gua Chao Dan)",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "servings": 1.0,
+      "description": "A classic Chinese home-style stir-fry: tender, slightly bitter gourd slices tossed with fluffy scrambled eggs. Nutritious, quick, and comforting.",
+      "ingredients": {
+        "main": {
+          "bittergourd (bitter melon)": "1 medium (about 250g), halved, seeded, and thinly sliced",
+          "eggs": "3, beaten",
+          "garlic": "2 cloves, minced",
+          "salt": "1/2 tsp (plus extra for rubbing bittergourd)",
+          "white pepper": "1/4 tsp",
+          "light soy sauce": "1 tsp",
+          "oil": "2 tbsp",
+          "sugar": "1/2 tsp (optional, to balance bitterness)",
+          "spring onions": "for garnish (optional)"
+        }
+      },
+      "steps": [
+        "Slice bittergourd thinly. Rub with 1/2 tsp salt, let sit 10 minutes, then rinse and squeeze dry (to reduce bitterness).",
+        "Heat oil in a wok or pan. Sauté garlic until fragrant.",
+        "Add bittergourd, stir-fry 2–3 minutes until just tender.",
+        "Season with salt, white pepper, soy sauce, and sugar (if using).",
+        "Push bittergourd to the side, add a little more oil if needed. Pour in beaten eggs.",
+        "Let eggs set slightly, then scramble and mix with bittergourd. Stir-fry until eggs are just cooked and still soft.",
+        "Serve hot, garnished with spring onions if desired."
+      ],
+      "tips": [
+        "Do not overcook eggs; they should remain soft and fluffy.",
+        "Rubbing and rinsing bittergourd with salt helps reduce bitterness.",
+        "Add sliced chili for a spicy kick."
+      ],
+      "themes": [
+        "Chinese",
+        "home-style",
+        "stir-fry",
+        "egg",
+        "vegetable",
+        "healthy",
+        "Singapore"
+      ],
+      "source": "Adapted from Singapore/Malaysia Chinese home cook recipes.",
+      "origin": "Stir-Fried Bittergourd with Egg is a staple in Chinese households and zi char stalls.",
+      "imageId": "chi_043.jpeg",
+      "tags": [
+        "bitter",
+        "bittergourd",
+        "chao",
+        "chinese",
+        "classic",
+        "comforting",
+        "dan",
+        "egg",
+        "eggs",
+        "fluffy",
+        "fried",
+        "gourd",
+        "gua",
+        "healthy",
+        "home",
+        "home-style",
+        "nutritious",
+        "quick",
+        "scrambled",
+        "singapore",
+        "slices",
+        "slightly",
+        "stir",
+        "stir-fry",
+        "style",
+        "tender",
+        "tossed",
+        "vegetable"
+      ],
+      "cost": {
+        "total_sgd": 22.89,
+        "ingredients_sgd": 22.79,
+        "energy_sgd": 0.1,
+        "per_serving_sgd": 22.89,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "bittergourd (bitter melon)",
+            "cost_sgd": 1.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "medium"
+          },
+          {
+            "ingredient": "eggs",
+            "cost_sgd": 0.99,
+            "emissions_kgco2e": 13.5,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.01,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 1.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 19.526,
+        "ingredients_kgco2e": 19.39,
+        "energy_kgco2e": 0.136,
+        "per_serving_kgco2e": 19.526
+      }
+    },
+    {
+      "id": "chi_044",
+      "name": "Stir-Fried Long Beans with Dried Shrimp (Gan Bian Si Ji Dou)",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "servings": 4.0,
+      "description": "A classic Chinese home-style and zi char dish: crisp-tender long beans stir-fried with aromatic dried shrimp, garlic, and a touch of chili. Savory, umami, and perfect with rice.",
+      "ingredients": {
+        "main": {
+          "long beans (yardlong beans)": "300g, cut into 4cm lengths",
+          "dried shrimp (hae bee)": "2 tbsp, rinsed and roughly chopped",
+          "garlic": "3 cloves, minced",
+          "red chili": "1, sliced (optional)",
+          "light soy sauce": "1 tbsp",
+          "oyster sauce": "1 tbsp",
+          "sugar": "1/2 tsp",
+          "white pepper": "1/4 tsp",
+          "oil": "2 tbsp"
+        }
+      },
+      "steps": [
+        "Heat oil in a wok or large pan over medium heat. Add dried shrimp and stir-fry until fragrant and lightly crispy (about 1 minute).",
+        "Add garlic and chili, stir-fry until aromatic.",
+        "Add long beans, increase heat to high, and stir-fry for 2–3 minutes until beans are bright green and just tender.",
+        "Add soy sauce, oyster sauce, sugar, and white pepper. Stir-fry another 1–2 minutes until well coated and beans are cooked but still crisp.",
+        "Taste and adjust seasoning if needed. Serve hot as a side dish."
+      ],
+      "tips": [
+        "For extra flavor, soak dried shrimp in warm water for 5 minutes, then drain before using.",
+        "Do not overcook long beans—they should remain crisp-tender.",
+        "Add a splash of water if pan gets too dry during stir-frying."
+      ],
+      "themes": [
+        "Chinese",
+        "vegetable",
+        "stir-fry",
+        "home-style",
+        "zi char",
+        "umami",
+        "quick"
+      ],
+      "source": "Adapted from Singapore/Malaysia Chinese home cook and zi char recipes.",
+      "origin": "Stir-Fried Long Beans with Dried Shrimp is a staple in Chinese households and zi char stalls across Singapore.",
+      "imageId": "chi_044.jpeg",
+      "tags": [
+        "aromatic",
+        "beans",
+        "bian",
+        "char",
+        "chili",
+        "chinese",
+        "classic",
+        "crisp",
+        "dish",
+        "dou",
+        "dried",
+        "fried",
+        "gan",
+        "garlic",
+        "home",
+        "home-style",
+        "long",
+        "perfect",
+        "quick",
+        "rice",
+        "savory",
+        "shrimp",
+        "stir",
+        "stir-fry",
+        "style",
+        "tender",
+        "touch",
+        "umami",
+        "vegetable",
+        "zi char"
+      ],
+      "cost": {
+        "total_sgd": 33.42,
+        "ingredients_sgd": 33.32,
+        "energy_sgd": 0.1,
+        "per_serving_sgd": 8.36,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "long beans (yardlong beans)",
+            "cost_sgd": 0.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "dried shrimp (hae bee)",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 19.8,
+            "emissions_kgco2e": 4.5,
+            "amount": 3.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "red chili",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 1.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 7.846,
+        "ingredients_kgco2e": 7.71,
+        "energy_kgco2e": 0.136,
+        "per_serving_kgco2e": 1.962
+      }
+    },
+    {
+      "id": "chi_045",
+      "name": "Steamed Egg Custard (Chawanmushi-style Chinese Egg)",
+      "difficulty": "Easy",
+      "prep_time": "5 minutes",
+      "cook_time": "15 minutes",
+      "servings": 4.0,
+      "description": "A classic Chinese home-style dish: silky, savory steamed egg custard, gently cooked to a delicate, just-set texture. Comforting, nutritious, and perfect with rice.",
+      "ingredients": {
+        "main": {
+          "large eggs": "3",
+          "water or chicken stock": "375ml (1.5 cups), room temperature",
+          "light soy sauce": "1/2 tsp",
+          "salt": "1/4 tsp (or to taste)",
+          "white pepper": "a pinch",
+          "spring onions": "for garnish (optional)",
+          "sesame oil": "a few drops (optional)"
+        }
+      },
+      "steps": [
+        "Crack eggs into a bowl. Add water or stock, soy sauce, salt, and white pepper. Beat gently with chopsticks or a fork until just combined (do not whisk to foam).",
+        "Strain the egg mixture through a fine sieve into a heatproof dish or individual bowls for extra smoothness.",
+        "Cover dish(es) with foil or a plate to prevent water droplets from falling in.",
+        "Steam over gently simmering water (not a rolling boil) for 12–15 minutes, or until just set but still jiggly in the center.",
+        "Remove from steamer. Drizzle with a few drops of sesame oil and garnish with spring onions if desired. Serve hot or warm."
+      ],
+      "tips": [
+        "The ideal egg-to-liquid ratio is about 1:1.5 by volume for a silky texture.",
+        "Use low, gentle heat for steaming to avoid bubbles or a tough texture.",
+        "Add toppings like minced pork, shrimp, mushrooms, or century egg for variety.",
+        "Let the custard rest a minute before serving for the smoothest texture."
+      ],
+      "themes": [
+        "Chinese",
+        "egg",
+        "steamed",
+        "home-style",
+        "comfort food",
+        "healthy",
+        "quick"
+      ],
+      "source": "Adapted from Singapore/Malaysia Chinese home cook recipes.",
+      "origin": "Steamed Egg Custard is a beloved comfort dish in Chinese households, often served as part of a family meal or for children and elders.",
+      "imageId": "chi_045.jpeg",
+      "tags": [
+        "chawanmushi",
+        "chinese",
+        "classic",
+        "comfort food",
+        "comforting",
+        "cooked",
+        "custard",
+        "delicate",
+        "dish",
+        "egg",
+        "gently",
+        "healthy",
+        "home",
+        "home-style",
+        "nutritious",
+        "perfect",
+        "quick",
+        "rice",
+        "savory",
+        "silky",
+        "steamed",
+        "style",
+        "texture"
+      ],
+      "cost": {
+        "total_sgd": 21.04,
+        "ingredients_sgd": 20.89,
+        "energy_sgd": 0.15,
+        "per_serving_sgd": 5.26,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "large eggs",
+            "cost_sgd": 0.99,
+            "emissions_kgco2e": 13.5,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water or chicken stock",
+            "cost_sgd": 3.3,
+            "emissions_kgco2e": 2.25,
+            "amount": 375.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 3.3,
+            "emissions_kgco2e": 2.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sesame oil",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 19.654,
+        "ingredients_kgco2e": 19.45,
+        "energy_kgco2e": 0.204,
+        "per_serving_kgco2e": 4.913
+      }
+    }
+  ]
+}

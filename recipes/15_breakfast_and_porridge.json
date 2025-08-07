@@ -1,0 +1,433 @@
+{
+  "metadata": {
+    "category": "Breakfast and Porridge",
+    "description": "Singaporean breakfast dishes and porridges, perfect for starting the day",
+    "total_recipes": 3,
+    "last_updated": "2024"
+  },
+  "recipes": [
+    {
+      "id": "bre_001",
+      "name": "Century Egg Pork Porridge (Pi Dan Shou Rou Zhou)",
+      "difficulty": "Easy",
+      "prep_time": "15 minutes",
+      "cook_time": "60 minutes",
+      "servings": 4.0,
+      "description": "A classic Chinese comfort food in Singapore, featuring silky rice porridge simmered with marinated pork and century egg, topped with spring onion, ginger, and fried shallots. Popular at hawker stalls and for breakfast.",
+      "ingredients": {
+        "main": {
+          "rice": "1 cup, rinsed",
+          "water or stock": "8 cups",
+          "pork loin or shoulder, thinly sliced": "200g",
+          "century eggs": "2, peeled and diced",
+          "ginger": "4 slices, julienned",
+          "light soy sauce": "1 tbsp",
+          "Shaoxing wine": "1 tbsp",
+          "white pepper": "to taste",
+          "salt": "to taste",
+          "sesame oil": "1 tsp",
+          "cornstarch": "1 tsp (for pork marinade)"
+        },
+        "for serving": {
+          "spring onion": "2, chopped",
+          "fried shallots": "2 tbsp",
+          "youtiao (fried dough sticks)": "sliced, optional"
+        }
+      },
+      "steps": [
+        "Marinate pork with soy sauce, Shaoxing wine, white pepper, sesame oil, and cornstarch. Set aside.",
+        "Bring rice and water/stock to a boil in a large pot. Reduce heat and simmer, stirring occasionally, until porridge is creamy (about 45 minutes).",
+        "Add marinated pork and half the century egg. Simmer for 10 minutes until pork is cooked and porridge is silky.",
+        "Season with salt and pepper. Stir in remaining century egg. Serve hot, topped with ginger, spring onion, fried shallots, and youtiao if desired."
+      ],
+      "tips": [
+        "Stir porridge frequently to prevent sticking.",
+        "Add more water for a thinner consistency.",
+        "Can add preserved egg white for extra flavor."
+      ],
+      "themes": [
+        "breakfast",
+        "porridge",
+        "main",
+        "iconic",
+        "heritage"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singaporean Chinese home cooks.",
+      "origin": "Chinese community in Singapore; a popular breakfast and supper dish at hawker stalls.",
+      "imageId": "bkp_001.jpeg",
+      "tags": [
+        "breakfast",
+        "century",
+        "chinese",
+        "classic",
+        "comfort",
+        "dan",
+        "egg",
+        "featuring",
+        "food",
+        "fried",
+        "ginger",
+        "hawker",
+        "heritage",
+        "iconic",
+        "main",
+        "marinated",
+        "onion",
+        "popular",
+        "pork",
+        "porridge",
+        "rice",
+        "rou",
+        "shallots",
+        "shou",
+        "silky",
+        "simmered",
+        "singapore",
+        "spring",
+        "stalls",
+        "topped",
+        "zhou"
+      ],
+      "cost": {
+        "total_sgd": 44.29,
+        "ingredients_sgd": 43.69,
+        "energy_sgd": 0.6,
+        "per_serving_sgd": 11.07,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice",
+            "cost_sgd": 0.55,
+            "emissions_kgco2e": 1.125,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "water or stock",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "pork loin or shoulder, thinly sliced",
+            "cost_sgd": 2.64,
+            "emissions_kgco2e": 1.4,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "century eggs",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sesame oil",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "spring onion",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fried shallots",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "youtiao (fried dough sticks)",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 15.271,
+        "ingredients_kgco2e": 14.455,
+        "energy_kgco2e": 0.816,
+        "per_serving_kgco2e": 3.818
+      }
+    },
+    {
+      "id": "bre_002",
+      "name": "Teochew Pumpkin Porridge (Teochew Nam Kua Zhou)",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "40 minutes",
+      "servings": 4.0,
+      "description": "A classic Teochew/Chinese porridge in Singapore, featuring soft rice grains simmered with sweet pumpkin chunks. Served with simple side dishes, it's a comforting, home-style meal.",
+      "ingredients": {
+        "main": {
+          "rice": "1 cup, rinsed",
+          "water": "8 cups",
+          "pumpkin, peeled and cubed": "300g",
+          "salt": "to taste",
+          "white pepper": "to taste"
+        },
+        "for serving": {
+          "spring onion": "chopped, optional",
+          "side dishes": "such as salted egg, pickled vegetables, or braised peanuts"
+        }
+      },
+      "steps": [
+        "Bring rice and water to a boil in a large pot. Reduce heat and simmer, stirring occasionally, until rice grains are soft but still whole (about 30 minutes).",
+        "Add pumpkin cubes and simmer for another 10-15 minutes until pumpkin is tender but not mushy.",
+        "Season with salt and white pepper. Serve hot, garnished with spring onion and accompanied by classic Teochew side dishes."
+      ],
+      "tips": [
+        "Use Japanese or local pumpkin for best sweetness and texture.",
+        "Teochew porridge is typically watery with distinct rice grains, not creamy.",
+        "Serve with a variety of simple side dishes for a complete meal."
+      ],
+      "themes": [
+        "porridge",
+        "Chinese",
+        "Teochew",
+        "heritage",
+        "comfort food",
+        "easy"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singaporean Teochew home cooks.",
+      "origin": "Teochew and Chinese communities in Singapore; a home-style comfort dish often served with side dishes.",
+      "imageId": "bkp_002.jpeg",
+      "tags": [
+        "chinese",
+        "chunks",
+        "classic",
+        "comfort food",
+        "comforting",
+        "dishes",
+        "easy",
+        "featuring",
+        "grains",
+        "heritage",
+        "home",
+        "kua",
+        "meal",
+        "nam",
+        "porridge",
+        "pumpkin",
+        "rice",
+        "served",
+        "side",
+        "simmered",
+        "simple",
+        "singapore",
+        "soft",
+        "style",
+        "sweet",
+        "teochew",
+        "zhou"
+      ],
+      "cost": {
+        "total_sgd": 14.85,
+        "ingredients_sgd": 14.45,
+        "energy_sgd": 0.4,
+        "per_serving_sgd": 3.71,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice",
+            "cost_sgd": 0.55,
+            "emissions_kgco2e": 1.125,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "pumpkin, peeled and cubed",
+            "cost_sgd": 0.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "spring onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "side dishes",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 3.369,
+        "ingredients_kgco2e": 2.825,
+        "energy_kgco2e": 0.544,
+        "per_serving_kgco2e": 0.842
+      }
+    },
+    {
+      "id": "bkp_007",
+      "name": "Kaya Toast",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "servings": 4.0,
+      "description": "A beloved Singaporean breakfast: crisp toast spread with coconut jam (kaya) and butter, served with soft-boiled eggs and coffee. Iconic at kopitiams and breakfast stalls.",
+      "ingredients": {
+        "Main": {
+          "white bread": "8 slices",
+          "kaya (coconut jam)": "100g",
+          "cold butter": "40g, sliced"
+        }
+      },
+      "preparation": [
+        "Toast bread slices until golden and crisp.",
+        "Spread kaya generously on one slice, top with cold butter, and sandwich with another slice.",
+        "Cut into halves or thirds. Serve with soft-boiled eggs and coffee."
+      ],
+      "tips": [
+        "Use Hainanese or Pullman loaf for authenticity.",
+        "Chill butter for a firmer bite."
+      ],
+      "nutrition": {
+        "calories": 220,
+        "protein": "4g",
+        "carbohydrates": "32g",
+        "fat": "9g"
+      },
+      "source": "Adapted from Rasa Malaysia, The MeatMen, and Singapore kopitiams.",
+      "imageId": "bkp_003.jpeg",
+      "steps": [
+        "Toast bread slices until golden and crisp.",
+        "Spread kaya generously on one slice, top with cold butter, and sandwich with another slice.",
+        "Cut into halves or thirds. Serve with soft-boiled eggs and coffee."
+      ],
+      "tags": [
+        "beloved",
+        "boiled",
+        "breakfast",
+        "butter",
+        "coconut",
+        "coffee",
+        "crisp",
+        "eggs",
+        "iconic",
+        "jam",
+        "kaya",
+        "kopitiams",
+        "served",
+        "singaporean",
+        "soft",
+        "spread",
+        "stalls",
+        "toast"
+      ],
+      "cost": {
+        "total_sgd": 20.63,
+        "ingredients_sgd": 20.53,
+        "energy_sgd": 0.1,
+        "per_serving_sgd": 5.16,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "white bread",
+            "cost_sgd": 20.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "kaya (coconut jam)",
+            "cost_sgd": 0.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "cold butter",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.48,
+            "amount": 40.0,
+            "unit": "g"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 0.616,
+        "ingredients_kgco2e": 0.48,
+        "energy_kgco2e": 0.136,
+        "per_serving_kgco2e": 0.154
+      }
+    }
+  ]
+}

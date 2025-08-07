@@ -1,0 +1,3166 @@
+{
+  "metadata": {
+    "category": "Hawker Food",
+    "description": "Iconic street food dishes found in Singapore's hawker centers - the heart of Singaporean food culture",
+    "total_recipes": 7,
+    "last_updated": "2024"
+  },
+  "recipes": [
+    {
+      "id": "haw_001",
+      "name": "Soy Sauce Chicken (Si Yau Kai)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "90 minutes",
+      "servings": 4.0,
+      "description": "A beloved Cantonese dish popular in Singapore, featuring whole chicken gently poached in a fragrant soy sauce-based broth. Famous at hawker stalls like Hawker Chan and Chew Kee, this dish is prized for its tender, juicy meat and glossy, savory skin.",
+      "imageId": "haw_001.jpeg",
+      "imageAttribution": "Photo by Terry Wong, The Food Canon (https://www.foodcanon.com/2011/05/soy-sauce-chicken-si-yau-kai.html). Used with permission or under fair use for educational/non-commercial recipe illustration. If you wish to use this image for commercial purposes, please contact the original author.",
+      "ingredients": {
+        "chicken": {
+          "whole chicken": "1 (about 1.5 kg, preferably kampung chicken)",
+          "salt": "2 tbsp (for rubbing)",
+          "spring onions": "2-3 stalks, cut into 2-inch lengths",
+          "ginger": "2-3 inch piece, sliced",
+          "garlic": "20 cloves, lightly bruised"
+        },
+        "poaching liquid": {
+          "light soy sauce": "2 bowls (about 500 ml, premium quality)",
+          "dark soy sauce": "1/2 bowl (about 125 ml)",
+          "rock sugar": "1 bowl (about 150 g)",
+          "white peppercorns": "1 tsp",
+          "star anise": "2-3 pieces",
+          "cinnamon stick": "1 piece",
+          "water": "3 bowls (about 750 ml)",
+          "optional": "dried orange peel, liquorice stick, bay leaf"
+        },
+        "garnish & sides": {
+          "cilantro": "for garnish",
+          "spring onions": "for garnish",
+          "cucumber": "sliced, for serving",
+          "steamed rice": "to serve"
+        }
+      },
+      "steps": [
+        "Rub the chicken all over with salt, then rinse and pat dry.",
+        "In a large pot or rice cooker, heat a little oil and fry the ginger, garlic, spring onions, star anise, and cinnamon until fragrant.",
+        "Add light soy sauce, dark soy sauce, rock sugar, white peppercorns, and water. Simmer for 30 minutes to develop the flavors.",
+        "Lower the chicken gently into the simmering sauce, breast side down. Add more water if needed to submerge the chicken.",
+        "Poach gently (72-80°C) for 60-90 minutes, turning occasionally for even color. Do not boil vigorously.",
+        "When cooked, remove the chicken and let it rest. Optionally, thicken some of the sauce with cornstarch for drizzling.",
+        "Chop the chicken into serving pieces. Arrange on a platter, garnish with cilantro and spring onions, and serve with sliced cucumber and steamed rice. Drizzle with sauce."
+      ],
+      "tips": [
+        "Use a good quality soy sauce for best flavor.",
+        "Poach gently to keep the meat juicy and the skin intact.",
+        "The leftover sauce can be reused for another batch or to braise eggs and tofu.",
+        "Serve with chili sauce for an authentic Singaporean touch."
+      ],
+      "themes": [
+        "hawker food",
+        "chinese",
+        "chicken",
+        "iconic",
+        "comfort food",
+        "rice",
+        "heritage",
+        "main"
+      ],
+      "source": "Adapted from The Food Canon, Chew Kee, and Hawker Chan recipes.",
+      "origin": "Cantonese in origin, Soy Sauce Chicken is a staple at Singaporean hawker centers, with famous renditions at Hawker Chan (the world's first Michelin-starred hawker) and Chew Kee.",
+      "tags": [
+        "based",
+        "beloved",
+        "broth",
+        "cantonese",
+        "chan",
+        "chew",
+        "chicken",
+        "chinese",
+        "comfort food",
+        "dish",
+        "famous",
+        "featuring",
+        "fragrant",
+        "gently",
+        "glossy",
+        "hawker",
+        "hawker food",
+        "heritage",
+        "iconic",
+        "juicy",
+        "kai",
+        "kee",
+        "main",
+        "meat",
+        "poached",
+        "popular",
+        "prized",
+        "rice",
+        "sauce",
+        "savory",
+        "singapore",
+        "skin",
+        "soy",
+        "stalls",
+        "tender",
+        "whole",
+        "yau"
+      ],
+      "cost": {
+        "total_sgd": 194.29,
+        "ingredients_sgd": 193.39,
+        "energy_sgd": 0.9,
+        "per_serving_sgd": 48.57,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "whole chicken",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 6.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.015,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 132.0,
+            "emissions_kgco2e": 30.0,
+            "amount": 20.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 6.6,
+            "emissions_kgco2e": 4.0,
+            "amount": 2.0,
+            "unit": "bowls"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 3.3,
+            "emissions_kgco2e": 2.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "rock sugar",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 1.0,
+            "amount": 1.0,
+            "unit": "bowl"
+          },
+          {
+            "ingredient": "white peppercorns",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "star anise",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cinnamon stick",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "bowls"
+          },
+          {
+            "ingredient": "optional",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cilantro",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cucumber",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "steamed rice",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 4.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 52.339,
+        "ingredients_kgco2e": 51.115,
+        "energy_kgco2e": 1.224,
+        "per_serving_kgco2e": 13.085
+      }
+    },
+    {
+      "id": "haw_002",
+      "name": "Paper-Wrapped Chicken (纸包鸡)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes (plus marinating time)",
+      "cook_time": "20 minutes",
+      "servings": 4.0,
+      "description": "A Cantonese-origin dish popular in Singapore, featuring marinated chicken pieces wrapped in parchment and deep-fried or baked. The result is juicy, aromatic chicken infused with soy, sesame oil, and Chinese wine.",
+      "ingredients": {
+        "main": {
+          "chicken thigh or breast, boneless": "500g, cut into large chunks",
+          "ginger": "3 slices, julienned",
+          "spring onion": "2, cut into 5cm lengths"
+        },
+        "marinade": {
+          "light soy sauce": "2 tbsp",
+          "oyster sauce": "1 tbsp",
+          "Shaoxing wine": "1 tbsp",
+          "sesame oil": "1 tsp",
+          "sugar": "1 tsp",
+          "white pepper": "1/2 tsp",
+          "cornstarch": "1 tbsp"
+        },
+        "other": {
+          "parchment paper or greaseproof paper": "8-10 squares (20x20cm)",
+          "oil": "for deep frying (if not baking)"
+        }
+      },
+      "steps": [
+        "Mix chicken with all marinade ingredients, ginger, and spring onion. Marinate for at least 1 hour (overnight best).",
+        "Place a portion of chicken and aromatics in the center of each paper square. Fold and seal tightly into a parcel.",
+        "Heat oil in a wok or deep pot to 180°C (if deep frying). Fry parcels for 4-5 minutes until golden and puffed. Alternatively, bake at 200°C for 15-18 minutes.",
+        "Drain and serve parcels hot. Diners open the paper to enjoy the aromatic, juicy chicken."
+      ],
+      "tips": [
+        "Use parchment or greaseproof paper, not waxed paper.",
+        "Marinate chicken overnight for best flavor.",
+        "Can be baked for a lighter version."
+      ],
+      "themes": [
+        "chicken",
+        "chinese",
+        "hawker",
+        "heritage",
+        "cantonese",
+        "festive",
+        "main"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singaporean Cantonese home cooks.",
+      "origin": "Cantonese community in Singapore; a popular zi char and banquet dish.",
+      "tags": [
+        "aromatic",
+        "baked",
+        "cantonese",
+        "chicken",
+        "chinese",
+        "deep",
+        "dish",
+        "featuring",
+        "festive",
+        "fried",
+        "hawker",
+        "heritage",
+        "infused",
+        "juicy",
+        "main",
+        "marinated",
+        "origin",
+        "paper",
+        "parchment",
+        "pieces",
+        "popular",
+        "result",
+        "sesame",
+        "singapore",
+        "soy",
+        "wine",
+        "wrapped"
+      ],
+      "cost": {
+        "total_sgd": 97.74,
+        "ingredients_sgd": 97.54,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 24.43,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "chicken thigh or breast, boneless",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 3.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 18.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "spring onion",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sesame oil",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "parchment paper or greaseproof paper",
+            "cost_sgd": 64.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 11.737,
+        "ingredients_kgco2e": 11.465,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 2.934
+      }
+    },
+    {
+      "id": "haw_003",
+      "name": "Singapore Hokkien Mee",
+      "difficulty": "Medium",
+      "prep_time": "50 minutes",
+      "cook_time": "10 minutes",
+      "servings": 4.0,
+      "description": "A classic Singapore hawker dish of stir-fried yellow noodles and rice vermicelli, prawns, squid, and pork belly, braised in a rich homemade prawn stock. Served with sambal and lime for a true hawker experience.",
+      "ingredients": {
+        "main": {
+          "prawns": "400g (13 oz)",
+          "chicken stock": "750ml",
+          "pork belly": "200g (7 oz)",
+          "garlic": "5g, chopped",
+          "eggs": "3",
+          "yellow noodle": "250g (8 oz)",
+          "white thick rice vermicelli": "250g (8 oz)",
+          "squid": "350g (11 oz)",
+          "green chives": "40g (1.5 oz)"
+        },
+        "seasoning": {
+          "fish sauce": "1/2 tbsp",
+          "white pepper": "1 dash",
+          "sesame oil": "1 dash"
+        },
+        "for serving": {
+          "lime": "1, cut into wedges",
+          "sambal chili": "to taste"
+        }
+      },
+      "steps": [
+        "Peel the prawn heads. In a hot wok, add 1 tbsp oil and fry the prawn heads until fragrant. Add the fried prawn heads to the chicken stock and boil for 30 minutes.",
+        "Add the pork belly to the stock and boil for 15 minutes. Remove the pork belly, let cool, and slice into strips.",
+        "In a hot wok, add 1 tbsp oil and fry the garlic until fragrant. Add the eggs and scramble. Then add the yellow noodles and rice vermicelli, frying for a few minutes until the noodles just begin to sear.",
+        "Pour in all the prawn stock, followed by the prawns and squid. Braise the noodles for 2-3 minutes. When everything is cooked through, add the chives. Stir to combine.",
+        "Season with fish sauce, white pepper, and sesame oil. Serve immediately with lime wedges and sambal chili on the side."
+      ],
+      "tips": [
+        "Homemade prawn stock is the secret to making this dish extra flavorful. Simmer prawn heads with chicken stock for 30 minutes.",
+        "Use a mix of yellow noodles and thick rice vermicelli for the best texture.",
+        "Do not over-braise the noodles; 2-3 minutes is enough to keep the seafood tender.",
+        "Serve with sambal and lime for an authentic hawker experience."
+      ],
+      "themes": [
+        "hawker food",
+        "noodles",
+        "seafood",
+        "heritage",
+        "iconic",
+        "main"
+      ],
+      "source": "https://rasamalaysia.com/singapore-hokkien-mee-recipe/",
+      "origin": "Singapore; a signature hawker dish with roots in Fujian, China, adapted by local hawkers.",
+      "tags": [
+        "belly",
+        "braised",
+        "classic",
+        "dish",
+        "experience",
+        "fried",
+        "hawker",
+        "hawker food",
+        "heritage",
+        "hokkien",
+        "homemade",
+        "iconic",
+        "lime",
+        "main",
+        "mee",
+        "noodles",
+        "pork",
+        "prawn",
+        "prawns",
+        "rice",
+        "rich",
+        "sambal",
+        "seafood",
+        "served",
+        "singapore",
+        "squid",
+        "stir",
+        "stock",
+        "true",
+        "vermicelli",
+        "yellow"
+      ],
+      "cost": {
+        "total_sgd": 59.46,
+        "ingredients_sgd": 59.36,
+        "energy_sgd": 0.1,
+        "per_serving_sgd": 14.86,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "prawns",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 7.2,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "chicken stock",
+            "cost_sgd": 6.6,
+            "emissions_kgco2e": 4.5,
+            "amount": 750.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "pork belly",
+            "cost_sgd": 2.64,
+            "emissions_kgco2e": 1.4,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.007,
+            "amount": 5.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "eggs",
+            "cost_sgd": 0.99,
+            "emissions_kgco2e": 13.5,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "yellow noodle",
+            "cost_sgd": 0.82,
+            "emissions_kgco2e": 0.625,
+            "amount": 250.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "white thick rice vermicelli",
+            "cost_sgd": 0.55,
+            "emissions_kgco2e": 1.125,
+            "amount": 250.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "squid",
+            "cost_sgd": 2.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 350.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "green chives",
+            "cost_sgd": 0.32,
+            "emissions_kgco2e": 0.0,
+            "amount": 40.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "fish sauce",
+            "cost_sgd": 16.5,
+            "emissions_kgco2e": 5.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "dash"
+          },
+          {
+            "ingredient": "sesame oil",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "dash"
+          },
+          {
+            "ingredient": "lime",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sambal chili",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 35.494,
+        "ingredients_kgco2e": 35.358,
+        "energy_kgco2e": 0.136,
+        "per_serving_kgco2e": 8.873
+      }
+    },
+    {
+      "id": "haw_004",
+      "name": "Char Kway Teow",
+      "difficulty": "Hard",
+      "prep_time": "15 minutes",
+      "cook_time": "5 minutes",
+      "servings": 2.0,
+      "description": "A legendary Singaporean and Malaysian hawker dish of stir-fried flat rice noodles with prawns, Chinese sausage, fish cake, egg, bean sprouts, and garlic chives, all tossed in a savory-sweet sauce and cooked over high heat for signature wok hei.",
+      "ingredients": {
+        "main": {
+          "fresh wide rice noodles": "500g (1 lb)",
+          "prawns/shrimp": "10 small, shelled and deveined",
+          "Chinese sausage (lap cheong)": "1, thinly sliced",
+          "fish cake": "50g, thinly sliced",
+          "garlic chives": "20 stems, cut into 4 pieces",
+          "bean sprouts": "2 1/2 cups",
+          "eggs": "2, whisked",
+          "garlic": "2 cloves, finely chopped"
+        },
+        "sauce": {
+          "dark soy sauce": "5 tsp",
+          "light soy sauce": "4 tsp",
+          "oyster sauce": "2 tsp",
+          "kecap manis (sweet soy sauce)": "4 tsp"
+        },
+        "other": {
+          "lard or vegetable oil": "2 tbsp (plus 2 tbsp vegetable oil, separated)"
+        },
+        "for serving": {
+          "chili paste or sambal": "to taste"
+        }
+      },
+      "steps": [
+        "Mix all sauce ingredients together in a bowl and set aside.",
+        "Warm the rice noodles until pliable and gently separate. Do not boil or soak in hot water.",
+        "Heat lard and 1 tbsp oil in a wok or large skillet over high heat until smoking. Add prawns and cook for 30 seconds.",
+        "Add garlic and stir for 10 seconds. Add noodles and toss gently to coat with oil.",
+        "Add Chinese sausage and fish cake, toss gently. Add bean sprouts and garlic chives, toss again.",
+        "Push everything to one side, add remaining oil, then add eggs and cook, stirring, until mostly set. Chop up roughly with a wooden spoon.",
+        "Pour sauce over noodles, then toss to disperse sauce through the noodles. Pause between tosses to allow noodles to caramelize on the edges.",
+        "Serve immediately with chili paste or sambal on the side."
+      ],
+      "tips": [
+        "Use fresh rice noodles for best texture and less breakage.",
+        "Cook in small batches for best wok hei (charred aroma).",
+        "Do not over-handle the noodles to avoid breakage.",
+        "Chinese sausage and fish cake are essential for authentic flavor, but can be substituted if needed.",
+        "Serve with extra chili paste or sambal for a spicy kick."
+      ],
+      "themes": [
+        "hawker food",
+        "noodles",
+        "seafood",
+        "iconic",
+        "wok hei",
+        "main"
+      ],
+      "source": "https://www.recipetineats.com/char-kway-teow/",
+      "origin": "Singapore and Malaysia; a street food classic beloved for its smoky flavor and rich mix of ingredients.",
+      "tags": [
+        "bean",
+        "cake",
+        "char",
+        "chinese",
+        "chives",
+        "cooked",
+        "dish",
+        "egg",
+        "fish",
+        "flat",
+        "fried",
+        "garlic",
+        "hawker",
+        "hawker food",
+        "heat",
+        "hei",
+        "iconic",
+        "kway",
+        "legendary",
+        "main",
+        "malaysian",
+        "noodles",
+        "prawns",
+        "rice",
+        "sauce",
+        "sausage",
+        "savory",
+        "seafood",
+        "signature",
+        "singaporean",
+        "sprouts",
+        "stir",
+        "sweet",
+        "teow",
+        "tossed",
+        "wok",
+        "wok hei"
+      ],
+      "cost": {
+        "total_sgd": 381.02,
+        "ingredients_sgd": 380.97,
+        "energy_sgd": 0.05,
+        "per_serving_sgd": 190.51,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "fresh wide rice noodles",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 2.25,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "prawns/shrimp",
+            "cost_sgd": 220.0,
+            "emissions_kgco2e": 180.0,
+            "amount": 10.0,
+            "unit": "small"
+          },
+          {
+            "ingredient": "Chinese sausage (lap cheong)",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fish cake",
+            "cost_sgd": 0.83,
+            "emissions_kgco2e": 0.25,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "garlic chives",
+            "cost_sgd": 132.0,
+            "emissions_kgco2e": 30.0,
+            "amount": 20.0,
+            "unit": "stems"
+          },
+          {
+            "ingredient": "bean sprouts",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "eggs",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.08,
+            "emissions_kgco2e": 0.05,
+            "amount": 5.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.04,
+            "amount": 4.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "kecap manis (sweet soy sauce)",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.04,
+            "amount": 4.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "lard or vegetable oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chili paste or sambal",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 226.878,
+        "ingredients_kgco2e": 226.81,
+        "energy_kgco2e": 0.068,
+        "per_serving_kgco2e": 113.439
+      }
+    },
+    {
+      "id": "haw_005",
+      "name": "Singapore Carrot Cake (Chai Tow Kway)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes (plus chilling)",
+      "cook_time": "1 hour",
+      "servings": 4.0,
+      "description": "A beloved Singapore hawker dish of pan-fried radish cake cubes, stir-fried with eggs, garlic, preserved radish, and scallions. Available in white (savory) or black (with sweet soy sauce) versions.",
+      "ingredients": {
+        "radish cake": {
+          "daikon radish (white radish)": "1 large (about 800g), grated",
+          "rice flour": "180g",
+          "tapioca flour": "40g",
+          "chicken stock": "600ml",
+          "salt": "1 tsp",
+          "minced garlic": "2 tsp"
+        },
+        "for frying (white version)": {
+          "minced garlic": "1 tbsp",
+          "chopped scallions": "1 tbsp",
+          "pickled radish (chai poh)": "1 tbsp, rinsed and drained",
+          "red chili sauce": "1 tbsp",
+          "fish sauce": "1.5 tbsp",
+          "light soy sauce": "1.5 tbsp",
+          "eggs": "3"
+        },
+        "for frying (black version)": {
+          "minced garlic": "1 tbsp",
+          "chopped scallions": "1 tbsp",
+          "pickled radish (chai poh)": "1 tbsp, rinsed and drained",
+          "red chili sauce": "1 tbsp",
+          "dark sweet soy sauce": "3 tbsp",
+          "eggs": "3"
+        }
+      },
+      "preparation": [
+        "Peel and grate the daikon radish. Boil in water until translucent, then strain.",
+        "Mix rice flour, tapioca flour, salt, and chicken stock until smooth. Stir in cooked radish and garlic.",
+        "Pour into a greased pan and steam for 1 hour until set. Cool and chill overnight.",
+        "Cut chilled radish cake into cubes. Fry with garlic, chai poh, and scallions. Add eggs and sauces (white or black version). Stir-fry until eggs are set and cake is crisp.",
+        "Garnish with more scallions. Serve hot."
+      ],
+      "tips": [
+        "Use a nonstick pan for best results.",
+        "For black version, use a good quality dark sweet soy sauce (not kecap manis)."
+      ],
+      "nutrition": {
+        "calories": 350,
+        "protein": "8g",
+        "carbohydrates": "60g",
+        "fat": "8g"
+      },
+      "source": "Adapted from Serious Eats, Rasa Malaysia, and NLB Singapore Infopedia.",
+      "steps": [
+        "Peel and grate the daikon radish. Boil in water until translucent, then strain.",
+        "Mix rice flour, tapioca flour, salt, and chicken stock until smooth. Stir in cooked radish and garlic.",
+        "Pour into a greased pan and steam for 1 hour until set. Cool and chill overnight.",
+        "Cut chilled radish cake into cubes. Fry with garlic, chai poh, and scallions. Add eggs and sauces (white or black version). Stir-fry until eggs are set and cake is crisp.",
+        "Garnish with more scallions. Serve hot."
+      ],
+      "tags": [
+        "available",
+        "beloved",
+        "black",
+        "cake",
+        "carrot",
+        "chai",
+        "cubes",
+        "dish",
+        "eggs",
+        "fried",
+        "garlic",
+        "hawker",
+        "kway",
+        "preserved",
+        "radish",
+        "sauce",
+        "savory",
+        "scallions",
+        "singapore",
+        "soy",
+        "stir",
+        "sweet",
+        "tow",
+        "versions",
+        "white"
+      ],
+      "cost": {
+        "total_sgd": 10.68,
+        "ingredients_sgd": 10.67,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 2.67,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "daikon radish (white radish)",
+            "cost_sgd": 1.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "large"
+          },
+          {
+            "ingredient": "rice flour",
+            "cost_sgd": 0.4,
+            "emissions_kgco2e": 0.81,
+            "amount": 180.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "tapioca flour",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.0,
+            "amount": 40.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "chicken stock",
+            "cost_sgd": 5.28,
+            "emissions_kgco2e": 3.6,
+            "amount": 600.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "minced garlic",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.015,
+            "amount": 2.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "minced garlic",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.022,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chopped scallions",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "pickled radish (chai poh)",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "red chili sauce",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "fish sauce",
+            "cost_sgd": 0.37,
+            "emissions_kgco2e": 0.112,
+            "amount": 1.5,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.045,
+            "amount": 1.5,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "eggs",
+            "cost_sgd": 0.99,
+            "emissions_kgco2e": 13.5,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "minced garlic",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.022,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chopped scallions",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "pickled radish (chai poh)",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "red chili sauce",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark sweet soy sauce",
+            "cost_sgd": 0.15,
+            "emissions_kgco2e": 0.09,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "eggs",
+            "cost_sgd": 0.99,
+            "emissions_kgco2e": 13.5,
+            "amount": 3.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 31.794,
+        "ingredients_kgco2e": 31.78,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 7.948
+      }
+    },
+    {
+      "id": "haw_006",
+      "name": "Oyster Omelette (Orh Luak)",
+      "difficulty": "Medium",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "servings": 3.0,
+      "description": "A classic Teochew hawker dish of eggs, oysters, and a crispy-gooey batter made from sweet potato and rice flour. Served with tangy sambal chili sauce.",
+      "ingredients": {
+        "batter": {
+          "tapioca flour": "90g",
+          "all-purpose flour": "30g",
+          "sweet potato starch": "30g (or potato starch)",
+          "water": "300ml",
+          "fish sauce": "1 tsp",
+          "soy sauce": "1 tsp",
+          "sesame oil": "1 tsp",
+          "salt": "1/4 tsp",
+          "white pepper": "1/4 tsp"
+        },
+        "omelette": {
+          "eggs": "6 (2 per serving)",
+          "fish sauce": "1.5 tsp",
+          "white pepper": "1/2 tsp",
+          "cooking oil": "6 tbsp",
+          "oysters": "18-24 medium, fresh or frozen",
+          "garlic": "3 cloves, minced",
+          "spring onions": "2, chopped",
+          "cilantro": "to garnish"
+        },
+        "sambal dip": {
+          "sambal tumis": "6 tbsp",
+          "white vinegar": "6 tbsp"
+        }
+      },
+      "preparation": [
+        "Mix all batter ingredients and set aside.",
+        "Beat eggs with fish sauce and pepper.",
+        "Heat oil in a nonstick pan. Pour in batter to form a thin layer. Fry until edges are crisp and center is gooey.",
+        "Add half the eggs, let set, then flip. Add more oil, pour in remaining eggs, and fry until set.",
+        "Add oysters, garlic, and spring onions. Stir-fry briefly. Serve with cilantro and sambal dip."
+      ],
+      "tips": [
+        "Cook one serving at a time for best texture.",
+        "Do not overcook oysters; they should remain plump and juicy."
+      ],
+      "nutrition": {
+        "calories": 400,
+        "protein": "18g",
+        "carbohydrates": "28g",
+        "fat": "24g"
+      },
+      "source": "Adapted from The Burning Kitchen, What To Cook Today, and Nomadette.",
+      "steps": [
+        "Mix all batter ingredients and set aside.",
+        "Beat eggs with fish sauce and pepper.",
+        "Heat oil in a nonstick pan. Pour in batter to form a thin layer. Fry until edges are crisp and center is gooey.",
+        "Add half the eggs, let set, then flip. Add more oil, pour in remaining eggs, and fry until set.",
+        "Add oysters, garlic, and spring onions. Stir-fry briefly. Serve with cilantro and sambal dip."
+      ],
+      "tags": [
+        "batter",
+        "chili",
+        "classic",
+        "crispy",
+        "dish",
+        "eggs",
+        "flour",
+        "gooey",
+        "hawker",
+        "luak",
+        "made",
+        "omelette",
+        "orh",
+        "oyster",
+        "oysters",
+        "potato",
+        "rice",
+        "sambal",
+        "sauce",
+        "served",
+        "sweet",
+        "tangy",
+        "teochew"
+      ],
+      "cost": {
+        "total_sgd": 185.31,
+        "ingredients_sgd": 185.16,
+        "energy_sgd": 0.15,
+        "per_serving_sgd": 61.77,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "tapioca flour",
+            "cost_sgd": 0.22,
+            "emissions_kgco2e": 0.0,
+            "amount": 90.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "all-purpose flour",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.0,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sweet potato starch",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 300.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "fish sauce",
+            "cost_sgd": 0.08,
+            "emissions_kgco2e": 0.025,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.01,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sesame oil",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "eggs",
+            "cost_sgd": 1.98,
+            "emissions_kgco2e": 27.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fish sauce",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.037,
+            "amount": 1.5,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cooking oil",
+            "cost_sgd": 0.4,
+            "emissions_kgco2e": 0.54,
+            "amount": 6.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oysters",
+            "cost_sgd": 144.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 18.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 19.8,
+            "emissions_kgco2e": 4.5,
+            "amount": 3.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cilantro",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sambal tumis",
+            "cost_sgd": 0.72,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white vinegar",
+            "cost_sgd": 0.18,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 35.231,
+        "ingredients_kgco2e": 35.027,
+        "energy_kgco2e": 0.204,
+        "per_serving_kgco2e": 11.744
+      }
+    },
+    {
+      "id": "haw_007",
+      "name": "Chicken Satay (Singapore Style)",
+      "difficulty": "Medium",
+      "prep_time": "50 minutes (plus marinating)",
+      "cook_time": "10 minutes",
+      "servings": 6.0,
+      "description": "Juicy, smoky grilled chicken skewers marinated in lemongrass, turmeric, and spices. Served with classic peanut sauce, cucumber, and onions.",
+      "ingredients": {
+        "chicken": {
+          "boneless chicken thighs or breasts": "1kg, cut into cubes"
+        },
+        "marinade": {
+          "lemongrass (white part only)": "2 stalks, minced",
+          "shallots": "6, peeled",
+          "garlic": "2 cloves",
+          "turmeric powder": "2 tsp",
+          "coriander powder": "1 tsp",
+          "chili powder": "1 tsp (optional)",
+          "salt": "1/2 tbsp",
+          "sugar": "2 tbsp",
+          "cooking oil": "3 tbsp"
+        },
+        "peanut sauce": {
+          "roasted peanuts": "2 cups, ground",
+          "coconut milk": "1 cup",
+          "tamarind pulp": "2 tbsp, soaked in 1/2 cup water",
+          "chili paste": "2 tbsp",
+          "garlic": "2 cloves, minced",
+          "shallots": "2, minced",
+          "sugar": "2 tbsp",
+          "salt": "to taste"
+        },
+        "to serve": {
+          "cucumber": "1, cut into wedges",
+          "red onion": "1, cut into wedges",
+          "rice cakes (ketupat)": "optional"
+        }
+      },
+      "preparation": [
+        "Blend marinade ingredients into a paste. Marinate chicken for at least 6 hours or overnight.",
+        "Thread chicken onto soaked bamboo skewers. Grill over charcoal or grill pan, basting with oil, until charred and cooked through.",
+        "For peanut sauce: sauté garlic, shallots, and chili paste in oil. Add ground peanuts, coconut milk, tamarind water, sugar, and salt. Simmer until thickened.",
+        "Serve satay with peanut sauce, cucumber, onion, and rice cakes."
+      ],
+      "tips": [
+        "Marinate chicken overnight for best flavor.",
+        "Use a mix of thighs and breast for juicier satay."
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": "22g",
+        "carbohydrates": "14g",
+        "fat": "18g"
+      },
+      "source": "Adapted from Rasa Malaysia, Serious Eats, and Singapore Local Favourites.",
+      "steps": [
+        "Blend marinade ingredients into a paste. Marinate chicken for at least 6 hours or overnight.",
+        "Thread chicken onto soaked bamboo skewers. Grill over charcoal or grill pan, basting with oil, until charred and cooked through.",
+        "For peanut sauce: sauté garlic, shallots, and chili paste in oil. Add ground peanuts, coconut milk, tamarind water, sugar, and salt. Simmer until thickened.",
+        "Serve satay with peanut sauce, cucumber, onion, and rice cakes."
+      ],
+      "tags": [
+        "chicken",
+        "classic",
+        "cucumber",
+        "grilled",
+        "juicy",
+        "lemongrass",
+        "marinated",
+        "onions",
+        "peanut",
+        "satay",
+        "sauce",
+        "served",
+        "singapore",
+        "skewers",
+        "smoky",
+        "spices",
+        "style",
+        "turmeric"
+      ],
+      "cost": {
+        "total_sgd": 89.78,
+        "ingredients_sgd": 89.69,
+        "energy_sgd": 0.1,
+        "per_serving_sgd": 14.96,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "boneless chicken thighs or breasts",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 6.0,
+            "amount": 1.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "lemongrass (white part only)",
+            "cost_sgd": 1.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "stalks"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "turmeric powder",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "coriander powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "chili powder",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.01,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "cooking oil",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.27,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "roasted peanuts",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.55,
+            "emissions_kgco2e": 0.475,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "tamarind pulp",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chili paste",
+            "cost_sgd": 0.26,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cucumber",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "red onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "rice cakes (ketupat)",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 4.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 19.711,
+        "ingredients_kgco2e": 19.575,
+        "energy_kgco2e": 0.136,
+        "per_serving_kgco2e": 3.285
+      }
+    },
+    {
+      "id": "haw_008",
+      "name": "Hainanese Chicken Rice",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "60 minutes",
+      "servings": 4.0,
+      "description": "Singapore’s iconic poached chicken and fragrant rice, served with chili sauce, ginger, and dark soy.",
+      "ingredients": {
+        "chicken": {
+          "whole chicken": "1 (about 1.5kg)",
+          "salt": "2 tbsp (for rubbing)",
+          "spring onions": "2-3 stalks, cut into 2-inch lengths",
+          "ginger": "1 thumb, sliced",
+          "garlic": "6 cloves, smashed"
+        },
+        "rice": {
+          "jasmine rice": "2 cups, rinsed",
+          "chicken fat or vegetable oil": "2 tbsp",
+          "garlic": "3 cloves, minced",
+          "ginger": "1 thumb, sliced",
+          "pandan leaves": "2, knotted",
+          "chicken stock": "2.5 cups",
+          "salt": "1/2 tsp"
+        },
+        "sauces": {
+          "chili sauce": "to serve (blend red chilies, garlic, ginger, lime, chicken stock, salt)",
+          "ginger sauce": "to serve (blend ginger, spring onion, oil, salt)",
+          "dark soy sauce": "to serve"
+        },
+        "garnish": {
+          "cucumber": "1, sliced",
+          "cilantro": "for garnish"
+        }
+      },
+      "steps": [
+        "Rub chicken with salt, rinse, and place in a large pot with spring onions, ginger, and garlic. Cover with water, bring to a boil, then simmer gently for 40-50 minutes until cooked.",
+        "Transfer chicken to ice water to cool and firm up the skin. Chop into serving pieces.",
+        "For rice: Heat chicken fat/oil in a pan, sauté garlic, ginger, and pandan leaves until fragrant. Add rice, stir to coat, then add chicken stock and salt. Cook as usual.",
+        "Prepare chili and ginger sauces by blending ingredients with a little chicken stock.",
+        "To serve: Arrange chicken on a platter, garnish with cucumber and cilantro. Serve with rice, sauces, and a bowl of chicken broth."
+      ],
+      "tips": [
+        "Use good quality chicken for best results.",
+        "Poach gently for juicy, tender meat and smooth skin.",
+        "Save the poaching liquid for soup and sauces."
+      ],
+      "themes": [
+        "hawker food",
+        "chicken",
+        "iconic",
+        "comfort food",
+        "singapore",
+        "rice",
+        "heritage",
+        "main"
+      ],
+      "source": "Adapted from Singapore hawker and home cook recipes.",
+      "origin": "Hainanese Chicken Rice is Singapore’s national dish, beloved at hawker centers and restaurants alike.",
+      "tags": [
+        "chicken",
+        "chili",
+        "comfort food",
+        "dark",
+        "fragrant",
+        "ginger",
+        "hainanese",
+        "hawker food",
+        "heritage",
+        "iconic",
+        "main",
+        "poached",
+        "rice",
+        "sauce",
+        "served",
+        "singapore",
+        "soy"
+      ],
+      "cost": {
+        "total_sgd": 156.3,
+        "ingredients_sgd": 155.7,
+        "energy_sgd": 0.6,
+        "per_serving_sgd": 39.07,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "whole chicken",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 6.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.015,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "thumb"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 39.6,
+            "emissions_kgco2e": 9.0,
+            "amount": 6.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "jasmine rice",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "chicken fat or vegetable oil",
+            "cost_sgd": 0.26,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 19.8,
+            "emissions_kgco2e": 4.5,
+            "amount": 3.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "thumb"
+          },
+          {
+            "ingredient": "pandan leaves",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "chicken stock",
+            "cost_sgd": 22.0,
+            "emissions_kgco2e": 15.0,
+            "amount": 2.5,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "chili sauce",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ginger sauce",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 3.3,
+            "emissions_kgco2e": 2.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cucumber",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cilantro",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 51.411,
+        "ingredients_kgco2e": 50.595,
+        "energy_kgco2e": 0.816,
+        "per_serving_kgco2e": 12.853
+      }
+    },
+    {
+      "id": "haw_009",
+      "name": "Fishball Noodles",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "20 minutes",
+      "servings": 4.0,
+      "description": "A beloved Singapore hawker dish of springy noodles tossed in savory sauce, served with bouncy fishballs, fishcake, and vegetables. Can be enjoyed dry or in soup.",
+      "ingredients": {
+        "noodles": {
+          "mee pok or mee kia (egg noodles)": "400g, blanched"
+        },
+        "fishballs & toppings": {
+          "fishballs": "20-24, fresh",
+          "fishcake": "1, sliced",
+          "bean sprouts": "100g, blanched",
+          "lettuce": "4 leaves",
+          "spring onions": "2, chopped",
+          "fried shallots": "2 tbsp"
+        },
+        "sauce (for dry version)": {
+          "light soy sauce": "2 tbsp",
+          "dark soy sauce": "1 tbsp",
+          "chili paste": "2 tbsp (optional)",
+          "vinegar": "1 tbsp",
+          "lard or oil": "2 tbsp",
+          "white pepper": "to taste"
+        },
+        "soup": {
+          "anchovy or chicken stock": "1L",
+          "garlic": "2 cloves, smashed",
+          "white pepper": "to taste"
+        }
+      },
+      "steps": [
+        "Prepare soup: Simmer stock with garlic and white pepper. Add fishballs and fishcake, cook until fishballs float.",
+        "Blanch noodles and bean sprouts. For dry version, toss noodles with sauce ingredients in a bowl.",
+        "Top noodles with fishballs, fishcake, bean sprouts, lettuce, spring onions, and fried shallots.",
+        "Serve with a bowl of hot soup on the side."
+      ],
+      "tips": [
+        "Use fresh, bouncy fishballs for best texture.",
+        "Adjust chili and vinegar to taste for the dry version.",
+        "Mee pok (flat) and mee kia (thin) are the most common noodle choices."
+      ],
+      "themes": [
+        "hawker food",
+        "noodles",
+        "fish",
+        "comfort food",
+        "singapore",
+        "main"
+      ],
+      "source": "Adapted from Singapore hawker and home cook recipes.",
+      "origin": "Fishball Noodles is a staple at Singapore hawker centers, enjoyed by all ages.",
+      "tags": [
+        "beloved",
+        "bouncy",
+        "comfort food",
+        "dish",
+        "dry",
+        "enjoyed",
+        "fish",
+        "fishball",
+        "fishballs",
+        "fishcake",
+        "hawker",
+        "hawker food",
+        "main",
+        "noodles",
+        "sauce",
+        "savory",
+        "served",
+        "singapore",
+        "soup",
+        "springy",
+        "tossed",
+        "vegetables"
+      ],
+      "cost": {
+        "total_sgd": 388.03,
+        "ingredients_sgd": 387.83,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 97.01,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "mee pok or mee kia (egg noodles)",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 1.8,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "fishballs",
+            "cost_sgd": 330.0,
+            "emissions_kgco2e": 100.0,
+            "amount": 20.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fishcake",
+            "cost_sgd": 16.5,
+            "emissions_kgco2e": 5.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "bean sprouts",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "lettuce",
+            "cost_sgd": 10.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "leaves"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fried shallots",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chili paste",
+            "cost_sgd": 0.26,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "vinegar",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "lard or oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "anchovy or chicken stock",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 6.0,
+            "amount": 1.0,
+            "unit": "l"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 118.802,
+        "ingredients_kgco2e": 118.53,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 29.701
+      }
+    },
+    {
+      "id": "haw_010",
+      "name": "Yong Tau Foo",
+      "difficulty": "Medium",
+      "prep_time": "40 minutes",
+      "cook_time": "30 minutes",
+      "servings": 4.0,
+      "description": "A healthy and customizable hawker favorite: tofu, vegetables, and beancurd skin stuffed with fish paste, served in a light broth with noodles or rice.",
+      "ingredients": {
+        "fish paste": {
+          "white fish fillet (e.g., mackerel or tenggiri)": "400g, skinless, boneless",
+          "salt": "1 tsp",
+          "white pepper": "1/2 tsp",
+          "cornstarch": "1 tbsp",
+          "ice water": "2-3 tbsp"
+        },
+        "stuffing items": {
+          "firm tofu": "4 pieces, halved",
+          "red chili": "4, halved and deseeded",
+          "okra": "8, trimmed",
+          "eggplant": "1, sliced into thick rounds",
+          "bittergourd": "1, sliced into thick rings, seeds removed",
+          "beancurd skin": "1 sheet, cut into rectangles"
+        },
+        "soup": {
+          "anchovy or chicken stock": "1.5L",
+          "garlic": "3 cloves, smashed",
+          "soybeans": "2 tbsp, soaked (optional)",
+          "salt and white pepper": "to taste"
+        },
+        "to serve": {
+          "yellow noodles or bee hoon (rice vermicelli)": "400g, blanched",
+          "fried shallots": "to garnish",
+          "spring onions": "to garnish",
+          "chili sauce": "to serve",
+          "sweet sauce": "to serve"
+        }
+      },
+      "steps": [
+        "Make Fish Paste: Chop fish fillet finely, then pound or process into a sticky paste. Add salt, pepper, cornstarch, and ice water gradually until smooth and bouncy.",
+        "Stuff Vegetables: Pat dry tofu, vegetables, and beancurd skin. Stuff each piece with fish paste (use wet hands or a spoon). For beancurd skin, spread fish paste, roll up, and seal with a little water.",
+        "Prepare Soup: Simmer stock with garlic (and soybeans if using) for 20 minutes. Season with salt and pepper.",
+        "Cook Yong Tau Foo: Bring a pot of water to a gentle simmer. Poach stuffed items (except beancurd skin) until fish paste is cooked and floats (about 5-7 minutes). For beancurd skin rolls, steam or pan-fry until golden and cooked through.",
+        "Serve: Arrange noodles in bowls. Top with cooked yong tau foo pieces. Ladle hot soup over. Garnish with fried shallots, spring onions, and serve with chili and sweet sauce."
+      ],
+      "tips": [
+        "Use fresh mackerel for the best fish paste texture.",
+        "You can add stuffed mushrooms, tofu puffs, or other favorite vegetables.",
+        "For a dry version, toss noodles with sauce and serve soup on the side."
+      ],
+      "themes": [
+        "hawker food",
+        "noodles",
+        "tofu",
+        "healthy",
+        "comfort food",
+        "singapore",
+        "main",
+        "soup"
+      ],
+      "source": "Adapted from Singapore hawker and home cook recipes.",
+      "origin": "Yong Tau Foo is a Hakka Chinese dish, now a staple at Singapore hawker centers.",
+      "tags": [
+        "beancurd",
+        "broth",
+        "comfort food",
+        "customizable",
+        "favorite",
+        "fish",
+        "foo",
+        "hawker",
+        "hawker food",
+        "healthy",
+        "light",
+        "main",
+        "noodles",
+        "paste",
+        "rice",
+        "served",
+        "singapore",
+        "skin",
+        "soup",
+        "stuffed",
+        "tau",
+        "tofu",
+        "vegetables",
+        "yong"
+      ],
+      "cost": {
+        "total_sgd": 134.17,
+        "ingredients_sgd": 133.87,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 33.54,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "white fish fillet (e.g., mackerel or tenggiri)",
+            "cost_sgd": 6.6,
+            "emissions_kgco2e": 2.0,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "ice water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "firm tofu",
+            "cost_sgd": 11.0,
+            "emissions_kgco2e": 12.8,
+            "amount": 4.0,
+            "unit": "pieces"
+          },
+          {
+            "ingredient": "red chili",
+            "cost_sgd": 35.2,
+            "emissions_kgco2e": 8.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "okra",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "eggplant",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "bittergourd",
+            "cost_sgd": 1.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "beancurd skin",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "sheet"
+          },
+          {
+            "ingredient": "anchovy or chicken stock",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 9.0,
+            "amount": 1.5,
+            "unit": "l"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 19.8,
+            "emissions_kgco2e": 4.5,
+            "amount": 3.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "soybeans",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt and white pepper",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "yellow noodles or bee hoon (rice vermicelli)",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 1.8,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "fried shallots",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "chili sauce",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sweet sauce",
+            "cost_sgd": 3.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 46.711,
+        "ingredients_kgco2e": 46.303,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 11.678
+      }
+    },
+    {
+      "id": "haw_011",
+      "name": "Lor Mee (Non-Vegetarian)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "90 minutes",
+      "servings": 4.0,
+      "description": "A beloved Singapore hawker dish: thick yellow noodles in a savory, starchy gravy, topped with braised pork belly, egg, ngoh hiang, and condiments.",
+      "ingredients": {
+        "gravy": {
+          "pork bones": "500g",
+          "water": "1.5L",
+          "garlic": "4 cloves, smashed",
+          "star anise": "2",
+          "cinnamon stick": "1",
+          "soy sauce": "2 tbsp",
+          "dark soy sauce": "2 tbsp",
+          "oyster sauce": "1 tbsp",
+          "five-spice powder": "1 tsp",
+          "white pepper": "1/2 tsp",
+          "cornstarch": "4 tbsp (mixed with 1/2 cup water)",
+          "salt and sugar": "to taste",
+          "vinegar": "1 tbsp (optional)"
+        },
+        "toppings": {
+          "braised pork belly": "300g, sliced (see below)",
+          "ngoh hiang (five-spice meat rolls)": "1 roll, sliced (optional)",
+          "hard-boiled eggs": "2, halved",
+          "fried fish cake": "1, sliced",
+          "fried wantons": "8 (optional)",
+          "bean sprouts": "100g, blanched",
+          "garlic": "2 cloves, minced (for garnish)",
+          "fresh coriander": "to garnish",
+          "red chili": "sliced, to garnish",
+          "black vinegar": "to serve"
+        },
+        "noodles": {
+          "thick yellow noodles": "400g, blanched"
+        },
+        "braised pork belly": {
+          "pork belly": "300g",
+          "soy sauce": "2 tbsp",
+          "dark soy sauce": "1 tbsp",
+          "five-spice powder": "1/2 tsp",
+          "garlic": "2 cloves, smashed",
+          "water": "enough to cover"
+        }
+      },
+      "steps": [
+        "Prepare Gravy: Simmer pork bones, garlic, star anise, and cinnamon in water for 1 hour. Strain stock, return to pot. Add soy sauces, oyster sauce, five-spice, pepper, salt, and sugar. Thicken with cornstarch slurry, simmer until glossy and thick. Add vinegar if desired.",
+        "Prepare Toppings: Braise pork belly as above, then slice. Prepare ngoh hiang, fish cake, wantons, and eggs as desired.",
+        "Assemble: Blanch noodles and bean sprouts, place in bowls. Ladle hot gravy over. Top with pork belly, ngoh hiang, fish cake, egg, and other toppings. Garnish with garlic, coriander, chili, and serve with black vinegar."
+      ],
+      "tips": [
+        "Add more five-spice or vinegar to taste for a stronger flavor.",
+        "Ngoh hiang and fried wantons are optional but traditional.",
+        "For extra richness, add a spoonful of lard to the gravy."
+      ],
+      "themes": [
+        "hawker food",
+        "noodles",
+        "pork",
+        "comfort food",
+        "singapore",
+        "main"
+      ],
+      "source": "Adapted from Singapore hawker and home cook recipes.",
+      "origin": "Lor Mee is a Hokkien dish, now a staple at Singapore hawker centers.",
+      "tags": [
+        "belly",
+        "beloved",
+        "braised",
+        "comfort food",
+        "condiments",
+        "dish",
+        "egg",
+        "gravy",
+        "hawker",
+        "hawker food",
+        "hiang",
+        "lor",
+        "main",
+        "mee",
+        "ngoh",
+        "non",
+        "noodles",
+        "pork",
+        "savory",
+        "singapore",
+        "starchy",
+        "thick",
+        "topped",
+        "vegetarian",
+        "yellow"
+      ],
+      "cost": {
+        "total_sgd": 170.2,
+        "ingredients_sgd": 169.3,
+        "energy_sgd": 0.9,
+        "per_serving_sgd": 42.55,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork bones",
+            "cost_sgd": 6.6,
+            "emissions_kgco2e": 3.5,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "l"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "star anise",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cinnamon stick",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "five-spice powder",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt and sugar",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "vinegar",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "braised pork belly",
+            "cost_sgd": 3.96,
+            "emissions_kgco2e": 2.1,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "ngoh hiang (five-spice meat rolls)",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "roll"
+          },
+          {
+            "ingredient": "hard-boiled eggs",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fried fish cake",
+            "cost_sgd": 16.5,
+            "emissions_kgco2e": 5.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fried wantons",
+            "cost_sgd": 64.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "bean sprouts",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "fresh coriander",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "red chili",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "black vinegar",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "thick yellow noodles",
+            "cost_sgd": 1.32,
+            "emissions_kgco2e": 1.0,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "pork belly",
+            "cost_sgd": 3.96,
+            "emissions_kgco2e": 2.1,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "five-spice powder",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 38.634,
+        "ingredients_kgco2e": 37.41,
+        "energy_kgco2e": 1.224,
+        "per_serving_kgco2e": 9.659
+      }
+    },
+    {
+      "id": "haw_012",
+      "name": "Chinese Rojak",
+      "difficulty": "Easy",
+      "prep_time": "20 minutes",
+      "cook_time": "0 minutes",
+      "servings": 4.0,
+      "description": "A beloved Singaporean hawker salad of fresh fruits, vegetables, and youtiao tossed in a sweet, tangy, and savory prawn paste sauce, topped with crushed peanuts.",
+      "ingredients": {
+        "salad": {
+          "pineapple": "1/2, peeled and cut into chunks",
+          "cucumber": "1, cut into sticks",
+          "jicama (bangkuang)": "1 small, peeled and cut into sticks",
+          "green apple or guava": "1, sliced",
+          "bean sprouts": "1 cup, rinsed",
+          "youtiao (fried dough sticks)": "2, toasted and cut into bite-sized pieces",
+          "firm tofu (tau pok)": "2, toasted and cut into cubes (optional)"
+        },
+        "sauce": {
+          "shrimp paste (hei ko)": "2 tbsp",
+          "tamarind paste": "1 tbsp",
+          "sugar": "2-3 tbsp (to taste)",
+          "lime juice": "1 tbsp",
+          "chili paste": "1 tsp (optional)",
+          "water": "1-2 tbsp (to thin, as needed)"
+        },
+        "topping": {
+          "roasted peanuts": "1/4 cup, crushed",
+          "toasted sesame seeds": "1 tbsp (optional)"
+        }
+      },
+      "steps": [
+        "Prepare Sauce: In a bowl, mix shrimp paste, tamarind paste, sugar, lime juice, and chili paste. Add water as needed to make a thick, pourable sauce. Adjust sweetness and tanginess to taste.",
+        "Assemble Salad: In a large bowl, combine pineapple, cucumber, jicama, apple/guava, bean sprouts, youtiao, and tofu (if using). Pour sauce over and toss well to coat all ingredients.",
+        "Serve: Transfer to a serving plate. Sprinkle generously with crushed peanuts and sesame seeds. Serve immediately."
+      ],
+      "tips": [
+        "Toast youtiao and tau pok for extra crunch.",
+        "Add more chili for a spicier version.",
+        "Use a mix of fruits and vegetables for best texture and flavor."
+      ],
+      "themes": [
+        "hawker food",
+        "salad",
+        "fruit",
+        "snack",
+        "singapore",
+        "side dish"
+      ],
+      "source": "Adapted from Singapore hawker and home cook recipes.",
+      "origin": "Chinese Rojak is a popular street food salad in Singapore and Malaysia.",
+      "tags": [
+        "beloved",
+        "chinese",
+        "crushed",
+        "fresh",
+        "fruit",
+        "fruits",
+        "hawker",
+        "hawker food",
+        "paste",
+        "peanuts",
+        "prawn",
+        "rojak",
+        "salad",
+        "sauce",
+        "savory",
+        "side dish",
+        "singapore",
+        "singaporean",
+        "snack",
+        "sweet",
+        "tangy",
+        "topped",
+        "tossed",
+        "vegetables",
+        "youtiao"
+      ],
+      "cost": {
+        "total_sgd": 43.71,
+        "ingredients_sgd": 43.71,
+        "energy_sgd": 0.0,
+        "per_serving_sgd": 10.93,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pineapple",
+            "cost_sgd": 2.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cucumber",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "jicama (bangkuang)",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "small"
+          },
+          {
+            "ingredient": "green apple or guava",
+            "cost_sgd": 0.7,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "bean sprouts",
+            "cost_sgd": 0.25,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "youtiao (fried dough sticks)",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "firm tofu (tau pok)",
+            "cost_sgd": 5.5,
+            "emissions_kgco2e": 6.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "shrimp paste (hei ko)",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "tamarind paste",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 3.3,
+            "emissions_kgco2e": 2.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "lime juice",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chili paste",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.01,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "roasted peanuts",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "toasted sesame seeds",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 8.41,
+        "ingredients_kgco2e": 8.41,
+        "energy_kgco2e": 0.0,
+        "per_serving_kgco2e": 2.103
+      }
+    },
+    {
+      "id": "haw_013",
+      "name": "Penang Char Kway Teow",
+      "difficulty": "Hard",
+      "prep_time": "20 minutes",
+      "cook_time": "10 minutes",
+      "servings": 2.0,
+      "description": "A Penang hawker legend: flat rice noodles stir-fried over high heat with prawns, Chinese sausage, eggs, bean sprouts, and chives in a savory, smoky sauce.",
+      "ingredients": {
+        "main": {
+          "fresh flat rice noodles (kway teow)": "300g",
+          "prawns": "8-10, shelled and deveined",
+          "Chinese sausage (lap cheong)": "1, thinly sliced",
+          "fish cake": "50g, thinly sliced",
+          "bean sprouts": "2 cups",
+          "garlic chives": "1 small bunch, cut into 5cm lengths",
+          "eggs": "2",
+          "garlic": "2 cloves, minced",
+          "cockles": "1/2 cup, cleaned (optional, traditional)"
+        },
+        "sauce": {
+          "light soy sauce": "2 tbsp",
+          "dark soy sauce": "1 tbsp",
+          "oyster sauce": "1 tbsp",
+          "fish sauce": "1 tsp",
+          "sugar": "1 tsp",
+          "white pepper": "to taste"
+        },
+        "other": {
+          "lard or vegetable oil": "3 tbsp",
+          "chili paste": "1 tbsp (optional, to taste)"
+        }
+      },
+      "steps": [
+        "Mix all sauce ingredients in a bowl and set aside.",
+        "Heat lard/oil in a wok over high heat until smoking. Add prawns and Chinese sausage, stir-fry 30 seconds.",
+        "Add garlic and fish cake, stir-fry briefly. Push to one side, add eggs and scramble.",
+        "Add noodles, pour sauce over, and toss to coat. Add bean sprouts, chives, and cockles (if using). Stir-fry quickly, pausing to let noodles sear for wok hei.",
+        "Add chili paste if desired. Serve immediately, garnished with extra chives."
+      ],
+      "tips": [
+        "Use a well-seasoned wok and high heat for authentic wok hei.",
+        "Do not over-stir; let noodles char slightly for best flavor.",
+        "Cockles are traditional but optional."
+      ],
+      "themes": [
+        "hawker food",
+        "noodles",
+        "seafood",
+        "wok hei",
+        "penang",
+        "malaysian",
+        "main"
+      ],
+      "source": "Adapted from Penang hawker and home cook recipes.",
+      "origin": "Penang Char Kway Teow is a signature street food of Penang, Malaysia, and beloved in Singapore.",
+      "tags": [
+        "bean",
+        "char",
+        "chinese",
+        "chives",
+        "eggs",
+        "flat",
+        "fried",
+        "hawker",
+        "hawker food",
+        "heat",
+        "kway",
+        "legend",
+        "main",
+        "malaysian",
+        "noodles",
+        "penang",
+        "prawns",
+        "rice",
+        "sauce",
+        "sausage",
+        "savory",
+        "seafood",
+        "smoky",
+        "sprouts",
+        "stir",
+        "teow",
+        "wok hei"
+      ],
+      "cost": {
+        "total_sgd": 212.67,
+        "ingredients_sgd": 212.57,
+        "energy_sgd": 0.1,
+        "per_serving_sgd": 106.33,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "fresh flat rice noodles (kway teow)",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 1.35,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "prawns",
+            "cost_sgd": 176.0,
+            "emissions_kgco2e": 144.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "Chinese sausage (lap cheong)",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fish cake",
+            "cost_sgd": 0.83,
+            "emissions_kgco2e": 0.25,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "bean sprouts",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "garlic chives",
+            "cost_sgd": 6.6,
+            "emissions_kgco2e": 1.5,
+            "amount": 1.0,
+            "unit": "small"
+          },
+          {
+            "ingredient": "eggs",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "cockles",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "fish sauce",
+            "cost_sgd": 0.08,
+            "emissions_kgco2e": 0.025,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "lard or vegetable oil",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.27,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chili paste",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 159.656,
+        "ingredients_kgco2e": 159.52,
+        "energy_kgco2e": 0.136,
+        "per_serving_kgco2e": 79.828
+      }
+    },
+    {
+      "id": "haw_014",
+      "name": "White Bee Hoon",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "20 minutes",
+      "servings": 4.0,
+      "description": "A comforting Singapore zi char and hawker favorite: silky rice vermicelli braised in a light, savory seafood broth with prawns, squid, vegetables, and egg.",
+      "ingredients": {
+        "main": {
+          "rice vermicelli (bee hoon)": "200g, soaked and drained",
+          "prawns": "8, shelled and deveined",
+          "squid": "1, cleaned and sliced into rings",
+          "fish cake": "1, sliced",
+          "egg": "1, lightly beaten",
+          "choy sum or napa cabbage": "1 small bunch, cut into pieces",
+          "carrot": "1 small, julienned",
+          "garlic": "3 cloves, minced",
+          "chicken stock or water": "600ml",
+          "Shaoxing wine": "1 tbsp (optional)",
+          "soy sauce": "1 tbsp",
+          "fish sauce": "1 tbsp",
+          "white pepper": "to taste",
+          "cornstarch": "1 tsp, mixed with 2 tbsp water (for thickening)",
+          "oil": "2 tbsp"
+        },
+        "garnish": {
+          "fried shallots": "to garnish",
+          "spring onions": "chopped",
+          "calamansi lime": "halved"
+        }
+      },
+      "steps": [
+        "Heat oil in a wok. Sauté garlic until fragrant. Add prawns, squid, and fish cake, stir-fry until just cooked. Remove and set aside.",
+        "In the same wok, add more oil if needed. Add carrot and choy sum, stir-fry briefly.",
+        "Add chicken stock, soy sauce, fish sauce, Shaoxing wine, and white pepper. Bring to a boil.",
+        "Add soaked bee hoon and simmer until noodles absorb some broth and are tender.",
+        "Return seafood and fish cake to the wok. Drizzle in beaten egg and swirl gently to form egg ribbons.",
+        "Thicken with cornstarch slurry if desired. Adjust seasoning to taste.",
+        "Serve hot, garnished with fried shallots, spring onions, and a squeeze of calamansi lime."
+      ],
+      "tips": [
+        "Use fresh seafood for best flavor.",
+        "Do not overcook bee hoon; it should remain silky and not mushy.",
+        "Add more stock for a soupier version."
+      ],
+      "themes": [
+        "hawker food",
+        "noodles",
+        "seafood",
+        "comfort food",
+        "singapore",
+        "main"
+      ],
+      "source": "Adapted from Sembawang White Bee Hoon and Singapore zi char recipes.",
+      "origin": "White Bee Hoon is a modern Singapore zi char classic, made famous by Sembawang White Bee Hoon.",
+      "tags": [
+        "bee",
+        "braised",
+        "broth",
+        "char",
+        "comfort food",
+        "comforting",
+        "egg",
+        "favorite",
+        "hawker",
+        "hawker food",
+        "hoon",
+        "light",
+        "main",
+        "noodles",
+        "prawns",
+        "rice",
+        "savory",
+        "seafood",
+        "silky",
+        "singapore",
+        "squid",
+        "vegetables",
+        "vermicelli",
+        "white"
+      ],
+      "cost": {
+        "total_sgd": 238.6,
+        "ingredients_sgd": 238.41,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 59.65,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice vermicelli (bee hoon)",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.9,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "prawns",
+            "cost_sgd": 176.0,
+            "emissions_kgco2e": 144.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "squid",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fish cake",
+            "cost_sgd": 16.5,
+            "emissions_kgco2e": 5.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "egg",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "choy sum or napa cabbage",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "small"
+          },
+          {
+            "ingredient": "carrot",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.8,
+            "amount": 1.0,
+            "unit": "small"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 19.8,
+            "emissions_kgco2e": 4.5,
+            "amount": 3.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "chicken stock or water",
+            "cost_sgd": 5.28,
+            "emissions_kgco2e": 3.6,
+            "amount": 600.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "fish sauce",
+            "cost_sgd": 0.25,
+            "emissions_kgco2e": 0.075,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "fried shallots",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "calamansi lime",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 165.057,
+        "ingredients_kgco2e": 164.785,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 41.264
+      }
+    }
+  ]
+}

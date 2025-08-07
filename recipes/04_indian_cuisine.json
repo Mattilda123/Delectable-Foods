@@ -1,0 +1,3480 @@
+{
+  "metadata": {
+    "category": "Indian Cuisine",
+    "description": "Traditional Indian dishes with Singaporean influences, including North Indian, South Indian, and Muslim Indian styles",
+    "total_recipes": 9,
+    "last_updated": "2024"
+  },
+  "recipes": [
+    {
+      "id": "ind_001",
+      "name": "Mee Goreng",
+      "difficulty": "Easy",
+      "prep_time": "20 minutes",
+      "cook_time": "15 minutes",
+      "servings": 2.0,
+      "description": "Stir-fried yellow noodles with eggs, prawns, tofu, and vegetables in a spicy, sweet sauce.",
+      "ingredients": {
+        "noodles": {
+          "yellow noodles": "200g"
+        },
+        "toppings": {
+          "prawns": "100g, shelled",
+          "tofu": "100g, cubed",
+          "bean sprouts": "50g",
+          "cabbage": "50g, shredded",
+          "egg": "1, beaten"
+        },
+        "sauce": {
+          "chili paste": "1 tbsp",
+          "tomato ketchup": "2 tbsp",
+          "sweet soy sauce": "1 tbsp",
+          "light soy sauce": "1 tbsp",
+          "garlic": "2 cloves, minced"
+        }
+      },
+      "steps": [
+        "Heat oil, fry garlic and chili paste until fragrant.",
+        "Add prawns and tofu, stir-fry until prawns turn pink.",
+        "Push to side, scramble egg, then mix in.",
+        "Add noodles, cabbage, bean sprouts, and sauces. Stir-fry until well combined.",
+        "Serve hot, garnished with green onions."
+      ],
+      "tips": [
+        "Use sambal for extra heat.",
+        "Add potatoes for Indian-style mee goreng."
+      ],
+      "themes": [
+        "indian",
+        "heritage",
+        "main",
+        "iconic",
+        "rice",
+        "noodle",
+        "soup",
+        "vegetarian",
+        "seafood",
+        "snack",
+        "breakfast",
+        "dessert"
+      ],
+      "source": "https://www.noobcook.com/mee-goreng/",
+      "origin": "Mee Goreng is a spicy fried noodle dish with Indian-Muslim roots, found at mamak stalls and hawker centres.",
+      "imageId": "ind_001.jpeg",
+      "tags": [
+        "breakfast",
+        "dessert",
+        "eggs",
+        "fried",
+        "goreng",
+        "heritage",
+        "iconic",
+        "indian",
+        "main",
+        "mee",
+        "noodle",
+        "noodles",
+        "prawns",
+        "rice",
+        "sauce",
+        "seafood",
+        "snack",
+        "soup",
+        "spicy",
+        "stir",
+        "sweet",
+        "tofu",
+        "vegetables",
+        "vegetarian",
+        "yellow"
+      ],
+      "cost": {
+        "total_sgd": 17.22,
+        "ingredients_sgd": 17.07,
+        "energy_sgd": 0.15,
+        "per_serving_sgd": 8.61,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "yellow noodles",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 0.5,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "prawns",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.8,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "tofu",
+            "cost_sgd": 0.28,
+            "emissions_kgco2e": 0.32,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "bean sprouts",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "cabbage",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "egg",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "chili paste",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "tomato ketchup",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sweet soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 10.414,
+        "ingredients_kgco2e": 10.21,
+        "energy_kgco2e": 0.204,
+        "per_serving_kgco2e": 5.207
+      }
+    },
+    {
+      "id": "ind_002",
+      "name": "Fish Head Curry",
+      "difficulty": "Hard",
+      "prep_time": "45 minutes",
+      "cook_time": "45 minutes",
+      "servings": 6.0,
+      "description": "Red snapper fish head simmered in a spicy, tangy curry with vegetables, a signature Singaporean-Indian dish.",
+      "ingredients": {
+        "fish head": {
+          "red snapper head": "1, cleaned"
+        },
+        "vegetables": {
+          "eggplant": "1, cut into chunks",
+          "okra": "10, trimmed",
+          "tomatoes": "2, quartered"
+        },
+        "curry": {
+          "curry powder (fish curry blend)": "2 tbsp",
+          "chili paste": "1 tbsp",
+          "onions": "2, sliced",
+          "garlic": "2 cloves, minced",
+          "ginger": "1 thumb-sized, sliced",
+          "curry leaves": "2 sprigs",
+          "coconut milk": "400ml",
+          "tamarind paste": "2 tbsp",
+          "oil": "2 tbsp",
+          "salt": "to taste"
+        }
+      },
+      "steps": [
+        "Heat oil, fry onions, garlic, ginger, and curry leaves until fragrant.",
+        "Add curry powder and chili paste, fry briefly.",
+        "Add fish head, eggplant, okra, and tomatoes. Stir to coat with spices.",
+        "Add coconut milk, tamarind paste, and salt. Simmer until fish is cooked and vegetables are tender.",
+        "Serve hot with steamed rice."
+      ],
+      "tips": [
+        "Use fresh red snapper for best results.",
+        "Adjust tamarind for desired tanginess."
+      ],
+      "themes": [
+        "indian",
+        "heritage",
+        "main",
+        "iconic",
+        "rice",
+        "noodle",
+        "soup",
+        "vegetarian",
+        "seafood",
+        "snack",
+        "breakfast",
+        "dessert"
+      ],
+      "source": "https://www.noobcook.com/fish-head-curry/",
+      "origin": "Fish Head Curry is a uniquely Singaporean dish, blending South Indian and Chinese influences.",
+      "imageId": "ind_002.jpeg",
+      "tags": [
+        "breakfast",
+        "curry",
+        "dessert",
+        "dish",
+        "fish",
+        "head",
+        "heritage",
+        "iconic",
+        "indian",
+        "main",
+        "noodle",
+        "red",
+        "rice",
+        "seafood",
+        "signature",
+        "simmered",
+        "singaporean",
+        "snack",
+        "snapper",
+        "soup",
+        "spicy",
+        "tangy",
+        "vegetables",
+        "vegetarian"
+      ],
+      "cost": {
+        "total_sgd": 72.58,
+        "ingredients_sgd": 72.13,
+        "energy_sgd": 0.45,
+        "per_serving_sgd": 12.1,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "red snapper head",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "eggplant",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "okra",
+            "cost_sgd": 20.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 10.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tomatoes",
+            "cost_sgd": 1.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "curry powder (fish curry blend)",
+            "cost_sgd": 0.49,
+            "emissions_kgco2e": 0.15,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chili paste",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "thumb"
+          },
+          {
+            "ingredient": "curry leaves",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "sprigs"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 0.76,
+            "amount": 400.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "tamarind paste",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 12.132,
+        "ingredients_kgco2e": 11.52,
+        "energy_kgco2e": 0.612,
+        "per_serving_kgco2e": 2.022
+      }
+    },
+    {
+      "id": "ind_003",
+      "name": "Curry Fish Head",
+      "difficulty": "Hard",
+      "prep_time": "45 minutes",
+      "cook_time": "45 minutes",
+      "servings": 6.0,
+      "description": "Red snapper fish head simmered in a spicy, tangy curry with vegetables, a signature Singaporean-Indian dish.",
+      "ingredients": {
+        "fish head": {
+          "red snapper head": "1, cleaned"
+        },
+        "vegetables": {
+          "eggplant": "1, cut into chunks",
+          "okra": "10, trimmed",
+          "tomatoes": "2, quartered"
+        },
+        "curry": {
+          "curry powder (fish curry blend)": "2 tbsp",
+          "chili paste": "1 tbsp",
+          "onions": "2, sliced",
+          "garlic": "2 cloves, minced",
+          "ginger": "1 thumb-sized, sliced",
+          "curry leaves": "2 sprigs",
+          "coconut milk": "400ml",
+          "tamarind paste": "2 tbsp",
+          "oil": "2 tbsp",
+          "salt": "to taste"
+        }
+      },
+      "steps": [
+        "Heat oil, fry onions, garlic, ginger, and curry leaves until fragrant.",
+        "Add curry powder and chili paste, fry briefly.",
+        "Add fish head, eggplant, okra, and tomatoes. Stir to coat with spices.",
+        "Add coconut milk, tamarind paste, and salt. Simmer until fish is cooked and vegetables are tender.",
+        "Serve hot with steamed rice."
+      ],
+      "tips": [
+        "Use fresh red snapper for best results.",
+        "Adjust tamarind for desired tanginess."
+      ],
+      "themes": [
+        "indian",
+        "heritage",
+        "main",
+        "iconic",
+        "rice",
+        "noodle",
+        "soup",
+        "vegetarian",
+        "seafood",
+        "snack",
+        "breakfast",
+        "dessert"
+      ],
+      "source": "https://www.noobcook.com/fish-head-curry/",
+      "origin": "Curry Fish Head is a uniquely Singaporean dish, blending South Indian and Chinese influences.",
+      "imageId": "ind_003.jpeg",
+      "tags": [
+        "breakfast",
+        "curry",
+        "dessert",
+        "dish",
+        "fish",
+        "head",
+        "heritage",
+        "iconic",
+        "indian",
+        "main",
+        "noodle",
+        "red",
+        "rice",
+        "seafood",
+        "signature",
+        "simmered",
+        "singaporean",
+        "snack",
+        "snapper",
+        "soup",
+        "spicy",
+        "tangy",
+        "vegetables",
+        "vegetarian"
+      ],
+      "cost": {
+        "total_sgd": 72.58,
+        "ingredients_sgd": 72.13,
+        "energy_sgd": 0.45,
+        "per_serving_sgd": 12.1,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "red snapper head",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "eggplant",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "okra",
+            "cost_sgd": 20.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 10.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tomatoes",
+            "cost_sgd": 1.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "curry powder (fish curry blend)",
+            "cost_sgd": 0.49,
+            "emissions_kgco2e": 0.15,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chili paste",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "thumb"
+          },
+          {
+            "ingredient": "curry leaves",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "sprigs"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 0.76,
+            "amount": 400.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "tamarind paste",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 12.132,
+        "ingredients_kgco2e": 11.52,
+        "energy_kgco2e": 0.612,
+        "per_serving_kgco2e": 2.022
+      }
+    },
+    {
+      "id": "ind_004",
+      "name": "Arcot's Makkan Peda",
+      "difficulty": "Hard",
+      "prep_time": "2 hours",
+      "cook_time": "1 hour",
+      "servings": 8.0,
+      "description": "Eurasian-Indian festive sweet of stuffed milk dumplings soaked in rose-scented syrup.",
+      "ingredients": {
+        "dough": {
+          "milk powder": "2 cups",
+          "plain flour": "1 cup",
+          "baking soda": "1/2 tsp",
+          "ghee": "2 tbsp",
+          "milk": "as needed to form dough"
+        },
+        "filling": {
+          "chopped nuts": "1/2 cup",
+          "raisins": "1/4 cup",
+          "cardamom powder": "1/2 tsp"
+        },
+        "syrup": {
+          "sugar": "2 cups",
+          "water": "2 cups",
+          "rose water": "2 tbsp"
+        }
+      },
+      "steps": [
+        "Mix dough ingredients, knead until smooth. Divide and flatten, fill with nuts and raisins, seal into balls.",
+        "Deep-fry balls until golden. Simmer sugar and water to make syrup, add rose water.",
+        "Soak fried dumplings in syrup for at least 1 hour before serving."
+      ],
+      "tips": [
+        "Use full-fat milk powder for richness.",
+        "Let dumplings soak thoroughly for best flavor."
+      ],
+      "themes": [
+        "indian",
+        "heritage",
+        "main",
+        "iconic",
+        "rice",
+        "noodle",
+        "soup",
+        "vegetarian",
+        "seafood",
+        "snack",
+        "breakfast",
+        "dessert"
+      ],
+      "source": "https://www.sbs.com.au/food/recipes/makkan-peda-arcot-makkan-peda/",
+      "origin": "Makkan Peda is a festive sweet from Arcot, enjoyed by Singapore's Eurasian and Indian communities.",
+      "imageId": "ind_004.jpeg",
+      "tags": [
+        "arcot",
+        "breakfast",
+        "dessert",
+        "dumplings",
+        "eurasian",
+        "festive",
+        "heritage",
+        "iconic",
+        "indian",
+        "main",
+        "makkan",
+        "milk",
+        "noodle",
+        "peda",
+        "rice",
+        "rose",
+        "scented",
+        "seafood",
+        "snack",
+        "soaked",
+        "soup",
+        "stuffed",
+        "sweet",
+        "syrup",
+        "vegetarian"
+      ],
+      "cost": {
+        "total_sgd": 30.78,
+        "ingredients_sgd": 30.77,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 3.85,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "milk powder",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 3.8,
+            "amount": 2.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "plain flour",
+            "cost_sgd": 0.62,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "baking soda",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ghee",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "milk",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.9,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "chopped nuts",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "raisins",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cardamom powder",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 3.3,
+            "emissions_kgco2e": 2.0,
+            "amount": 2.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "rose water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 7.714,
+        "ingredients_kgco2e": 7.7,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 0.964
+      }
+    },
+    {
+      "id": "ind_005",
+      "name": "Soup Kambing",
+      "difficulty": "Hard",
+      "prep_time": "1 hour",
+      "cook_time": "3 hours",
+      "servings": 6.0,
+      "description": "Spiced mutton soup with potatoes, carrots, and tomatoes, a South Indian-Muslim specialty.",
+      "ingredients": {
+        "mutton": {
+          "mutton bones and meat": "1kg, cut into chunks"
+        },
+        "spice paste": {
+          "shallots": "8",
+          "garlic": "4 cloves",
+          "ginger": "2cm, sliced",
+          "coriander powder": "1 tbsp",
+          "cumin powder": "1 tbsp",
+          "fennel seeds": "1 tsp",
+          "cloves": "4",
+          "cinnamon stick": "1"
+        },
+        "other": {
+          "potatoes": "2, cubed",
+          "carrots": "2, sliced",
+          "tomatoes": "2, quartered",
+          "water": "2L",
+          "salt": "to taste"
+        }
+      },
+      "steps": [
+        "Blend spice paste ingredients until smooth. Fry in oil until fragrant.",
+        "Add mutton, brown lightly, then add water and salt. Simmer 2–3 hours until meat is tender.",
+        "Add potatoes, carrots, and tomatoes. Simmer until vegetables are cooked. Serve hot."
+      ],
+      "tips": [
+        "Use mutton with bone for richer flavor.",
+        "Serve with crusty bread or rice."
+      ],
+      "themes": [
+        "indian",
+        "heritage",
+        "main",
+        "iconic",
+        "rice",
+        "noodle",
+        "soup",
+        "vegetarian",
+        "seafood",
+        "snack",
+        "breakfast",
+        "dessert"
+      ],
+      "source": "https://www.noobcook.com/soup-kambing/",
+      "origin": "Soup Kambing is a South Indian-Muslim mutton soup, popular at Indian Muslim stalls.",
+      "imageId": "ind_005.jpeg",
+      "tags": [
+        "breakfast",
+        "carrots",
+        "dessert",
+        "heritage",
+        "iconic",
+        "indian",
+        "kambing",
+        "main",
+        "muslim",
+        "mutton",
+        "noodle",
+        "potatoes",
+        "rice",
+        "seafood",
+        "snack",
+        "soup",
+        "south",
+        "specialty",
+        "spiced",
+        "tomatoes",
+        "vegetarian"
+      ],
+      "cost": {
+        "total_sgd": 88.8,
+        "ingredients_sgd": 88.77,
+        "energy_sgd": 0.03,
+        "per_serving_sgd": 14.8,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "mutton bones and meat",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cm"
+          },
+          {
+            "ingredient": "coriander powder",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "cumin powder",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "fennel seeds",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "cloves",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cinnamon stick",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "potatoes",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 1.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "carrots",
+            "cost_sgd": 1.6,
+            "emissions_kgco2e": 1.6,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tomatoes",
+            "cost_sgd": 1.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "l"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 9.141,
+        "ingredients_kgco2e": 9.1,
+        "energy_kgco2e": 0.041,
+        "per_serving_kgco2e": 1.523
+      }
+    },
+    {
+      "id": "ind_006",
+      "name": "Soup Tulang",
+      "difficulty": "Hard",
+      "prep_time": "1 hour",
+      "cook_time": "3 hours",
+      "servings": 6.0,
+      "description": "Spicy mutton bone marrow stew in a bright red, sweet-spicy sauce, a Singapore Indian-Muslim specialty.",
+      "ingredients": {
+        "mutton bones": {
+          "mutton bones with marrow": "2kg, cut into large pieces"
+        },
+        "spice paste": {
+          "shallots": "8",
+          "garlic": "4 cloves",
+          "ginger": "2cm, sliced",
+          "chili paste": "4 tbsp",
+          "coriander powder": "1 tbsp",
+          "cumin powder": "1 tbsp",
+          "fennel seeds": "1 tsp",
+          "cloves": "4",
+          "cinnamon stick": "1"
+        },
+        "other": {
+          "tomato ketchup": "4 tbsp",
+          "sugar": "2 tbsp",
+          "salt": "to taste",
+          "water": "2L"
+        }
+      },
+      "steps": [
+        "Blend spice paste ingredients until smooth. Fry in oil until fragrant.",
+        "Add mutton bones, brown lightly, then add water, ketchup, sugar, and salt. Simmer 2–3 hours until meat is tender and sauce is thick and red.",
+        "Serve with bread to soak up the sauce."
+      ],
+      "tips": [
+        "Use a straw to suck out the marrow.",
+        "Add more chili for extra heat."
+      ],
+      "themes": [
+        "indian",
+        "heritage",
+        "main",
+        "iconic",
+        "rice",
+        "noodle",
+        "soup",
+        "vegetarian",
+        "seafood",
+        "snack",
+        "breakfast",
+        "dessert"
+      ],
+      "source": "https://www.noobcook.com/soup-tulang/",
+      "origin": "Soup Tulang is a Singapore Indian-Muslim creation, famous at Golden Mile Food Centre.",
+      "imageId": "ind_006.jpeg",
+      "tags": [
+        "bone",
+        "breakfast",
+        "bright",
+        "dessert",
+        "heritage",
+        "iconic",
+        "indian",
+        "main",
+        "marrow",
+        "muslim",
+        "mutton",
+        "noodle",
+        "red",
+        "rice",
+        "sauce",
+        "seafood",
+        "singapore",
+        "snack",
+        "soup",
+        "specialty",
+        "spicy",
+        "stew",
+        "sweet",
+        "tulang",
+        "vegetarian"
+      ],
+      "cost": {
+        "total_sgd": 93.22,
+        "ingredients_sgd": 93.19,
+        "energy_sgd": 0.03,
+        "per_serving_sgd": 15.54,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "mutton bones with marrow",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cm"
+          },
+          {
+            "ingredient": "chili paste",
+            "cost_sgd": 0.53,
+            "emissions_kgco2e": 0.12,
+            "amount": 4.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "coriander powder",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "cumin powder",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "fennel seeds",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "cloves",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cinnamon stick",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tomato ketchup",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "l"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 6.691,
+        "ingredients_kgco2e": 6.65,
+        "energy_kgco2e": 0.041,
+        "per_serving_kgco2e": 1.115
+      }
+    },
+    {
+      "id": "ind_007",
+      "name": "Chicken Briyani",
+      "difficulty": "Hard",
+      "prep_time": "1 hour",
+      "cook_time": "1.5 hours",
+      "servings": 8.0,
+      "description": "Fragrant basmati rice cooked with spiced chicken, saffron, and ghee, a festive Indian-Muslim dish.",
+      "ingredients": {
+        "chicken marinade": {
+          "chicken, cut into pieces": "1.5kg",
+          "yogurt": "200ml",
+          "ginger-garlic paste": "2 tbsp",
+          "briyani spice mix": "3 tbsp",
+          "chilli powder": "1 tbsp",
+          "turmeric powder": "1 tsp",
+          "salt": "1 tsp"
+        },
+        "rice": {
+          "basmati rice": "1kg, rinsed and soaked 30 min",
+          "ghee": "4 tbsp",
+          "onion, sliced": "2",
+          "whole spices (cinnamon, cardamom, cloves, bay leaf)": "1 tbsp",
+          "saffron strands": "a pinch, soaked in 2 tbsp warm milk",
+          "water": "1.5L",
+          "salt": "to taste"
+        },
+        "other": {
+          "fried shallots": "for garnish",
+          "coriander leaves": "for garnish"
+        }
+      },
+      "steps": [
+        "Marinate chicken with marinade ingredients for at least 1 hour.",
+        "Fry onions and whole spices in ghee until fragrant. Add marinated chicken, cook until just done.",
+        "Boil rice in salted water until 70% cooked. Drain.",
+        "Layer chicken and rice in a pot. Drizzle saffron milk, top with fried shallots and coriander.",
+        "Cover and cook on low heat (dum) for 30–40 minutes. Serve hot."
+      ],
+      "tips": [
+        "Use good quality basmati rice for best results.",
+        "Let briyani rest 10 minutes before serving."
+      ],
+      "themes": [
+        "indian",
+        "heritage",
+        "main",
+        "iconic",
+        "rice",
+        "noodle",
+        "soup",
+        "vegetarian",
+        "seafood",
+        "snack",
+        "breakfast",
+        "dessert"
+      ],
+      "source": "https://www.noobcook.com/chicken-biryani/",
+      "origin": "A festive Indian-Muslim dish, popular at weddings and special occasions in Singapore.",
+      "imageId": "ind_007.jpeg",
+      "tags": [
+        "basmati",
+        "breakfast",
+        "briyani",
+        "chicken",
+        "cooked",
+        "dessert",
+        "dish",
+        "festive",
+        "fragrant",
+        "ghee",
+        "heritage",
+        "iconic",
+        "indian",
+        "main",
+        "muslim",
+        "noodle",
+        "rice",
+        "saffron",
+        "seafood",
+        "snack",
+        "soup",
+        "spiced",
+        "vegetarian"
+      ],
+      "cost": {
+        "total_sgd": 36.96,
+        "ingredients_sgd": 36.95,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 4.62,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "chicken, cut into pieces",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 9.0,
+            "amount": 1.5,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "yogurt",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "ginger-garlic paste",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.045,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "briyani spice mix",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chilli powder",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "turmeric powder",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "basmati rice",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "ghee",
+            "cost_sgd": 0.48,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "onion, sliced",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "whole spices (cinnamon, cardamom, cloves, bay leaf)",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "saffron strands",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "l"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fried shallots",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "coriander leaves",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 16.461,
+        "ingredients_kgco2e": 16.447,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 2.058
+      }
+    },
+    {
+      "id": "ind_008",
+      "name": "Lamb Briyani",
+      "difficulty": "Hard",
+      "prep_time": "1 hour",
+      "cook_time": "2 hours",
+      "servings": 8.0,
+      "description": "Fragrant basmati rice cooked with spiced lamb, saffron, and ghee, a festive Indian-Muslim dish.",
+      "ingredients": {
+        "lamb marinade": {
+          "lamb, cut into chunks": "1.5kg",
+          "yogurt": "200ml",
+          "ginger-garlic paste": "2 tbsp",
+          "briyani spice mix": "3 tbsp",
+          "chilli powder": "1 tbsp",
+          "turmeric powder": "1 tsp",
+          "salt": "1 tsp"
+        },
+        "rice": {
+          "basmati rice": "1kg, rinsed and soaked 30 min",
+          "ghee": "4 tbsp",
+          "onion, sliced": "2",
+          "whole spices (cinnamon, cardamom, cloves, bay leaf)": "1 tbsp",
+          "saffron strands": "a pinch, soaked in 2 tbsp warm milk",
+          "water": "1.5L",
+          "salt": "to taste"
+        },
+        "other": {
+          "fried shallots": "for garnish",
+          "coriander leaves": "for garnish"
+        }
+      },
+      "steps": [
+        "Marinate lamb with marinade ingredients for at least 1 hour.",
+        "Fry onions and whole spices in ghee until fragrant. Add marinated lamb, cook until just done.",
+        "Boil rice in salted water until 70% cooked. Drain.",
+        "Layer lamb and rice in a pot. Drizzle saffron milk, top with fried shallots and coriander.",
+        "Cover and cook on low heat (dum) for 45–60 minutes. Serve hot."
+      ],
+      "tips": [
+        "Use good quality basmati rice for best results.",
+        "Let briyani rest 10 minutes before serving."
+      ],
+      "themes": [
+        "indian",
+        "heritage",
+        "main",
+        "iconic",
+        "rice",
+        "noodle",
+        "soup",
+        "vegetarian",
+        "seafood",
+        "snack",
+        "breakfast",
+        "dessert"
+      ],
+      "source": "https://www.noobcook.com/lamb-biryani/",
+      "origin": "A festive Indian-Muslim dish, popular at weddings and special occasions in Singapore.",
+      "imageId": "ind_008.jpeg",
+      "tags": [
+        "basmati",
+        "breakfast",
+        "briyani",
+        "cooked",
+        "dessert",
+        "dish",
+        "festive",
+        "fragrant",
+        "ghee",
+        "heritage",
+        "iconic",
+        "indian",
+        "lamb",
+        "main",
+        "muslim",
+        "noodle",
+        "rice",
+        "saffron",
+        "seafood",
+        "snack",
+        "soup",
+        "spiced",
+        "vegetarian"
+      ],
+      "cost": {
+        "total_sgd": 61.27,
+        "ingredients_sgd": 61.25,
+        "energy_sgd": 0.02,
+        "per_serving_sgd": 7.66,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "lamb, cut into chunks",
+            "cost_sgd": 37.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "yogurt",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "ginger-garlic paste",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.045,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "briyani spice mix",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chilli powder",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "turmeric powder",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "basmati rice",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "ghee",
+            "cost_sgd": 0.48,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "onion, sliced",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "whole spices (cinnamon, cardamom, cloves, bay leaf)",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "saffron strands",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "l"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fried shallots",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "coriander leaves",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 7.475,
+        "ingredients_kgco2e": 7.447,
+        "energy_kgco2e": 0.027,
+        "per_serving_kgco2e": 0.934
+      }
+    },
+    {
+      "id": "ind_009",
+      "name": "Indian Rojak",
+      "difficulty": "Medium",
+      "prep_time": "1.5 hours",
+      "cook_time": "30 minutes",
+      "servings": 6.0,
+      "description": "Assorted fried fritters, potatoes, eggs, and vegetables served with spicy peanut sauce, a vibrant Indian-Muslim salad.",
+      "ingredients": {
+        "fritters": {
+          "plain flour": "200g",
+          "baking powder": "1 tsp",
+          "water": "200ml",
+          "salt": "1/2 tsp",
+          "sweet potato": "1, grated",
+          "onion": "1, sliced"
+        },
+        "other": {
+          "potatoes": "2, boiled and sliced",
+          "hard-boiled eggs": "4, halved",
+          "cucumber": "1, sliced",
+          "fried tofu": "200g, cubed"
+        },
+        "sauce": {
+          "peanuts": "200g, roasted and ground",
+          "chili paste": "2 tbsp",
+          "tamarind juice": "2 tbsp",
+          "sugar": "2 tbsp",
+          "water": "400ml"
+        }
+      },
+      "steps": [
+        "Mix fritter ingredients, deep-fry spoonfuls until golden. Drain.",
+        "Arrange fritters, potatoes, eggs, cucumber, and tofu on a plate.",
+        "For sauce: fry chili paste, add peanuts, tamarind, sugar, and water. Simmer until thickened. Serve with salad."
+      ],
+      "tips": [
+        "Add prawn fritters for extra flavor.",
+        "Serve sauce warm for best taste."
+      ],
+      "themes": [
+        "indian",
+        "heritage",
+        "main",
+        "iconic",
+        "rice",
+        "noodle",
+        "soup",
+        "vegetarian",
+        "seafood",
+        "snack",
+        "breakfast",
+        "dessert"
+      ],
+      "source": "https://www.noobcook.com/indian-rojak/",
+      "origin": "Indian Rojak is a vibrant salad, popular at Indian-Muslim hawker stalls.",
+      "imageId": "ind_009.jpeg",
+      "tags": [
+        "assorted",
+        "breakfast",
+        "dessert",
+        "eggs",
+        "fried",
+        "fritters",
+        "heritage",
+        "iconic",
+        "indian",
+        "main",
+        "muslim",
+        "noodle",
+        "peanut",
+        "potatoes",
+        "rice",
+        "rojak",
+        "salad",
+        "sauce",
+        "seafood",
+        "served",
+        "snack",
+        "soup",
+        "spicy",
+        "vegetables",
+        "vegetarian",
+        "vibrant"
+      ],
+      "cost": {
+        "total_sgd": 10.55,
+        "ingredients_sgd": 10.25,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 1.76,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "plain flour",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "baking powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sweet potato",
+            "cost_sgd": 0.6,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "potatoes",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 1.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "hard-boiled eggs",
+            "cost_sgd": 1.32,
+            "emissions_kgco2e": 18.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cucumber",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fried tofu",
+            "cost_sgd": 0.55,
+            "emissions_kgco2e": 0.64,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "peanuts",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "chili paste",
+            "cost_sgd": 0.26,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "tamarind juice",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 400.0,
+            "unit": "ml"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 22.338,
+        "ingredients_kgco2e": 21.93,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 3.723
+      }
+    },
+    {
+      "id": "ind_010",
+      "name": "Butter Chicken (Murgh Makhani)",
+      "category": "Indian Cuisine",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes (plus marinating)",
+      "cook_time": "40 minutes",
+      "servings": 4.0,
+      "description": "A North Indian favorite: tender chicken in a creamy, spiced tomato sauce. Served with naan or rice at Indian restaurants in Singapore.",
+      "ingredients": {
+        "Main": {
+          "chicken thigh (boneless)": "500g, cut into chunks",
+          "yogurt": "100g",
+          "lemon juice": "1 tbsp",
+          "ginger-garlic paste": "2 tbsp",
+          "garam masala": "2 tsp",
+          "chili powder": "1 tsp",
+          "turmeric": "1/2 tsp",
+          "salt": "1 tsp",
+          "butter": "50g",
+          "onion": "1, chopped",
+          "tomato puree": "200g",
+          "cream": "100ml",
+          "sugar": "1 tsp",
+          "coriander leaves": "for garnish"
+        }
+      },
+      "preparation": [
+        "Marinate chicken with yogurt, lemon, ginger-garlic, and spices for at least 2 hours.",
+        "Grill or pan-fry chicken until browned. Set aside.",
+        "Heat butter, fry onion, add tomato puree, cook 10 minutes. Add chicken, cream, and sugar. Simmer 15 minutes. Garnish with coriander."
+      ],
+      "tips": [
+        "Marinate overnight for best flavor.",
+        "Add a pinch of kasuri methi (dried fenugreek) for aroma."
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": "22g",
+        "carbohydrates": "10g",
+        "fat": "22g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Indian restaurants.",
+      "imageId": "ind_010.jpeg",
+      "steps": [
+        "Marinate chicken with yogurt, lemon, ginger-garlic, and spices for at least 2 hours.",
+        "Grill or pan-fry chicken until browned. Set aside.",
+        "Heat butter, fry onion, add tomato puree, cook 10 minutes. Add chicken, cream, and sugar. Simmer 15 minutes. Garnish with coriander."
+      ],
+      "tags": [
+        "butter",
+        "chicken",
+        "creamy",
+        "favorite",
+        "indian",
+        "indian cuisine",
+        "makhani",
+        "murgh",
+        "naan",
+        "north",
+        "restaurants",
+        "rice",
+        "sauce",
+        "served",
+        "singapore",
+        "spiced",
+        "tender",
+        "tomato"
+      ],
+      "cost": {
+        "total_sgd": 17.05,
+        "ingredients_sgd": 16.65,
+        "energy_sgd": 0.4,
+        "per_serving_sgd": 4.26,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "chicken thigh (boneless)",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 3.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "yogurt",
+            "cost_sgd": 0.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "lemon juice",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "ginger-garlic paste",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.045,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "garam masala",
+            "cost_sgd": 0.08,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "chili powder",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.01,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "turmeric",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "butter",
+            "cost_sgd": 0.17,
+            "emissions_kgco2e": 0.6,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tomato puree",
+            "cost_sgd": 0.14,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "cream",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "coriander leaves",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 5.406,
+        "ingredients_kgco2e": 4.862,
+        "energy_kgco2e": 0.544,
+        "per_serving_kgco2e": 1.352
+      }
+    },
+    {
+      "id": "ind_018",
+      "name": "Chicken Tandoori",
+      "category": "Indian Cuisine",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes (plus marinating)",
+      "cook_time": "40 minutes",
+      "servings": 4.0,
+      "description": "A classic North Indian grilled chicken, marinated in yogurt and spices, cooked in a tandoor or oven. Juicy, smoky, and deeply flavorful. Popular at Indian restaurants and mamak stalls in Singapore.",
+      "ingredients": {
+        "Main": {
+          "chicken (bone-in pieces)": "800g",
+          "yogurt": "150g",
+          "lemon juice": "2 tbsp",
+          "ginger-garlic paste": "2 tbsp",
+          "tandoori masala": "2 tbsp",
+          "chili powder": "1 tsp",
+          "turmeric": "1/2 tsp",
+          "garam masala": "1 tsp",
+          "salt": "1 tsp",
+          "oil": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Score chicken pieces. Mix all marinade ingredients and coat chicken well. Marinate at least 4 hours or overnight.",
+        "Preheat oven or grill to high. Place chicken on rack and roast 30–40 minutes, turning once, until cooked and slightly charred.",
+        "Serve hot with lemon wedges and naan."
+      ],
+      "tips": [
+        "Marinate overnight for best flavor.",
+        "Use a charcoal grill for authentic smokiness."
+      ],
+      "nutrition": {
+        "calories": 260,
+        "protein": "28g",
+        "carbohydrates": "4g",
+        "fat": "14g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Indian restaurants.",
+      "imageId": "ind_018.jpeg",
+      "steps": [
+        "Score chicken pieces. Mix all marinade ingredients and coat chicken well. Marinate at least 4 hours or overnight.",
+        "Preheat oven or grill to high. Place chicken on rack and roast 30–40 minutes, turning once, until cooked and slightly charred.",
+        "Serve hot with lemon wedges and naan."
+      ],
+      "tags": [
+        "chicken",
+        "classic",
+        "cooked",
+        "deeply",
+        "flavorful",
+        "grilled",
+        "indian",
+        "indian cuisine",
+        "juicy",
+        "mamak",
+        "marinated",
+        "north",
+        "oven",
+        "popular",
+        "restaurants",
+        "singapore",
+        "smoky",
+        "spices",
+        "stalls",
+        "tandoor",
+        "tandoori",
+        "yogurt"
+      ],
+      "cost": {
+        "total_sgd": 15.02,
+        "ingredients_sgd": 14.62,
+        "energy_sgd": 0.4,
+        "per_serving_sgd": 3.76,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "chicken (bone-in pieces)",
+            "cost_sgd": 7.04,
+            "emissions_kgco2e": 4.8,
+            "amount": 800.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "yogurt",
+            "cost_sgd": 0.9,
+            "emissions_kgco2e": 0.0,
+            "amount": 150.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "lemon juice",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "ginger-garlic paste",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.045,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "tandoori masala",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chili powder",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.01,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "turmeric",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garam masala",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 5.582,
+        "ingredients_kgco2e": 5.038,
+        "energy_kgco2e": 0.544,
+        "per_serving_kgco2e": 1.395
+      }
+    },
+    {
+      "id": "ind_012",
+      "name": "Idli with Sambar",
+      "category": "Indian Cuisine",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes (plus soaking and fermenting)",
+      "cook_time": "40 minutes",
+      "servings": 6.0,
+      "description": "A South Indian breakfast staple: steamed rice cakes (idli) served with spicy lentil-vegetable stew (sambar). Popular at Indian restaurants and hawker stalls in Singapore.",
+      "ingredients": {
+        "Main": {
+          "rice": "200g",
+          "urad dal (black gram)": "80g",
+          "fenugreek seeds": "1/2 tsp",
+          "salt": "1 tsp",
+          "water": "as needed",
+          "oil": "for greasing",
+          "toor dal (split pigeon peas)": "100g",
+          "mixed vegetables": "200g (carrot, drumstick, eggplant, etc.)",
+          "onion": "1, chopped",
+          "tomato": "1, chopped",
+          "sambar powder": "2 tbsp",
+          "mustard seeds": "1 tsp",
+          "curry leaves": "10",
+          "tamarind paste": "1 tbsp",
+          "turmeric": "1/2 tsp",
+          "chili powder": "1/2 tsp",
+          "salt (for sambar)": "to taste"
+        }
+      },
+      "preparation": [
+        "Soak rice, dal, and fenugreek 4–6 hours. Grind to a smooth batter, ferment overnight. Add salt. Pour into greased molds, steam 10–12 minutes for idli.",
+        "Cook toor dal until soft. Fry mustard seeds, curry leaves, onion, and tomato. Add vegetables, sambar powder, turmeric, chili, and salt. Add dal, tamarind, simmer 15 minutes. Serve idli with sambar."
+      ],
+      "tips": [
+        "Ferment batter in a warm place for best results.",
+        "Add ghee to sambar for extra aroma."
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": "6g",
+        "carbohydrates": "36g",
+        "fat": "1g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Indian restaurants.",
+      "imageId": "ind_012.jpeg",
+      "steps": [
+        "Soak rice, dal, and fenugreek 4–6 hours. Grind to a smooth batter, ferment overnight. Add salt. Pour into greased molds, steam 10–12 minutes for idli.",
+        "Cook toor dal until soft. Fry mustard seeds, curry leaves, onion, and tomato. Add vegetables, sambar powder, turmeric, chili, and salt. Add dal, tamarind, simmer 15 minutes. Serve idli with sambar."
+      ],
+      "tags": [
+        "breakfast",
+        "cakes",
+        "hawker",
+        "idli",
+        "indian",
+        "indian cuisine",
+        "lentil",
+        "popular",
+        "restaurants",
+        "rice",
+        "sambar",
+        "served",
+        "singapore",
+        "south",
+        "spicy",
+        "stalls",
+        "staple",
+        "steamed",
+        "stew",
+        "vegetable"
+      ],
+      "cost": {
+        "total_sgd": 113.77,
+        "ingredients_sgd": 113.37,
+        "energy_sgd": 0.4,
+        "per_serving_sgd": 18.96,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.9,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "urad dal (black gram)",
+            "cost_sgd": 0.64,
+            "emissions_kgco2e": 0.0,
+            "amount": 80.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "fenugreek seeds",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "toor dal (split pigeon peas)",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "mixed vegetables",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.4,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tomato",
+            "cost_sgd": 0.7,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sambar powder",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "mustard seeds",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "curry leaves",
+            "cost_sgd": 80.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 10.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tamarind paste",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "turmeric",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "chili powder",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt (for sambar)",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 11.546,
+        "ingredients_kgco2e": 11.002,
+        "energy_kgco2e": 0.544,
+        "per_serving_kgco2e": 1.924
+      }
+    },
+    {
+      "id": "ind_013",
+      "name": "Naan (Indian Leavened Flatbread)",
+      "category": "Indian Cuisine",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes (plus rising)",
+      "cook_time": "20 minutes",
+      "servings": 6.0,
+      "description": "A classic Indian leavened flatbread, soft and fluffy with a slight char, perfect for pairing with curries. Popular at Indian restaurants and mamak stalls in Singapore.",
+      "ingredients": {
+        "Main": {
+          "all-purpose flour": "400g",
+          "yogurt": "100g",
+          "warm water": "120ml (as needed)",
+          "instant yeast": "1 tsp",
+          "sugar": "1 tbsp",
+          "salt": "1 tsp",
+          "ghee or oil": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Mix flour, yeast, sugar, and salt. Add yogurt and water to form a soft dough. Knead 10 minutes.",
+        "Cover and let rise 1 hour until doubled.",
+        "Divide into balls, roll out, and cook on a hot skillet or tandoor until puffed and charred. Brush with ghee. Serve hot."
+      ],
+      "tips": [
+        "Add garlic or butter for variation.",
+        "Use a cast iron pan for best results if no tandoor."
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": "5g",
+        "carbohydrates": "32g",
+        "fat": "3g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Indian restaurants.",
+      "imageId": "ind_013.jpeg",
+      "steps": [
+        "Mix flour, yeast, sugar, and salt. Add yogurt and water to form a soft dough. Knead 10 minutes.",
+        "Cover and let rise 1 hour until doubled.",
+        "Divide into balls, roll out, and cook on a hot skillet or tandoor until puffed and charred. Brush with ghee. Serve hot."
+      ],
+      "tags": [
+        "char",
+        "classic",
+        "curries",
+        "flatbread",
+        "fluffy",
+        "indian",
+        "indian cuisine",
+        "leavened",
+        "mamak",
+        "naan",
+        "pairing",
+        "perfect",
+        "popular",
+        "restaurants",
+        "singapore",
+        "slight",
+        "soft",
+        "stalls"
+      ],
+      "cost": {
+        "total_sgd": 1.97,
+        "ingredients_sgd": 1.77,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 0.33,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "all-purpose flour",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "yogurt",
+            "cost_sgd": 0.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "warm water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 120.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "instant yeast",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "ghee or oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 0.469,
+        "ingredients_kgco2e": 0.197,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.078
+      }
+    },
+    {
+      "id": "ind_014",
+      "name": "Palak Paneer",
+      "category": "Indian Cuisine",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "30 minutes",
+      "servings": 4.0,
+      "description": "A North Indian vegetarian classic: paneer cubes simmered in a creamy spinach gravy. Served with naan or rice at Indian restaurants in Singapore.",
+      "ingredients": {
+        "Main": {
+          "spinach": "400g, blanched and pureed",
+          "paneer": "250g, cubed",
+          "onion": "1, chopped",
+          "tomato": "1, chopped",
+          "ginger-garlic paste": "1 tbsp",
+          "green chili": "1, chopped",
+          "cumin seeds": "1 tsp",
+          "garam masala": "1 tsp",
+          "turmeric": "1/2 tsp",
+          "chili powder": "1/2 tsp",
+          "cream": "2 tbsp",
+          "oil or ghee": "2 tbsp",
+          "salt": "to taste"
+        }
+      },
+      "preparation": [
+        "Heat oil/ghee, fry cumin, onion, ginger-garlic, and chili. Add tomato, cook until soft. Add spinach puree, spices, and salt. Simmer 10 minutes.",
+        "Add paneer, cook 5 minutes. Stir in cream. Serve hot with naan or rice."
+      ],
+      "tips": [
+        "Use fresh spinach for best flavor.",
+        "Add a squeeze of lemon for brightness."
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": "8g",
+        "carbohydrates": "10g",
+        "fat": "12g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Indian restaurants.",
+      "imageId": "ind_014.jpeg",
+      "steps": [
+        "Heat oil/ghee, fry cumin, onion, ginger-garlic, and chili. Add tomato, cook until soft. Add spinach puree, spices, and salt. Simmer 10 minutes.",
+        "Add paneer, cook 5 minutes. Stir in cream. Serve hot with naan or rice."
+      ],
+      "tags": [
+        "classic",
+        "creamy",
+        "cubes",
+        "gravy",
+        "indian",
+        "indian cuisine",
+        "naan",
+        "north",
+        "palak",
+        "paneer",
+        "restaurants",
+        "rice",
+        "served",
+        "simmered",
+        "singapore",
+        "spinach",
+        "vegetarian"
+      ],
+      "cost": {
+        "total_sgd": 31.22,
+        "ingredients_sgd": 30.92,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 7.81,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "spinach",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "paneer",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 250.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tomato",
+            "cost_sgd": 0.7,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ginger-garlic paste",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.022,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "green chili",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cumin seeds",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "garam masala",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "turmeric",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "chili powder",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cream",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil or ghee",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 6.311,
+        "ingredients_kgco2e": 5.902,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 1.578
+      }
+    },
+    {
+      "id": "ind_015",
+      "name": "Pani Puri",
+      "category": "Indian Cuisine",
+      "difficulty": "Medium",
+      "prep_time": "40 minutes",
+      "cook_time": "20 minutes",
+      "servings": 8.0,
+      "description": "A popular Indian street snack: crisp puris filled with spicy, tangy water, potatoes, and chickpeas. Enjoyed at Indian restaurants and food stalls in Singapore.",
+      "ingredients": {
+        "Main": {
+          "semolina": "100g",
+          "plain flour": "50g",
+          "baking soda": "1/4 tsp",
+          "water": "as needed",
+          "oil": "for frying",
+          "boiled potatoes": "2, mashed",
+          "boiled chickpeas": "100g",
+          "tamarind paste": "2 tbsp",
+          "mint leaves": "1/2 cup",
+          "coriander leaves": "1/2 cup",
+          "green chili": "1",
+          "cumin powder": "1 tsp",
+          "black salt": "1/2 tsp",
+          "chili powder": "1/2 tsp",
+          "sugar": "1 tsp"
+        }
+      },
+      "preparation": [
+        "Mix semolina, flour, baking soda, and water to form a stiff dough. Rest 30 minutes. Roll thin, cut circles, fry until puffed and crisp.",
+        "Blend mint, coriander, green chili, tamarind, cumin, black salt, chili powder, sugar, and water to make pani (spiced water).",
+        "Fill puris with potato, chickpeas, and pour in pani. Serve immediately."
+      ],
+      "tips": [
+        "Serve puris fresh for maximum crispness.",
+        "Adjust pani spice and tang to taste."
+      ],
+      "nutrition": {
+        "calories": 90,
+        "protein": "2g",
+        "carbohydrates": "18g",
+        "fat": "1g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Indian restaurants.",
+      "imageId": "ind_015.jpeg",
+      "steps": [
+        "Mix semolina, flour, baking soda, and water to form a stiff dough. Rest 30 minutes. Roll thin, cut circles, fry until puffed and crisp.",
+        "Blend mint, coriander, green chili, tamarind, cumin, black salt, chili powder, sugar, and water to make pani (spiced water).",
+        "Fill puris with potato, chickpeas, and pour in pani. Serve immediately."
+      ],
+      "tags": [
+        "chickpeas",
+        "crisp",
+        "enjoyed",
+        "filled",
+        "food",
+        "indian",
+        "indian cuisine",
+        "pani",
+        "popular",
+        "potatoes",
+        "puri",
+        "puris",
+        "restaurants",
+        "singapore",
+        "snack",
+        "spicy",
+        "stalls",
+        "street",
+        "tangy",
+        "water"
+      ],
+      "cost": {
+        "total_sgd": 31.85,
+        "ingredients_sgd": 31.65,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 3.98,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "semolina",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "plain flour",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "baking soda",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "boiled potatoes",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 1.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "boiled chickpeas",
+            "cost_sgd": 0.35,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "tamarind paste",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "mint leaves",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "coriander leaves",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "green chili",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cumin powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "black salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "chili powder",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 11.777,
+        "ingredients_kgco2e": 11.505,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 1.472
+      }
+    },
+    {
+      "id": "ind_016",
+      "name": "Samosa",
+      "category": "Indian Cuisine",
+      "difficulty": "Medium",
+      "prep_time": "40 minutes",
+      "cook_time": "30 minutes",
+      "servings": 10.0,
+      "description": "A classic Indian snack: crisp pastry filled with spiced potatoes and peas, deep-fried until golden. Popular at Indian restaurants and snack stalls in Singapore.",
+      "ingredients": {
+        "Main": {
+          "plain flour": "250g",
+          "oil": "2 tbsp (plus more for frying)",
+          "salt": "1/2 tsp",
+          "water": "as needed",
+          "potatoes": "3, boiled and mashed",
+          "green peas": "100g",
+          "onion": "1, chopped",
+          "ginger": "1 tsp, grated",
+          "green chili": "1, chopped",
+          "cumin seeds": "1 tsp",
+          "garam masala": "1 tsp",
+          "turmeric": "1/2 tsp",
+          "chili powder": "1/2 tsp",
+          "coriander leaves": "2 tbsp, chopped"
+        }
+      },
+      "preparation": [
+        "Mix flour, salt, oil, and water to form a stiff dough. Rest 30 minutes.",
+        "Fry cumin seeds, onion, ginger, and chili. Add potatoes, peas, spices, and coriander. Cool filling.",
+        "Roll dough, cut into circles, fill with potato mixture, fold into triangles. Fry until golden."
+      ],
+      "tips": [
+        "Seal edges well to prevent leaks.",
+        "Serve with mint or tamarind chutney."
+      ],
+      "nutrition": {
+        "calories": 110,
+        "protein": "3g",
+        "carbohydrates": "20g",
+        "fat": "2g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Indian kitchens.",
+      "imageId": "ind_016.jpeg",
+      "steps": [
+        "Mix flour, salt, oil, and water to form a stiff dough. Rest 30 minutes.",
+        "Fry cumin seeds, onion, ginger, and chili. Add potatoes, peas, spices, and coriander. Cool filling.",
+        "Roll dough, cut into circles, fill with potato mixture, fold into triangles. Fry until golden."
+      ],
+      "tags": [
+        "classic",
+        "crisp",
+        "deep",
+        "filled",
+        "fried",
+        "golden",
+        "indian",
+        "indian cuisine",
+        "pastry",
+        "peas",
+        "popular",
+        "potatoes",
+        "restaurants",
+        "samosa",
+        "singapore",
+        "snack",
+        "spiced",
+        "stalls"
+      ],
+      "cost": {
+        "total_sgd": 30.7,
+        "ingredients_sgd": 30.4,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 3.07,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "plain flour",
+            "cost_sgd": 0.62,
+            "emissions_kgco2e": 0.0,
+            "amount": 250.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "potatoes",
+            "cost_sgd": 1.8,
+            "emissions_kgco2e": 1.5,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "green peas",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "green chili",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cumin seeds",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "garam masala",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "turmeric",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "chili powder",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "coriander leaves",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 7.788,
+        "ingredients_kgco2e": 7.38,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 0.779
+      }
+    },
+    {
+      "id": "ind_017",
+      "name": "Satti Sorru (Claypot Rice)",
+      "category": "Indian Cuisine",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "1 hour",
+      "servings": 6.0,
+      "description": "A South Indian specialty: rice cooked in a claypot with mutton, spices, and herbs. Fragrant, spicy, and deeply flavorful. Popular at Indian restaurants and food stalls in Singapore.",
+      "ingredients": {
+        "Main": {
+          "basmati rice": "300g, rinsed",
+          "mutton (or chicken)": "400g, cut into pieces",
+          "onion": "2, sliced",
+          "tomato": "2, chopped",
+          "ginger-garlic paste": "2 tbsp",
+          "green chili": "2, sliced",
+          "curry leaves": "10",
+          "coriander powder": "2 tsp",
+          "chili powder": "1 tsp",
+          "turmeric": "1/2 tsp",
+          "garam masala": "1 tsp",
+          "coconut milk": "200ml",
+          "water": "400ml",
+          "oil": "2 tbsp",
+          "salt": "to taste"
+        }
+      },
+      "preparation": [
+        "Heat oil, fry onion, ginger-garlic, and chili. Add mutton, brown well. Add tomato, spices, curry leaves, and salt. Add rice, coconut milk, and water. Cover and cook on low heat until rice and meat are tender. Serve hot."
+      ],
+      "tips": [
+        "Use a heavy claypot for best results.",
+        "Add mint and coriander for extra aroma."
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": "18g",
+        "carbohydrates": "60g",
+        "fat": "12g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Indian restaurants.",
+      "imageId": "ind_017.jpeg",
+      "steps": [
+        "Heat oil, fry onion, ginger-garlic, and chili. Add mutton, brown well. Add tomato, spices, curry leaves, and salt. Add rice, coconut milk, and water. Cover and cook on low heat until rice and meat are tender. Serve hot."
+      ],
+      "tags": [
+        "claypot",
+        "cooked",
+        "deeply",
+        "flavorful",
+        "food",
+        "fragrant",
+        "herbs",
+        "indian",
+        "indian cuisine",
+        "mutton",
+        "popular",
+        "restaurants",
+        "rice",
+        "satti",
+        "singapore",
+        "sorru",
+        "south",
+        "specialty",
+        "spices",
+        "spicy",
+        "stalls"
+      ],
+      "cost": {
+        "total_sgd": 115.56,
+        "ingredients_sgd": 115.55,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 19.26,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "basmati rice",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 1.35,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "mutton (or chicken)",
+            "cost_sgd": 3.52,
+            "emissions_kgco2e": 2.4,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "onion",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tomato",
+            "cost_sgd": 1.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ginger-garlic paste",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.045,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "green chili",
+            "cost_sgd": 17.6,
+            "emissions_kgco2e": 4.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "curry leaves",
+            "cost_sgd": 80.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 10.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "coriander powder",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "chili powder",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.01,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "turmeric",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garam masala",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.38,
+            "amount": 200.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 400.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 11.279,
+        "ingredients_kgco2e": 11.265,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 1.88
+      }
+    },
+    {
+      "id": "ind_019",
+      "name": "Thosai (Dosa)",
+      "category": "Indian Cuisine",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes (plus soaking and fermenting)",
+      "cook_time": "20 minutes",
+      "servings": 6.0,
+      "description": "A classic South Indian crepe made from fermented rice and urad dal batter. Crispy, tangy, and served with chutney and sambar. Popular at Indian restaurants and hawker stalls in Singapore.",
+      "ingredients": {
+        "Main": {
+          "rice": "200g",
+          "urad dal (black gram)": "80g",
+          "fenugreek seeds": "1/2 tsp",
+          "salt": "1 tsp",
+          "water": "as needed",
+          "oil or ghee": "for cooking"
+        }
+      },
+      "preparation": [
+        "Soak rice, dal, and fenugreek 4–6 hours. Grind to a smooth batter, add water as needed. Ferment overnight.",
+        "Add salt. Heat a nonstick pan, pour batter, spread thin. Drizzle oil/ghee, cook until crisp. Serve with chutney and sambar."
+      ],
+      "tips": [
+        "Ferment batter in a warm place for best results.",
+        "Add a little cooked rice for a softer texture."
+      ],
+      "nutrition": {
+        "calories": 120,
+        "protein": "4g",
+        "carbohydrates": "24g",
+        "fat": "1g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Indian restaurants.",
+      "imageId": "ind_019.jpeg",
+      "steps": [
+        "Soak rice, dal, and fenugreek 4–6 hours. Grind to a smooth batter, add water as needed. Ferment overnight.",
+        "Add salt. Heat a nonstick pan, pour batter, spread thin. Drizzle oil/ghee, cook until crisp. Serve with chutney and sambar."
+      ],
+      "tags": [
+        "batter",
+        "chutney",
+        "classic",
+        "crepe",
+        "crispy",
+        "dal",
+        "dosa",
+        "fermented",
+        "hawker",
+        "indian",
+        "indian cuisine",
+        "made",
+        "popular",
+        "restaurants",
+        "rice",
+        "sambar",
+        "served",
+        "singapore",
+        "south",
+        "stalls",
+        "tangy",
+        "thosai",
+        "urad"
+      ],
+      "cost": {
+        "total_sgd": 13.69,
+        "ingredients_sgd": 13.49,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 2.28,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.9,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "urad dal (black gram)",
+            "cost_sgd": 0.64,
+            "emissions_kgco2e": 0.0,
+            "amount": 80.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "fenugreek seeds",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil or ghee",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 7.175,
+        "ingredients_kgco2e": 6.902,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 1.196
+      }
+    },
+    {
+      "id": "ind_011",
+      "name": "Dum Briyani (Biryani)",
+      "category": "Indian Cuisine",
+      "difficulty": "Hard",
+      "prep_time": "1 hour (plus marinating)",
+      "cook_time": "1 hour",
+      "servings": 8.0,
+      "description": "A festive Indian rice dish: fragrant basmati rice layered with spiced mutton or chicken, cooked on dum (sealed pot). Served at weddings, festivals, and Indian restaurants in Singapore.",
+      "ingredients": {
+        "Main": {
+          "basmati rice": "500g, rinsed",
+          "mutton or chicken": "800g, cut into pieces",
+          "yogurt": "150g",
+          "ginger-garlic paste": "3 tbsp",
+          "onion": "3, sliced",
+          "tomato": "2, chopped",
+          "mint leaves": "1/2 cup",
+          "coriander leaves": "1/2 cup",
+          "biryani masala": "2 tbsp",
+          "chili powder": "2 tsp",
+          "turmeric": "1 tsp",
+          "garam masala": "1 tsp",
+          "saffron": "a pinch (soaked in 2 tbsp milk)",
+          "ghee or oil": "4 tbsp",
+          "salt": "to taste"
+        }
+      },
+      "preparation": [
+        "Marinate meat with yogurt, ginger-garlic, spices, and salt for 2 hours. Fry onions until golden. Layer rice, meat, onions, mint, and coriander in a heavy pot. Drizzle saffron milk and ghee. Seal pot, cook on low heat 1 hour. Serve hot."
+      ],
+      "tips": [
+        "Use a heavy-bottomed pot for even cooking.",
+        "Let biryani rest 10 minutes before serving."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": "22g",
+        "carbohydrates": "80g",
+        "fat": "14g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Indian restaurants.",
+      "imageId": "ind_011.jpeg",
+      "steps": [
+        "Marinate meat with yogurt, ginger-garlic, spices, and salt for 2 hours. Fry onions until golden. Layer rice, meat, onions, mint, and coriander in a heavy pot. Drizzle saffron milk and ghee. Seal pot, cook on low heat 1 hour. Serve hot."
+      ],
+      "tags": [
+        "basmati",
+        "biryani",
+        "briyani",
+        "chicken",
+        "cooked",
+        "dish",
+        "dum",
+        "festivals",
+        "festive",
+        "fragrant",
+        "indian",
+        "indian cuisine",
+        "layered",
+        "mutton",
+        "pot",
+        "restaurants",
+        "rice",
+        "sealed",
+        "served",
+        "singapore",
+        "spiced",
+        "weddings"
+      ],
+      "cost": {
+        "total_sgd": 31.11,
+        "ingredients_sgd": 31.1,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 3.89,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "basmati rice",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 2.25,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "mutton or chicken",
+            "cost_sgd": 7.04,
+            "emissions_kgco2e": 4.8,
+            "amount": 800.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "yogurt",
+            "cost_sgd": 0.9,
+            "emissions_kgco2e": 0.0,
+            "amount": 150.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "ginger-garlic paste",
+            "cost_sgd": 0.3,
+            "emissions_kgco2e": 0.068,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "onion",
+            "cost_sgd": 6.6,
+            "emissions_kgco2e": 3.6,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tomato",
+            "cost_sgd": 1.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "mint leaves",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "coriander leaves",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "biryani masala",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chili powder",
+            "cost_sgd": 0.09,
+            "emissions_kgco2e": 0.02,
+            "amount": 2.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "turmeric",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "garam masala",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "saffron",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ghee or oil",
+            "cost_sgd": 0.26,
+            "emissions_kgco2e": 0.36,
+            "amount": 4.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 11.611,
+        "ingredients_kgco2e": 11.598,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 1.451
+      }
+    }
+  ]
+}

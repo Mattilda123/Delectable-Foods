@@ -1,0 +1,2465 @@
+{
+  "metadata": {
+    "category": "Soups and Stews",
+    "description": "Comforting Singaporean soups and stews, from clear broths to rich curries and herbal soups",
+    "total_recipes": 15,
+    "last_updated": "2024"
+  },
+  "recipes": [
+    {
+      "id": "sou_001",
+      "name": "Turtle Soup",
+      "difficulty": "Hard",
+      "prep_time": "1 hour",
+      "cook_time": "2 hours",
+      "servings": 4.0,
+      "description": "Traditional herbal soup made with softshell turtle meat, Chinese herbs, and wolfberries.",
+      "ingredients": {
+        "turtle": {
+          "softshell turtle meat": "1kg, cut into pieces"
+        },
+        "soup": {
+          "chicken stock": "2L",
+          "ginger": "2 thumb-sized, sliced",
+          "garlic": "2 cloves, smashed",
+          "dried scallops": "2 (optional)",
+          "Shaoxing wine": "2 tbsp",
+          "wolfberries": "2 tbsp",
+          "Chinese herbs (dang gui, yu zhu, etc.)": "2 tbsp",
+          "salt and white pepper": "to taste",
+          "spring onions": "2, chopped"
+        }
+      },
+      "steps": [
+        "Blanch turtle meat, rinse well. Place in pot with chicken stock, ginger, garlic, and herbs. Simmer 2 hours.",
+        "Add wolfberries and Shaoxing wine, simmer 10 minutes more.",
+        "Season to taste, garnish with spring onions, and serve hot."
+      ],
+      "tips": [
+        "Use fresh turtle for best results.",
+        "Adjust herbs to your preference."
+      ],
+      "themes": [
+        "soup",
+        "stew",
+        "main",
+        "iconic",
+        "heritage"
+      ],
+      "source": "https://www.noobcook.com/turtle-soup/",
+      "origin": "Turtle Soup is a traditional delicacy, found at a few specialty hawker stalls in Singapore.",
+      "imageId": "sou_001.jpeg",
+      "tags": [
+        "chinese",
+        "herbal",
+        "herbs",
+        "heritage",
+        "iconic",
+        "made",
+        "main",
+        "meat",
+        "softshell",
+        "soup",
+        "stew",
+        "traditional",
+        "turtle",
+        "wolfberries"
+      ],
+      "cost": {
+        "total_sgd": 73.52,
+        "ingredients_sgd": 73.5,
+        "energy_sgd": 0.02,
+        "per_serving_sgd": 18.38,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "softshell turtle meat",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "chicken stock",
+            "cost_sgd": 17.6,
+            "emissions_kgco2e": 12.0,
+            "amount": 2.0,
+            "unit": "l"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "thumb"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "dried scallops",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "wolfberries",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Chinese herbs (dang gui, yu zhu, etc.)",
+            "cost_sgd": 0.72,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt and white pepper",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 17.927,
+        "ingredients_kgco2e": 17.9,
+        "energy_kgco2e": 0.027,
+        "per_serving_kgco2e": 4.482
+      }
+    },
+    {
+      "id": "sou_002",
+      "name": "Bak Kut Teh (Pork Rib Tea Soup)",
+      "difficulty": "Medium",
+      "prep_time": "15 minutes",
+      "cook_time": "1 hour 30 minutes",
+      "servings": 6.0,
+      "description": "A classic Singaporean-Teochew soup of pork ribs simmered with garlic, white pepper, and a blend of Chinese herbs. Served with rice, youtiao (fried dough), and a chili-soy dip. Warming, peppery, and deeply comforting.",
+      "ingredients": {
+        "main": {
+          "pork ribs": "1 kg, with some fat marbling",
+          "water": "1.8 litres",
+          "salt": "1 1/2 tsp",
+          "dark soy sauce": "1/2 tsp",
+          "light soy sauce": "2 tbsp",
+          "old garlic cloves": "12, lightly bruised (with skin)",
+          "white pepper (whole)": "2-4 tsp, toasted and lightly crushed",
+          "black pepper (whole)": "1 tsp, toasted and lightly crushed",
+          "star anise": "2 whole",
+          "cloves": "10 whole",
+          "cinnamon stick": "1/2 stick (3-4g)"
+        },
+        "garnish/dip": {
+          "red chili": "4, sliced",
+          "dark soy sauce": "5 tbsp",
+          "light soy sauce": "3 tbsp",
+          "chili padi": "2, for garnish",
+          "youtiao (fried dough sticks)": "4, toasted and cut into bite-size pieces"
+        }
+      },
+      "preparation": [
+        "Blanch pork ribs in boiling water for 10 minutes. Discard water, scrape off any scum, rinse ribs well.",
+        "Toast white and black pepper in a dry pan until aromatic. Lightly crush with star anise, cloves, and cinnamon. Place spices in a filter bag.",
+        "In a large pot, bring 1.8L water to a boil. Add blanched pork ribs, salt, soy sauces, and spice bag. Simmer for 1 hour 15 minutes, lid half-covered.",
+        "Add bruised garlic and simmer another 15 minutes, or until ribs are tender. Adjust seasoning to taste.",
+        "Toast youtiao, cut into pieces. Mix sliced chili with soy sauces for dipping. Serve soup hot with rice, youtiao, and chili dip."
+      ],
+      "tips": [
+        "Use fresh pork ribs with some fat for best texture.",
+        "Adjust pepper to taste for a more or less peppery soup.",
+        "You can substitute chicken for pork for a halal version (reduce cooking time)."
+      ],
+      "nutrition": {
+        "calories": 337,
+        "carbohydrates": 4,
+        "protein": 33,
+        "fat": 19,
+        "saturated_fat": 3,
+        "cholesterol": 123,
+        "sodium": 1053,
+        "potassium": 576,
+        "vitamin_a": 15,
+        "vitamin_c": 2.2,
+        "calcium": 59,
+        "iron": 2.1
+      },
+      "source": "Adapted from The Burning Kitchen, Nyonya Cooking, and Serious Eats",
+      "imageId": "sou_002.jpeg",
+      "steps": [
+        "Blanch pork ribs in boiling water for 10 minutes. Discard water, scrape off any scum, rinse ribs well.",
+        "Toast white and black pepper in a dry pan until aromatic. Lightly crush with star anise, cloves, and cinnamon. Place spices in a filter bag.",
+        "In a large pot, bring 1.8L water to a boil. Add blanched pork ribs, salt, soy sauces, and spice bag. Simmer for 1 hour 15 minutes, lid half-covered.",
+        "Add bruised garlic and simmer another 15 minutes, or until ribs are tender. Adjust seasoning to taste.",
+        "Toast youtiao, cut into pieces. Mix sliced chili with soy sauces for dipping. Serve soup hot with rice, youtiao, and chili dip."
+      ],
+      "tags": [
+        "bak",
+        "blend",
+        "chili",
+        "chinese",
+        "classic",
+        "comforting",
+        "deeply",
+        "dip",
+        "dough",
+        "fried",
+        "garlic",
+        "herbs",
+        "kut",
+        "pepper",
+        "peppery",
+        "pork",
+        "rib",
+        "ribs",
+        "rice",
+        "served",
+        "simmered",
+        "singaporean",
+        "soup",
+        "soy",
+        "tea",
+        "teh",
+        "teochew",
+        "warming",
+        "white",
+        "youtiao"
+      ],
+      "cost": {
+        "total_sgd": 199.11,
+        "ingredients_sgd": 199.1,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 33.19,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork ribs",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 7.0,
+            "amount": 1.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.8,
+            "unit": "litres"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 3.3,
+            "emissions_kgco2e": 2.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "old garlic cloves",
+            "cost_sgd": 79.2,
+            "emissions_kgco2e": 18.0,
+            "amount": 12.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "white pepper (whole)",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "black pepper (whole)",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "star anise",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "whole"
+          },
+          {
+            "ingredient": "cloves",
+            "cost_sgd": 10.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 10.0,
+            "unit": "whole"
+          },
+          {
+            "ingredient": "cinnamon stick",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "red chili",
+            "cost_sgd": 35.2,
+            "emissions_kgco2e": 8.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.25,
+            "emissions_kgco2e": 0.15,
+            "amount": 5.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.15,
+            "emissions_kgco2e": 0.09,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chili padi",
+            "cost_sgd": 17.6,
+            "emissions_kgco2e": 4.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "youtiao (fried dough sticks)",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 39.814,
+        "ingredients_kgco2e": 39.8,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 6.636
+      }
+    },
+    {
+      "id": "sou_003",
+      "name": "Fish Head Curry (Singapore Style)",
+      "difficulty": "Hard",
+      "prep_time": "1 hour",
+      "cook_time": "40 minutes",
+      "servings": 4.0,
+      "description": "A signature Singaporean dish blending South Indian curry with Chinese-style fish head. Features snapper head, eggplant, okra, tomatoes, and a rich coconut-tamarind curry. Served bubbling hot with rice or roti.",
+      "ingredients": {
+        "main": {
+          "fish head (snapper or similar)": "1.2-1.5 kg, cleaned and halved",
+          "eggplant": "1 small, cut into chunks",
+          "okra": "10, halved lengthwise",
+          "roma tomatoes": "3, quartered",
+          "coconut milk": "1/2 cup",
+          "vegetable oil": "1/4 cup",
+          "yellow mustard seeds": "1 tbsp",
+          "fenugreek seeds": "2 tsp",
+          "Malaysian curry powder": "1/4 cup",
+          "lemongrass": "2 stalks, bruised and tied in a knot",
+          "curry leaves": "large handful",
+          "palm sugar": "2 tbsp, shaved",
+          "salt": "1 tsp, or to taste",
+          "tamarind concentrate": "2 tbsp"
+        },
+        "spice paste": {
+          "dried chilies": "20, soaked and chopped",
+          "shallots": "150g, coarsely chopped",
+          "garlic": "8 cloves, peeled",
+          "ginger": "2cm, peeled and chopped",
+          "salt": "generous pinch",
+          "ground turmeric": "1 tsp"
+        }
+      },
+      "preparation": [
+        "Soak dried chilies in boiling water for 30 minutes, drain, chop, and blend with shallots, garlic, ginger, salt, and 2 tbsp chili soaking liquid to a coarse paste. Mix in turmeric.",
+        "Heat oil in a large saucepan over medium-high. Add mustard and fenugreek seeds, cook until mustard seeds pop.",
+        "Add spice paste, cook 6-7 minutes until oil separates. Add curry powder, curry leaves, and lemongrass, stir until fragrant.",
+        "Add 2.5 cups water, palm sugar, salt, and tamarind. Bring to a simmer. Add eggplant and fish head, cover and cook 20 minutes.",
+        "Add okra and tomatoes, cook 10 minutes more until vegetables are tender and fish is cooked through. Stir in coconut milk, heat until just simmering. Serve hot with rice or roti."
+      ],
+      "tips": [
+        "Ask your fishmonger to clean and halve the fish head for you.",
+        "Use good-quality Malaysian palm sugar for authentic flavor.",
+        "You can substitute fish fillets if preferred."
+      ],
+      "nutrition": {
+        "calories": 597,
+        "carbohydrates": 69,
+        "protein": 40,
+        "fat": 22,
+        "saturated_fat": 8,
+        "cholesterol": 65,
+        "sodium": 413,
+        "potassium": 1440,
+        "vitamin_c": 53,
+        "calcium": 169,
+        "iron": 6
+      },
+      "source": "Adapted from Serious Eats, Marion's Kitchen, and Foodelicacy",
+      "imageId": "sou_003.jpeg",
+      "steps": [
+        "Soak dried chilies in boiling water for 30 minutes, drain, chop, and blend with shallots, garlic, ginger, salt, and 2 tbsp chili soaking liquid to a coarse paste. Mix in turmeric.",
+        "Heat oil in a large saucepan over medium-high. Add mustard and fenugreek seeds, cook until mustard seeds pop.",
+        "Add spice paste, cook 6-7 minutes until oil separates. Add curry powder, curry leaves, and lemongrass, stir until fragrant.",
+        "Add 2.5 cups water, palm sugar, salt, and tamarind. Bring to a simmer. Add eggplant and fish head, cover and cook 20 minutes.",
+        "Add okra and tomatoes, cook 10 minutes more until vegetables are tender and fish is cooked through. Stir in coconut milk, heat until just simmering. Serve hot with rice or roti."
+      ],
+      "tags": [
+        "blending",
+        "bubbling",
+        "chinese",
+        "coconut",
+        "curry",
+        "dish",
+        "eggplant",
+        "features",
+        "fish",
+        "head",
+        "indian",
+        "okra",
+        "rice",
+        "rich",
+        "roti",
+        "served",
+        "signature",
+        "singapore",
+        "singaporean",
+        "snapper",
+        "south",
+        "style",
+        "tamarind",
+        "tomatoes"
+      ],
+      "cost": {
+        "total_sgd": 303.4,
+        "ingredients_sgd": 303.0,
+        "energy_sgd": 0.4,
+        "per_serving_sgd": 75.85,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "fish head (snapper or similar)",
+            "cost_sgd": 19.8,
+            "emissions_kgco2e": 6.0,
+            "amount": 1.2,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "eggplant",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "small"
+          },
+          {
+            "ingredient": "okra",
+            "cost_sgd": 20.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 10.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "roma tomatoes",
+            "cost_sgd": 2.1,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.9,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "vegetable oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "yellow mustard seeds",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "fenugreek seeds",
+            "cost_sgd": 0.08,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "Malaysian curry powder",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "lemongrass",
+            "cost_sgd": 1.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "stalks"
+          },
+          {
+            "ingredient": "curry leaves",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "palm sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "tamarind concentrate",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dried chilies",
+            "cost_sgd": 176.0,
+            "emissions_kgco2e": 40.0,
+            "amount": 20.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 0.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 150.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 52.8,
+            "emissions_kgco2e": 12.0,
+            "amount": 8.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cm"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ground turmeric",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 71.477,
+        "ingredients_kgco2e": 70.933,
+        "energy_kgco2e": 0.544,
+        "per_serving_kgco2e": 17.869
+      }
+    },
+    {
+      "id": "sou_004",
+      "name": "Soto Ayam (Singapore/Malay Chicken Noodle Soup)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "40 minutes",
+      "servings": 4.0,
+      "description": "A beloved Singaporean-Malay chicken noodle soup with a clear, aromatic broth, shredded chicken, yellow noodles or vermicelli, and a spicy-sweet sambal kicap. Served with beansprouts, fried shallots, and lime.",
+      "ingredients": {
+        "base_paste": {
+          "onion": "2, peeled and roughly chopped",
+          "garlic": "3-4 cloves, peeled",
+          "ginger": "1/2 inch, peeled and chopped",
+          "galangal": "1/2 inch, peeled and chopped",
+          "candlenuts": "4 (or hazelnuts/cashews)",
+          "coriander seeds": "1 tsp",
+          "cumin seeds": "1/2 tsp",
+          "turmeric powder": "1/2 tsp (optional)",
+          "water": "2-3 tbsp, for blending"
+        },
+        "soup": {
+          "bone-in chicken": "600g",
+          "water": "1.5 litres",
+          "lemongrass": "1 stalk, bruised",
+          "star anise": "2",
+          "cloves": "4",
+          "cardamom pods": "4",
+          "cinnamon stick": "1",
+          "salt": "2 tsp, or to taste",
+          "white pepper": "1 tsp",
+          "noodles (yellow or vermicelli)": "500g, blanched",
+          "beansprouts": "1 cup, blanched"
+        },
+        "garnish": {
+          "calamansi limes": "to serve",
+          "cilantro/coriander": "to serve",
+          "fried shallots": "to serve"
+        },
+        "sambal cili kicap": {
+          "dark sweet soy sauce (kicap manis)": "1/2 cup",
+          "fresh green chilies": "4",
+          "bird's eye chilies": "3",
+          "garlic": "3 cloves",
+          "lime juice": "2 tbsp",
+          "salt": "1/2 tsp, or to taste",
+          "sugar": "1/2 tsp, or to taste"
+        }
+      },
+      "preparation": [
+        "Blend all base paste ingredients until smooth, adding water as needed.",
+        "In a pot, heat oil and sauté star anise, cinnamon, cloves, and cardamom until fragrant. Add blended base paste and lemongrass, sauté until aromatic.",
+        "Add chicken pieces, stir to coat, then add water. Bring to a boil, then simmer for at least 30 minutes until chicken is cooked.",
+        "Remove chicken, shred meat, and set aside. Season soup with salt and white pepper.",
+        "Blanch noodles and beansprouts. Prepare sambal cili kicap by blending all ingredients until rough or smooth as desired.",
+        "To serve: Place noodles and beansprouts in a bowl, ladle soup over, top with shredded chicken, garnish with fried shallots, cilantro, and lime. Serve sambal cili kicap on the side."
+      ],
+      "tips": [
+        "Use chicken thighs or a mix of parts for best flavor.",
+        "Soup can be made ahead and reheated; sambal keeps in fridge for a week.",
+        "Add potatoes, tofu, or lontong (rice cakes) for a heartier meal."
+      ],
+      "nutrition": {
+        "calories": "~400 per serving",
+        "protein": "30g",
+        "carbohydrates": "45g",
+        "fat": "10g"
+      },
+      "source": "Adapted from Nomadette, Serious Eats, and Wikipedia.",
+      "imageId": "sou_004.jpeg",
+      "steps": [
+        "Blend all base paste ingredients until smooth, adding water as needed.",
+        "In a pot, heat oil and sauté star anise, cinnamon, cloves, and cardamom until fragrant. Add blended base paste and lemongrass, sauté until aromatic.",
+        "Add chicken pieces, stir to coat, then add water. Bring to a boil, then simmer for at least 30 minutes until chicken is cooked.",
+        "Remove chicken, shred meat, and set aside. Season soup with salt and white pepper.",
+        "Blanch noodles and beansprouts. Prepare sambal cili kicap by blending all ingredients until rough or smooth as desired.",
+        "To serve: Place noodles and beansprouts in a bowl, ladle soup over, top with shredded chicken, garnish with fried shallots, cilantro, and lime. Serve sambal cili kicap on the side."
+      ],
+      "tags": [
+        "aromatic",
+        "ayam",
+        "beansprouts",
+        "beloved",
+        "broth",
+        "chicken",
+        "clear",
+        "fried",
+        "kicap",
+        "lime",
+        "malay",
+        "noodle",
+        "noodles",
+        "sambal",
+        "served",
+        "shallots",
+        "shredded",
+        "singapore",
+        "singaporean",
+        "soto",
+        "soup",
+        "spicy",
+        "sweet",
+        "vermicelli",
+        "yellow"
+      ],
+      "cost": {
+        "total_sgd": 194.56,
+        "ingredients_sgd": 194.16,
+        "energy_sgd": 0.4,
+        "per_serving_sgd": 48.64,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "onion",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 19.8,
+            "emissions_kgco2e": 4.5,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "galangal",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "candlenuts",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "coriander seeds",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "cumin seeds",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "turmeric powder",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "bone-in chicken",
+            "cost_sgd": 5.28,
+            "emissions_kgco2e": 3.6,
+            "amount": 600.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "litres"
+          },
+          {
+            "ingredient": "lemongrass",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "stalk"
+          },
+          {
+            "ingredient": "star anise",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cloves",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cardamom pods",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cinnamon stick",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 2.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "noodles (yellow or vermicelli)",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 1.25,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "beansprouts",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "calamansi limes",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cilantro/coriander",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fried shallots",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dark sweet soy sauce (kicap manis)",
+            "cost_sgd": 3.3,
+            "emissions_kgco2e": 2.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fresh green chilies",
+            "cost_sgd": 35.2,
+            "emissions_kgco2e": 8.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "bird's eye chilies",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 19.8,
+            "emissions_kgco2e": 4.5,
+            "amount": 3.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "lime juice",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 1.0,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 34.299,
+        "ingredients_kgco2e": 33.755,
+        "energy_kgco2e": 0.544,
+        "per_serving_kgco2e": 8.575
+      }
+    },
+    {
+      "id": "sou_005",
+      "name": "Pig Stomach Soup (Bak Kut Teh Style)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "2 hours",
+      "servings": 6.0,
+      "description": "A classic Teochew/Chinese soup featuring pig stomach simmered with white pepper, garlic, and pork ribs. Served hot with rice and youtiao.",
+      "ingredients": {
+        "Main": {
+          "pig stomach": "1, thoroughly cleaned and cut into strips",
+          "pork ribs": "500g, cut into pieces",
+          "white peppercorns": "2 tbsp, crushed",
+          "garlic": "1 bulb, whole",
+          "ginger": "4 slices",
+          "water": "2.5L",
+          "salt": "to taste",
+          "light soy sauce": "2 tbsp",
+          "youtiao (fried dough sticks)": "to serve"
+        }
+      },
+      "steps": [
+        "Blanch pig stomach and pork ribs in boiling water, rinse well.",
+        "In a large pot, add water, pig stomach, pork ribs, white peppercorns, garlic, and ginger. Bring to a boil, then simmer for 1.5-2 hours until tender.",
+        "Season with salt and soy sauce. Serve hot with rice and youtiao."
+      ],
+      "tips": [
+        "Clean pig stomach thoroughly with salt and flour to remove odor.",
+        "Simmer gently for a clear, peppery broth."
+      ],
+      "themes": [
+        "soup",
+        "stew",
+        "main",
+        "iconic",
+        "heritage"
+      ],
+      "source": "https://www.noobcook.com/pig-stomach-soup/",
+      "origin": "Pig Stomach Soup is a Teochew and Hokkien favorite, found at many bak kut teh and kway chap stalls.",
+      "imageId": "sou_005.jpeg",
+      "tags": [
+        "bak",
+        "chinese",
+        "classic",
+        "featuring",
+        "garlic",
+        "heritage",
+        "iconic",
+        "kut",
+        "main",
+        "pepper",
+        "pig",
+        "pork",
+        "ribs",
+        "rice",
+        "served",
+        "simmered",
+        "soup",
+        "stew",
+        "stomach",
+        "style",
+        "teh",
+        "teochew",
+        "white",
+        "youtiao"
+      ],
+      "cost": {
+        "total_sgd": 54.45,
+        "ingredients_sgd": 54.43,
+        "energy_sgd": 0.02,
+        "per_serving_sgd": 9.08,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pig stomach",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "pork ribs",
+            "cost_sgd": 6.6,
+            "emissions_kgco2e": 3.5,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "white peppercorns",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 6.6,
+            "emissions_kgco2e": 1.5,
+            "amount": 1.0,
+            "unit": "bulb"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.5,
+            "unit": "l"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "youtiao (fried dough sticks)",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 5.587,
+        "ingredients_kgco2e": 5.56,
+        "energy_kgco2e": 0.027,
+        "per_serving_kgco2e": 0.931
+      }
+    },
+    {
+      "id": "sou_006",
+      "name": "Kway Chap (Braised Pig Offal with Flat Rice Noodles)",
+      "difficulty": "Hard",
+      "prep_time": "1 hour",
+      "cook_time": "2 hours",
+      "servings": 6.0,
+      "description": "A Teochew hawker classic: pig offal, pork belly, and tofu braised in a savory soy-based gravy, served with flat rice noodles (kway chap).",
+      "ingredients": {
+        "pig offal (intestines, stomach, fallopian tubes, etc.)": "1kg, cleaned and cut",
+        "pork belly": "500g, cut into chunks",
+        "firm tofu": "2 blocks, halved",
+        "hard-boiled eggs": "6, peeled",
+        "broth": {
+          "pork bone stock": "2L",
+          "garlic": "2 cloves, smashed",
+          "ginger": "2 slices",
+          "star anise": "2",
+          "cinnamon stick": "1",
+          "dark soy sauce": "2 tbsp",
+          "light soy sauce": "2 tbsp",
+          "sugar": "1 tbsp",
+          "salt and white pepper": "to taste"
+        },
+        "kway chap (flat rice noodles)": "600g, cooked as per package"
+      },
+      "steps": [
+        "Blanch pig offal and pork belly, rinse well.",
+        "Simmer in pork bone stock with aromatics, soy sauces, and spices for 2 hours.",
+        "Add tofu and eggs in the last 30 minutes.",
+        "Serve braised offal, pork, tofu, and eggs with kway chap and some braising gravy."
+      ],
+      "tips": [
+        "Clean offal thoroughly to remove odor.",
+        "Simmer gently for tender offal and rich flavor."
+      ],
+      "themes": [
+        "soup",
+        "stew",
+        "main",
+        "iconic",
+        "heritage"
+      ],
+      "source": "https://www.noobcook.com/kway-chap/",
+      "origin": "Kway Chap is a Teochew specialty, found at many hawker centres and kopitiams.",
+      "imageId": "sou_006.jpeg",
+      "tags": [
+        "based",
+        "belly",
+        "braised",
+        "chap",
+        "classic",
+        "flat",
+        "gravy",
+        "hawker",
+        "heritage",
+        "iconic",
+        "kway",
+        "main",
+        "noodles",
+        "offal",
+        "pig",
+        "pork",
+        "rice",
+        "savory",
+        "served",
+        "soup",
+        "soy",
+        "stew",
+        "teochew",
+        "tofu"
+      ],
+      "cost": {
+        "total_sgd": 79.34,
+        "ingredients_sgd": 79.32,
+        "energy_sgd": 0.02,
+        "per_serving_sgd": 13.22,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pig offal (intestines, stomach, fallopian tubes, etc.)",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "pork belly",
+            "cost_sgd": 6.6,
+            "emissions_kgco2e": 3.5,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "firm tofu",
+            "cost_sgd": 5.5,
+            "emissions_kgco2e": 6.4,
+            "amount": 2.0,
+            "unit": "blocks"
+          },
+          {
+            "ingredient": "hard-boiled eggs",
+            "cost_sgd": 1.98,
+            "emissions_kgco2e": 27.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "pork bone stock",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 14.0,
+            "amount": 2.0,
+            "unit": "l"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "star anise",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cinnamon stick",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt and white pepper",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "kway chap (flat rice noodles)",
+            "cost_sgd": 1.32,
+            "emissions_kgco2e": 2.7,
+            "amount": 600.0,
+            "unit": "g"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 57.262,
+        "ingredients_kgco2e": 57.235,
+        "energy_kgco2e": 0.027,
+        "per_serving_kgco2e": 9.544
+      }
+    },
+    {
+      "id": "sou_011",
+      "name": "Bird Nest Soup",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes (plus soaking)",
+      "cook_time": "1 hour",
+      "servings": 4.0,
+      "description": "A luxurious Chinese delicacy: double-boiled bird's nest with rock sugar, prized for its texture and health benefits. Served at banquets and special occasions.",
+      "ingredients": {
+        "Main": {
+          "bird's nest": "20g, soaked and cleaned",
+          "rock sugar": "60g",
+          "water": "800ml",
+          "red dates": "4 (optional)"
+        }
+      },
+      "steps": [
+        "Soak bird's nest in water until soft. Clean thoroughly.",
+        "Combine with water and rock sugar in a double boiler. Add red dates if using.",
+        "Double-boil for 1 hour until bird's nest is tender. Serve warm."
+      ],
+      "tips": [
+        "Use premium bird's nest for best texture.",
+        "Adjust sweetness to taste."
+      ],
+      "nutrition": {
+        "calories": 90,
+        "protein": "2g",
+        "carbohydrates": "22g",
+        "fat": "0g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore banquet kitchens.",
+      "imageId": "sou_011.jpeg",
+      "tags": [
+        "banquets",
+        "benefits",
+        "bird",
+        "boiled",
+        "chinese",
+        "delicacy",
+        "double",
+        "health",
+        "luxurious",
+        "nest",
+        "occasions",
+        "prized",
+        "rock",
+        "served",
+        "soup",
+        "special",
+        "sugar",
+        "texture"
+      ],
+      "cost": {
+        "total_sgd": 32.27,
+        "ingredients_sgd": 32.26,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 8.07,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "bird's nest",
+            "cost_sgd": 0.16,
+            "emissions_kgco2e": 0.0,
+            "amount": 20.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "rock sugar",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 60.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 800.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "red dates",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 0.074,
+        "ingredients_kgco2e": 0.06,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 0.018
+      }
+    },
+    {
+      "id": "sou_012",
+      "name": "Buddha Jumps Over the Wall",
+      "difficulty": "Hard",
+      "prep_time": "1 hour (plus soaking)",
+      "cook_time": "4 hours",
+      "servings": 8.0,
+      "description": "A legendary Fujianese banquet soup: abalone, sea cucumber, fish maw, dried scallops, mushrooms, and more, simmered in a rich broth. Served at special occasions in Singapore.",
+      "ingredients": {
+        "Main": {
+          "abalone": "2, sliced",
+          "sea cucumber": "200g, soaked and sliced",
+          "fish maw": "100g, soaked",
+          "dried scallops": "50g, soaked",
+          "dried shiitake mushrooms": "8, soaked",
+          "chicken": "500g, chopped",
+          "pork ribs": "300g",
+          "Jinhua ham": "50g, sliced",
+          "ginger": "4 slices",
+          "Shaoxing wine": "2 tbsp",
+          "water": "2.5 litres"
+        }
+      },
+      "preparation": [
+        "Blanch chicken and pork ribs. Combine all ingredients in a large pot.",
+        "Bring to a boil, then simmer 4 hours. Skim fat. Serve hot."
+      ],
+      "tips": [
+        "Use premium dried seafood for best flavor.",
+        "Add more abalone or sea cucumber for luxury."
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": "28g",
+        "carbohydrates": "10g",
+        "fat": "18g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore banquet kitchens.",
+      "imageId": "sou_012.jpeg",
+      "steps": [
+        "Blanch chicken and pork ribs. Combine all ingredients in a large pot.",
+        "Bring to a boil, then simmer 4 hours. Skim fat. Serve hot."
+      ],
+      "tags": [
+        "abalone",
+        "banquet",
+        "broth",
+        "buddha",
+        "cucumber",
+        "dried",
+        "fish",
+        "fujianese",
+        "jumps",
+        "legendary",
+        "maw",
+        "mushrooms",
+        "occasions",
+        "rich",
+        "scallops",
+        "sea",
+        "served",
+        "simmered",
+        "singapore",
+        "soup",
+        "special",
+        "wall"
+      ],
+      "cost": {
+        "total_sgd": 115.33,
+        "ingredients_sgd": 115.29,
+        "energy_sgd": 0.04,
+        "per_serving_sgd": 14.42,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "abalone",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sea cucumber",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "fish maw",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 0.5,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "dried scallops",
+            "cost_sgd": 0.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "dried shiitake mushrooms",
+            "cost_sgd": 64.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "chicken",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 3.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "pork ribs",
+            "cost_sgd": 3.96,
+            "emissions_kgco2e": 2.1,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "Jinhua ham",
+            "cost_sgd": 0.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.5,
+            "unit": "litres"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 5.654,
+        "ingredients_kgco2e": 5.6,
+        "energy_kgco2e": 0.054,
+        "per_serving_kgco2e": 0.707
+      }
+    },
+    {
+      "id": "sou_013",
+      "name": "Braised Sea Treasure Soup",
+      "difficulty": "Hard",
+      "prep_time": "45 minutes (plus soaking)",
+      "cook_time": "2 hours",
+      "servings": 8.0,
+      "description": "A luxurious seafood soup: fish maw, dried scallops, crab meat, prawns, and mushrooms in a thick, savory broth. Served at banquets and festive occasions.",
+      "ingredients": {
+        "Main": {
+          "fish maw": "100g, soaked and cut",
+          "dried scallops": "30g, soaked and shredded",
+          "crab meat": "200g",
+          "prawns": "200g, peeled",
+          "dried shiitake mushrooms": "6, soaked and sliced",
+          "chicken stock": "2 litres",
+          "egg white": "2",
+          "cornstarch": "2 tbsp (mixed with 4 tbsp water)",
+          "Shaoxing wine": "1 tbsp",
+          "salt and pepper": "to taste"
+        }
+      },
+      "preparation": [
+        "Bring stock to a boil. Add fish maw, scallops, mushrooms, crab, and prawns. Simmer 1 hour.",
+        "Thicken with cornstarch slurry. Drizzle in egg white while stirring. Season and serve."
+      ],
+      "tips": [
+        "Use fresh crab for best flavor.",
+        "Add abalone for extra luxury."
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": "18g",
+        "carbohydrates": "8g",
+        "fat": "6g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore banquet kitchens.",
+      "imageId": "sou_013.jpeg",
+      "steps": [
+        "Bring stock to a boil. Add fish maw, scallops, mushrooms, crab, and prawns. Simmer 1 hour.",
+        "Thicken with cornstarch slurry. Drizzle in egg white while stirring. Season and serve."
+      ],
+      "tags": [
+        "banquets",
+        "braised",
+        "broth",
+        "crab",
+        "dried",
+        "festive",
+        "fish",
+        "luxurious",
+        "maw",
+        "meat",
+        "mushrooms",
+        "occasions",
+        "prawns",
+        "savory",
+        "scallops",
+        "sea",
+        "seafood",
+        "served",
+        "soup",
+        "thick",
+        "treasure"
+      ],
+      "cost": {
+        "total_sgd": 79.33,
+        "ingredients_sgd": 79.31,
+        "energy_sgd": 0.02,
+        "per_serving_sgd": 9.92,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "fish maw",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 0.5,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "dried scallops",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "crab meat",
+            "cost_sgd": 5.5,
+            "emissions_kgco2e": 3.6,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "prawns",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 3.6,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "dried shiitake mushrooms",
+            "cost_sgd": 48.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "chicken stock",
+            "cost_sgd": 17.6,
+            "emissions_kgco2e": 12.0,
+            "amount": 2.0,
+            "unit": "litres"
+          },
+          {
+            "ingredient": "egg white",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt and pepper",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 29.227,
+        "ingredients_kgco2e": 29.2,
+        "energy_kgco2e": 0.027,
+        "per_serving_kgco2e": 3.653
+      }
+    },
+    {
+      "id": "sou_014",
+      "name": "Suan La Tang (Hot and Sour Soup)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "30 minutes",
+      "servings": 6.0,
+      "description": "A popular Chinese soup: spicy, tangy broth with tofu, mushrooms, bamboo shoots, and egg. Served at Chinese restaurants and home kitchens in Singapore.",
+      "ingredients": {
+        "Main": {
+          "chicken stock": "1.5 litres",
+          "tofu": "200g, sliced",
+          "shiitake mushrooms": "4, sliced",
+          "bamboo shoots": "100g, sliced",
+          "wood ear fungus": "20g, soaked and sliced",
+          "pork loin": "100g, sliced",
+          "egg": "1, beaten",
+          "white pepper": "1 tsp",
+          "black vinegar": "2 tbsp",
+          "soy sauce": "2 tbsp",
+          "cornstarch": "2 tbsp (mixed with 4 tbsp water)",
+          "chili oil": "1 tbsp",
+          "spring onions": "2, chopped"
+        }
+      },
+      "preparation": [
+        "Bring stock to a boil. Add pork, mushrooms, bamboo, and fungus. Simmer 10 minutes.",
+        "Add tofu, seasonings, and cornstarch slurry. Stir until thickened.",
+        "Drizzle in egg, stir to form ribbons. Finish with chili oil and spring onions."
+      ],
+      "tips": [
+        "Add more vinegar for extra tang.",
+        "Use vegetarian stock for a meatless version."
+      ],
+      "nutrition": {
+        "calories": 90,
+        "protein": "8g",
+        "carbohydrates": "8g",
+        "fat": "3g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Chinese restaurants.",
+      "imageId": "sou_014.jpeg",
+      "steps": [
+        "Bring stock to a boil. Add pork, mushrooms, bamboo, and fungus. Simmer 10 minutes.",
+        "Add tofu, seasonings, and cornstarch slurry. Stir until thickened.",
+        "Drizzle in egg, stir to form ribbons. Finish with chili oil and spring onions."
+      ],
+      "tags": [
+        "bamboo",
+        "broth",
+        "chinese",
+        "egg",
+        "home",
+        "kitchens",
+        "mushrooms",
+        "popular",
+        "restaurants",
+        "served",
+        "shoots",
+        "singapore",
+        "soup",
+        "sour",
+        "spicy",
+        "suan",
+        "tang",
+        "tangy",
+        "tofu"
+      ],
+      "cost": {
+        "total_sgd": 53.4,
+        "ingredients_sgd": 53.1,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 8.9,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "chicken stock",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 9.0,
+            "amount": 1.5,
+            "unit": "litres"
+          },
+          {
+            "ingredient": "tofu",
+            "cost_sgd": 0.55,
+            "emissions_kgco2e": 0.64,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "shiitake mushrooms",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "bamboo shoots",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "wood ear fungus",
+            "cost_sgd": 0.16,
+            "emissions_kgco2e": 0.0,
+            "amount": 20.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "pork loin",
+            "cost_sgd": 1.32,
+            "emissions_kgco2e": 0.7,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "egg",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "black vinegar",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chili oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 17.738,
+        "ingredients_kgco2e": 17.33,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 2.956
+      }
+    },
+    {
+      "id": "sou_015",
+      "name": "Herbal Chicken (Yao Ji)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "2 hours",
+      "servings": 6.0,
+      "description": "A nourishing Chinese herbal soup: whole chicken braised with Chinese herbs, red dates, goji berries, and dang gui. Tonic, restorative, and deeply flavorful. Popular at home and herbal soup stalls.",
+      "ingredients": {
+        "Main": {
+          "whole chicken": "1 (about 1.2kg)",
+          "red dates": "8",
+          "goji berries": "2 tbsp",
+          "dang gui (angelica root)": "10g",
+          "solomon's seal (yu zhu)": "10g",
+          "Chinese yam (huai shan)": "50g, sliced",
+          "wolfberry root (gou qi gen)": "10g",
+          "ginger": "4 slices",
+          "water": "2 litres",
+          "salt": "to taste"
+        }
+      },
+      "preparation": [
+        "Blanch chicken in boiling water, then drain.",
+        "Add all ingredients to a large pot. Bring to a boil, then simmer 2 hours.",
+        "Season with salt. Serve hot as a nourishing soup."
+      ],
+      "tips": [
+        "Use a mix of Chinese herbs for best results.",
+        "Add more goji berries for sweetness."
+      ],
+      "nutrition": {
+        "calories": 210,
+        "protein": "22g",
+        "carbohydrates": "8g",
+        "fat": "10g"
+      },
+      "source": "Adapted from The MeatMen, Singapore home kitchens, and TCM recipes.",
+      "imageId": "sou_015.jpeg",
+      "steps": [
+        "Blanch chicken in boiling water, then drain.",
+        "Add all ingredients to a large pot. Bring to a boil, then simmer 2 hours.",
+        "Season with salt. Serve hot as a nourishing soup."
+      ],
+      "tags": [
+        "berries",
+        "braised",
+        "chicken",
+        "chinese",
+        "dang",
+        "dates",
+        "deeply",
+        "flavorful",
+        "goji",
+        "gui",
+        "herbal",
+        "herbs",
+        "home",
+        "nourishing",
+        "popular",
+        "red",
+        "restorative",
+        "soup",
+        "stalls",
+        "tonic",
+        "whole",
+        "yao"
+      ],
+      "cost": {
+        "total_sgd": 98.52,
+        "ingredients_sgd": 98.5,
+        "energy_sgd": 0.02,
+        "per_serving_sgd": 16.42,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "whole chicken",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 6.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "red dates",
+            "cost_sgd": 64.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "goji berries",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dang gui (angelica root)",
+            "cost_sgd": 0.08,
+            "emissions_kgco2e": 0.0,
+            "amount": 10.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "solomon's seal (yu zhu)",
+            "cost_sgd": 0.08,
+            "emissions_kgco2e": 0.0,
+            "amount": 10.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "Chinese yam (huai shan)",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "wolfberry root (gou qi gen)",
+            "cost_sgd": 0.08,
+            "emissions_kgco2e": 0.0,
+            "amount": 10.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "litres"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 6.527,
+        "ingredients_kgco2e": 6.5,
+        "energy_kgco2e": 0.027,
+        "per_serving_kgco2e": 1.088
+      }
+    },
+    {
+      "id": "sou_016",
+      "name": "ABC Soup (Potato, Carrot, Onion Soup)",
+      "difficulty": "Easy",
+      "prep_time": "15 minutes",
+      "cook_time": "60 minutes",
+      "servings": 4.0,
+      "description": "A nourishing, clear Chinese soup with potatoes, carrots, onions, and tomatoes, simmered with pork ribs or chicken. A family favorite for all ages.",
+      "ingredients": {
+        "main": {
+          "pork ribs or chicken pieces": "400g",
+          "potato": "2, peeled and cut into chunks",
+          "carrot": "2, peeled and cut into chunks",
+          "onion": "1, peeled and quartered",
+          "tomato": "1, cut into wedges",
+          "corn on the cob": "1, cut into chunks (optional)",
+          "dried honey dates": "2 (optional, for sweetness)",
+          "water": "1.5L",
+          "salt": "to taste",
+          "white pepper": "to taste"
+        }
+      },
+      "steps": [
+        "Blanch pork ribs or chicken in boiling water for 2 minutes. Drain and rinse.",
+        "In a soup pot, add water, blanched meat, potatoes, carrots, onion, tomato, corn, and honey dates.",
+        "Bring to a boil, then reduce to a gentle simmer. Cover and cook for 1 hour.",
+        "Season with salt and white pepper to taste.",
+        "Serve hot, optionally garnished with coriander."
+      ],
+      "tips": [
+        "Blanching the meat helps keep the soup clear.",
+        "Add more tomatoes for a tangier soup, or honey dates for extra sweetness.",
+        "This soup is great for kids and adults alike."
+      ],
+      "themes": [
+        "soup",
+        "stew",
+        "main",
+        "iconic",
+        "heritage"
+      ],
+      "source": "Adapted from Singapore/Malaysia Chinese home cook recipes.",
+      "origin": "ABC Soup is a staple in Chinese households, named for its simple, 'ABC' ingredients.",
+      "imageId": "sou_016.jpeg",
+      "tags": [
+        "abc",
+        "ages",
+        "carrot",
+        "carrots",
+        "chicken",
+        "chinese",
+        "clear",
+        "family",
+        "favorite",
+        "heritage",
+        "iconic",
+        "main",
+        "nourishing",
+        "onion",
+        "onions",
+        "pork",
+        "potato",
+        "potatoes",
+        "ribs",
+        "simmered",
+        "soup",
+        "stew",
+        "tomatoes"
+      ],
+      "cost": {
+        "total_sgd": 30.12,
+        "ingredients_sgd": 29.52,
+        "energy_sgd": 0.6,
+        "per_serving_sgd": 7.53,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork ribs or chicken pieces",
+            "cost_sgd": 3.52,
+            "emissions_kgco2e": 2.4,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "potato",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 1.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "carrot",
+            "cost_sgd": 1.6,
+            "emissions_kgco2e": 1.6,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tomato",
+            "cost_sgd": 0.7,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "corn on the cob",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dried honey dates",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "l"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 7.516,
+        "ingredients_kgco2e": 6.7,
+        "energy_kgco2e": 0.816,
+        "per_serving_kgco2e": 1.879
+      }
+    },
+    {
+      "id": "sou_017",
+      "name": "Lotus Root Soup with Pork Ribs",
+      "difficulty": "Easy",
+      "prep_time": "15 minutes",
+      "cook_time": "90 minutes",
+      "servings": 4.0,
+      "description": "A traditional Chinese home-style soup: pork ribs simmered with lotus root, peanuts, and red dates for a sweet, earthy, and nourishing broth.",
+      "ingredients": {
+        "main": {
+          "pork ribs": "400g, cut into chunks",
+          "lotus root": "1 medium (about 300g), peeled and sliced",
+          "raw peanuts": "1/2 cup, soaked 1 hour and drained",
+          "red dates (jujubes)": "6–8, pitted",
+          "dried cuttlefish or dried scallops": "1 small piece (optional, for umami)",
+          "water": "1.5L",
+          "salt": "to taste",
+          "white pepper": "to taste",
+          "spring onions": "for garnish (optional)"
+        }
+      },
+      "steps": [
+        "Blanch pork ribs in boiling water for 2 minutes. Drain and rinse.",
+        "In a soup pot, add water, pork ribs, lotus root, peanuts, red dates, and dried cuttlefish/scallops (if using).",
+        "Bring to a boil, then reduce to a gentle simmer. Cover and cook for 1.5–2 hours until pork and lotus root are tender.",
+        "Season with salt and white pepper to taste.",
+        "Serve hot, garnished with spring onions if desired."
+      ],
+      "tips": [
+        "Blanching the ribs keeps the soup clear.",
+        "Add carrots for extra sweetness, or goji berries for color and nutrition.",
+        "Soup tastes even better the next day!"
+      ],
+      "themes": [
+        "soup",
+        "stew",
+        "main",
+        "iconic",
+        "heritage"
+      ],
+      "source": "Adapted from Singapore/Malaysia Chinese home cook recipes.",
+      "origin": "Lotus Root Soup is a staple in Chinese households, especially for family dinners and festive occasions.",
+      "imageId": "sou_017.jpeg",
+      "tags": [
+        "broth",
+        "chinese",
+        "dates",
+        "earthy",
+        "heritage",
+        "home",
+        "iconic",
+        "lotus",
+        "main",
+        "nourishing",
+        "peanuts",
+        "pork",
+        "red",
+        "ribs",
+        "root",
+        "simmered",
+        "soup",
+        "stew",
+        "style",
+        "sweet",
+        "traditional"
+      ],
+      "cost": {
+        "total_sgd": 89.98,
+        "ingredients_sgd": 89.08,
+        "energy_sgd": 0.9,
+        "per_serving_sgd": 22.5,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork ribs",
+            "cost_sgd": 5.28,
+            "emissions_kgco2e": 2.8,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "lotus root",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "medium"
+          },
+          {
+            "ingredient": "raw peanuts",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "red dates (jujubes)",
+            "cost_sgd": 48.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dried cuttlefish or dried scallops",
+            "cost_sgd": 16.5,
+            "emissions_kgco2e": 5.0,
+            "amount": 1.0,
+            "unit": "small"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "l"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 10.724,
+        "ingredients_kgco2e": 9.5,
+        "energy_kgco2e": 1.224,
+        "per_serving_kgco2e": 2.681
+      }
+    },
+    {
+      "id": "sou_018",
+      "name": "Winter Melon Soup",
+      "difficulty": "Easy",
+      "prep_time": "15 minutes",
+      "cook_time": "60 minutes",
+      "servings": 4.0,
+      "description": "A light, cooling Chinese soup with winter melon, pork ribs, dried shrimp, and mushrooms. Nourishing and perfect for hot weather.",
+      "ingredients": {
+        "main": {
+          "pork ribs": "400g, cut into chunks",
+          "winter melon": "500g, peeled, seeded, and cut into cubes",
+          "dried shrimp": "2 tbsp, rinsed and soaked",
+          "dried shiitake mushrooms": "4, soaked and sliced",
+          "goji berries": "1 tbsp (optional)",
+          "ginger": "3 slices",
+          "water": "1.5L",
+          "salt": "to taste",
+          "white pepper": "to taste",
+          "spring onions": "for garnish (optional)"
+        }
+      },
+      "steps": [
+        "Blanch pork ribs in boiling water for 2 minutes. Drain and rinse.",
+        "In a soup pot, add water, pork ribs, dried shrimp, mushrooms, ginger, and bring to a boil.",
+        "Lower heat, cover, and simmer for 30 minutes.",
+        "Add winter melon cubes and goji berries (if using). Simmer another 20–30 minutes until melon is translucent and tender.",
+        "Season with salt and white pepper to taste.",
+        "Serve hot, garnished with spring onions if desired."
+      ],
+      "tips": [
+        "Blanching the ribs keeps the soup clear.",
+        "Add more dried shrimp for a stronger umami flavor.",
+        "Winter melon is naturally cooling and great for hot climates."
+      ],
+      "themes": [
+        "soup",
+        "stew",
+        "main",
+        "iconic",
+        "heritage"
+      ],
+      "source": "Adapted from Singapore/Malaysia Chinese home cook recipes.",
+      "origin": "Winter Melon Soup is a staple in Chinese households, especially during hot weather.",
+      "imageId": "sou_018.jpeg",
+      "tags": [
+        "chinese",
+        "cooling",
+        "dried",
+        "heritage",
+        "iconic",
+        "light",
+        "main",
+        "melon",
+        "mushrooms",
+        "nourishing",
+        "perfect",
+        "pork",
+        "ribs",
+        "shrimp",
+        "soup",
+        "stew",
+        "weather",
+        "winter"
+      ],
+      "cost": {
+        "total_sgd": 65.54,
+        "ingredients_sgd": 64.94,
+        "energy_sgd": 0.6,
+        "per_serving_sgd": 16.38,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork ribs",
+            "cost_sgd": 5.28,
+            "emissions_kgco2e": 2.8,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "winter melon",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "dried shrimp",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dried shiitake mushrooms",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "goji berries",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 18.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "l"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 5.316,
+        "ingredients_kgco2e": 4.5,
+        "energy_kgco2e": 0.816,
+        "per_serving_kgco2e": 1.329
+      }
+    }
+  ]
+}

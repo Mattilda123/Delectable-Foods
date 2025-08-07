@@ -1,0 +1,3856 @@
+{
+  "metadata": {
+    "category": "Rice and Noodles",
+    "description": "Staple Singaporean rice and noodle dishes, from fragrant rice to stir-fried noodles",
+    "total_recipes": 21,
+    "last_updated": "2024"
+  },
+  "recipes": [
+    {
+      "id": "ric_001",
+      "name": "Foochow Red Wine Mee Sua (福州红糟鸡面线)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "45 minutes",
+      "servings": 4.0,
+      "description": "A traditional Foochow (Fuzhou) dish beloved in Singapore, featuring chicken braised in homemade red glutinous rice wine and served with silky wheat vermicelli (mee sua). Popular for celebrations and confinement, this dish is prized for its warming, aromatic broth and tender chicken.",
+      "ingredients": {
+        "chicken": {
+          "chicken drumsticks or bone-in pieces": "800g-1kg",
+          "ginger": "1 thumb, peeled and sliced",
+          "sesame oil": "1 tbsp",
+          "red yeast rice (optional)": "1 tbsp",
+          "Foochow red wine": "2-3 cups (homemade or store-bought)",
+          "salt": "to taste",
+          "sugar": "small pinch (optional)"
+        },
+        "noodles": {
+          "mee sua (wheat vermicelli)": "8 bundles (about 400g)",
+          "water": "for boiling"
+        },
+        "garnish": {
+          "spring onions": "to taste, chopped",
+          "cilantro": "to taste, chopped"
+        }
+      },
+      "steps": [
+        "Marinate chicken pieces with a splash of red wine and a pinch of salt for 30 minutes (optional).",
+        "Bring a pot of water to boil. Cook mee sua according to package instructions (usually 1-2 minutes). Drain and rinse with cold water to prevent sticking. Set aside.",
+        "Heat sesame oil in a large pot or wok. Add ginger and stir-fry until fragrant.",
+        "Add red yeast rice (if using) and chicken pieces. Stir-fry until chicken is lightly browned.",
+        "Pour in Foochow red wine and enough water to just cover the chicken. Bring to a boil, then reduce heat and simmer, covered, for 30-40 minutes until chicken is tender.",
+        "Season with salt and a pinch of sugar to taste. The broth should be aromatic, slightly sweet, and warming.",
+        "To serve, portion mee sua into bowls. Top with chicken and ladle over the hot red wine broth. Garnish with spring onions and cilantro."
+      ],
+      "tips": [
+        "Homemade Foochow red wine and red yeast rice give the most authentic flavor, but store-bought versions are acceptable.",
+        "This dish is often served during Chinese New Year, birthdays, and for postpartum recovery (confinement).",
+        "If you can't find red yeast rice, you can omit it, but the color and aroma will be less intense.",
+        "Do not overcook mee sua or it will become mushy."
+      ],
+      "themes": [
+        "noodles",
+        "chicken",
+        "festive",
+        "heritage",
+        "confinement",
+        "Chinese"
+      ],
+      "source": "Adapted from What To Cook Today, NoobCook, and Singapore/Malaysia Foochow home cooks.",
+      "origin": "Foochow (Fuzhou) Chinese community in Singapore and Malaysia; a celebratory and confinement dish.",
+      "imageId": "ric_001.jpeg",
+      "tags": [
+        "aromatic",
+        "beloved",
+        "braised",
+        "broth",
+        "celebrations",
+        "chicken",
+        "chinese",
+        "confinement",
+        "dish",
+        "featuring",
+        "festive",
+        "foochow",
+        "fuzhou",
+        "glutinous",
+        "heritage",
+        "homemade",
+        "mee",
+        "noodles",
+        "popular",
+        "prized",
+        "red",
+        "rice",
+        "served",
+        "silky",
+        "singapore",
+        "sua",
+        "tender",
+        "traditional",
+        "vermicelli",
+        "warming",
+        "wheat",
+        "wine"
+      ],
+      "cost": {
+        "total_sgd": 70.59,
+        "ingredients_sgd": 70.14,
+        "energy_sgd": 0.45,
+        "per_serving_sgd": 17.65,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "chicken drumsticks or bone-in pieces",
+            "cost_sgd": 7.04,
+            "emissions_kgco2e": 4.8,
+            "amount": 800.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "thumb"
+          },
+          {
+            "ingredient": "sesame oil",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "red yeast rice (optional)",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.068,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Foochow red wine",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 1.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "mee sua (wheat vermicelli)",
+            "cost_sgd": 28.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "bundles"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cilantro",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 8.18,
+        "ingredients_kgco2e": 7.568,
+        "energy_kgco2e": 0.612,
+        "per_serving_kgco2e": 2.045
+      }
+    },
+    {
+      "id": "ric_002",
+      "name": "Fen Ti (Glass Noodles with Minced Pork)",
+      "difficulty": "Easy",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "servings": 4.0,
+      "description": "A comforting Chinese home-style dish in Singapore, featuring glass noodles (mung bean vermicelli) stir-fried with minced pork, mushrooms, and aromatics. Savory, silky, and satisfying.",
+      "ingredients": {
+        "main": {
+          "glass noodles (mung bean vermicelli)": "150g, soaked until soft",
+          "minced pork": "200g",
+          "shiitake mushrooms, soaked and sliced": "3",
+          "carrot, julienned": "1 small",
+          "garlic": "2 cloves, minced",
+          "spring onion": "2, chopped",
+          "light soy sauce": "2 tbsp",
+          "oyster sauce": "1 tbsp",
+          "dark soy sauce": "1 tsp",
+          "sugar": "1/2 tsp",
+          "white pepper": "to taste",
+          "water or stock": "1/2 cup",
+          "oil": "2 tbsp"
+        }
+      },
+      "steps": [
+        "Heat oil in a wok. Sauté garlic until fragrant. Add minced pork and stir-fry until no longer pink.",
+        "Add mushrooms and carrot, stir-fry for 2 minutes.",
+        "Add glass noodles, soy sauces, oyster sauce, sugar, pepper, and water/stock. Toss well to combine and cook until noodles are soft and sauce is absorbed.",
+        "Garnish with spring onion and serve hot."
+      ],
+      "tips": [
+        "Soak glass noodles in warm water until just soft, not mushy.",
+        "Add more water/stock if needed for a silkier texture.",
+        "Can add prawns or other vegetables for variety."
+      ],
+      "themes": [
+        "noodles",
+        "Chinese",
+        "home-style",
+        "heritage",
+        "comfort food",
+        "easy"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singaporean Chinese home cooks.",
+      "origin": "Chinese community in Singapore; a home-style comfort dish also found at hawker stalls.",
+      "imageId": "ric_002.jpeg",
+      "tags": [
+        "aromatics",
+        "bean",
+        "chinese",
+        "comfort food",
+        "comforting",
+        "dish",
+        "easy",
+        "featuring",
+        "fen",
+        "fried",
+        "glass",
+        "heritage",
+        "home",
+        "home-style",
+        "minced",
+        "mung",
+        "mushrooms",
+        "noodles",
+        "pork",
+        "satisfying",
+        "savory",
+        "silky",
+        "singapore",
+        "stir",
+        "style",
+        "vermicelli"
+      ],
+      "cost": {
+        "total_sgd": 49.63,
+        "ingredients_sgd": 49.48,
+        "energy_sgd": 0.15,
+        "per_serving_sgd": 12.41,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "glass noodles (mung bean vermicelli)",
+            "cost_sgd": 0.49,
+            "emissions_kgco2e": 0.375,
+            "amount": 150.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "minced pork",
+            "cost_sgd": 2.64,
+            "emissions_kgco2e": 1.4,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "shiitake mushrooms, soaked and sliced",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "carrot, julienned",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.8,
+            "amount": 1.0,
+            "unit": "small"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "spring onion",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.01,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 1.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water or stock",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 9.429,
+        "ingredients_kgco2e": 9.225,
+        "energy_kgco2e": 0.204,
+        "per_serving_kgco2e": 2.357
+      }
+    },
+    {
+      "id": "ric_003",
+      "name": "Pumpkin Rice (Nankua Fan)",
+      "difficulty": "Easy",
+      "prep_time": "15 minutes",
+      "cook_time": "40 minutes",
+      "servings": 6.0,
+      "description": "A comforting Chinese home-style dish in Singapore, featuring rice cooked with pumpkin, dried shrimp, mushrooms, and aromatics. Savory, sweet, and hearty, it's a favorite at home and hawker stalls.",
+      "ingredients": {
+        "main": {
+          "rice": "2 cups, rinsed",
+          "pumpkin, peeled and cubed": "300g",
+          "dried shrimp": "2 tbsp, soaked and chopped",
+          "shiitake mushrooms, soaked and sliced": "4",
+          "garlic": "2 cloves, minced",
+          "shallots": "2, sliced",
+          "light soy sauce": "2 tbsp",
+          "oyster sauce": "1 tbsp",
+          "white pepper": "to taste",
+          "water or stock": "2.5 cups",
+          "oil": "2 tbsp",
+          "spring onion": "for garnish"
+        }
+      },
+      "steps": [
+        "Heat oil in a wok. Sauté garlic, shallots, dried shrimp, and mushrooms until fragrant.",
+        "Add pumpkin and rice, stir to coat with aromatics.",
+        "Add soy sauce, oyster sauce, pepper, and water/stock. Mix well and transfer to a rice cooker or pot.",
+        "Cook as you would regular rice. Once done, fluff and garnish with spring onion. Serve hot."
+      ],
+      "tips": [
+        "Use Japanese or local pumpkin for best texture.",
+        "Add Chinese sausage or pork belly for a heartier version.",
+        "Leftovers can be pan-fried for a crispy bottom."
+      ],
+      "themes": [
+        "rice",
+        "Chinese",
+        "home-style",
+        "heritage",
+        "comfort food",
+        "easy"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singaporean Chinese home cooks.",
+      "origin": "Chinese community in Singapore; a home-style comfort dish also found at hawker stalls.",
+      "imageId": "ric_003.jpeg",
+      "tags": [
+        "aromatics",
+        "chinese",
+        "comfort food",
+        "comforting",
+        "cooked",
+        "dish",
+        "dried",
+        "easy",
+        "fan",
+        "favorite",
+        "featuring",
+        "hawker",
+        "hearty",
+        "heritage",
+        "home",
+        "home-style",
+        "mushrooms",
+        "nankua",
+        "pumpkin",
+        "rice",
+        "savory",
+        "shrimp",
+        "singapore",
+        "stalls",
+        "style",
+        "sweet"
+      ],
+      "cost": {
+        "total_sgd": 63.32,
+        "ingredients_sgd": 62.92,
+        "energy_sgd": 0.4,
+        "per_serving_sgd": 10.55,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "pumpkin, peeled and cubed",
+            "cost_sgd": 0.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "dried shrimp",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "shiitake mushrooms, soaked and sliced",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water or stock",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.5,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "spring onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 13.984,
+        "ingredients_kgco2e": 13.44,
+        "energy_kgco2e": 0.544,
+        "per_serving_kgco2e": 2.331
+      }
+    },
+    {
+      "id": "ric_004",
+      "name": "Yam Rice (Orh Nee Fan)",
+      "difficulty": "Easy",
+      "prep_time": "15 minutes",
+      "cook_time": "40 minutes",
+      "servings": 6.0,
+      "description": "A hearty Teochew/Chinese rice dish in Singapore, featuring rice cooked with yam, dried shrimp, mushrooms, and aromatics. Savory, earthy, and perfect with braised duck or pork dishes.",
+      "ingredients": {
+        "main": {
+          "rice": "2 cups, rinsed",
+          "yam (taro), peeled and cubed": "300g",
+          "dried shrimp": "2 tbsp, soaked and chopped",
+          "shiitake mushrooms, soaked and sliced": "4",
+          "garlic": "2 cloves, minced",
+          "shallots": "2, sliced",
+          "light soy sauce": "2 tbsp",
+          "oyster sauce": "1 tbsp",
+          "white pepper": "to taste",
+          "water or stock": "2.5 cups",
+          "oil": "2 tbsp",
+          "spring onion": "for garnish"
+        }
+      },
+      "steps": [
+        "Heat oil in a wok. Sauté garlic, shallots, dried shrimp, and mushrooms until fragrant.",
+        "Add yam and rice, stir to coat with aromatics.",
+        "Add soy sauce, oyster sauce, pepper, and water/stock. Mix well and transfer to a rice cooker or pot.",
+        "Cook as you would regular rice. Once done, fluff and garnish with spring onion. Serve hot, ideally with braised duck."
+      ],
+      "tips": [
+        "Use fresh yam (taro) for best texture.",
+        "Add pork belly or Chinese sausage for a richer version.",
+        "Leftovers can be pan-fried for a crispy bottom."
+      ],
+      "themes": [
+        "rice",
+        "Chinese",
+        "Teochew",
+        "heritage",
+        "comfort food",
+        "easy"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singaporean Chinese home cooks.",
+      "origin": "Teochew and Chinese communities in Singapore; a classic pairing with braised duck.",
+      "imageId": "ric_004.jpeg",
+      "tags": [
+        "aromatics",
+        "braised",
+        "chinese",
+        "comfort food",
+        "cooked",
+        "dish",
+        "dishes",
+        "dried",
+        "duck",
+        "earthy",
+        "easy",
+        "fan",
+        "featuring",
+        "hearty",
+        "heritage",
+        "mushrooms",
+        "nee",
+        "orh",
+        "perfect",
+        "pork",
+        "rice",
+        "savory",
+        "shrimp",
+        "singapore",
+        "teochew",
+        "yam"
+      ],
+      "cost": {
+        "total_sgd": 63.47,
+        "ingredients_sgd": 63.07,
+        "energy_sgd": 0.4,
+        "per_serving_sgd": 10.58,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "yam (taro), peeled and cubed",
+            "cost_sgd": 0.75,
+            "emissions_kgco2e": 0.0,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "dried shrimp",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "shiitake mushrooms, soaked and sliced",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water or stock",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.5,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "spring onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 13.984,
+        "ingredients_kgco2e": 13.44,
+        "energy_kgco2e": 0.544,
+        "per_serving_kgco2e": 2.331
+      }
+    },
+    {
+      "id": "noo_005",
+      "name": "Braised Ee Mien (E-Fu Noodles)",
+      "difficulty": "Medium",
+      "prep_time": "15 minutes",
+      "cook_time": "20 minutes",
+      "servings": 3.0,
+      "description": "A classic banquet and hawker dish of braised E-Fu (Ee Mien) noodles, stir-fried with garlic chives, mushrooms, and a savory sauce. Soft, springy noodles with a rich umami flavor, often served at celebrations.",
+      "ingredients": {
+        "main": {
+          "dried E-Fu noodles": "150g",
+          "yellow garlic chives": "40g, cut into 2cm strips",
+          "shiitake mushrooms": "5, soaked and sliced",
+          "chopped garlic": "1 tbsp",
+          "cooking oil": "2 tbsp"
+        },
+        "seasoning": {
+          "oyster sauce": "2 tbsp",
+          "light soy sauce": "2 tbsp",
+          "dark soy sauce": "2 tbsp",
+          "hua tiao wine": "1 tsp",
+          "sugar": "1 tsp",
+          "chicken stock": "2/3 cup (or 1/3 cup stock + 1/3 cup water)",
+          "sesame oil": "2 tsp",
+          "kecap manis": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Soak mushrooms in boiling water until softened, then slice.",
+        "Blanch E-Fu noodles in boiling water for 2 minutes, separate, rinse under cold water, and drain.",
+        "Heat oil in wok, fry garlic until fragrant, add mushrooms, then chives, and 2 tbsp seasoning. Stir-fry briefly.",
+        "Add noodles and remaining seasoning. Stir-fry to coat and allow noodles to absorb sauce.",
+        "Finish with sesame oil and kecap manis. Serve with sliced green chili."
+      ],
+      "tips": [
+        "For extra umami, add a pinch of dried solefish or anchovy powder. Can add shredded chicken or prawns for a more substantial dish."
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 12,
+        "carbohydrates": 65,
+        "fat": 12
+      },
+      "source": "https://theninjacook.weebly.com/culinary-adventures/braised-e-fu-noodles",
+      "imageId": "noo_005.jpeg",
+      "steps": [
+        "Soak mushrooms in boiling water until softened, then slice.",
+        "Blanch E-Fu noodles in boiling water for 2 minutes, separate, rinse under cold water, and drain.",
+        "Heat oil in wok, fry garlic until fragrant, add mushrooms, then chives, and 2 tbsp seasoning. Stir-fry briefly.",
+        "Add noodles and remaining seasoning. Stir-fry to coat and allow noodles to absorb sauce.",
+        "Finish with sesame oil and kecap manis. Serve with sliced green chili."
+      ],
+      "tags": [
+        "banquet",
+        "braised",
+        "celebrations",
+        "chives",
+        "classic",
+        "dish",
+        "flavor",
+        "fried",
+        "garlic",
+        "hawker",
+        "mien",
+        "mushrooms",
+        "noodles",
+        "often",
+        "rich",
+        "sauce",
+        "savory",
+        "served",
+        "soft",
+        "springy",
+        "stir",
+        "umami"
+      ],
+      "cost": {
+        "total_sgd": 59.46,
+        "ingredients_sgd": 59.26,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 19.82,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "dried E-Fu noodles",
+            "cost_sgd": 0.49,
+            "emissions_kgco2e": 0.375,
+            "amount": 150.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "yellow garlic chives",
+            "cost_sgd": 0.26,
+            "emissions_kgco2e": 0.06,
+            "amount": 40.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "shiitake mushrooms",
+            "cost_sgd": 40.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 5.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "chopped garlic",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.022,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "cooking oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "hua tiao wine",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "chicken stock",
+            "cost_sgd": 17.6,
+            "emissions_kgco2e": 12.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sesame oil",
+            "cost_sgd": 0.08,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "kecap manis",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 13.034,
+        "ingredients_kgco2e": 12.762,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 4.345
+      }
+    },
+    {
+      "id": "noo_006",
+      "name": "Sheng Mian (Crispy/Soft-Fried Noodles)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "15 minutes",
+      "servings": 2.0,
+      "description": "A Singaporean zi char classic: egg noodles fried until crispy or soft, topped with a savory gravy of seafood, pork, and vegetables. Known for its textural contrast and rich, silky sauce.",
+      "ingredients": {
+        "main": {
+          "fresh egg noodles": "200g",
+          "prawns": "6, peeled and deveined",
+          "squid": "100g, sliced",
+          "lean pork": "80g, sliced thin",
+          "choy sum": "50g, cut into 5cm pieces",
+          "carrot": "1 small, julienned",
+          "shiitake mushrooms": "2, sliced",
+          "garlic": "2 cloves, minced",
+          "cooking oil": "3 tbsp"
+        },
+        "gravy": {
+          "chicken stock": "1 cup",
+          "oyster sauce": "1 tbsp",
+          "light soy sauce": "1 tbsp",
+          "cornstarch": "1 tbsp (mixed with 2 tbsp water)",
+          "white pepper": "to taste",
+          "sesame oil": "1 tsp"
+        }
+      },
+      "preparation": [
+        "Blanch noodles, then pan-fry in 2 tbsp oil until golden and crisp (for crispy version) or just until lightly browned (for soft version). Set aside.",
+        "Heat remaining oil, fry garlic, then add pork, prawns, squid, mushrooms, carrot, and choy sum. Stir-fry until just cooked.",
+        "Add chicken stock, oyster sauce, soy sauce, and bring to a simmer.",
+        "Thicken with cornstarch slurry, season with pepper and sesame oil.",
+        "Pour gravy and toppings over noodles. Serve immediately."
+      ],
+      "tips": [
+        "For extra wok hei, use a very hot wok. Can substitute seafood with chicken or omit for vegetarian version."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbohydrates": 65,
+        "fat": 18
+      },
+      "source": "https://www.noobcook.com/sheng-mian/",
+      "imageId": "noo_006.jpeg",
+      "steps": [
+        "Blanch noodles, then pan-fry in 2 tbsp oil until golden and crisp (for crispy version) or just until lightly browned (for soft version). Set aside.",
+        "Heat remaining oil, fry garlic, then add pork, prawns, squid, mushrooms, carrot, and choy sum. Stir-fry until just cooked.",
+        "Add chicken stock, oyster sauce, soy sauce, and bring to a simmer.",
+        "Thicken with cornstarch slurry, season with pepper and sesame oil.",
+        "Pour gravy and toppings over noodles. Serve immediately."
+      ],
+      "tags": [
+        "char",
+        "classic",
+        "contrast",
+        "crispy",
+        "egg",
+        "fried",
+        "gravy",
+        "known",
+        "mian",
+        "noodles",
+        "pork",
+        "rich",
+        "sauce",
+        "savory",
+        "seafood",
+        "sheng",
+        "silky",
+        "singaporean",
+        "soft",
+        "textural",
+        "topped",
+        "vegetables"
+      ],
+      "cost": {
+        "total_sgd": 168.73,
+        "ingredients_sgd": 168.58,
+        "energy_sgd": 0.15,
+        "per_serving_sgd": 84.37,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "fresh egg noodles",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.9,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "prawns",
+            "cost_sgd": 132.0,
+            "emissions_kgco2e": 108.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "squid",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "lean pork",
+            "cost_sgd": 1.06,
+            "emissions_kgco2e": 0.56,
+            "amount": 80.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "choy sum",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "carrot",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.8,
+            "amount": 1.0,
+            "unit": "small"
+          },
+          {
+            "ingredient": "shiitake mushrooms",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "cooking oil",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.27,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chicken stock",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.5,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sesame oil",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 115.264,
+        "ingredients_kgco2e": 115.06,
+        "energy_kgco2e": 0.204,
+        "per_serving_kgco2e": 57.632
+      }
+    },
+    {
+      "id": "noo_007",
+      "name": "Yangzhou Fried Rice (Yang Chow Chao Fan)",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "servings": 4.0,
+      "description": "A beloved fried rice dish with origins in Yangzhou, China, but a staple at Singapore zi char stalls. Features fluffy rice, prawns, char siu, egg, and vegetables, all tossed with a hint of rice wine.",
+      "ingredients": {
+        "main": {
+          "cooked jasmine rice (day-old)": "3 cups",
+          "prawns": "100g, peeled and diced",
+          "char siu (roast pork)": "80g, diced",
+          "egg": "2, beaten",
+          "carrot": "30g, diced",
+          "green peas": "30g",
+          "spring onion": "2 stalks, chopped",
+          "shallots": "2, sliced",
+          "garlic": "2 cloves, minced",
+          "cooking oil": "3 tbsp"
+        },
+        "seasoning": {
+          "light soy sauce": "1 tbsp",
+          "white pepper": "to taste",
+          "salt": "to taste",
+          "Shaoxing rice wine": "2 tsp"
+        }
+      },
+      "preparation": [
+        "Heat oil in wok, fry shallots and garlic until fragrant.",
+        "Add prawns and char siu, stir-fry until prawns turn pink.",
+        "Push to side, add beaten eggs, scramble until just set.",
+        "Add rice, carrot, peas, and toss to combine.",
+        "Season with soy sauce, pepper, salt, and drizzle rice wine around the wok.",
+        "Stir-fry on high heat until rice is dry and fluffy. Finish with spring onion."
+      ],
+      "tips": [
+        "Use day-old rice for best texture. Can substitute char siu with ham or omit for vegetarian version."
+      ],
+      "nutrition": {
+        "calories": 410,
+        "protein": 16,
+        "carbohydrates": 62,
+        "fat": 10
+      },
+      "source": "https://www.julieolive.co.uk/2023/05/09/traditional-yang-chow-yangzhou-fried-rice-%E6%89%AC%E5%B7%9E%E7%82%92%E9%A5%AD/",
+      "imageId": "noo_007.jpeg",
+      "steps": [
+        "Heat oil in wok, fry shallots and garlic until fragrant.",
+        "Add prawns and char siu, stir-fry until prawns turn pink.",
+        "Push to side, add beaten eggs, scramble until just set.",
+        "Add rice, carrot, peas, and toss to combine.",
+        "Season with soy sauce, pepper, salt, and drizzle rice wine around the wok.",
+        "Stir-fry on high heat until rice is dry and fluffy. Finish with spring onion."
+      ],
+      "tags": [
+        "beloved",
+        "chao",
+        "char",
+        "china",
+        "chow",
+        "dish",
+        "egg",
+        "fan",
+        "features",
+        "fluffy",
+        "fried",
+        "hint",
+        "origins",
+        "prawns",
+        "rice",
+        "singapore",
+        "siu",
+        "stalls",
+        "staple",
+        "tossed",
+        "vegetables",
+        "wine",
+        "yang",
+        "yangzhou"
+      ],
+      "cost": {
+        "total_sgd": 39.9,
+        "ingredients_sgd": 39.75,
+        "energy_sgd": 0.15,
+        "per_serving_sgd": 9.97,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "cooked jasmine rice (day-old)",
+            "cost_sgd": 6.6,
+            "emissions_kgco2e": 13.5,
+            "amount": 3.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "prawns",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.8,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "char siu (roast pork)",
+            "cost_sgd": 1.06,
+            "emissions_kgco2e": 0.56,
+            "amount": 80.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "egg",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "carrot",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.024,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "green peas",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "spring onion",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "stalks"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "cooking oil",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.27,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "Shaoxing rice wine",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.045,
+            "amount": 2.0,
+            "unit": "tsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 31.333,
+        "ingredients_kgco2e": 31.129,
+        "energy_kgco2e": 0.204,
+        "per_serving_kgco2e": 7.833
+      }
+    },
+    {
+      "id": "noo_008",
+      "name": "XO Fish Head Bee Hoon",
+      "difficulty": "Hard",
+      "prep_time": "20 minutes",
+      "cook_time": "35 minutes",
+      "servings": 4.0,
+      "description": "A luxurious Singaporean noodle soup featuring fried fish head or fillet, thick bee hoon (rice vermicelli), choy sum, tomatoes, and a milky, aromatic broth enriched with XO cognac.",
+      "ingredients": {
+        "main": {
+          "thick rice vermicelli (bee hoon)": "500g",
+          "firm white fish fillet or head": "500g (snakehead, grouper, snapper, or cod)",
+          "choy sum": "6-7 stalks",
+          "tomatoes": "2, quartered",
+          "cooking oil": "for frying"
+        },
+        "aromatics": {
+          "ginger": "1 thumb-sized, sliced",
+          "garlic": "4 cloves, minced",
+          "white part of green onion": "3 stalks, cut into 2-inch pieces"
+        },
+        "marinade": {
+          "fish sauce": "1 tbsp",
+          "XO cognac or brandy": "1 tbsp",
+          "sugar": "1/4 tsp",
+          "white pepper": "1/4 tsp"
+        },
+        "soup base": {
+          "chicken stock": "6 cups",
+          "chicken or fish powder": "1 tbsp",
+          "evaporated milk": "1 cup",
+          "fish sauce": "1 tbsp (or to taste)",
+          "sugar": "1/4 tsp"
+        },
+        "to fry fish": {
+          "rice flour": "1/4 cup",
+          "cornstarch": "1/4 cup"
+        },
+        "toppings": {
+          "crispy fried shallots": "to taste",
+          "XO cognac or brandy": "1 tbsp, optional"
+        }
+      },
+      "preparation": [
+        "Marinate fish with fish sauce, XO, sugar, and pepper. Set aside in fridge.",
+        "Blanch choy sum and set aside. Cook noodles per package instructions.",
+        "Coat fish in rice flour and cornstarch, deep-fry until golden and crispy. Set aside.",
+        "In a large pot, heat oil, fry ginger, garlic, and white part of green onion until fragrant.",
+        "Add chicken stock, evaporated milk, chicken/fish powder, fish sauce, sugar, and tomatoes. Bring to a boil.",
+        "To serve: Place noodles, choy sum, and tomatoes in bowl. Ladle hot broth over, top with fried fish, fried shallots, and a splash of XO. Serve immediately."
+      ],
+      "tips": [
+        "For a lighter version, use boiled fish instead of fried. Adjust XO to taste or omit for non-alcoholic version."
+      ],
+      "nutrition": {
+        "calories": 600,
+        "protein": 32,
+        "carbohydrates": 70,
+        "fat": 22
+      },
+      "source": "https://whattocooktoday.com/xo-fish-bee-hoon-soup.html",
+      "imageId": "noo_008.jpeg",
+      "steps": [
+        "Marinate fish with fish sauce, XO, sugar, and pepper. Set aside in fridge.",
+        "Blanch choy sum and set aside. Cook noodles per package instructions.",
+        "Coat fish in rice flour and cornstarch, deep-fry until golden and crispy. Set aside.",
+        "In a large pot, heat oil, fry ginger, garlic, and white part of green onion until fragrant.",
+        "Add chicken stock, evaporated milk, chicken/fish powder, fish sauce, sugar, and tomatoes. Bring to a boil.",
+        "To serve: Place noodles, choy sum, and tomatoes in bowl. Ladle hot broth over, top with fried fish, fried shallots, and a splash of XO. Serve immediately."
+      ],
+      "tags": [
+        "aromatic",
+        "bee",
+        "broth",
+        "choy",
+        "cognac",
+        "enriched",
+        "featuring",
+        "fillet",
+        "fish",
+        "fried",
+        "head",
+        "hoon",
+        "luxurious",
+        "milky",
+        "noodle",
+        "rice",
+        "singaporean",
+        "soup",
+        "sum",
+        "thick",
+        "tomatoes",
+        "vermicelli"
+      ],
+      "cost": {
+        "total_sgd": 133.42,
+        "ingredients_sgd": 133.07,
+        "energy_sgd": 0.35,
+        "per_serving_sgd": 33.35,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "thick rice vermicelli (bee hoon)",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 2.25,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "firm white fish fillet or head",
+            "cost_sgd": 8.25,
+            "emissions_kgco2e": 2.5,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "choy sum",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tomatoes",
+            "cost_sgd": 1.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cooking oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "thumb"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "white part of green onion",
+            "cost_sgd": 6.6,
+            "emissions_kgco2e": 3.6,
+            "amount": 3.0,
+            "unit": "stalks"
+          },
+          {
+            "ingredient": "fish sauce",
+            "cost_sgd": 0.25,
+            "emissions_kgco2e": 0.075,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "XO cognac or brandy",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 1.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "chicken stock",
+            "cost_sgd": 52.8,
+            "emissions_kgco2e": 36.0,
+            "amount": 6.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "chicken or fish powder",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.09,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "evaporated milk",
+            "cost_sgd": 0.55,
+            "emissions_kgco2e": 0.475,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "fish sauce",
+            "cost_sgd": 0.25,
+            "emissions_kgco2e": 0.075,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 1.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "rice flour",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "crispy fried shallots",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "XO cognac or brandy",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 64.041,
+        "ingredients_kgco2e": 63.565,
+        "energy_kgco2e": 0.476,
+        "per_serving_kgco2e": 16.01
+      }
+    },
+    {
+      "id": "noo_009",
+      "name": "Laksa",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "45 minutes",
+      "servings": 4.0,
+      "description": "Spicy coconut curry noodle soup with prawns, fish cakes, and cockles.",
+      "ingredients": {
+        "broth": {
+          "coconut milk": "1L",
+          "chicken stock": "500ml",
+          "laksa paste": "200g",
+          "lemongrass": "2 stalks, bruised",
+          "galangal": "50g, sliced"
+        },
+        "noodles": {
+          "rice vermicelli": "400g",
+          "bean sprouts": "200g"
+        },
+        "toppings": {
+          "prawns": "300g, peeled",
+          "fish cakes": "200g, sliced",
+          "cockles": "200g (optional)",
+          "hard-boiled eggs": "4, halved"
+        },
+        "garnishes": {
+          "laksa leaves": "1 cup",
+          "mint leaves": "1/2 cup",
+          "red chili": "2, sliced",
+          "lime": "2, cut into wedges"
+        }
+      },
+      "steps": [
+        "In a large pot, heat oil and fry laksa paste until fragrant.",
+        "Add lemongrass and galangal, cook for 2 minutes.",
+        "Add coconut milk and chicken stock, bring to boil.",
+        "Simmer for 30 minutes to develop flavors.",
+        "Cook rice vermicelli according to package instructions.",
+        "Add prawns and fish cakes to broth, cook for 3 minutes.",
+        "Add cockles if using, cook for 1 minute.",
+        "Divide noodles and bean sprouts among bowls.",
+        "Ladle hot broth over noodles.",
+        "Top with eggs and garnishes, serve with lime wedges."
+      ],
+      "tips": [
+        "Use fresh coconut milk for best flavor.",
+        "Adjust spiciness by adding more or less laksa paste.",
+        "Don't overcook the seafood - it should be just done."
+      ],
+      "themes": [
+        "heritage",
+        "hawker food",
+        "local favourite",
+        "noodle",
+        "seafood",
+        "comfort food"
+      ],
+      "source": "https://www.seriouseats.com/singapore-laksa-recipe",
+      "origin": "Laksa is a Peranakan dish with Chinese and Malay roots, famous for its spicy coconut broth and rice noodles. It is a staple in Singaporean hawker centres and a symbol of the country's multicultural cuisine.",
+      "imageId": "noo_009.jpeg",
+      "tags": [
+        "cakes",
+        "cockles",
+        "coconut",
+        "comfort food",
+        "curry",
+        "fish",
+        "hawker food",
+        "heritage",
+        "laksa",
+        "local favourite",
+        "noodle",
+        "prawns",
+        "seafood",
+        "soup",
+        "spicy"
+      ],
+      "cost": {
+        "total_sgd": 46.85,
+        "ingredients_sgd": 46.4,
+        "energy_sgd": 0.45,
+        "per_serving_sgd": 11.71,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.9,
+            "amount": 1.0,
+            "unit": "l"
+          },
+          {
+            "ingredient": "chicken stock",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 3.0,
+            "amount": 500.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "laksa paste",
+            "cost_sgd": 1.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "lemongrass",
+            "cost_sgd": 1.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "stalks"
+          },
+          {
+            "ingredient": "galangal",
+            "cost_sgd": 0.3,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "rice vermicelli",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 1.8,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "bean sprouts",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "prawns",
+            "cost_sgd": 6.6,
+            "emissions_kgco2e": 5.4,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "fish cakes",
+            "cost_sgd": 3.3,
+            "emissions_kgco2e": 1.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "cockles",
+            "cost_sgd": 1.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "hard-boiled eggs",
+            "cost_sgd": 1.32,
+            "emissions_kgco2e": 18.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "laksa leaves",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "mint leaves",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "red chili",
+            "cost_sgd": 17.6,
+            "emissions_kgco2e": 4.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "lime",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 35.712,
+        "ingredients_kgco2e": 35.1,
+        "energy_kgco2e": 0.612,
+        "per_serving_kgco2e": 8.928
+      }
+    },
+    {
+      "id": "noo_010",
+      "name": "Katong Laksa",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "30 minutes",
+      "servings": 4.0,
+      "description": "Famous Singaporean laksa with thick rice noodles, prawns, fish cake, and spicy coconut broth.",
+      "ingredients": {
+        "broth": {
+          "coconut milk": "400ml",
+          "chicken stock": "2L",
+          "laksa paste": "200g",
+          "lemongrass": "2 stalks, bruised"
+        },
+        "noodles": {
+          "thick rice vermicelli": "400g",
+          "bean sprouts": "100g"
+        },
+        "toppings": {
+          "prawns": "200g, peeled",
+          "fish cakes": "200g, sliced",
+          "hard-boiled eggs": "2, halved"
+        },
+        "garnishes": {
+          "laksa leaves": "1/2 cup, chopped"
+        }
+      },
+      "steps": [
+        "Blanch rice vermicelli in boiling water, drain and set aside.",
+        "Heat oil in a pot, fry laksa paste until fragrant.",
+        "Add chicken stock and bring to a boil.",
+        "Add prawns and cook until pink, remove and set aside.",
+        "Add coconut milk and simmer for 5 minutes. Season with salt.",
+        "To serve, place noodles in a bowl, top with prawns, fish cake, bean sprouts, and egg.",
+        "Ladle hot laksa broth over and garnish with laksa leaves."
+      ],
+      "tips": [
+        "Use fresh coconut milk for best flavor.",
+        "Adjust spiciness by adding more or less laksa paste.",
+        "Don't overcook the seafood - it should be just done."
+      ],
+      "themes": [
+        "hawker food",
+        "heritage",
+        "noodle",
+        "seafood"
+      ],
+      "source": "https://ieatishootipost.sg/katong-laksa-recipe/",
+      "origin": "Katong Laksa is a signature dish of the Katong area in Singapore, known for its short cut noodles and rich, spicy coconut broth.",
+      "imageId": "noo_010.jpeg",
+      "tags": [
+        "broth",
+        "cake",
+        "coconut",
+        "famous",
+        "fish",
+        "hawker food",
+        "heritage",
+        "katong",
+        "laksa",
+        "noodle",
+        "noodles",
+        "prawns",
+        "rice",
+        "seafood",
+        "singaporean",
+        "spicy",
+        "thick"
+      ],
+      "cost": {
+        "total_sgd": 39.12,
+        "ingredients_sgd": 38.82,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 9.78,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 0.76,
+            "amount": 400.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "chicken stock",
+            "cost_sgd": 17.6,
+            "emissions_kgco2e": 12.0,
+            "amount": 2.0,
+            "unit": "l"
+          },
+          {
+            "ingredient": "laksa paste",
+            "cost_sgd": 1.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "lemongrass",
+            "cost_sgd": 1.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "stalks"
+          },
+          {
+            "ingredient": "thick rice vermicelli",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 1.8,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "bean sprouts",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "prawns",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 3.6,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "fish cakes",
+            "cost_sgd": 3.3,
+            "emissions_kgco2e": 1.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "hard-boiled eggs",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "laksa leaves",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 28.568,
+        "ingredients_kgco2e": 28.16,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 7.142
+      }
+    },
+    {
+      "id": "noo_011",
+      "name": "Satay Bee Hoon",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "30 minutes",
+      "servings": 4.0,
+      "description": "Rice vermicelli topped with a spicy peanut satay sauce, cuttlefish, cockles, and vegetables.",
+      "ingredients": {
+        "noodles": {
+          "rice vermicelli": "400g"
+        },
+        "toppings": {
+          "cuttlefish": "100g, blanched and sliced",
+          "cockles": "100g, blanched",
+          "kang kong": "100g, blanched",
+          "beansprouts": "100g, blanched",
+          "prawns": "100g, blanched"
+        },
+        "satay sauce": {
+          "peanuts": "200g, roasted and ground",
+          "chili paste": "2 tbsp",
+          "garlic": "2 cloves, minced",
+          "shallots": "2, minced",
+          "tamarind juice": "2 tbsp",
+          "sugar": "2 tbsp",
+          "water": "500ml"
+        }
+      },
+      "steps": [
+        "Blend peanuts, chili, garlic, and shallots. Fry in oil until fragrant.",
+        "Add tamarind juice, sugar, and water. Simmer until thickened.",
+        "Blanch vermicelli and toppings. Arrange in bowl, pour satay sauce over."
+      ],
+      "tips": [
+        "Use freshly roasted peanuts for best flavor.",
+        "Adjust chili to taste."
+      ],
+      "themes": [
+        "hawker food",
+        "noodle",
+        "heritage"
+      ],
+      "source": "https://www.noobcook.com/satay-bee-hoon/",
+      "origin": "Satay Bee Hoon is a unique Singaporean hawker dish combining Chinese rice noodles with Malay-style satay sauce.",
+      "imageId": "noo_011.jpeg",
+      "tags": [
+        "bee",
+        "cockles",
+        "cuttlefish",
+        "hawker food",
+        "heritage",
+        "hoon",
+        "noodle",
+        "peanut",
+        "rice",
+        "satay",
+        "sauce",
+        "spicy",
+        "topped",
+        "vegetables",
+        "vermicelli"
+      ],
+      "cost": {
+        "total_sgd": 30.2,
+        "ingredients_sgd": 29.9,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 7.55,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice vermicelli",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 1.8,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "cuttlefish",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 0.5,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "cockles",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "kang kong",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "beansprouts",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "prawns",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.8,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "peanuts",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "chili paste",
+            "cost_sgd": 0.26,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tamarind juice",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 500.0,
+            "unit": "ml"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 7.598,
+        "ingredients_kgco2e": 7.19,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 1.899
+      }
+    },
+    {
+      "id": "noo_012",
+      "name": "Singapore Prawn Noodles (Hae Mee)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "1 hour 30 minutes",
+      "servings": 4.0,
+      "description": "A beloved Singaporean hawker noodle soup featuring a rich, aromatic prawn and pork broth, yellow noodles, prawns, pork slices, bean sprouts, and fried shallots. Served with spicy sambal and lime.",
+      "ingredients": {
+        "broth": {
+          "prawn heads and shells": "400g (from 500g prawns)",
+          "pork ribs": "400g, cut into pieces",
+          "garlic": "4 cloves, smashed",
+          "white peppercorns": "1 tsp",
+          "rock sugar": "1 tbsp",
+          "water": "2 litres"
+        },
+        "main": {
+          "yellow noodles": "400g",
+          "rice vermicelli (bee hoon)": "200g",
+          "prawns": "500g, peeled and deveined (shells reserved for broth)",
+          "bean sprouts": "200g",
+          "kang kong (water spinach)": "100g, cut into 2-inch lengths",
+          "fish cake": "1, sliced",
+          "fried shallots": "to garnish"
+        },
+        "to serve": {
+          "sambal chili": "as needed",
+          "lime wedges": "as needed"
+        }
+      },
+      "preparation": [
+        "Peel and devein prawns, reserving heads and shells. Set prawns aside.",
+        "In a large pot, heat a little oil and fry prawn heads and shells until fragrant and red. Add garlic and peppercorns, fry briefly.",
+        "Add water and pork ribs. Bring to a boil, skim scum, then simmer 1 hour. Add rock sugar and season with salt to taste.",
+        "Blanch prawns, fish cake, and kang kong in boiling water. Blanch yellow noodles and bee hoon separately.",
+        "To serve: Place noodles in bowls, top with prawns, pork ribs, fish cake, bean sprouts, and kang kong. Ladle hot prawn broth over. Garnish with fried shallots. Serve with sambal and lime."
+      ],
+      "tips": [
+        "Use fresh prawn heads and shells for the richest broth.",
+        "Add pork skin or dried sole fish for extra umami if desired."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": "32g",
+        "carbohydrates": "65g",
+        "fat": "14g"
+      },
+      "source": "Adapted from Rasa Malaysia, The MeatMen, and Singapore hawker stalls.",
+      "imageId": "noo_012.jpeg",
+      "steps": [
+        "Peel and devein prawns, reserving heads and shells. Set prawns aside.",
+        "In a large pot, heat a little oil and fry prawn heads and shells until fragrant and red. Add garlic and peppercorns, fry briefly.",
+        "Add water and pork ribs. Bring to a boil, skim scum, then simmer 1 hour. Add rock sugar and season with salt to taste.",
+        "Blanch prawns, fish cake, and kang kong in boiling water. Blanch yellow noodles and bee hoon separately.",
+        "To serve: Place noodles in bowls, top with prawns, pork ribs, fish cake, bean sprouts, and kang kong. Ladle hot prawn broth over. Garnish with fried shallots. Serve with sambal and lime."
+      ],
+      "tags": [
+        "aromatic",
+        "bean",
+        "beloved",
+        "broth",
+        "featuring",
+        "fried",
+        "hae",
+        "hawker",
+        "lime",
+        "mee",
+        "noodle",
+        "noodles",
+        "pork",
+        "prawn",
+        "prawns",
+        "rich",
+        "sambal",
+        "served",
+        "shallots",
+        "singapore",
+        "singaporean",
+        "slices",
+        "soup",
+        "spicy",
+        "sprouts",
+        "yellow"
+      ],
+      "cost": {
+        "total_sgd": 83.48,
+        "ingredients_sgd": 83.47,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 20.87,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "prawn heads and shells",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 7.2,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "pork ribs",
+            "cost_sgd": 5.28,
+            "emissions_kgco2e": 2.8,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "white peppercorns",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "rock sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "litres"
+          },
+          {
+            "ingredient": "yellow noodles",
+            "cost_sgd": 1.32,
+            "emissions_kgco2e": 1.0,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "rice vermicelli (bee hoon)",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.9,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "prawns",
+            "cost_sgd": 11.0,
+            "emissions_kgco2e": 9.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "bean sprouts",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "kang kong (water spinach)",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "fish cake",
+            "cost_sgd": 16.5,
+            "emissions_kgco2e": 5.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fried shallots",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sambal chili",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "lime wedges",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 33.929,
+        "ingredients_kgco2e": 33.915,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 8.482
+      }
+    },
+    {
+      "id": "noo_013",
+      "name": "Chicken Claypot Rice (Claypot Ji Fan)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes (plus soaking)",
+      "cook_time": "1 hour",
+      "servings": 4.0,
+      "description": "A classic Cantonese-Singaporean dish: fragrant rice cooked in a claypot with marinated chicken, Chinese sausage, mushrooms, and salted fish. Finished with a savory soy sauce and crispy rice crust.",
+      "ingredients": {
+        "rice": "2 cups, rinsed and soaked 30 min",
+        "chicken thigh (bone-in, chopped)": "400g",
+        "Chinese sausage (lap cheong)": "2, sliced",
+        "dried shiitake mushrooms": "4, soaked and sliced",
+        "salted fish (optional)": "30g, diced",
+        "ginger": "3 slices",
+        "spring onions": "2, chopped",
+        "marinade": {
+          "soy sauce": "1 tbsp",
+          "oyster sauce": "1 tbsp",
+          "Shaoxing wine": "1 tbsp",
+          "sesame oil": "1 tsp",
+          "sugar": "1 tsp",
+          "white pepper": "1/2 tsp",
+          "cornstarch": "1 tsp"
+        },
+        "sauce": {
+          "light soy sauce": "2 tbsp",
+          "dark soy sauce": "1 tbsp",
+          "hot water": "2 tbsp",
+          "sugar": "1 tsp"
+        }
+      },
+      "preparation": [
+        "Marinate chicken with marinade ingredients for at least 30 minutes.",
+        "Drain soaked rice and add to claypot with 2.5 cups water. Bring to a boil, then simmer 10 minutes.",
+        "Arrange chicken, mushrooms, sausage, ginger, and salted fish on top. Cover and cook 20–25 minutes on low heat until chicken is cooked and rice is tender.",
+        "Mix sauce ingredients and pour over rice. Garnish with spring onions. Serve hot, scraping up crispy rice crust."
+      ],
+      "tips": [
+        "Use a heavy claypot for best results.",
+        "Add salted fish for authentic flavor, but it can be omitted."
+      ],
+      "nutrition": {
+        "calories": 650,
+        "protein": "32g",
+        "carbohydrates": "80g",
+        "fat": "22g"
+      },
+      "source": "Adapted from The Woks of Life, Rasa Malaysia, and Singapore hawker stalls.",
+      "imageId": "noo_013.jpeg",
+      "steps": [
+        "Marinate chicken with marinade ingredients for at least 30 minutes.",
+        "Drain soaked rice and add to claypot with 2.5 cups water. Bring to a boil, then simmer 10 minutes.",
+        "Arrange chicken, mushrooms, sausage, ginger, and salted fish on top. Cover and cook 20–25 minutes on low heat until chicken is cooked and rice is tender.",
+        "Mix sauce ingredients and pour over rice. Garnish with spring onions. Serve hot, scraping up crispy rice crust."
+      ],
+      "tags": [
+        "cantonese",
+        "chicken",
+        "chinese",
+        "classic",
+        "claypot",
+        "cooked",
+        "crispy",
+        "crust",
+        "dish",
+        "fan",
+        "finished",
+        "fish",
+        "fragrant",
+        "marinated",
+        "mushrooms",
+        "rice",
+        "salted",
+        "sauce",
+        "sausage",
+        "savory",
+        "singaporean",
+        "soy"
+      ],
+      "cost": {
+        "total_sgd": 69.26,
+        "ingredients_sgd": 69.25,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 17.31,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "chicken thigh (bone-in, chopped)",
+            "cost_sgd": 3.52,
+            "emissions_kgco2e": 2.4,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "Chinese sausage (lap cheong)",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dried shiitake mushrooms",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salted fish (optional)",
+            "cost_sgd": 0.49,
+            "emissions_kgco2e": 0.15,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 18.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sesame oil",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dark soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "hot water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 14.094,
+        "ingredients_kgco2e": 14.08,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 3.523
+      }
+    },
+    {
+      "id": "noo_014",
+      "name": "Black Chicken Herbal Soup (Wu Ji Tang)",
+      "difficulty": "Medium",
+      "prep_time": "15 minutes",
+      "cook_time": "2 hours",
+      "servings": 6.0,
+      "description": "A nourishing Chinese herbal soup made with black chicken (silkie), red dates, goji berries, and a blend of traditional herbs. Tonic, restorative, and deeply flavorful.",
+      "ingredients": {
+        "Main": {
+          "black chicken (silkie)": "1, cut into pieces",
+          "red dates": "8",
+          "goji berries": "2 tbsp",
+          "dried longan": "8",
+          "Chinese yam (huai shan)": "50g, sliced",
+          "angelica root (dang gui)": "10g",
+          "solomon's seal (yu zhu)": "10g",
+          "wolfberry root (gou qi gen)": "10g",
+          "water": "2 litres",
+          "salt": "to taste"
+        }
+      },
+      "preparation": [
+        "Blanch chicken pieces in boiling water, then drain.",
+        "Add all ingredients to a large pot. Bring to a boil, then simmer 2 hours.",
+        "Season with salt. Serve hot as a nourishing soup."
+      ],
+      "tips": [
+        "Use a mix of Chinese herbs for best results.",
+        "Add more goji berries for sweetness."
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": "18g",
+        "carbohydrates": "8g",
+        "fat": "8g"
+      },
+      "source": "Adapted from The Woks of Life, Singapore home kitchens, and TCM recipes.",
+      "imageId": "noo_014.jpeg",
+      "steps": [
+        "Blanch chicken pieces in boiling water, then drain.",
+        "Add all ingredients to a large pot. Bring to a boil, then simmer 2 hours.",
+        "Season with salt. Serve hot as a nourishing soup."
+      ],
+      "tags": [
+        "berries",
+        "black",
+        "blend",
+        "chicken",
+        "chinese",
+        "dates",
+        "deeply",
+        "flavorful",
+        "goji",
+        "herbal",
+        "herbs",
+        "made",
+        "nourishing",
+        "red",
+        "restorative",
+        "silkie",
+        "soup",
+        "tang",
+        "tonic",
+        "traditional"
+      ],
+      "cost": {
+        "total_sgd": 138.53,
+        "ingredients_sgd": 138.51,
+        "energy_sgd": 0.02,
+        "per_serving_sgd": 23.09,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "black chicken (silkie)",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 6.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "red dates",
+            "cost_sgd": 64.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "goji berries",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "dried longan",
+            "cost_sgd": 64.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "Chinese yam (huai shan)",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "angelica root (dang gui)",
+            "cost_sgd": 0.08,
+            "emissions_kgco2e": 0.0,
+            "amount": 10.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "solomon's seal (yu zhu)",
+            "cost_sgd": 0.08,
+            "emissions_kgco2e": 0.0,
+            "amount": 10.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "wolfberry root (gou qi gen)",
+            "cost_sgd": 0.08,
+            "emissions_kgco2e": 0.0,
+            "amount": 10.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "litres"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 6.527,
+        "ingredients_kgco2e": 6.5,
+        "energy_kgco2e": 0.027,
+        "per_serving_kgco2e": 1.088
+      }
+    },
+    {
+      "id": "noo_015",
+      "name": "Chao Tah Bee Hoon (Crispy Rice Vermicelli Cake)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "30 minutes",
+      "servings": 4.0,
+      "description": "A Teochew-Singaporean specialty: rice vermicelli pressed and pan-fried until crispy on the outside, soft inside, served with seafood, pork, and vegetables in a savory gravy.",
+      "ingredients": {
+        "Main": {
+          "rice vermicelli (bee hoon)": "200g, soaked",
+          "prawns": "8, peeled",
+          "squid": "1 small, sliced",
+          "pork belly": "100g, sliced",
+          "cabbage": "100g, shredded",
+          "carrot": "1, julienned",
+          "mushrooms": "4, sliced",
+          "garlic": "2 cloves, minced",
+          "chicken stock": "500ml",
+          "soy sauce": "2 tbsp",
+          "oyster sauce": "1 tbsp",
+          "cornstarch": "1 tbsp (mixed with 2 tbsp water)",
+          "white pepper": "1/2 tsp",
+          "oil": "for frying"
+        }
+      },
+      "preparation": [
+        "Press soaked bee hoon into a round cake. Pan-fry in oil until golden and crisp on both sides. Remove and drain.",
+        "In a wok, sauté garlic, pork, prawns, and squid. Add vegetables, mushrooms, and stock. Season with sauces and pepper.",
+        "Thicken gravy with cornstarch slurry. Pour over crispy bee hoon cake. Serve hot."
+      ],
+      "tips": [
+        "Use a nonstick pan for best results.",
+        "Add more seafood or vegetables as desired."
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": "22g",
+        "carbohydrates": "60g",
+        "fat": "10g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Teochew restaurants.",
+      "imageId": "noo_015.jpeg",
+      "steps": [
+        "Press soaked bee hoon into a round cake. Pan-fry in oil until golden and crisp on both sides. Remove and drain.",
+        "In a wok, sauté garlic, pork, prawns, and squid. Add vegetables, mushrooms, and stock. Season with sauces and pepper.",
+        "Thicken gravy with cornstarch slurry. Pour over crispy bee hoon cake. Serve hot."
+      ],
+      "tags": [
+        "bee",
+        "cake",
+        "chao",
+        "crispy",
+        "fried",
+        "gravy",
+        "hoon",
+        "pork",
+        "pressed",
+        "rice",
+        "savory",
+        "seafood",
+        "served",
+        "singaporean",
+        "soft",
+        "specialty",
+        "tah",
+        "teochew",
+        "vegetables",
+        "vermicelli"
+      ],
+      "cost": {
+        "total_sgd": 243.23,
+        "ingredients_sgd": 242.93,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 60.81,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice vermicelli (bee hoon)",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.9,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "prawns",
+            "cost_sgd": 176.0,
+            "emissions_kgco2e": 144.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "squid",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "small"
+          },
+          {
+            "ingredient": "pork belly",
+            "cost_sgd": 1.32,
+            "emissions_kgco2e": 0.7,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "cabbage",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "carrot",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.8,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "mushrooms",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "chicken stock",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 3.0,
+            "amount": 500.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 158.868,
+        "ingredients_kgco2e": 158.46,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 39.717
+      }
+    },
+    {
+      "id": "noo_016",
+      "name": "Suan Pan Zi (Abacus Seeds)",
+      "difficulty": "Medium",
+      "prep_time": "40 minutes",
+      "cook_time": "30 minutes",
+      "servings": 6.0,
+      "description": "A classic Hakka dish popular in Singapore: chewy yam abacus seeds stir-fried with minced pork, mushrooms, dried shrimp, and black fungus. Symbolizes wealth and reunion.",
+      "ingredients": {
+        "Main": {
+          "yam (taro)": "500g, peeled and steamed",
+          "tapioca starch": "200g",
+          "salt": "1/2 tsp",
+          "water": "as needed",
+          "minced pork": "150g",
+          "dried shrimp": "30g, soaked and chopped",
+          "shiitake mushrooms": "4, soaked and sliced",
+          "black fungus": "20g, soaked and sliced",
+          "garlic": "3 cloves, minced",
+          "spring onions": "2, chopped",
+          "soy sauce": "2 tbsp",
+          "oyster sauce": "1 tbsp",
+          "white pepper": "1/2 tsp",
+          "oil": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Mash steamed yam while hot. Mix with salt and tapioca starch to form a dough. Add water as needed.",
+        "Roll into small balls, press center to form abacus shape. Boil in water until they float. Drain and set aside.",
+        "Heat oil, sauté garlic, dried shrimp, pork, mushrooms, and fungus. Add abacus seeds, season with sauces and pepper. Stir-fry well. Garnish with spring onions."
+      ],
+      "tips": [
+        "Use more yam for softer texture, more starch for chewier seeds.",
+        "Add carrots or dried cuttlefish for variation."
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": "10g",
+        "carbohydrates": "60g",
+        "fat": "6g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Hakka kitchens.",
+      "imageId": "noo_016.jpeg",
+      "steps": [
+        "Mash steamed yam while hot. Mix with salt and tapioca starch to form a dough. Add water as needed.",
+        "Roll into small balls, press center to form abacus shape. Boil in water until they float. Drain and set aside.",
+        "Heat oil, sauté garlic, dried shrimp, pork, mushrooms, and fungus. Add abacus seeds, season with sauces and pepper. Stir-fry well. Garnish with spring onions."
+      ],
+      "tags": [
+        "abacus",
+        "black",
+        "chewy",
+        "classic",
+        "dish",
+        "dried",
+        "fried",
+        "fungus",
+        "hakka",
+        "minced",
+        "mushrooms",
+        "popular",
+        "pork",
+        "reunion",
+        "seeds",
+        "shrimp",
+        "singapore",
+        "stir",
+        "suan",
+        "symbolizes",
+        "wealth",
+        "yam"
+      ],
+      "cost": {
+        "total_sgd": 65.11,
+        "ingredients_sgd": 64.81,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 10.85,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "yam (taro)",
+            "cost_sgd": 1.25,
+            "emissions_kgco2e": 0.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "tapioca starch",
+            "cost_sgd": 1.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "minced pork",
+            "cost_sgd": 1.98,
+            "emissions_kgco2e": 1.05,
+            "amount": 150.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "dried shrimp",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 30.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "shiitake mushrooms",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "black fungus",
+            "cost_sgd": 0.16,
+            "emissions_kgco2e": 0.0,
+            "amount": 20.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 19.8,
+            "emissions_kgco2e": 4.5,
+            "amount": 3.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 9.098,
+        "ingredients_kgco2e": 8.69,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 1.516
+      }
+    },
+    {
+      "id": "noo_017",
+      "name": "Salt Baked Chicken (Yim Guk Gai)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes (plus marinating)",
+      "cook_time": "1 hour",
+      "servings": 4.0,
+      "description": "A Teochew and Cantonese favorite in Singapore: whole chicken marinated with Chinese herbs, wrapped, and baked in salt for juicy, aromatic meat. Often served at hawker stalls and home feasts.",
+      "ingredients": {
+        "Main": {
+          "whole chicken": "1 (about 1.2kg)",
+          "salt": "1.5kg (for baking)",
+          "ginger": "4 slices",
+          "spring onions": "2, cut",
+          "dang gui (angelica root)": "10g",
+          "goji berries": "2 tbsp",
+          "Shaoxing wine": "2 tbsp",
+          "soy sauce": "1 tbsp",
+          "white pepper": "1/2 tsp"
+        }
+      },
+      "preparation": [
+        "Rub chicken with wine, soy sauce, and pepper. Stuff with ginger, spring onions, dang gui, and goji berries. Marinate 1 hour.",
+        "Wrap chicken in parchment and foil. Heat salt in a wok, bury chicken in hot salt, cover, and bake 1 hour over low heat.",
+        "Remove, rest 10 minutes, carve and serve."
+      ],
+      "tips": [
+        "Use parchment and foil to prevent salt from touching chicken directly.",
+        "Add more herbs for a stronger aroma."
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": "38g",
+        "carbohydrates": "2g",
+        "fat": "24g"
+      },
+      "source": "Adapted from The MeatMen, Singapore Teochew and Cantonese kitchens.",
+      "imageId": "noo_017.jpeg",
+      "steps": [
+        "Rub chicken with wine, soy sauce, and pepper. Stuff with ginger, spring onions, dang gui, and goji berries. Marinate 1 hour.",
+        "Wrap chicken in parchment and foil. Heat salt in a wok, bury chicken in hot salt, cover, and bake 1 hour over low heat.",
+        "Remove, rest 10 minutes, carve and serve."
+      ],
+      "tags": [
+        "aromatic",
+        "baked",
+        "cantonese",
+        "chicken",
+        "chinese",
+        "favorite",
+        "feasts",
+        "gai",
+        "guk",
+        "hawker",
+        "herbs",
+        "home",
+        "juicy",
+        "marinated",
+        "meat",
+        "often",
+        "salt",
+        "served",
+        "singapore",
+        "stalls",
+        "teochew",
+        "whole",
+        "wrapped",
+        "yim"
+      ],
+      "cost": {
+        "total_sgd": 41.47,
+        "ingredients_sgd": 41.46,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 10.37,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "whole chicken",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 6.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 0.75,
+            "amount": 1.5,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dang gui (angelica root)",
+            "cost_sgd": 0.08,
+            "emissions_kgco2e": 0.0,
+            "amount": 10.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "goji berries",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 9.194,
+        "ingredients_kgco2e": 9.18,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 2.298
+      }
+    },
+    {
+      "id": "noo_018",
+      "name": "Roti Prata",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes (plus resting)",
+      "cook_time": "30 minutes",
+      "servings": 8.0,
+      "description": "A beloved Indian-Singaporean flatbread: crispy outside, soft and chewy inside. Served with curry or sugar, a breakfast and supper staple at mamak stalls.",
+      "ingredients": {
+        "Main": {
+          "all-purpose flour": "500g",
+          "water": "250ml (as needed)",
+          "salt": "1 tsp",
+          "sugar": "1 tbsp",
+          "ghee or oil": "3 tbsp (plus more for frying)",
+          "condensed milk": "2 tbsp (optional)"
+        }
+      },
+      "preparation": [
+        "Mix flour, salt, sugar, and condensed milk. Add water gradually to form a soft dough. Knead 10 minutes.",
+        "Divide into balls, coat with ghee, cover and rest 2 hours.",
+        "Flatten and stretch each ball into a thin sheet. Fold and coil, then flatten again.",
+        "Fry on a hot griddle with ghee until golden and crisp. Serve hot with curry or sugar."
+      ],
+      "tips": [
+        "Rest dough well for maximum stretchiness.",
+        "Add condensed milk for a softer, richer prata."
+      ],
+      "nutrition": {
+        "calories": 220,
+        "protein": "5g",
+        "carbohydrates": "38g",
+        "fat": "6g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore mamak stalls.",
+      "imageId": "noo_018.jpeg",
+      "steps": [
+        "Mix flour, salt, sugar, and condensed milk. Add water gradually to form a soft dough. Knead 10 minutes.",
+        "Divide into balls, coat with ghee, cover and rest 2 hours.",
+        "Flatten and stretch each ball into a thin sheet. Fold and coil, then flatten again.",
+        "Fry on a hot griddle with ghee until golden and crisp. Serve hot with curry or sugar."
+      ],
+      "tags": [
+        "beloved",
+        "breakfast",
+        "chewy",
+        "crispy",
+        "curry",
+        "flatbread",
+        "indian",
+        "mamak",
+        "prata",
+        "roti",
+        "served",
+        "singaporean",
+        "soft",
+        "stalls",
+        "staple",
+        "sugar",
+        "supper"
+      ],
+      "cost": {
+        "total_sgd": 1.84,
+        "ingredients_sgd": 1.54,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 0.23,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "all-purpose flour",
+            "cost_sgd": 1.25,
+            "emissions_kgco2e": 0.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 250.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "ghee or oil",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.27,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "condensed milk",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.057,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 0.752,
+        "ingredients_kgco2e": 0.345,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 0.094
+      }
+    },
+    {
+      "id": "noo_019",
+      "name": "Bak Chor Mee (Minced Pork Noodles)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "30 minutes",
+      "servings": 4.0,
+      "description": "A beloved Teochew noodle dish: springy noodles tossed in vinegar, chili, and lard, topped with minced pork, mushrooms, fish balls, and crispy shallots. Iconic at Singapore hawker stalls.",
+      "ingredients": {
+        "Main": {
+          "mee pok (flat egg noodles)": "400g",
+          "minced pork": "200g",
+          "pork liver": "100g, sliced",
+          "fish balls": "8",
+          "dried shiitake mushrooms": "4, soaked and sliced",
+          "fried shallots": "2 tbsp",
+          "chili paste": "2 tbsp",
+          "black vinegar": "2 tbsp",
+          "soy sauce": "2 tbsp",
+          "lard oil": "2 tbsp",
+          "garlic": "2 cloves, minced",
+          "spring onions": "2, chopped",
+          "salt and pepper": "to taste"
+        }
+      },
+      "preparation": [
+        "Blanch noodles, toss with chili, vinegar, soy, and lard oil.",
+        "Blanch pork, liver, and fish balls. Sauté mushrooms with garlic.",
+        "Top noodles with pork, liver, mushrooms, fish balls, shallots, and spring onions. Serve hot."
+      ],
+      "tips": [
+        "Use fresh mee pok for best texture.",
+        "Add crispy pork lard for extra flavor."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": "28g",
+        "carbohydrates": "60g",
+        "fat": "18g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore hawker stalls.",
+      "imageId": "noo_019.jpeg",
+      "steps": [
+        "Blanch noodles, toss with chili, vinegar, soy, and lard oil.",
+        "Blanch pork, liver, and fish balls. Sauté mushrooms with garlic.",
+        "Top noodles with pork, liver, mushrooms, fish balls, shallots, and spring onions. Serve hot."
+      ],
+      "tags": [
+        "bak",
+        "balls",
+        "beloved",
+        "chili",
+        "chor",
+        "crispy",
+        "dish",
+        "fish",
+        "hawker",
+        "iconic",
+        "lard",
+        "mee",
+        "minced",
+        "mushrooms",
+        "noodle",
+        "noodles",
+        "pork",
+        "shallots",
+        "singapore",
+        "springy",
+        "stalls",
+        "teochew",
+        "topped",
+        "tossed",
+        "vinegar"
+      ],
+      "cost": {
+        "total_sgd": 187.77,
+        "ingredients_sgd": 187.47,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 46.94,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "mee pok (flat egg noodles)",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 1.8,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "minced pork",
+            "cost_sgd": 2.64,
+            "emissions_kgco2e": 1.4,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "pork liver",
+            "cost_sgd": 1.32,
+            "emissions_kgco2e": 0.7,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "fish balls",
+            "cost_sgd": 132.0,
+            "emissions_kgco2e": 40.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dried shiitake mushrooms",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fried shallots",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chili paste",
+            "cost_sgd": 0.26,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "black vinegar",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "lard oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt and pepper",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 50.508,
+        "ingredients_kgco2e": 50.1,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 12.627
+      }
+    },
+    {
+      "id": "noo_020",
+      "name": "Chwee Kueh (Steamed Rice Cakes with Preserved Radish)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "40 minutes",
+      "servings": 8.0,
+      "description": "A classic Teochew breakfast: soft, steamed rice cakes topped with savory chye poh (preserved radish) and chili. Popular at hawker breakfast stalls.",
+      "ingredients": {
+        "Main": {
+          "rice flour": "200g",
+          "water": "600ml",
+          "cornstarch": "2 tbsp",
+          "salt": "1/2 tsp",
+          "oil": "1 tbsp",
+          "preserved radish (chye poh)": "100g, rinsed and chopped",
+          "garlic": "2 cloves, minced",
+          "soy sauce": "1 tbsp",
+          "sugar": "1 tsp",
+          "chili sauce": "to serve"
+        }
+      },
+      "preparation": [
+        "Mix rice flour, cornstarch, salt, oil, and water. Pour into small molds. Steam 20–25 minutes until set.",
+        "Fry garlic, add chye poh, soy, and sugar. Cook until fragrant.",
+        "Top steamed cakes with chye poh and serve with chili sauce."
+      ],
+      "tips": [
+        "Use metal molds for best texture.",
+        "Rinse chye poh to reduce saltiness."
+      ],
+      "nutrition": {
+        "calories": 120,
+        "protein": "2g",
+        "carbohydrates": "26g",
+        "fat": "1g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore breakfast stalls.",
+      "imageId": "noo_020.jpeg",
+      "steps": [
+        "Mix rice flour, cornstarch, salt, oil, and water. Pour into small molds. Steam 20–25 minutes until set.",
+        "Fry garlic, add chye poh, soy, and sugar. Cook until fragrant.",
+        "Top steamed cakes with chye poh and serve with chili sauce."
+      ],
+      "tags": [
+        "breakfast",
+        "cakes",
+        "chili",
+        "chwee",
+        "chye",
+        "classic",
+        "hawker",
+        "kueh",
+        "poh",
+        "popular",
+        "preserved",
+        "radish",
+        "rice",
+        "savory",
+        "soft",
+        "stalls",
+        "steamed",
+        "teochew",
+        "topped"
+      ],
+      "cost": {
+        "total_sgd": 24.25,
+        "ingredients_sgd": 23.85,
+        "energy_sgd": 0.4,
+        "per_serving_sgd": 3.03,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice flour",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.9,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 600.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.09,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "preserved radish (chye poh)",
+            "cost_sgd": 0.15,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "chili sauce",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 7.069,
+        "ingredients_kgco2e": 6.525,
+        "energy_kgco2e": 0.544,
+        "per_serving_kgco2e": 0.884
+      }
+    },
+    {
+      "id": "noo_021",
+      "name": "Penang Laksa (Assam Laksa)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "45 minutes",
+      "servings": 4.0,
+      "description": "A tangy, spicy noodle soup from Penang, Malaysia, featuring rice noodles in a tamarind-mackerel broth, topped with pineapple, cucumber, mint, and torch ginger.",
+      "ingredients": {
+        "broth": {
+          "fresh mackerel (or sardines)": "500g, cleaned",
+          "water": "1.5L",
+          "tamarind pulp": "3 tbsp, soaked in 1 cup water",
+          "lemongrass": "2 stalks, bruised",
+          "galangal": "2cm, sliced",
+          "daun kesum (Vietnamese mint)": "1 bunch (optional)",
+          "salt": "to taste",
+          "sugar": "to taste"
+        },
+        "spice paste": {
+          "dried chilies": "8, soaked and deseeded",
+          "shallots": "8, peeled",
+          "belacan (shrimp paste)": "1 tsp",
+          "turmeric": "1cm, fresh or 1/2 tsp powder"
+        },
+        "noodles": {
+          "thick rice noodles (laksa noodles)": "400g, cooked"
+        },
+        "toppings": {
+          "pineapple": "1/4, finely shredded",
+          "cucumber": "1 small, julienned",
+          "red onion": "1, thinly sliced",
+          "mint leaves": "1/2 cup",
+          "torch ginger flower (bunga kantan)": "1, thinly sliced (optional)",
+          "red chili": "1, sliced",
+          "boiled egg": "2, halved (optional)",
+          "black prawn paste (hae ko)": "to drizzle (optional)"
+        }
+      },
+      "steps": [
+        "Boil mackerel in water with lemongrass and galangal until cooked. Remove fish, debone, and flake the flesh. Reserve stock.",
+        "Blend spice paste ingredients until smooth. Fry in oil until fragrant.",
+        "Add spice paste, tamarind water, daun kesum, salt, and sugar to the stock. Simmer 15 minutes.",
+        "Return flaked fish to the broth. Adjust seasoning to taste.",
+        "To serve, place noodles in bowls. Ladle hot broth and fish over. Top with pineapple, cucumber, onion, mint, torch ginger, chili, egg, and a drizzle of prawn paste."
+      ],
+      "tips": [
+        "Use fresh mackerel for the best flavor, but canned sardines can be substituted.",
+        "Daun kesum and torch ginger are traditional but can be omitted if unavailable.",
+        "Adjust tamarind and chili for desired tanginess and heat."
+      ],
+      "themes": [
+        "noodles",
+        "malaysian",
+        "sour",
+        "spicy",
+        "hawker food"
+      ],
+      "source": "Adapted from Penang hawker and home cook recipes.",
+      "origin": "Penang Assam Laksa is a signature dish of Penang, Malaysia, and is also enjoyed in Singapore.",
+      "imageId": "noo_021.jpeg",
+      "tags": [
+        "assam",
+        "broth",
+        "cucumber",
+        "featuring",
+        "ginger",
+        "hawker food",
+        "laksa",
+        "mackerel",
+        "malaysia",
+        "malaysian",
+        "mint",
+        "noodle",
+        "noodles",
+        "penang",
+        "pineapple",
+        "rice",
+        "soup",
+        "sour",
+        "spicy",
+        "tamarind",
+        "tangy",
+        "topped",
+        "torch"
+      ],
+      "cost": {
+        "total_sgd": 175.74,
+        "ingredients_sgd": 175.29,
+        "energy_sgd": 0.45,
+        "per_serving_sgd": 43.93,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "fresh mackerel (or sardines)",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.5,
+            "unit": "l"
+          },
+          {
+            "ingredient": "tamarind pulp",
+            "cost_sgd": 0.09,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "lemongrass",
+            "cost_sgd": 1.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "stalks"
+          },
+          {
+            "ingredient": "galangal",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cm"
+          },
+          {
+            "ingredient": "daun kesum (Vietnamese mint)",
+            "cost_sgd": 0.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "bunch"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 1.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dried chilies",
+            "cost_sgd": 70.4,
+            "emissions_kgco2e": 16.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "belacan (shrimp paste)",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "turmeric",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "cm"
+          },
+          {
+            "ingredient": "thick rice noodles (laksa noodles)",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 1.8,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "pineapple",
+            "cost_sgd": 2.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cucumber",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "small"
+          },
+          {
+            "ingredient": "red onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "mint leaves",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "torch ginger flower (bunga kantan)",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "red chili",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "boiled egg",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "black prawn paste (hae ko)",
+            "cost_sgd": 22.0,
+            "emissions_kgco2e": 18.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 50.112,
+        "ingredients_kgco2e": 49.5,
+        "energy_kgco2e": 0.612,
+        "per_serving_kgco2e": 12.528
+      }
+    }
+  ]
+}

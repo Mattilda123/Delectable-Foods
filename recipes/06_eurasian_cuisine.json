@@ -1,0 +1,1032 @@
+{
+  "metadata": {
+    "category": "Eurasian Cuisine",
+    "description": "Traditional Eurasian dishes found in Singapore, blending European and Asian culinary traditions",
+    "total_recipes": 6,
+    "last_updated": "2024"
+  },
+  "recipes": [
+    {
+      "id": "eur_001",
+      "name": "Feng (Eurasian Christmas Stew)",
+      "difficulty": "Hard",
+      "prep_time": "1 hour",
+      "cook_time": "2 hours",
+      "servings": 8.0,
+      "description": "Rich, spicy stew of pork, liver, and spices, a Eurasian Christmas classic.",
+      "ingredients": {
+        "meat": {
+          "pork belly": "500g, cubed",
+          "pork liver": "200g, cubed"
+        },
+        "spice paste": {
+          "shallots": "8",
+          "garlic": "4 cloves",
+          "candlenuts": "6",
+          "dried chilies": "8, soaked",
+          "galangal": "2cm, sliced",
+          "lemongrass": "2 stalks, sliced",
+          "coriander powder": "1 tbsp",
+          "cumin powder": "1 tsp",
+          "cloves": "4",
+          "cinnamon stick": "1"
+        },
+        "other": {
+          "vinegar": "2 tbsp",
+          "sugar": "2 tbsp",
+          "salt": "to taste",
+          "water": "1L"
+        }
+      },
+      "steps": [
+        "Blend spice paste ingredients until smooth. Fry in oil until fragrant.",
+        "Add pork and liver, brown lightly. Add vinegar, sugar, salt, and water. Simmer 2 hours until thick.",
+        "Serve with steamed rice or bread."
+      ],
+      "tips": [
+        "Let stew rest overnight for deeper flavor.",
+        "Adjust vinegar for desired tanginess."
+      ],
+      "themes": [
+        "eurasian",
+        "heritage",
+        "main",
+        "iconic",
+        "rice",
+        "noodle",
+        "soup",
+        "vegetarian",
+        "seafood",
+        "snack",
+        "breakfast",
+        "dessert"
+      ],
+      "source": "https://www.sbs.com.au/food/recipes/feng-eurasian-christmas-stew/",
+      "origin": "Feng is a Eurasian Christmas specialty, blending Portuguese and local influences.",
+      "imageId": "eur_001.jpeg",
+      "tags": [
+        "breakfast",
+        "christmas",
+        "classic",
+        "dessert",
+        "eurasian",
+        "feng",
+        "heritage",
+        "iconic",
+        "liver",
+        "main",
+        "noodle",
+        "pork",
+        "rice",
+        "rich",
+        "seafood",
+        "snack",
+        "soup",
+        "spices",
+        "spicy",
+        "stew",
+        "vegetarian"
+      ],
+      "cost": {
+        "total_sgd": 205.71,
+        "ingredients_sgd": 205.69,
+        "energy_sgd": 0.02,
+        "per_serving_sgd": 25.71,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork belly",
+            "cost_sgd": 6.6,
+            "emissions_kgco2e": 3.5,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "pork liver",
+            "cost_sgd": 2.64,
+            "emissions_kgco2e": 1.4,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "candlenuts",
+            "cost_sgd": 48.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dried chilies",
+            "cost_sgd": 70.4,
+            "emissions_kgco2e": 16.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "galangal",
+            "cost_sgd": 12.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cm"
+          },
+          {
+            "ingredient": "lemongrass",
+            "cost_sgd": 1.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "stalks"
+          },
+          {
+            "ingredient": "coriander powder",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "cumin powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "cloves",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cinnamon stick",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "vinegar",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "l"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 27.457,
+        "ingredients_kgco2e": 27.43,
+        "energy_kgco2e": 0.027,
+        "per_serving_kgco2e": 3.432
+      }
+    },
+    {
+      "id": "eur_002",
+      "name": "Sugee Cake",
+      "difficulty": "Medium",
+      "prep_time": "1 hour",
+      "cook_time": "1 hour",
+      "servings": 12.0,
+      "description": "Rich, buttery semolina cake with ground almonds, a Eurasian festive treat.",
+      "ingredients": {
+        "cake": {
+          "semolina (sugee) flour": "200g",
+          "ground almonds": "100g",
+          "plain flour": "50g",
+          "baking powder": "1 tsp",
+          "butter": "250g, softened",
+          "sugar": "200g",
+          "eggs": "6",
+          "brandy": "2 tbsp (optional)",
+          "vanilla extract": "1 tsp"
+        }
+      },
+      "steps": [
+        "Cream butter and sugar until light. Add eggs one at a time, then brandy and vanilla.",
+        "Fold in semolina, almonds, flour, and baking powder. Pour into lined tin.",
+        "Bake at 170°C for 50–60 minutes until golden and set. Cool before slicing."
+      ],
+      "tips": [
+        "Let batter rest 1 hour before baking for best texture.",
+        "Add orange zest for extra aroma."
+      ],
+      "themes": [
+        "eurasian",
+        "heritage",
+        "main",
+        "iconic",
+        "rice",
+        "noodle",
+        "soup",
+        "vegetarian",
+        "seafood",
+        "snack",
+        "breakfast",
+        "dessert"
+      ],
+      "source": "https://www.noobcook.com/sugee-cake/",
+      "origin": "Sugee Cake is a Eurasian festive cake, often served at Christmas and weddings.",
+      "imageId": "eur_002.jpeg",
+      "tags": [
+        "almonds",
+        "breakfast",
+        "buttery",
+        "cake",
+        "dessert",
+        "eurasian",
+        "festive",
+        "ground",
+        "heritage",
+        "iconic",
+        "main",
+        "noodle",
+        "rice",
+        "rich",
+        "seafood",
+        "semolina",
+        "snack",
+        "soup",
+        "sugee",
+        "treat",
+        "vegetarian"
+      ],
+      "cost": {
+        "total_sgd": 6.04,
+        "ingredients_sgd": 6.03,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 0.5,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "semolina (sugee) flour",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "ground almonds",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "plain flour",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "baking powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "butter",
+            "cost_sgd": 0.82,
+            "emissions_kgco2e": 3.0,
+            "amount": 250.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 0.2,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "eggs",
+            "cost_sgd": 1.98,
+            "emissions_kgco2e": 27.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "brandy",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "vanilla extract",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 30.214,
+        "ingredients_kgco2e": 30.2,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 2.518
+      }
+    },
+    {
+      "id": "eur_003",
+      "name": "Shepherd's Pie (Eurasian Style)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "1 hour 30 minutes",
+      "servings": 6.0,
+      "description": "A comforting Eurasian-style Shepherd's Pie with a rich lamb or beef filling, carrots, peas, and onions, topped with creamy mashed potatoes and baked until golden. Adapted from classic British and Eurasian home recipes.",
+      "ingredients": {
+        "main": {
+          "ground lamb or beef": "1 kg (2.2 lbs)",
+          "onion": "1 large, diced",
+          "carrots": "3 medium, diced",
+          "celery": "2 ribs, diced",
+          "garlic": "4 cloves, minced",
+          "frozen peas": "200g (1 cup)",
+          "tomato paste": "2 tbsp",
+          "red wine": "120ml (1/2 cup)",
+          "beef or chicken stock": "360ml (1.5 cups)",
+          "Worcestershire sauce": "2 tbsp",
+          "thyme": "2 sprigs, fresh (or 1 tsp dried)",
+          "bay leaf": "1",
+          "olive oil": "2 tbsp",
+          "salt and pepper": "to taste"
+        },
+        "mashed potatoes": {
+          "russet potatoes": "1.5 kg (3.3 lbs)",
+          "unsalted butter": "85g (6 tbsp)",
+          "heavy cream": "360ml (1.5 cups)",
+          "parmesan cheese (optional)": "1/2 cup, grated",
+          "salt": "to taste"
+        }
+      },
+      "instructions": [
+        "Peel and cube potatoes. Boil in salted water until tender, drain, and mash with butter, cream, and salt. Stir in parmesan if using. Set aside.",
+        "Heat olive oil in a large pan. Sauté onion, carrots, celery, and garlic until soft.",
+        "Add ground lamb or beef and cook until browned. Stir in tomato paste and cook for 1 minute.",
+        "Add red wine and cook until mostly evaporated. Add stock, Worcestershire, thyme, bay leaf, salt, and pepper. Simmer for 20 minutes until thickened. Remove thyme and bay leaf.",
+        "Stir in peas and cook for 2 minutes. Transfer meat mixture to a baking dish.",
+        "Spread mashed potatoes evenly over the meat. Use a fork to create ridges. Sprinkle with parmesan if desired.",
+        "Bake at 220°C (425°F) for 20-25 minutes until golden. Let rest 10 minutes before serving."
+      ],
+      "nutrition": {
+        "calories": "~700 kcal",
+        "carbohydrates": "50g",
+        "protein": "30g",
+        "fat": "40g"
+      },
+      "source": "Adapted from Serious Eats and Tatyana's Everyday Food, both reputable sources for classic and Eurasian-style Shepherd's Pie.",
+      "imageId": "eur_003.jpeg",
+      "steps": [],
+      "tags": [
+        "adapted",
+        "baked",
+        "beef",
+        "british",
+        "carrots",
+        "classic",
+        "comforting",
+        "creamy",
+        "eurasian",
+        "filling",
+        "golden",
+        "home",
+        "lamb",
+        "mashed",
+        "onions",
+        "peas",
+        "pie",
+        "potatoes",
+        "recipes",
+        "rich",
+        "shepherd",
+        "style",
+        "topped"
+      ],
+      "cost": {
+        "total_sgd": 93.27,
+        "ingredients_sgd": 93.26,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 15.55,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "ground lamb or beef",
+            "cost_sgd": 22.0,
+            "emissions_kgco2e": 60.0,
+            "amount": 1.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1.0,
+            "unit": "large"
+          },
+          {
+            "ingredient": "carrots",
+            "cost_sgd": 2.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 3.0,
+            "unit": "medium"
+          },
+          {
+            "ingredient": "celery",
+            "cost_sgd": 5.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "ribs"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "frozen peas",
+            "cost_sgd": 1.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "tomato paste",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "red wine",
+            "cost_sgd": 0.96,
+            "emissions_kgco2e": 0.0,
+            "amount": 120.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "beef or chicken stock",
+            "cost_sgd": 3.17,
+            "emissions_kgco2e": 2.16,
+            "amount": 360.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "Worcestershire sauce",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "thyme",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "sprigs"
+          },
+          {
+            "ingredient": "bay leaf",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "olive oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt and pepper",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "russet potatoes",
+            "cost_sgd": 0.9,
+            "emissions_kgco2e": 0.75,
+            "amount": 1.5,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "unsalted butter",
+            "cost_sgd": 0.28,
+            "emissions_kgco2e": 1.02,
+            "amount": 85.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "heavy cream",
+            "cost_sgd": 2.88,
+            "emissions_kgco2e": 0.0,
+            "amount": 360.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "parmesan cheese (optional)",
+            "cost_sgd": 18.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 74.724,
+        "ingredients_kgco2e": 74.71,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 12.454
+      }
+    },
+    {
+      "id": "eur_004",
+      "name": "Eurasian Sugee Cake (Semolina and Almond Cake)",
+      "difficulty": "Medium",
+      "prep_time": "40 minutes (plus overnight soak)",
+      "cook_time": "1 hour",
+      "servings": 16.0,
+      "description": "A rich, buttery, and nutty semolina cake with ground almonds, brandy, and eggs. A Eurasian celebration classic for weddings, Christmas, and birthdays in Singapore and Malaysia.",
+      "ingredients": {
+        "main": {
+          "fine semolina": "200g",
+          "salted butter": "250g, melted",
+          "egg yolks": "7 large (about 150g)",
+          "egg whites": "6 large (about 240g)",
+          "sugar": "250g",
+          "ground almonds": "200g (finely ground almond flour)",
+          "baking powder": "1 tbsp",
+          "vanilla extract": "2 tsp",
+          "brandy (optional)": "3 tbsp",
+          "salt": "small pinch"
+        }
+      },
+      "preparation": [
+        "Melt butter and soak semolina in it overnight (or at least 2 hours).",
+        "Preheat oven to 170°C (340°F). Grease and line a 9-inch cake pan.",
+        "Beat egg whites until stiff. In another bowl, beat egg yolks and sugar until pale. Add vanilla and brandy.",
+        "Mix semolina butter into yolk mixture. Add ground almonds, baking powder, and salt. Mix well.",
+        "Fold in stiff egg whites in 3 additions. Pour batter into pan.",
+        "Bake 60–70 minutes until a skewer comes out clean. Cool before slicing. Sprinkle with icing sugar if desired."
+      ],
+      "tips": [
+        "Soaking semolina in butter overnight gives a tender crumb.",
+        "Use finely ground almonds for a lighter texture; coarser for more bite."
+      ],
+      "nutrition": {
+        "calories": 174,
+        "protein": "4g",
+        "carbohydrates": "15g",
+        "fat": "11g"
+      },
+      "source": "Adapted from LinsFood, Cheryl Marie Cordeiro, and Taste Cooking.",
+      "imageId": "eur_004.jpeg",
+      "steps": [
+        "Melt butter and soak semolina in it overnight (or at least 2 hours).",
+        "Preheat oven to 170°C (340°F). Grease and line a 9-inch cake pan.",
+        "Beat egg whites until stiff. In another bowl, beat egg yolks and sugar until pale. Add vanilla and brandy.",
+        "Mix semolina butter into yolk mixture. Add ground almonds, baking powder, and salt. Mix well.",
+        "Fold in stiff egg whites in 3 additions. Pour batter into pan.",
+        "Bake 60–70 minutes until a skewer comes out clean. Cool before slicing. Sprinkle with icing sugar if desired."
+      ],
+      "tags": [
+        "almond",
+        "almonds",
+        "birthdays",
+        "brandy",
+        "buttery",
+        "cake",
+        "celebration",
+        "christmas",
+        "classic",
+        "eggs",
+        "eurasian",
+        "ground",
+        "malaysia",
+        "nutty",
+        "rich",
+        "semolina",
+        "singapore",
+        "sugee",
+        "weddings"
+      ],
+      "cost": {
+        "total_sgd": 12.67,
+        "ingredients_sgd": 12.66,
+        "energy_sgd": 0.01,
+        "per_serving_sgd": 0.79,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "fine semolina",
+            "cost_sgd": 1.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salted butter",
+            "cost_sgd": 0.82,
+            "emissions_kgco2e": 3.0,
+            "amount": 250.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "egg yolks",
+            "cost_sgd": 2.31,
+            "emissions_kgco2e": 31.5,
+            "amount": 7.0,
+            "unit": "large"
+          },
+          {
+            "ingredient": "egg whites",
+            "cost_sgd": 1.98,
+            "emissions_kgco2e": 27.0,
+            "amount": 6.0,
+            "unit": "large"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.41,
+            "emissions_kgco2e": 0.25,
+            "amount": 250.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "ground almonds",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "baking powder",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "vanilla extract",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "brandy (optional)",
+            "cost_sgd": 0.36,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 62.264,
+        "ingredients_kgco2e": 62.25,
+        "energy_kgco2e": 0.014,
+        "per_serving_kgco2e": 3.891
+      }
+    },
+    {
+      "id": "eur_005",
+      "name": "Hakka Fried Pork (Zha Yuk)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes (plus marinating)",
+      "cook_time": "30 minutes",
+      "servings": 4.0,
+      "description": "A Hakka and Eurasian favorite: pork belly marinated with red fermented bean curd, five spice, and rice wine, then deep-fried until crispy. Served with rice or as part of festive meals.",
+      "ingredients": {
+        "Main": {
+          "pork belly": "500g, sliced",
+          "red fermented bean curd (nam yue)": "2 cubes, mashed",
+          "five spice powder": "1 tsp",
+          "Shaoxing wine": "1 tbsp",
+          "soy sauce": "1 tbsp",
+          "sugar": "1 tsp",
+          "white pepper": "1/2 tsp",
+          "cornstarch": "2 tbsp",
+          "oil": "for deep frying"
+        }
+      },
+      "preparation": [
+        "Mix pork with all marinade ingredients except cornstarch. Marinate at least 2 hours or overnight.",
+        "Toss marinated pork with cornstarch. Deep-fry in hot oil until golden and crisp. Drain on paper towels.",
+        "Serve hot with rice or as part of a festive spread."
+      ],
+      "tips": [
+        "Marinate overnight for best flavor.",
+        "Use pork shoulder for a leaner version."
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": "18g",
+        "carbohydrates": "8g",
+        "fat": "36g"
+      },
+      "source": "Adapted from The MeatMen, Nyonya Cooking, and Eurasian home kitchens.",
+      "imageId": "eur_005.jpeg",
+      "steps": [
+        "Mix pork with all marinade ingredients except cornstarch. Marinate at least 2 hours or overnight.",
+        "Toss marinated pork with cornstarch. Deep-fry in hot oil until golden and crisp. Drain on paper towels.",
+        "Serve hot with rice or as part of a festive spread."
+      ],
+      "tags": [
+        "bean",
+        "belly",
+        "crispy",
+        "curd",
+        "deep",
+        "eurasian",
+        "favorite",
+        "fermented",
+        "festive",
+        "five",
+        "fried",
+        "hakka",
+        "marinated",
+        "meals",
+        "part",
+        "pork",
+        "red",
+        "rice",
+        "served",
+        "spice",
+        "wine",
+        "yuk",
+        "zha"
+      ],
+      "cost": {
+        "total_sgd": 29.52,
+        "ingredients_sgd": 29.22,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 7.38,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "pork belly",
+            "cost_sgd": 6.6,
+            "emissions_kgco2e": 3.5,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "red fermented bean curd (nam yue)",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cubes"
+          },
+          {
+            "ingredient": "five spice powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 9.943,
+        "ingredients_kgco2e": 9.535,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 2.486
+      }
+    },
+    {
+      "id": "eur_006",
+      "name": "Yi Bua (Glutinous Rice Cake with Coconut and Peanut Filling)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "30 minutes",
+      "servings": 12.0,
+      "description": "A traditional Hakka and Eurasian steamed kueh: glutinous rice flour dough filled with sweet coconut, peanut, and sesame, wrapped in banana leaf and steamed. Soft, chewy, and aromatic.",
+      "ingredients": {
+        "Main": {
+          "glutinous rice flour": "300g",
+          "hot water": "200ml (as needed)",
+          "grated coconut": "100g",
+          "roasted peanuts": "50g, crushed",
+          "sesame seeds": "2 tbsp",
+          "sugar": "80g",
+          "salt": "1/2 tsp",
+          "banana leaves": "for wrapping"
+        }
+      },
+      "preparation": [
+        "Mix glutinous rice flour with hot water to form a soft dough.",
+        "Mix coconut, peanuts, sesame, sugar, and salt for filling.",
+        "Divide dough into balls, flatten, fill with coconut mixture, seal, and shape into discs.",
+        "Wrap in banana leaf squares. Steam 20–30 minutes until cooked through. Serve warm or at room temperature."
+      ],
+      "tips": [
+        "Use freshly grated coconut for best flavor.",
+        "Add a little pandan juice for aroma and color."
+      ],
+      "nutrition": {
+        "calories": 120,
+        "protein": "2g",
+        "carbohydrates": "24g",
+        "fat": "2g"
+      },
+      "source": "Adapted from Hakka and Eurasian home kitchens, The MeatMen.",
+      "imageId": "eur_006.jpeg",
+      "steps": [
+        "Mix glutinous rice flour with hot water to form a soft dough.",
+        "Mix coconut, peanuts, sesame, sugar, and salt for filling.",
+        "Divide dough into balls, flatten, fill with coconut mixture, seal, and shape into discs.",
+        "Wrap in banana leaf squares. Steam 20–30 minutes until cooked through. Serve warm or at room temperature."
+      ],
+      "tags": [
+        "aromatic",
+        "banana",
+        "bua",
+        "cake",
+        "chewy",
+        "coconut",
+        "dough",
+        "eurasian",
+        "filled",
+        "filling",
+        "flour",
+        "glutinous",
+        "hakka",
+        "kueh",
+        "leaf",
+        "peanut",
+        "rice",
+        "sesame",
+        "soft",
+        "steamed",
+        "sweet",
+        "traditional",
+        "wrapped"
+      ],
+      "cost": {
+        "total_sgd": 3.83,
+        "ingredients_sgd": 3.53,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 0.32,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "glutinous rice flour",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 1.35,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "hot water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "grated coconut",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "roasted peanuts",
+            "cost_sgd": 0.3,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sesame seeds",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.08,
+            "amount": 80.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "banana leaves",
+            "cost_sgd": 0.3,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 2.338,
+        "ingredients_kgco2e": 1.93,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 0.195
+      }
+    }
+  ]
+}

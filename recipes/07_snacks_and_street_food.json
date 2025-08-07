@@ -1,0 +1,3252 @@
+{
+  "metadata": {
+    "category": "Snacks and Street Food",
+    "description": "Popular Singaporean snacks and street food dishes, perfect for quick bites and casual dining",
+    "total_recipes": 25,
+    "last_updated": "2024"
+  },
+  "recipes": [
+    {
+      "id": "snk_001",
+      "name": "Muah Chee (Glutinous Rice Snack)",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "20 minutes",
+      "servings": 4.0,
+      "description": "A beloved Teochew/Chinese snack in Singapore, made from steamed glutinous rice dough cut into bite-sized pieces and coated in fragrant peanut-sugar. Soft, chewy, and nutty, it's a hawker and pasar malam favorite.",
+      "ingredients": {
+        "main": {
+          "glutinous rice flour": "200g",
+          "water": "250ml",
+          "sugar": "2 tbsp",
+          "vegetable oil": "1 tbsp"
+        },
+        "coating": {
+          "roasted peanuts": "100g, finely ground",
+          "sugar": "4 tbsp",
+          "sesame seeds": "2 tbsp (optional)"
+        }
+      },
+      "steps": [
+        "Mix glutinous rice flour, water, sugar, and oil in a bowl to form a smooth batter.",
+        "Pour into a greased heatproof dish and steam over high heat for 20-25 minutes until set and translucent. Let cool slightly.",
+        "Mix ground peanuts, sugar, and sesame seeds in a shallow dish.",
+        "Cut or pinch dough into bite-sized pieces and toss in peanut mixture to coat evenly. Serve immediately."
+      ],
+      "tips": [
+        "Use freshly roasted peanuts for the best aroma.",
+        "Dough can be made ahead and reheated by steaming.",
+        "Add a little pandan juice to the dough for extra fragrance and color."
+      ],
+      "themes": [
+        "snack",
+        "street food",
+        "dessert",
+        "iconic",
+        "heritage"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singaporean Teochew home cooks.",
+      "origin": "Teochew and Chinese communities in Singapore; a popular hawker and night market snack.",
+      "imageId": "snk_001.jpeg",
+      "tags": [
+        "beloved",
+        "bite",
+        "chee",
+        "chewy",
+        "chinese",
+        "coated",
+        "cut",
+        "dessert",
+        "dough",
+        "favorite",
+        "fragrant",
+        "glutinous",
+        "hawker",
+        "heritage",
+        "iconic",
+        "made",
+        "malam",
+        "muah",
+        "nutty",
+        "pasar",
+        "peanut",
+        "pieces",
+        "rice",
+        "singapore",
+        "sized",
+        "snack",
+        "soft",
+        "steamed",
+        "street food",
+        "sugar",
+        "teochew"
+      ],
+      "cost": {
+        "total_sgd": 1.69,
+        "ingredients_sgd": 1.49,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 0.42,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "glutinous rice flour",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.9,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 250.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "vegetable oil",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.09,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "roasted peanuts",
+            "cost_sgd": 0.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 4.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sesame seeds",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 1.352,
+        "ingredients_kgco2e": 1.08,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.338
+      }
+    },
+    {
+      "id": "snk_002",
+      "name": "Pig Blood Pudding (Zhu Xue Gao)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "30 minutes",
+      "servings": 4.0,
+      "description": "A traditional Teochew/Chinese street snack once found in Singapore, made from steamed or boiled pig's blood, cut into cubes and served with soy sauce, chili, and coriander. (Note: Authentic recipes are rare and this dish is now largely unavailable in Singapore; this is a reconstructed version for historical reference.)",
+      "ingredients": {
+        "main": {
+          "fresh pig's blood": "500ml (or substitute with duck blood)",
+          "water": "as needed",
+          "salt": "1/2 tsp"
+        },
+        "for serving": {
+          "light soy sauce": "to taste",
+          "chopped coriander": "to taste",
+          "chili sauce": "to taste"
+        }
+      },
+      "steps": [
+        "Mix pig's blood with salt and strain to remove clots. Pour into a heatproof dish or tray.",
+        "Steam over high heat for 20-30 minutes until set and firm. Let cool, then cut into cubes.",
+        "To serve, arrange cubes on a plate and drizzle with soy sauce, chili, and coriander."
+      ],
+      "tips": [
+        "This dish is now rare in Singapore due to regulations, but is still found in some parts of Asia.",
+        "Can be served in soup or as a side with porridge.",
+        "Use only very fresh, clean blood from a trusted source."
+      ],
+      "themes": [
+        "offal",
+        "Chinese",
+        "heritage",
+        "rare",
+        "Teochew",
+        "street food"
+      ],
+      "source": "Reconstructed from traditional Teochew/Chinese methods and Singaporean food history sources.",
+      "origin": "Teochew and Chinese communities in Singapore; a nostalgic street snack now rarely seen.",
+      "imageId": "snk_002.jpeg",
+      "tags": [
+        "authentic",
+        "blood",
+        "boiled",
+        "chili",
+        "chinese",
+        "coriander",
+        "cubes",
+        "cut",
+        "dish",
+        "found",
+        "gao",
+        "heritage",
+        "historical",
+        "largely",
+        "made",
+        "note",
+        "offal",
+        "once",
+        "pig",
+        "pudding",
+        "rare",
+        "recipes",
+        "reconstructed",
+        "reference",
+        "sauce",
+        "served",
+        "singapore",
+        "snack",
+        "soy",
+        "steamed",
+        "street",
+        "street food",
+        "teochew",
+        "traditional",
+        "unavailable",
+        "version",
+        "xue",
+        "zhu"
+      ],
+      "cost": {
+        "total_sgd": 19.5,
+        "ingredients_sgd": 19.2,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 4.88,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "fresh pig's blood",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 500.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 3.3,
+            "emissions_kgco2e": 2.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "chopped coriander",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "chili sauce",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 4.908,
+        "ingredients_kgco2e": 4.5,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 1.227
+      }
+    },
+    {
+      "id": "snk_003",
+      "name": "Curry Puff (Karipap)",
+      "difficulty": "Medium",
+      "prep_time": "45 minutes",
+      "cook_time": "30 minutes",
+      "servings": 20.0,
+      "description": "A beloved Singaporean and Malaysian street snack: golden, flaky pastry filled with curried potatoes, chicken, and onions. Deep-fried for a crisp, layered shell. Iconic at hawker stalls and bakeries.",
+      "ingredients": {
+        "filling": {
+          "chicken breast (optional)": "250g, diced small",
+          "potatoes": "500g, peeled and diced small",
+          "onion": "1 large, diced",
+          "curry powder": "2-3 tbsp (meat curry powder preferred)",
+          "curry leaves": "5 leaves (optional)",
+          "oil": "2-3 tbsp",
+          "salt": "to taste",
+          "sugar": "to taste"
+        },
+        "water dough": {
+          "all-purpose flour": "300g",
+          "salt": "1/2 tsp",
+          "water": "120ml (approx.)"
+        },
+        "oil dough": {
+          "all-purpose flour": "200g",
+          "unsalted butter or margarine": "100g"
+        },
+        "for frying": {
+          "neutral oil": "as needed for deep frying"
+        }
+      },
+      "instructions": [
+        "Make the filling: Heat oil, sauté onions and curry leaves until fragrant. Add curry powder, fry briefly. Add chicken (if using), cook until opaque. Add potatoes, salt, sugar, and a splash of water. Cover and cook until potatoes are soft and mixture is dry. Cool completely.",
+        "Make water dough: Mix flour and salt, add water gradually to form a smooth dough. Rest 10 minutes.",
+        "Make oil dough: Rub butter into flour until a soft dough forms.",
+        "Divide both doughs into equal portions (about 20 each). Flatten a water dough ball, wrap an oil dough ball inside, seal well.",
+        "Roll out into a long oval, roll up like a Swiss roll. Turn 90°, roll out again, and roll up. Rest 10 minutes.",
+        "Cut each roll into 2 pieces. Flatten each into a circle. Place 1 tbsp filling in center, fold over, and crimp edges to seal.",
+        "Heat oil to 180°C (350°F). Deep fry puffs in batches until golden brown. Drain on paper towels. Serve warm."
+      ],
+      "nutrition": {
+        "calories": "~180 kcal per puff",
+        "carbohydrates": "20g",
+        "protein": "4g",
+        "fat": "8g"
+      },
+      "source": "Adapted from Rasa Malaysia, Taste Asian Food, and The Spruce Eats, all reputable sources for Southeast Asian snacks.",
+      "imageId": "snk_003.jpeg",
+      "steps": [],
+      "tags": [
+        "bakeries",
+        "beloved",
+        "chicken",
+        "crisp",
+        "curried",
+        "curry",
+        "deep",
+        "filled",
+        "flaky",
+        "fried",
+        "golden",
+        "hawker",
+        "iconic",
+        "karipap",
+        "layered",
+        "malaysian",
+        "onions",
+        "pastry",
+        "potatoes",
+        "puff",
+        "shell",
+        "singaporean",
+        "snack",
+        "stalls",
+        "street"
+      ],
+      "cost": {
+        "total_sgd": 67.63,
+        "ingredients_sgd": 67.33,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 3.38,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "chicken breast (optional)",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.5,
+            "amount": 250.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "potatoes",
+            "cost_sgd": 0.3,
+            "emissions_kgco2e": 0.25,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1.0,
+            "unit": "large"
+          },
+          {
+            "ingredient": "curry powder",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "curry leaves",
+            "cost_sgd": 40.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 5.0,
+            "unit": "leaves"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 12.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 1.65,
+            "emissions_kgco2e": 1.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "all-purpose flour",
+            "cost_sgd": 0.75,
+            "emissions_kgco2e": 0.0,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 120.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "all-purpose flour",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "unsalted butter or margarine",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 1.2,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "neutral oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 24.558,
+        "ingredients_kgco2e": 24.15,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 1.228
+      }
+    },
+    {
+      "id": "snk_004",
+      "name": "Singapore Popiah (Fresh Spring Rolls)",
+      "difficulty": "Medium",
+      "prep_time": "1 hour (plus optional time for making wrappers)",
+      "cook_time": "30 minutes",
+      "servings": 8.0,
+      "description": "A beloved Singaporean street food: thin wheat crepes filled with braised jicama, carrots, turnip, prawns, egg, lettuce, bean sprouts, and peanuts. Served with sweet sauce, chili, and garlic paste. Popular at hawker centers and family gatherings.",
+      "ingredients": {
+        "wrappers": {
+          "all-purpose flour": "200g",
+          "water": "400ml",
+          "salt": "pinch"
+        },
+        "filling": {
+          "jicama (yam bean)": "1 medium, shredded",
+          "carrots": "2, shredded",
+          "turnip or daikon": "1 small, shredded",
+          "beansprouts": "2 cups",
+          "prawns": "12, diced",
+          "eggs": "2, boiled and mashed",
+          "lettuce leaves": "8",
+          "cucumber": "1/2, julienned",
+          "scallions": "2, sliced",
+          "peanut oil": "4 tbsp",
+          "chili garlic sauce": "1 tbsp",
+          "oyster sauce": "1 tbsp",
+          "soy sauce": "1 tbsp",
+          "white pepper": "1 tsp",
+          "crushed peanuts": "3/4 cup"
+        },
+        "to serve": {
+          "hoisin sauce": "as needed",
+          "sweet chili sauce": "as needed"
+        }
+      },
+      "preparation": [
+        "Mix flour, salt, and water to form a thin batter. Brush onto a hot nonstick griddle to make thin crepes. Cook 2 minutes, remove and keep covered with a damp towel.",
+        "Heat oil in a pan. Sauté chili garlic sauce, then add prawns and cook 5 minutes. Add jicama, turnip, carrots, and stir-fry until moisture evaporates (11-15 minutes). Add beansprouts, cucumber, scallions, oyster sauce, soy sauce, and pepper. Stir-fry 2 minutes. Remove from heat. Sprinkle with crushed peanuts. Mash boiled eggs with salt and pepper.",
+        "To assemble: Place a wrapper on a board. Spread hoisin and chili sauce. Add lettuce, filling, mashed egg, and more peanuts. Fold sides, roll up tightly, and cut into pieces. Serve immediately."
+      ],
+      "tips": [
+        "Wrappers are best made fresh, but store-bought popiah skins can be used.",
+        "Filling should be moist but not wet to avoid soggy rolls."
+      ],
+      "nutrition": {
+        "calories": 204,
+        "protein": "6g",
+        "carbohydrates": "26g",
+        "fat": "8g"
+      },
+      "source": "Adapted from Stream of Flavors, HungryGoWhere, and Singapore Noodles.",
+      "imageId": "snk_004.jpeg",
+      "steps": [
+        "Mix flour, salt, and water to form a thin batter. Brush onto a hot nonstick griddle to make thin crepes. Cook 2 minutes, remove and keep covered with a damp towel.",
+        "Heat oil in a pan. Sauté chili garlic sauce, then add prawns and cook 5 minutes. Add jicama, turnip, carrots, and stir-fry until moisture evaporates (11-15 minutes). Add beansprouts, cucumber, scallions, oyster sauce, soy sauce, and pepper. Stir-fry 2 minutes. Remove from heat. Sprinkle with crushed peanuts. Mash boiled eggs with salt and pepper.",
+        "To assemble: Place a wrapper on a board. Spread hoisin and chili sauce. Add lettuce, filling, mashed egg, and more peanuts. Fold sides, roll up tightly, and cut into pieces. Serve immediately."
+      ],
+      "tags": [
+        "bean",
+        "beloved",
+        "braised",
+        "carrots",
+        "centers",
+        "chili",
+        "crepes",
+        "egg",
+        "family",
+        "filled",
+        "food",
+        "fresh",
+        "garlic",
+        "gatherings",
+        "hawker",
+        "jicama",
+        "lettuce",
+        "paste",
+        "peanuts",
+        "popiah",
+        "popular",
+        "prawns",
+        "rolls",
+        "sauce",
+        "served",
+        "singapore",
+        "singaporean",
+        "spring",
+        "sprouts",
+        "street",
+        "sweet",
+        "thin",
+        "turnip",
+        "wheat"
+      ],
+      "cost": {
+        "total_sgd": 357.23,
+        "ingredients_sgd": 356.93,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 44.65,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "all-purpose flour",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 400.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "jicama (yam bean)",
+            "cost_sgd": 2.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "medium"
+          },
+          {
+            "ingredient": "carrots",
+            "cost_sgd": 1.6,
+            "emissions_kgco2e": 1.6,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "turnip or daikon",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "small"
+          },
+          {
+            "ingredient": "beansprouts",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "cups"
+          },
+          {
+            "ingredient": "prawns",
+            "cost_sgd": 264.0,
+            "emissions_kgco2e": 216.0,
+            "amount": 12.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "eggs",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "lettuce leaves",
+            "cost_sgd": 20.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cucumber",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "scallions",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "peanut oil",
+            "cost_sgd": 0.36,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chili garlic sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.022,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "crushed peanuts",
+            "cost_sgd": 18.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "hoisin sauce",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sweet chili sauce",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 229.56,
+        "ingredients_kgco2e": 229.153,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 28.695
+      }
+    },
+    {
+      "id": "snk_005",
+      "name": "Tau Sar Piah (Mung Bean Pastry) [See Desserts & Sweets]",
+      "difficulty": "Medium",
+      "description": "A flaky, layered pastry with sweet or savory mung bean filling. Popular as a street snack and festive treat in Singapore. See full recipe in Desserts and Sweets category (des_021).",
+      "category_reference": "Desserts and Sweets",
+      "imageId": "snk_005.jpeg",
+      "steps": [],
+      "tags": [
+        "bean",
+        "category",
+        "desserts",
+        "festive",
+        "filling",
+        "flaky",
+        "full",
+        "layered",
+        "mung",
+        "pastry",
+        "piah",
+        "popular",
+        "recipe",
+        "sar",
+        "savory",
+        "singapore",
+        "snack",
+        "street",
+        "sweet",
+        "sweets",
+        "tau",
+        "treat"
+      ],
+      "cost": {
+        "total_sgd": 0.0,
+        "ingredients_sgd": 0.0,
+        "energy_sgd": 0.0,
+        "per_serving_sgd": 0.0,
+        "ingredient_breakdown": []
+      },
+      "emissions": {
+        "total_kgco2e": 0.0,
+        "ingredients_kgco2e": 0.0,
+        "energy_kgco2e": 0.0,
+        "per_serving_kgco2e": 0.0
+      },
+      "servings": 1.0
+    },
+    {
+      "id": "snk_006",
+      "name": "Otak Otak (Grilled Fish Cake in Banana Leaf)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "servings": 8.0,
+      "description": "A spicy, aromatic fish cake mixture wrapped in banana leaves and grilled. Made with mackerel, coconut milk, spices, and herbs. A classic street snack in Singapore and Malaysia.",
+      "ingredients": {
+        "fish paste": {
+          "mackerel fillet": "400g, boneless",
+          "coconut milk": "100ml",
+          "egg": "1",
+          "cornstarch": "1 tbsp",
+          "sugar": "1 tsp",
+          "salt": "1/2 tsp"
+        },
+        "spice paste": {
+          "shallots": "6, peeled",
+          "garlic": "3 cloves",
+          "lemongrass": "1 stalk, white part only",
+          "red chilies": "4, seeded",
+          "dried chilies": "4, soaked",
+          "galangal": "1 tbsp, sliced",
+          "turmeric powder": "1 tsp",
+          "belacan (shrimp paste)": "1 tsp, toasted"
+        },
+        "to wrap": {
+          "banana leaves": "8 pieces, softened",
+          "toothpicks": "as needed"
+        }
+      },
+      "preparation": [
+        "Blend spice paste ingredients until smooth.",
+        "Process fish paste ingredients until smooth. Mix with spice paste.",
+        "Spoon mixture onto banana leaves, fold, and secure with toothpicks.",
+        "Grill over medium heat 5–7 minutes per side until set and slightly charred. Serve hot."
+      ],
+      "tips": [
+        "Use fresh mackerel for best texture.",
+        "If banana leaves are unavailable, use parchment paper."
+      ],
+      "nutrition": {
+        "calories": 120,
+        "protein": "12g",
+        "carbohydrates": "4g",
+        "fat": "6g"
+      },
+      "source": "Adapted from Rasa Malaysia, The MeatMen, and Singapore hawker stalls.",
+      "imageId": "snk_006.jpeg",
+      "steps": [
+        "Blend spice paste ingredients until smooth.",
+        "Process fish paste ingredients until smooth. Mix with spice paste.",
+        "Spoon mixture onto banana leaves, fold, and secure with toothpicks.",
+        "Grill over medium heat 5–7 minutes per side until set and slightly charred. Serve hot."
+      ],
+      "tags": [
+        "aromatic",
+        "banana",
+        "cake",
+        "classic",
+        "coconut",
+        "fish",
+        "grilled",
+        "herbs",
+        "leaf",
+        "leaves",
+        "mackerel",
+        "made",
+        "malaysia",
+        "milk",
+        "mixture",
+        "otak",
+        "singapore",
+        "snack",
+        "spices",
+        "spicy",
+        "street",
+        "wrapped"
+      ],
+      "cost": {
+        "total_sgd": 129.84,
+        "ingredients_sgd": 129.64,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 16.23,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "mackerel fillet",
+            "cost_sgd": 3.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.22,
+            "emissions_kgco2e": 0.19,
+            "amount": 100.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "egg",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 19.8,
+            "emissions_kgco2e": 4.5,
+            "amount": 3.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "lemongrass",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "stalk"
+          },
+          {
+            "ingredient": "red chilies",
+            "cost_sgd": 35.2,
+            "emissions_kgco2e": 8.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dried chilies",
+            "cost_sgd": 35.2,
+            "emissions_kgco2e": 8.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "galangal",
+            "cost_sgd": 0.09,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "turmeric powder",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "belacan (shrimp paste)",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "banana leaves",
+            "cost_sgd": 2.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "pieces"
+          },
+          {
+            "ingredient": "toothpicks",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 25.967,
+        "ingredients_kgco2e": 25.695,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 3.246
+      }
+    },
+    {
+      "id": "snk_007",
+      "name": "Roti John (Singapore Omelette Sandwich)",
+      "difficulty": "Easy",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "servings": 4.0,
+      "description": "A popular street food: baguette or soft roll filled with spiced minced meat, onions, and egg, pan-fried until golden, and topped with chili sauce and mayonnaise.",
+      "ingredients": {
+        "baguette or soft rolls": "2, split lengthwise",
+        "minced beef or mutton": "200g",
+        "onion": "1, finely chopped",
+        "eggs": "3",
+        "curry powder": "1 tbsp",
+        "soy sauce": "1 tbsp",
+        "salt": "1/2 tsp",
+        "white pepper": "1/4 tsp",
+        "oil": "for frying",
+        "to serve": {
+          "chili sauce": "as needed",
+          "mayonnaise": "as needed"
+        }
+      },
+      "preparation": [
+        "Mix minced meat, onion, eggs, curry powder, soy sauce, salt, and pepper.",
+        "Spread mixture onto cut side of bread. Press to adhere.",
+        "Heat oil in a large pan. Place bread filling-side down and fry until golden. Flip and fry other side briefly.",
+        "Slice and serve hot with chili sauce and mayonnaise."
+      ],
+      "tips": [
+        "Use soft rolls for a more traditional texture.",
+        "Add cheese or sardines for variation."
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": "16g",
+        "carbohydrates": "32g",
+        "fat": "14g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore hawker stalls.",
+      "imageId": "snk_007.jpeg",
+      "steps": [
+        "Mix minced meat, onion, eggs, curry powder, soy sauce, salt, and pepper.",
+        "Spread mixture onto cut side of bread. Press to adhere.",
+        "Heat oil in a large pan. Place bread filling-side down and fry until golden. Flip and fry other side briefly.",
+        "Slice and serve hot with chili sauce and mayonnaise."
+      ],
+      "tags": [
+        "baguette",
+        "chili",
+        "egg",
+        "filled",
+        "food",
+        "fried",
+        "golden",
+        "john",
+        "mayonnaise",
+        "meat",
+        "minced",
+        "omelette",
+        "onions",
+        "popular",
+        "roll",
+        "roti",
+        "sandwich",
+        "sauce",
+        "singapore",
+        "soft",
+        "spiced",
+        "street",
+        "topped"
+      ],
+      "cost": {
+        "total_sgd": 44.12,
+        "ingredients_sgd": 43.97,
+        "energy_sgd": 0.15,
+        "per_serving_sgd": 11.03,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "baguette or soft rolls",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "minced beef or mutton",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 12.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "eggs",
+            "cost_sgd": 0.99,
+            "emissions_kgco2e": 13.5,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "curry powder",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "chili sauce",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "mayonnaise",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 35.434,
+        "ingredients_kgco2e": 35.23,
+        "energy_kgco2e": 0.204,
+        "per_serving_kgco2e": 8.859
+      }
+    },
+    {
+      "id": "snk_008",
+      "name": "Murtabak (Stuffed Pan-Fried Flatbread)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes (plus resting)",
+      "cook_time": "30 minutes",
+      "servings": 4.0,
+      "description": "A hearty street food: thin dough stuffed with spiced minced meat, onions, and egg, pan-fried until crisp. Served with curry sauce or pickled onions.",
+      "ingredients": {
+        "dough": {
+          "all-purpose flour": "250g",
+          "water": "120ml",
+          "oil": "2 tbsp",
+          "salt": "1/2 tsp"
+        },
+        "filling": {
+          "minced beef or mutton": "250g",
+          "onion": "1, chopped",
+          "garlic": "2 cloves, minced",
+          "curry powder": "1 tbsp",
+          "egg": "1",
+          "salt": "1/2 tsp",
+          "white pepper": "1/4 tsp",
+          "oil": "for frying"
+        }
+      },
+      "preparation": [
+        "Mix flour, water, oil, and salt to form a soft dough. Knead 5 minutes, rest 30 minutes.",
+        "Cook filling: Sauté onion and garlic, add meat, curry powder, salt, and pepper. Cool, then mix in egg.",
+        "Divide dough into 4 balls. Roll each very thin. Place filling in center, fold edges to seal.",
+        "Fry in oiled pan until golden and crisp on both sides. Serve with curry sauce or pickled onions."
+      ],
+      "tips": [
+        "Rest dough well for easier stretching.",
+        "Add chopped green chilies for extra heat."
+      ],
+      "nutrition": {
+        "calories": 410,
+        "protein": "18g",
+        "carbohydrates": "38g",
+        "fat": "20g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore mamak stalls.",
+      "imageId": "snk_008.jpeg",
+      "steps": [
+        "Mix flour, water, oil, and salt to form a soft dough. Knead 5 minutes, rest 30 minutes.",
+        "Cook filling: Sauté onion and garlic, add meat, curry powder, salt, and pepper. Cool, then mix in egg.",
+        "Divide dough into 4 balls. Roll each very thin. Place filling in center, fold edges to seal.",
+        "Fry in oiled pan until golden and crisp on both sides. Serve with curry sauce or pickled onions."
+      ],
+      "tags": [
+        "crisp",
+        "curry",
+        "dough",
+        "egg",
+        "flatbread",
+        "food",
+        "fried",
+        "hearty",
+        "meat",
+        "minced",
+        "murtabak",
+        "onions",
+        "pickled",
+        "sauce",
+        "served",
+        "spiced",
+        "street",
+        "stuffed",
+        "thin"
+      ],
+      "cost": {
+        "total_sgd": 30.92,
+        "ingredients_sgd": 30.62,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 7.73,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "all-purpose flour",
+            "cost_sgd": 0.62,
+            "emissions_kgco2e": 0.0,
+            "amount": 250.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 120.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "minced beef or mutton",
+            "cost_sgd": 5.5,
+            "emissions_kgco2e": 15.0,
+            "amount": 250.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "curry powder",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "egg",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 31.288,
+        "ingredients_kgco2e": 30.88,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 7.822
+      }
+    },
+    {
+      "id": "snk_009",
+      "name": "Roti Jala (Lacy Crepes)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "20 minutes",
+      "servings": 6.0,
+      "description": "A festive Malay and Peranakan snack: delicate, lacy crepes made from a turmeric-flavored batter, served with curry. Popular at celebrations and as a street food treat.",
+      "ingredients": {
+        "Main": {
+          "all-purpose flour": "200g",
+          "eggs": "2",
+          "coconut milk": "250ml",
+          "water": "100ml (as needed)",
+          "turmeric powder": "1/2 tsp",
+          "salt": "1/2 tsp",
+          "oil": "for greasing pan"
+        }
+      },
+      "preparation": [
+        "Whisk flour, eggs, coconut milk, water, turmeric, and salt into a smooth, pourable batter.",
+        "Heat a nonstick pan and lightly grease. Pour batter into a roti jala mold or squeeze bottle. Drizzle in a lacy pattern.",
+        "Cook 1–2 minutes until set, then fold or roll. Repeat with remaining batter. Serve with curry."
+      ],
+      "tips": [
+        "Use a roti jala mold or make your own with a squeeze bottle.",
+        "Batter should be thin enough to drizzle easily."
+      ],
+      "nutrition": {
+        "calories": 140,
+        "protein": "4g",
+        "carbohydrates": "18g",
+        "fat": "6g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Malay kitchens.",
+      "imageId": "snk_009.jpeg",
+      "steps": [
+        "Whisk flour, eggs, coconut milk, water, turmeric, and salt into a smooth, pourable batter.",
+        "Heat a nonstick pan and lightly grease. Pour batter into a roti jala mold or squeeze bottle. Drizzle in a lacy pattern.",
+        "Cook 1–2 minutes until set, then fold or roll. Repeat with remaining batter. Serve with curry."
+      ],
+      "tags": [
+        "batter",
+        "celebrations",
+        "crepes",
+        "curry",
+        "delicate",
+        "festive",
+        "flavored",
+        "food",
+        "jala",
+        "lacy",
+        "made",
+        "malay",
+        "peranakan",
+        "popular",
+        "roti",
+        "served",
+        "snack",
+        "street",
+        "treat",
+        "turmeric"
+      ],
+      "cost": {
+        "total_sgd": 13.41,
+        "ingredients_sgd": 13.21,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 2.23,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "all-purpose flour",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "eggs",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "coconut milk",
+            "cost_sgd": 0.55,
+            "emissions_kgco2e": 0.475,
+            "amount": 250.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "turmeric powder",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 16.247,
+        "ingredients_kgco2e": 15.975,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 2.708
+      }
+    },
+    {
+      "id": "snk_010",
+      "name": "Ba Kwa (BBQ Pork Jerky)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes (plus marinating)",
+      "cook_time": "30 minutes",
+      "servings": 10.0,
+      "description": "A festive Chinese-Singaporean snack: sweet-salty BBQ pork jerky, grilled to smoky perfection. Iconic during Lunar New Year and at snack shops.",
+      "ingredients": {
+        "Main": {
+          "minced pork": "1kg",
+          "sugar": "150g",
+          "soy sauce": "2 tbsp",
+          "oyster sauce": "1 tbsp",
+          "fish sauce": "1 tbsp",
+          "Chinese wine": "1 tbsp",
+          "five spice powder": "1 tsp",
+          "white pepper": "1/2 tsp",
+          "red food coloring": "optional"
+        }
+      },
+      "preparation": [
+        "Mix all ingredients, marinate 2 hours or overnight.",
+        "Spread thin on baking tray, bake at 120°C for 15 minutes. Grill or broil until caramelized. Cut into squares."
+      ],
+      "tips": [
+        "Use a grill for authentic smokiness.",
+        "Add honey for extra gloss."
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": "10g",
+        "carbohydrates": "12g",
+        "fat": "10g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore snack shops.",
+      "imageId": "snk_010.jpeg",
+      "steps": [
+        "Mix all ingredients, marinate 2 hours or overnight.",
+        "Spread thin on baking tray, bake at 120°C for 15 minutes. Grill or broil until caramelized. Cut into squares."
+      ],
+      "tags": [
+        "bbq",
+        "chinese",
+        "festive",
+        "grilled",
+        "iconic",
+        "jerky",
+        "kwa",
+        "lunar",
+        "perfection",
+        "pork",
+        "salty",
+        "shops",
+        "singaporean",
+        "smoky",
+        "snack",
+        "sweet",
+        "year"
+      ],
+      "cost": {
+        "total_sgd": 24.28,
+        "ingredients_sgd": 23.98,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 2.43,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "minced pork",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 7.0,
+            "amount": 1.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.25,
+            "emissions_kgco2e": 0.15,
+            "amount": 150.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "fish sauce",
+            "cost_sgd": 0.25,
+            "emissions_kgco2e": 0.075,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Chinese wine",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "five spice powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "red food coloring",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 7.693,
+        "ingredients_kgco2e": 7.285,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 0.769
+      }
+    },
+    {
+      "id": "snk_011",
+      "name": "Tau Kwa Pau (Stuffed Beancurd)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "servings": 6.0,
+      "description": "A Teochew hawker snack: fried beancurd stuffed with braised egg, cucumber, yam, and pork, served with sweet sauce and chili. Unique to Singapore.",
+      "ingredients": {
+        "Main": {
+          "firm beancurd (tau kwa)": "6 blocks",
+          "braised egg": "2, chopped",
+          "cucumber": "1, julienned",
+          "yam": "100g, cooked and mashed",
+          "minced pork": "100g, cooked",
+          "sweet sauce": "4 tbsp",
+          "chili sauce": "to serve"
+        }
+      },
+      "preparation": [
+        "Cut a slit in each tau kwa. Stuff with egg, cucumber, yam, and pork.",
+        "Serve with sweet sauce and chili."
+      ],
+      "tips": [
+        "Use freshly fried tau kwa for best texture.",
+        "Add fried shallots for extra flavor."
+      ],
+      "nutrition": {
+        "calories": 160,
+        "protein": "10g",
+        "carbohydrates": "8g",
+        "fat": "10g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Teochew stalls.",
+      "imageId": "snk_011.jpeg",
+      "steps": [
+        "Cut a slit in each tau kwa. Stuff with egg, cucumber, yam, and pork.",
+        "Serve with sweet sauce and chili."
+      ],
+      "tags": [
+        "beancurd",
+        "braised",
+        "chili",
+        "cucumber",
+        "egg",
+        "fried",
+        "hawker",
+        "kwa",
+        "pau",
+        "pork",
+        "sauce",
+        "served",
+        "singapore",
+        "snack",
+        "stuffed",
+        "sweet",
+        "tau",
+        "teochew",
+        "unique",
+        "yam"
+      ],
+      "cost": {
+        "total_sgd": 60.61,
+        "ingredients_sgd": 60.41,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 10.1,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "firm beancurd (tau kwa)",
+            "cost_sgd": 48.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "blocks"
+          },
+          {
+            "ingredient": "braised egg",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cucumber",
+            "cost_sgd": 1.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "yam",
+            "cost_sgd": 0.25,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "minced pork",
+            "cost_sgd": 1.32,
+            "emissions_kgco2e": 0.7,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sweet sauce",
+            "cost_sgd": 0.18,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chili sauce",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 11.972,
+        "ingredients_kgco2e": 11.7,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 1.995
+      }
+    },
+    {
+      "id": "snk_012",
+      "name": "Ice Gem Biscuits",
+      "difficulty": "Easy",
+      "prep_time": "30 minutes",
+      "cook_time": "15 minutes",
+      "servings": 20.0,
+      "description": "A nostalgic childhood snack: tiny crunchy biscuits topped with colorful icing gems. Popular at provision shops and bakeries.",
+      "ingredients": {
+        "Main": {
+          "all-purpose flour": "200g",
+          "butter": "100g",
+          "sugar": "50g",
+          "baking powder": "1/2 tsp",
+          "egg": "1",
+          "icing sugar": "200g",
+          "food coloring": "various",
+          "water": "as needed"
+        }
+      },
+      "preparation": [
+        "Cream butter and sugar. Add egg, flour, and baking powder. Form small balls, bake at 170°C for 12–15 minutes.",
+        "Mix icing sugar with water and coloring. Pipe onto cooled biscuits."
+      ],
+      "tips": [
+        "Let icing set before storing.",
+        "Use pastel colors for a classic look."
+      ],
+      "nutrition": {
+        "calories": 35,
+        "protein": "0.5g",
+        "carbohydrates": "7g",
+        "fat": "1g"
+      },
+      "source": "Adapted from Singapore bakeries and home kitchens.",
+      "imageId": "snk_012.jpeg",
+      "steps": [
+        "Cream butter and sugar. Add egg, flour, and baking powder. Form small balls, bake at 170°C for 12–15 minutes.",
+        "Mix icing sugar with water and coloring. Pipe onto cooled biscuits."
+      ],
+      "tags": [
+        "bakeries",
+        "biscuits",
+        "childhood",
+        "colorful",
+        "crunchy",
+        "gem",
+        "gems",
+        "ice",
+        "icing",
+        "nostalgic",
+        "popular",
+        "provision",
+        "shops",
+        "snack",
+        "tiny",
+        "topped"
+      ],
+      "cost": {
+        "total_sgd": 11.72,
+        "ingredients_sgd": 11.57,
+        "energy_sgd": 0.15,
+        "per_serving_sgd": 0.59,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "all-purpose flour",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "butter",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 1.2,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.08,
+            "emissions_kgco2e": 0.05,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "baking powder",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "egg",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "icing sugar",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 0.2,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "food coloring",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 6.154,
+        "ingredients_kgco2e": 5.95,
+        "energy_kgco2e": 0.204,
+        "per_serving_kgco2e": 0.308
+      }
+    },
+    {
+      "id": "snk_013",
+      "name": "Murukku",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "30 minutes",
+      "servings": 12.0,
+      "description": "A crunchy Indian snack: deep-fried spirals of rice and urad dal flour, spiced with cumin and chili. Popular during Deepavali and at snack stalls.",
+      "ingredients": {
+        "Main": {
+          "rice flour": "200g",
+          "urad dal flour": "50g",
+          "cumin seeds": "1 tsp",
+          "chili powder": "1 tsp",
+          "salt": "1 tsp",
+          "butter": "2 tbsp",
+          "water": "as needed",
+          "oil": "for frying"
+        }
+      },
+      "preparation": [
+        "Mix flours, spices, salt, and butter. Add water to form a dough. Pipe or press into spirals. Fry until golden and crisp."
+      ],
+      "tips": [
+        "Use a murukku press for best shape.",
+        "Store in airtight containers."
+      ],
+      "nutrition": {
+        "calories": 60,
+        "protein": "1g",
+        "carbohydrates": "10g",
+        "fat": "2g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Indian kitchens.",
+      "imageId": "snk_013.jpeg",
+      "steps": [
+        "Mix flours, spices, salt, and butter. Add water to form a dough. Pipe or press into spirals. Fry until golden and crisp."
+      ],
+      "tags": [
+        "chili",
+        "crunchy",
+        "cumin",
+        "dal",
+        "deep",
+        "deepavali",
+        "flour",
+        "fried",
+        "indian",
+        "murukku",
+        "popular",
+        "rice",
+        "snack",
+        "spiced",
+        "spirals",
+        "stalls",
+        "urad"
+      ],
+      "cost": {
+        "total_sgd": 5.42,
+        "ingredients_sgd": 5.12,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 0.45,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "rice flour",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.9,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "urad dal flour",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "cumin seeds",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "chili powder",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.01,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "butter",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.36,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 7.681,
+        "ingredients_kgco2e": 7.272,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 0.64
+      }
+    },
+    {
+      "id": "snk_014",
+      "name": "Ondeh Ondeh",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "servings": 16.0,
+      "description": "A beloved Peranakan and Malay kueh: glutinous rice balls filled with molten palm sugar, coated in grated coconut. Chewy, sweet, and fragrant.",
+      "ingredients": {
+        "Main": {
+          "glutinous rice flour": "200g",
+          "pandan juice": "100ml",
+          "gula melaka (palm sugar)": "80g, chopped",
+          "grated coconut": "100g",
+          "salt": "1/2 tsp"
+        }
+      },
+      "preparation": [
+        "Mix flour and pandan juice to form a dough. Wrap dough around palm sugar pieces, roll into balls.",
+        "Boil until they float. Roll in grated coconut. Serve at room temperature."
+      ],
+      "tips": [
+        "Use fresh pandan juice for best aroma.",
+        "Serve on banana leaves for presentation."
+      ],
+      "nutrition": {
+        "calories": 60,
+        "protein": "1g",
+        "carbohydrates": "14g",
+        "fat": "1g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Peranakan kitchens.",
+      "imageId": "snk_014.jpeg",
+      "steps": [
+        "Mix flour and pandan juice to form a dough. Wrap dough around palm sugar pieces, roll into balls.",
+        "Boil until they float. Roll in grated coconut. Serve at room temperature."
+      ],
+      "tags": [
+        "balls",
+        "beloved",
+        "chewy",
+        "coated",
+        "coconut",
+        "filled",
+        "fragrant",
+        "glutinous",
+        "grated",
+        "kueh",
+        "malay",
+        "molten",
+        "ondeh",
+        "palm",
+        "peranakan",
+        "rice",
+        "sugar",
+        "sweet"
+      ],
+      "cost": {
+        "total_sgd": 2.7,
+        "ingredients_sgd": 2.5,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 0.17,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "glutinous rice flour",
+            "cost_sgd": 0.44,
+            "emissions_kgco2e": 0.9,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "pandan juice",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "gula melaka (palm sugar)",
+            "cost_sgd": 0.16,
+            "emissions_kgco2e": 0.0,
+            "amount": 80.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "grated coconut",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 1.672,
+        "ingredients_kgco2e": 1.4,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.104
+      }
+    },
+    {
+      "id": "snk_015",
+      "name": "Butterfly Buns (You Char Kway Butterfly)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes (plus rising)",
+      "cook_time": "20 minutes",
+      "servings": 8.0,
+      "description": "A hawker favorite: sweet, deep-fried buns shaped like butterflies, often paired with youtiao. Soft, fluffy, and lightly sweet.",
+      "ingredients": {
+        "Main": {
+          "all-purpose flour": "250g",
+          "sugar": "40g",
+          "yeast": "1 tsp",
+          "baking powder": "1/2 tsp",
+          "water": "120ml (as needed)",
+          "oil": "for frying",
+          "sesame seeds": "2 tbsp"
+        }
+      },
+      "preparation": [
+        "Mix flour, sugar, yeast, and baking powder. Add water to form a dough. Let rise 1 hour.",
+        "Shape into butterfly forms, sprinkle with sesame seeds. Fry until golden."
+      ],
+      "tips": [
+        "Pair with youtiao for a classic breakfast.",
+        "Serve warm for best texture."
+      ],
+      "nutrition": {
+        "calories": 110,
+        "protein": "2g",
+        "carbohydrates": "20g",
+        "fat": "2g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore hawker stalls.",
+      "imageId": "snk_015.jpeg",
+      "steps": [
+        "Mix flour, sugar, yeast, and baking powder. Add water to form a dough. Let rise 1 hour.",
+        "Shape into butterfly forms, sprinkle with sesame seeds. Fry until golden."
+      ],
+      "tags": [
+        "buns",
+        "butterflies",
+        "butterfly",
+        "char",
+        "deep",
+        "favorite",
+        "fluffy",
+        "fried",
+        "hawker",
+        "kway",
+        "lightly",
+        "often",
+        "paired",
+        "shaped",
+        "soft",
+        "sweet",
+        "youtiao"
+      ],
+      "cost": {
+        "total_sgd": 7.54,
+        "ingredients_sgd": 7.34,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 0.94,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "all-purpose flour",
+            "cost_sgd": 0.62,
+            "emissions_kgco2e": 0.0,
+            "amount": 250.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.04,
+            "amount": 40.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "yeast",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "baking powder",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 120.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sesame seeds",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 6.312,
+        "ingredients_kgco2e": 6.04,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.789
+      }
+    },
+    {
+      "id": "snk_016",
+      "name": "Youtiao (Chinese Fried Dough Sticks)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes (plus rising)",
+      "cook_time": "20 minutes",
+      "servings": 8.0,
+      "description": "A classic breakfast snack: long, golden fried dough sticks, crisp outside and airy inside. Served with porridge or soy milk.",
+      "ingredients": {
+        "Main": {
+          "all-purpose flour": "300g",
+          "baking powder": "1 tsp",
+          "baking soda": "1/2 tsp",
+          "salt": "1/2 tsp",
+          "water": "160ml (as needed)",
+          "oil": "for frying"
+        }
+      },
+      "preparation": [
+        "Mix flour, baking powder, soda, and salt. Add water to form a dough. Rest 1 hour.",
+        "Roll and cut into strips, stack and press pairs together. Fry until golden and puffed."
+      ],
+      "tips": [
+        "Rest dough well for best texture.",
+        "Serve with porridge or soy milk."
+      ],
+      "nutrition": {
+        "calories": 120,
+        "protein": "3g",
+        "carbohydrates": "22g",
+        "fat": "2g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore breakfast stalls.",
+      "imageId": "snk_016.jpeg",
+      "steps": [
+        "Mix flour, baking powder, soda, and salt. Add water to form a dough. Rest 1 hour.",
+        "Roll and cut into strips, stack and press pairs together. Fry until golden and puffed."
+      ],
+      "tags": [
+        "airy",
+        "breakfast",
+        "chinese",
+        "classic",
+        "crisp",
+        "dough",
+        "fried",
+        "golden",
+        "long",
+        "milk",
+        "porridge",
+        "served",
+        "snack",
+        "soy",
+        "sticks",
+        "youtiao"
+      ],
+      "cost": {
+        "total_sgd": 8.46,
+        "ingredients_sgd": 8.26,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 1.06,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "all-purpose flour",
+            "cost_sgd": 0.75,
+            "emissions_kgco2e": 0.0,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "baking powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "baking soda",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 160.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 6.772,
+        "ingredients_kgco2e": 6.5,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.847
+      }
+    },
+    {
+      "id": "snk_017",
+      "name": "Goreng Pisang (Fried Banana Fritters)",
+      "difficulty": "Easy",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "servings": 8.0,
+      "description": "A popular Malay snack: ripe bananas coated in a light batter and deep-fried until golden. Crispy outside, sweet and soft inside.",
+      "ingredients": {
+        "Main": {
+          "ripe bananas": "8, peeled and halved",
+          "all-purpose flour": "150g",
+          "rice flour": "50g",
+          "baking powder": "1 tsp",
+          "sugar": "2 tbsp",
+          "salt": "1/2 tsp",
+          "water": "180ml (as needed)",
+          "oil": "for frying"
+        }
+      },
+      "preparation": [
+        "Mix flours, baking powder, sugar, and salt. Add water to form a batter.",
+        "Dip bananas in batter, fry until golden and crisp. Drain and serve warm."
+      ],
+      "tips": [
+        "Use pisang raja or plantain for best results.",
+        "Serve with a sprinkle of icing sugar."
+      ],
+      "nutrition": {
+        "calories": 110,
+        "protein": "1g",
+        "carbohydrates": "24g",
+        "fat": "2g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Malay stalls.",
+      "imageId": "snk_017.jpeg",
+      "steps": [
+        "Mix flours, baking powder, sugar, and salt. Add water to form a batter.",
+        "Dip bananas in batter, fry until golden and crisp. Drain and serve warm."
+      ],
+      "tags": [
+        "banana",
+        "bananas",
+        "batter",
+        "coated",
+        "crispy",
+        "deep",
+        "fried",
+        "fritters",
+        "golden",
+        "goreng",
+        "light",
+        "malay",
+        "pisang",
+        "popular",
+        "ripe",
+        "snack",
+        "soft",
+        "sweet"
+      ],
+      "cost": {
+        "total_sgd": 8.59,
+        "ingredients_sgd": 8.44,
+        "energy_sgd": 0.15,
+        "per_serving_sgd": 1.07,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "ripe bananas",
+            "cost_sgd": 2.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "all-purpose flour",
+            "cost_sgd": 0.38,
+            "emissions_kgco2e": 0.0,
+            "amount": 150.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "rice flour",
+            "cost_sgd": 0.11,
+            "emissions_kgco2e": 0.225,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "baking powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 180.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 6.959,
+        "ingredients_kgco2e": 6.755,
+        "energy_kgco2e": 0.204,
+        "per_serving_kgco2e": 0.87
+      }
+    },
+    {
+      "id": "snk_018",
+      "name": "Begedil (Potato Patties)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "servings": 10.0,
+      "description": "A Malay and Indonesian snack: deep-fried potato patties, sometimes with minced beef, served with soto or as a side. Popular at nasi padang stalls in Singapore.",
+      "ingredients": {
+        "Main": {
+          "potatoes": "1kg, boiled and mashed",
+          "minced beef (optional)": "200g, cooked",
+          "spring onions": "2, chopped",
+          "fried shallots": "2 tbsp",
+          "white pepper": "1/2 tsp",
+          "salt": "1 tsp",
+          "egg": "2, beaten",
+          "oil": "for frying"
+        }
+      },
+      "preparation": [
+        "Mix potatoes, beef, spring onions, shallots, pepper, and salt. Shape into patties.",
+        "Dip in beaten egg, fry until golden. Drain and serve."
+      ],
+      "tips": [
+        "Use waxy potatoes for best texture.",
+        "Serve with soto or as a side."
+      ],
+      "nutrition": {
+        "calories": 90,
+        "protein": "3g",
+        "carbohydrates": "16g",
+        "fat": "2g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore nasi padang stalls.",
+      "imageId": "snk_018.jpeg",
+      "steps": [
+        "Mix potatoes, beef, spring onions, shallots, pepper, and salt. Shape into patties.",
+        "Dip in beaten egg, fry until golden. Drain and serve."
+      ],
+      "tags": [
+        "beef",
+        "begedil",
+        "deep",
+        "fried",
+        "indonesian",
+        "malay",
+        "minced",
+        "nasi",
+        "padang",
+        "patties",
+        "popular",
+        "potato",
+        "served",
+        "side",
+        "singapore",
+        "snack",
+        "sometimes",
+        "soto",
+        "stalls"
+      ],
+      "cost": {
+        "total_sgd": 16.79,
+        "ingredients_sgd": 16.59,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 1.68,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "potatoes",
+            "cost_sgd": 0.6,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "minced beef (optional)",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 12.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fried shallots",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "egg",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 30.174,
+        "ingredients_kgco2e": 29.902,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 3.017
+      }
+    },
+    {
+      "id": "snk_019",
+      "name": "Ikan Bilis with Peanuts",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "servings": 8.0,
+      "description": "A classic Malay and Nasi Lemak side: crispy fried anchovies and peanuts tossed with chili and sugar. Served at breakfast and snack stalls in Singapore.",
+      "ingredients": {
+        "Main": {
+          "ikan bilis (dried anchovies)": "100g",
+          "raw peanuts": "100g",
+          "chili paste": "1 tbsp",
+          "sugar": "1 tbsp",
+          "salt": "1/2 tsp",
+          "oil": "for frying"
+        }
+      },
+      "preparation": [
+        "Fry peanuts until golden, set aside. Fry ikan bilis until crisp. Toss both with chili paste, sugar, and salt. Cool before serving."
+      ],
+      "tips": [
+        "Use fresh peanuts for best crunch.",
+        "Store in airtight containers."
+      ],
+      "nutrition": {
+        "calories": 120,
+        "protein": "6g",
+        "carbohydrates": "8g",
+        "fat": "8g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore nasi lemak stalls.",
+      "imageId": "snk_019.jpeg",
+      "steps": [
+        "Fry peanuts until golden, set aside. Fry ikan bilis until crisp. Toss both with chili paste, sugar, and salt. Cool before serving."
+      ],
+      "tags": [
+        "anchovies",
+        "bilis",
+        "breakfast",
+        "chili",
+        "classic",
+        "crispy",
+        "fried",
+        "ikan",
+        "lemak",
+        "malay",
+        "nasi",
+        "peanuts",
+        "served",
+        "side",
+        "singapore",
+        "snack",
+        "stalls",
+        "sugar",
+        "tossed"
+      ],
+      "cost": {
+        "total_sgd": 7.21,
+        "ingredients_sgd": 7.06,
+        "energy_sgd": 0.15,
+        "per_serving_sgd": 0.9,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "ikan bilis (dried anchovies)",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "raw peanuts",
+            "cost_sgd": 0.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "chili paste",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 6.749,
+        "ingredients_kgco2e": 6.545,
+        "energy_kgco2e": 0.204,
+        "per_serving_kgco2e": 0.844
+      }
+    },
+    {
+      "id": "snk_020",
+      "name": "Bergedil Jagung (Corn Potato Patties)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "servings": 10.0,
+      "description": "A Malay snack: deep-fried patties of potato and sweet corn, served as a side or snack. Popular at Malay food stalls in Singapore.",
+      "ingredients": {
+        "Main": {
+          "potatoes": "600g, boiled and mashed",
+          "sweet corn kernels": "200g",
+          "spring onions": "2, chopped",
+          "fried shallots": "2 tbsp",
+          "white pepper": "1/2 tsp",
+          "salt": "1 tsp",
+          "egg": "2, beaten",
+          "oil": "for frying"
+        }
+      },
+      "preparation": [
+        "Mix potatoes, corn, spring onions, shallots, pepper, and salt. Shape into patties.",
+        "Dip in beaten egg, fry until golden. Drain and serve."
+      ],
+      "tips": [
+        "Use fresh corn for best flavor.",
+        "Serve with chili sauce."
+      ],
+      "nutrition": {
+        "calories": 80,
+        "protein": "2g",
+        "carbohydrates": "14g",
+        "fat": "2g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore Malay stalls.",
+      "imageId": "snk_020.jpeg",
+      "steps": [
+        "Mix potatoes, corn, spring onions, shallots, pepper, and salt. Shape into patties.",
+        "Dip in beaten egg, fry until golden. Drain and serve."
+      ],
+      "tags": [
+        "bergedil",
+        "corn",
+        "deep",
+        "food",
+        "fried",
+        "jagung",
+        "malay",
+        "patties",
+        "popular",
+        "potato",
+        "served",
+        "side",
+        "singapore",
+        "snack",
+        "stalls",
+        "sweet"
+      ],
+      "cost": {
+        "total_sgd": 12.39,
+        "ingredients_sgd": 12.19,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 1.24,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "potatoes",
+            "cost_sgd": 0.36,
+            "emissions_kgco2e": 0.3,
+            "amount": 600.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sweet corn kernels",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "fried shallots",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "egg",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 17.974,
+        "ingredients_kgco2e": 17.703,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 1.797
+      }
+    },
+    {
+      "id": "snk_021",
+      "name": "Min Jiang Kueh (Peanut Pancake)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes (plus resting)",
+      "cook_time": "20 minutes",
+      "servings": 8.0,
+      "description": "A popular Singaporean snack: thick, fluffy pancake filled with crushed peanuts and sugar. Sold at hawker breakfast stalls and markets.",
+      "ingredients": {
+        "Main": {
+          "all-purpose flour": "200g",
+          "rice flour": "50g",
+          "yeast": "1 tsp",
+          "sugar": "60g",
+          "baking powder": "1/2 tsp",
+          "water": "250ml (as needed)",
+          "crushed peanuts": "100g",
+          "caster sugar": "50g"
+        }
+      },
+      "preparation": [
+        "Mix flours, yeast, sugar, baking powder, and water to form a batter. Let rise 1 hour.",
+        "Pour batter into a pan, cook until bubbles form. Sprinkle peanuts and sugar, fold and cut."
+      ],
+      "tips": [
+        "Let batter rise for a fluffy texture.",
+        "Add sweet corn for variation."
+      ],
+      "nutrition": {
+        "calories": 160,
+        "protein": "4g",
+        "carbohydrates": "32g",
+        "fat": "3g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore breakfast stalls.",
+      "imageId": "snk_021.jpeg",
+      "steps": [
+        "Mix flours, yeast, sugar, baking powder, and water to form a batter. Let rise 1 hour.",
+        "Pour batter into a pan, cook until bubbles form. Sprinkle peanuts and sugar, fold and cut."
+      ],
+      "tags": [
+        "breakfast",
+        "crushed",
+        "filled",
+        "fluffy",
+        "hawker",
+        "jiang",
+        "kueh",
+        "markets",
+        "pancake",
+        "peanut",
+        "peanuts",
+        "popular",
+        "singaporean",
+        "snack",
+        "sold",
+        "stalls",
+        "sugar",
+        "thick"
+      ],
+      "cost": {
+        "total_sgd": 3.6,
+        "ingredients_sgd": 3.4,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 0.45,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "all-purpose flour",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "rice flour",
+            "cost_sgd": 0.11,
+            "emissions_kgco2e": 0.225,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "yeast",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 60.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "baking powder",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 250.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "crushed peanuts",
+            "cost_sgd": 0.6,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "caster sugar",
+            "cost_sgd": 0.08,
+            "emissions_kgco2e": 0.05,
+            "amount": 50.0,
+            "unit": "g"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 0.607,
+        "ingredients_kgco2e": 0.335,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 0.076
+      }
+    },
+    {
+      "id": "snk_022",
+      "name": "Fuzhou Oyster Cake (Oyster Puff)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "30 minutes",
+      "servings": 6.0,
+      "description": "A crispy, savory Fuzhou snack: deep-fried batter filled with oysters, minced pork, prawns, chives, and peanuts. A rare treat at Singapore hawker centers.",
+      "ingredients": {
+        "batter": {
+          "all-purpose flour": "200g",
+          "rice flour": "50g",
+          "baking powder": "1 tsp",
+          "salt": "1/2 tsp",
+          "water": "300ml (adjust for thick pancake batter consistency)"
+        },
+        "filling": {
+          "fresh oysters": "12–18, drained",
+          "minced pork": "100g",
+          "small prawns": "12, peeled and chopped",
+          "Chinese chives": "1 small bunch, chopped",
+          "garlic": "2 cloves, minced",
+          "white pepper": "1/2 tsp",
+          "light soy sauce": "1 tbsp",
+          "roasted peanuts": "2 tbsp, chopped"
+        },
+        "other": {
+          "oil": "for deep frying"
+        }
+      },
+      "steps": [
+        "Prepare Batter: Mix flours, baking powder, salt, and water to form a thick, smooth batter. Set aside.",
+        "Prepare Filling: In a bowl, mix minced pork, prawns, chives, garlic, pepper, and soy sauce.",
+        "Assemble Cakes: Heat oil in a deep pan or wok (about 3cm deep) to 170°C/340°F. Ladle a thin layer of batter into a large spoon or small bowl. Add a spoonful of filling, 1–2 oysters, and a sprinkle of peanuts. Cover with more batter. Gently slide the filled batter into the hot oil.",
+        "Fry: Fry until golden brown and crisp, about 3–4 minutes per side. Drain on paper towels.",
+        "Serve: Enjoy hot, optionally with chili sauce."
+      ],
+      "tips": [
+        "Use fresh oysters for best flavor.",
+        "Don’t overfill, or cakes may break during frying.",
+        "Adjust batter thickness for desired crispiness."
+      ],
+      "themes": [
+        "snack",
+        "street food",
+        "oyster",
+        "Fuzhou",
+        "hawker",
+        "Singapore"
+      ],
+      "source": "Adapted from Singapore Fuzhou hawker and home cook recipes.",
+      "origin": "Fuzhou Oyster Cake is a traditional snack brought by Fuzhou immigrants, now a rare hawker treat in Singapore.",
+      "imageId": "snk_022.jpeg",
+      "tags": [
+        "batter",
+        "cake",
+        "centers",
+        "chives",
+        "crispy",
+        "deep",
+        "filled",
+        "fried",
+        "fuzhou",
+        "hawker",
+        "minced",
+        "oyster",
+        "oysters",
+        "peanuts",
+        "pork",
+        "prawns",
+        "puff",
+        "rare",
+        "savory",
+        "singapore",
+        "snack",
+        "street food",
+        "treat"
+      ],
+      "cost": {
+        "total_sgd": 391.17,
+        "ingredients_sgd": 390.87,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 65.19,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "all-purpose flour",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "rice flour",
+            "cost_sgd": 0.11,
+            "emissions_kgco2e": 0.225,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "baking powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 300.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "fresh oysters",
+            "cost_sgd": 96.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 12.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "minced pork",
+            "cost_sgd": 1.32,
+            "emissions_kgco2e": 0.7,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "small prawns",
+            "cost_sgd": 264.0,
+            "emissions_kgco2e": 216.0,
+            "amount": 12.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "Chinese chives",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "small"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 3.0,
+            "amount": 2.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "light soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "roasted peanuts",
+            "cost_sgd": 0.18,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 226.863,
+        "ingredients_kgco2e": 226.455,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 37.81
+      }
+    },
+    {
+      "id": "snk_023",
+      "name": "Sweet Potato Balls",
+      "difficulty": "Easy",
+      "prep_time": "20 minutes",
+      "cook_time": "20 minutes",
+      "servings": 4.0,
+      "description": "A popular street snack: golden, crispy balls made from mashed sweet potato and tapioca flour, lightly sweet and delightfully chewy.",
+      "ingredients": {
+        "main": {
+          "orange sweet potato": "400g, peeled and cut into chunks",
+          "sugar": "3–4 tbsp (to taste)",
+          "tapioca flour (or potato starch)": "100–120g (adjust for dough consistency)",
+          "baking powder": "1/2 tsp (optional, for extra puffiness)",
+          "salt": "pinch",
+          "oil": "for deep frying"
+        }
+      },
+      "steps": [
+        "Steam or boil sweet potato until soft. Drain and mash until smooth.",
+        "Add sugar, salt, and baking powder (if using). Mix well.",
+        "Gradually add tapioca flour, kneading until a soft, non-sticky dough forms (add more flour if needed).",
+        "Pinch off small pieces and roll into balls (about 2–2.5cm diameter).",
+        "Heat oil in a deep pan to 160–170°C (320–340°F). Fry balls in batches, stirring gently, until golden and puffed (about 4–6 minutes). They will float and expand as they cook.",
+        "Drain on paper towels. Serve warm."
+      ],
+      "tips": [
+        "Use orange sweet potatoes for best color and flavor.",
+        "For extra puffiness, press balls gently with a slotted spoon while frying.",
+        "Adjust sugar to taste for a sweeter or less sweet snack."
+      ],
+      "themes": [
+        "snack",
+        "street food",
+        "sweet potato",
+        "gluten-free",
+        "vegetarian",
+        "Singapore"
+      ],
+      "source": "Adapted from Singapore/Malaysia/Taiwan street snack recipes.",
+      "origin": "Sweet Potato Balls are a favorite at night markets and hawker stalls across Asia.",
+      "imageId": "snk_023.jpeg",
+      "tags": [
+        "balls",
+        "chewy",
+        "crispy",
+        "delightfully",
+        "flour",
+        "gluten-free",
+        "golden",
+        "lightly",
+        "made",
+        "mashed",
+        "popular",
+        "potato",
+        "singapore",
+        "snack",
+        "street",
+        "street food",
+        "sweet",
+        "sweet potato",
+        "tapioca",
+        "vegetarian"
+      ],
+      "cost": {
+        "total_sgd": 262.89,
+        "ingredients_sgd": 262.69,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 65.72,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "orange sweet potato",
+            "cost_sgd": 0.24,
+            "emissions_kgco2e": 0.2,
+            "amount": 400.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 4.95,
+            "emissions_kgco2e": 3.0,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "tapioca flour (or potato starch)",
+            "cost_sgd": 250.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "baking powder",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 9.972,
+        "ingredients_kgco2e": 9.7,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 2.493
+      }
+    }
+  ]
+}

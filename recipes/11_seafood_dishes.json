@@ -1,0 +1,2492 @@
+{
+  "metadata": {
+    "category": "Seafood Dishes",
+    "description": "Singaporean seafood specialties, featuring fresh fish, prawns, crabs, and other marine delicacies",
+    "total_recipes": 2,
+    "last_updated": "2024"
+  },
+  "recipes": [
+    {
+      "id": "sea_001",
+      "name": "Hae Cho (Prawn Rolls)",
+      "difficulty": "Medium",
+      "prep_time": "30 minutes",
+      "cook_time": "30 minutes",
+      "servings": 6.0,
+      "description": "A classic Teochew/Peranakan festive dish in Singapore, featuring minced prawn and pork seasoned with five spice, wrapped in beancurd skin and deep-fried until crisp. Served with sweet sauce and chili.",
+      "ingredients": {
+        "main": {
+          "prawns, peeled and chopped": "300g",
+          "pork belly, minced": "200g",
+          "water chestnuts, chopped": "50g",
+          "carrot, grated": "1 small",
+          "spring onion, chopped": "2 stalks",
+          "egg": "1, beaten",
+          "five spice powder": "1 tsp",
+          "white pepper": "1/2 tsp",
+          "salt": "1/2 tsp",
+          "sugar": "1 tsp",
+          "cornstarch": "2 tbsp",
+          "beancurd skin (tau kee)": "2 large sheets",
+          "oil": "for deep frying"
+        }
+      },
+      "steps": [
+        "Mix prawns, pork, water chestnuts, carrot, spring onion, egg, five spice, pepper, salt, sugar, and cornstarch in a bowl until well combined.",
+        "Wipe beancurd skin with a damp cloth and cut into rectangles. Place a portion of filling on each, roll up tightly, and seal edges with a little water or cornstarch paste.",
+        "Heat oil in a wok or deep pan. Fry rolls in batches over medium heat until golden brown and cooked through (about 5-7 minutes). Drain on paper towels.",
+        "Slice and serve with sweet sauce and chili sauce."
+      ],
+      "tips": [
+        "Do not overcrowd the pan when frying for best crispiness.",
+        "Can be made ahead and reheated in an oven or air fryer.",
+        "Serve as part of a festive or celebratory meal."
+      ],
+      "themes": [
+        "prawn",
+        "pork",
+        "Peranakan",
+        "Teochew",
+        "heritage",
+        "festive",
+        "deep-fried"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singaporean Peranakan/Teochew home cooks.",
+      "origin": "Teochew and Peranakan communities in Singapore; a festive and celebratory dish.",
+      "imageId": "sea_001.jpeg",
+      "tags": [
+        "beancurd",
+        "chili",
+        "cho",
+        "classic",
+        "crisp",
+        "deep",
+        "deep-fried",
+        "dish",
+        "featuring",
+        "festive",
+        "five",
+        "fried",
+        "hae",
+        "heritage",
+        "minced",
+        "peranakan",
+        "pork",
+        "prawn",
+        "rolls",
+        "sauce",
+        "seasoned",
+        "served",
+        "singapore",
+        "skin",
+        "spice",
+        "sweet",
+        "teochew",
+        "wrapped"
+      ],
+      "cost": {
+        "total_sgd": 38.62,
+        "ingredients_sgd": 38.32,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 6.44,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "prawns, peeled and chopped",
+            "cost_sgd": 6.6,
+            "emissions_kgco2e": 5.4,
+            "amount": 300.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "pork belly, minced",
+            "cost_sgd": 2.64,
+            "emissions_kgco2e": 1.4,
+            "amount": 200.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "water chestnuts, chopped",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "carrot, grated",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.8,
+            "amount": 1.0,
+            "unit": "small"
+          },
+          {
+            "ingredient": "spring onion, chopped",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "stalks"
+          },
+          {
+            "ingredient": "egg",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "five spice powder",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "beancurd skin (tau kee)",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "large"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 21.413,
+        "ingredients_kgco2e": 21.005,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 3.569
+      }
+    },
+    {
+      "id": "sea_002",
+      "name": "Fish Maw Soup (Yu Piu Tang)",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes (plus soaking time)",
+      "cook_time": "45 minutes",
+      "servings": 6.0,
+      "description": "A classic Chinese banquet and hawker soup in Singapore, featuring fish maw, crab meat, prawns, and mushrooms in a rich, savory broth. Served with black vinegar and white pepper, it's a festive favorite.",
+      "ingredients": {
+        "main": {
+          "dried fish maw": "50g, soaked until soft and cut into pieces",
+          "crab meat": "100g",
+          "prawns, peeled and chopped": "100g",
+          "shiitake mushrooms, soaked and sliced": "4",
+          "chicken breast, shredded": "100g",
+          "chicken stock": "1.5L",
+          "ginger": "3 slices",
+          "egg": "1, beaten",
+          "cornstarch": "2 tbsp (mixed with 3 tbsp water)",
+          "salt": "to taste",
+          "white pepper": "to taste",
+          "sesame oil": "1 tsp"
+        },
+        "for serving": {
+          "black vinegar": "to taste",
+          "coriander": "to taste"
+        }
+      },
+      "steps": [
+        "Soak fish maw in hot water until soft, then cut into bite-sized pieces.",
+        "Bring chicken stock to a boil with ginger. Add mushrooms, chicken, prawns, and fish maw. Simmer for 20 minutes.",
+        "Add crab meat and season with salt, pepper, and sesame oil.",
+        "Stir in cornstarch slurry to thicken. Slowly drizzle in beaten egg while stirring to create egg ribbons.",
+        "Serve hot, garnished with coriander and a dash of black vinegar."
+      ],
+      "tips": [
+        "Use good quality fish maw for best texture.",
+        "Soup can be made ahead and reheated gently.",
+        "Add abalone or scallops for a more luxurious version."
+      ],
+      "themes": [
+        "soup",
+        "Chinese",
+        "banquet",
+        "hawker",
+        "heritage",
+        "seafood",
+        "festive"
+      ],
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singaporean Chinese home cooks.",
+      "origin": "Chinese community in Singapore; a festive and banquet favorite, also found at hawker soup stalls.",
+      "imageId": "sea_002.jpeg",
+      "tags": [
+        "banquet",
+        "black",
+        "broth",
+        "chinese",
+        "classic",
+        "crab",
+        "favorite",
+        "featuring",
+        "festive",
+        "fish",
+        "hawker",
+        "heritage",
+        "maw",
+        "meat",
+        "mushrooms",
+        "pepper",
+        "piu",
+        "prawns",
+        "rich",
+        "savory",
+        "seafood",
+        "served",
+        "singapore",
+        "soup",
+        "tang",
+        "vinegar",
+        "white"
+      ],
+      "cost": {
+        "total_sgd": 77.81,
+        "ingredients_sgd": 77.36,
+        "energy_sgd": 0.45,
+        "per_serving_sgd": 12.97,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "dried fish maw",
+            "cost_sgd": 0.83,
+            "emissions_kgco2e": 0.25,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "crab meat",
+            "cost_sgd": 2.75,
+            "emissions_kgco2e": 1.8,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "prawns, peeled and chopped",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.8,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "shiitake mushrooms, soaked and sliced",
+            "cost_sgd": 32.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "chicken breast, shredded",
+            "cost_sgd": 0.88,
+            "emissions_kgco2e": 0.6,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "chicken stock",
+            "cost_sgd": 13.2,
+            "emissions_kgco2e": 9.0,
+            "amount": 1.5,
+            "unit": "l"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 18.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 3.0,
+            "unit": "slices"
+          },
+          {
+            "ingredient": "egg",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sesame oil",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "black vinegar",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "coriander",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 19.062,
+        "ingredients_kgco2e": 18.45,
+        "energy_kgco2e": 0.612,
+        "per_serving_kgco2e": 3.177
+      }
+    },
+    {
+      "id": "sea_003",
+      "name": "Singapore Chilli Crab",
+      "difficulty": "Hard",
+      "prep_time": "40 minutes",
+      "cook_time": "30 minutes",
+      "servings": 4.0,
+      "description": "Iconic Singaporean dish of mud crab stir-fried in a sweet, spicy, and tangy tomato-chili sauce.",
+      "ingredients": {
+        "crab": {
+          "mud crab": "2 (about 1.2kg), cleaned and cut"
+        },
+        "sauce": {
+          "oil": "2 tbsp",
+          "onion": "1, chopped",
+          "garlic": "4 cloves, minced",
+          "red chilies": "2, sliced",
+          "ginger": "1 thumb-sized, sliced",
+          "tomato ketchup": "2 tbsp",
+          "chili sauce": "2 tbsp",
+          "sugar": "1 tbsp",
+          "soy sauce": "1 tbsp",
+          "chicken stock": "1 cup",
+          "eggs": "2, lightly beaten",
+          "cornstarch": "1 tbsp (mixed with 2 tbsp water)"
+        },
+        "garnish": {
+          "spring onions": "2, chopped"
+        }
+      },
+      "steps": [
+        "Heat oil, fry onion, garlic, chilies, and ginger until fragrant.",
+        "Add crab pieces, stir-fry until shells turn red.",
+        "Add ketchup, chili sauce, sugar, soy sauce, and chicken stock. Simmer 10 minutes.",
+        "Add cornstarch slurry to thicken, then slowly stir in beaten eggs.",
+        "Garnish with spring onions and serve with mantou buns."
+      ],
+      "tips": [
+        "Use live mud crab for best flavor.",
+        "Serve with fried mantou for dipping."
+      ],
+      "themes": [
+        "hawker food",
+        "seafood",
+        "main",
+        "iconic"
+      ],
+      "source": "https://www.noobcook.com/chilli-crab/",
+      "origin": "Chilli Crab is Singapore's most famous seafood dish, created in the 1950s.",
+      "imageId": "sea_003.jpeg",
+      "tags": [
+        "chili",
+        "chilli",
+        "crab",
+        "dish",
+        "fried",
+        "hawker food",
+        "iconic",
+        "main",
+        "mud",
+        "sauce",
+        "seafood",
+        "singapore",
+        "singaporean",
+        "spicy",
+        "stir",
+        "sweet",
+        "tangy",
+        "tomato"
+      ],
+      "cost": {
+        "total_sgd": 115.27,
+        "ingredients_sgd": 114.97,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 28.82,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "mud crab",
+            "cost_sgd": 55.0,
+            "emissions_kgco2e": 36.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "red chilies",
+            "cost_sgd": 17.6,
+            "emissions_kgco2e": 4.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "thumb"
+          },
+          {
+            "ingredient": "tomato ketchup",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chili sauce",
+            "cost_sgd": 0.26,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "chicken stock",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.5,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "eggs",
+            "cost_sgd": 0.66,
+            "emissions_kgco2e": 9.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 60.793,
+        "ingredients_kgco2e": 60.385,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 15.198
+      }
+    },
+    {
+      "id": "sea_004",
+      "name": "Black Pepper Crab",
+      "difficulty": "Hard",
+      "prep_time": "30 minutes",
+      "cook_time": "30 minutes",
+      "servings": 4.0,
+      "description": "Mud crab stir-fried in a bold, peppery sauce with butter, garlic, and spring onions.",
+      "ingredients": {
+        "crab": {
+          "mud crab": "2 (about 1.2kg), cleaned and cut"
+        },
+        "sauce": {
+          "black peppercorns": "2 tbsp, coarsely crushed",
+          "butter": "2 tbsp",
+          "garlic": "4 cloves, minced",
+          "onion": "1, sliced",
+          "soy sauce": "2 tbsp",
+          "oyster sauce": "1 tbsp",
+          "sugar": "1 tbsp",
+          "water": "1/2 cup"
+        },
+        "garnish": {
+          "spring onions": "2, chopped"
+        }
+      },
+      "steps": [
+        "Heat butter, fry garlic, onion, and black pepper until fragrant.",
+        "Add crab pieces, stir-fry until shells turn red.",
+        "Add sauces, sugar, and water. Simmer until sauce thickens and crab is cooked.",
+        "Garnish with spring onions and serve hot."
+      ],
+      "tips": [
+        "Use live mud crab for best flavor.",
+        "Adjust pepper to taste."
+      ],
+      "themes": [
+        "hawker food",
+        "seafood",
+        "main",
+        "spicy"
+      ],
+      "source": "https://www.noobcook.com/black-pepper-crab/",
+      "origin": "Black Pepper Crab is a Singaporean seafood classic, created in the 1950s.",
+      "imageId": "sea_004.jpeg",
+      "tags": [
+        "black",
+        "bold",
+        "butter",
+        "crab",
+        "fried",
+        "garlic",
+        "hawker food",
+        "main",
+        "mud",
+        "onions",
+        "pepper",
+        "peppery",
+        "sauce",
+        "seafood",
+        "spicy",
+        "spring",
+        "stir"
+      ],
+      "cost": {
+        "total_sgd": 88.61,
+        "ingredients_sgd": 88.31,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 22.15,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "mud crab",
+            "cost_sgd": 55.0,
+            "emissions_kgco2e": 36.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "black peppercorns",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "butter",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.36,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oyster sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "water",
+            "cost_sgd": 0.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 46.443,
+        "ingredients_kgco2e": 46.035,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 11.611
+      }
+    },
+    {
+      "id": "sea_005",
+      "name": "Sambal Stingray",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "20 minutes",
+      "servings": 4.0,
+      "description": "Grilled stingray slathered with spicy sambal, served on banana leaf.",
+      "ingredients": {
+        "stingray fillet": "600g",
+        "banana leaf": "1 large piece",
+        "sambal": {
+          "red chilies": "8, chopped",
+          "shallots": "6, chopped",
+          "garlic": "4 cloves",
+          "belacan": "1 tbsp",
+          "tamarind juice": "2 tbsp",
+          "sugar": "1 tbsp",
+          "salt": "1 tsp",
+          "oil": "3 tbsp"
+        },
+        "lime": "1, cut into wedges"
+      },
+      "steps": [
+        "Blend sambal ingredients to a paste, fry in oil until fragrant.",
+        "Place stingray on banana leaf, spread sambal over.",
+        "Grill over medium heat for 15-20 minutes until cooked through.",
+        "Serve with lime wedges."
+      ],
+      "tips": [
+        "Use fresh banana leaf for aroma.",
+        "Adjust chili for desired spiciness."
+      ],
+      "themes": [
+        "hawker food",
+        "seafood",
+        "heritage",
+        "family"
+      ],
+      "source": "https://www.seriouseats.com/sambal-stingray-recipe",
+      "origin": "Sambal Stingray (Ikan Bakar) is a hawker centre favorite in Singapore, known for its spicy sambal and smoky grilled flavor.",
+      "imageId": "sea_005.jpeg",
+      "tags": [
+        "banana",
+        "family",
+        "grilled",
+        "hawker food",
+        "heritage",
+        "leaf",
+        "sambal",
+        "seafood",
+        "served",
+        "slathered",
+        "spicy",
+        "stingray"
+      ],
+      "cost": {
+        "total_sgd": 126.92,
+        "ingredients_sgd": 126.72,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 31.73,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "stingray fillet",
+            "cost_sgd": 4.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 600.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "banana leaf",
+            "cost_sgd": 0.3,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "large"
+          },
+          {
+            "ingredient": "red chilies",
+            "cost_sgd": 70.4,
+            "emissions_kgco2e": 16.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "belacan",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "tamarind juice",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.003,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.27,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "lime",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 22.559,
+        "ingredients_kgco2e": 22.288,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 5.64
+      }
+    },
+    {
+      "id": "sea_006",
+      "name": "Cereal Prawns",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "15 minutes",
+      "servings": 4.0,
+      "description": "Crispy prawns coated in buttery cereal crumbs, curry leaves, and chili padi.",
+      "ingredients": {
+        "prawns": {
+          "large prawns": "500g, shell-on, deveined"
+        },
+        "coating": {
+          "cornstarch": "2 tbsp"
+        },
+        "cereal mix": {
+          "Nestum cereal": "1 cup",
+          "butter": "50g",
+          "curry leaves": "1 sprig",
+          "chili padi": "2, sliced",
+          "sugar": "1 tbsp"
+        }
+      },
+      "steps": [
+        "Coat prawns in cornstarch, deep-fry until golden and crispy. Drain.",
+        "Melt butter, fry curry leaves and chili padi until fragrant.",
+        "Add cereal and sugar, stir-fry until cereal is golden.",
+        "Toss prawns in cereal mixture and serve immediately."
+      ],
+      "tips": [
+        "Use shell-on prawns for best texture.",
+        "Do not burn the cereal."
+      ],
+      "themes": [
+        "hawker food",
+        "seafood",
+        "main",
+        "chinese"
+      ],
+      "source": "https://www.noobcook.com/cereal-prawns/",
+      "origin": "Cereal Prawns is a modern zi char dish, popular at Singapore seafood restaurants.",
+      "imageId": "sea_006.jpeg",
+      "tags": [
+        "buttery",
+        "cereal",
+        "chili",
+        "chinese",
+        "coated",
+        "crispy",
+        "crumbs",
+        "curry",
+        "hawker food",
+        "leaves",
+        "main",
+        "padi",
+        "prawns",
+        "seafood"
+      ],
+      "cost": {
+        "total_sgd": 38.98,
+        "ingredients_sgd": 38.83,
+        "energy_sgd": 0.15,
+        "per_serving_sgd": 9.74,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "large prawns",
+            "cost_sgd": 11.0,
+            "emissions_kgco2e": 9.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Nestum cereal",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "cup"
+          },
+          {
+            "ingredient": "butter",
+            "cost_sgd": 0.17,
+            "emissions_kgco2e": 0.6,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "curry leaves",
+            "cost_sgd": 8.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "sprig"
+          },
+          {
+            "ingredient": "chili padi",
+            "cost_sgd": 17.6,
+            "emissions_kgco2e": 4.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 13.819,
+        "ingredients_kgco2e": 13.615,
+        "energy_kgco2e": 0.204,
+        "per_serving_kgco2e": 3.455
+      }
+    },
+    {
+      "id": "sea_007",
+      "name": "Assam Fish",
+      "difficulty": "Medium",
+      "prep_time": "15 minutes",
+      "cook_time": "20 minutes",
+      "servings": 4.0,
+      "description": "A spicy and sour fish curry made with tamarind, belacan, and a variety of fresh vegetables.",
+      "ingredients": {
+        "fish": {
+          "fish fillet": "500g",
+          "tamarind": "1, pulp and seeds",
+          "belacan": "2 tbsp",
+          "garlic": "4 cloves, minced",
+          "onion": "1, chopped",
+          "red chilies": "2, chopped",
+          "ginger": "1 thumb-sized, minced",
+          "coriander": "1 sprig, chopped",
+          "fish sauce": "2 tbsp",
+          "sugar": "1 tbsp",
+          "salt": "to taste",
+          "white pepper": "to taste",
+          "oil": "3 tbsp"
+        },
+        "vegetables": {
+          "long beans": "100g, sliced",
+          "bell peppers": "1, sliced",
+          "carrots": "50g, sliced",
+          "onions": "1, chopped",
+          "ginger": "1 thumb-sized, minced",
+          "coriander": "1 sprig, chopped"
+        }
+      },
+      "steps": [
+        "Marinate fish with tamarind, belacan, garlic, onion, chilies, ginger, and fish sauce for 15 minutes.",
+        "Heat oil, fry garlic, onion, and chilies until fragrant.",
+        "Add belacan, tamarind, and sugar. Simmer for 10 minutes.",
+        "Add vegetables and fish. Simmer until fish is cooked and sauce thickens.",
+        "Season with salt and pepper."
+      ],
+      "tips": [
+        "Use fresh tamarind for a more authentic flavor.",
+        "Adjust chili and spices to your liking."
+      ],
+      "themes": [
+        "spicy",
+        "sour",
+        "fish",
+        "curry"
+      ],
+      "source": "https://www.seriouseats.com/assam-fish-recipe",
+      "origin": "Assam Fish is a popular hawker dish in Singapore, combining spicy and sour flavors.",
+      "imageId": "sea_007.jpeg",
+      "tags": [
+        "assam",
+        "belacan",
+        "curry",
+        "fish",
+        "fresh",
+        "made",
+        "sour",
+        "spicy",
+        "tamarind",
+        "variety",
+        "vegetables"
+      ],
+      "cost": {
+        "total_sgd": 80.97,
+        "ingredients_sgd": 80.77,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 20.24,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "fish fillet",
+            "cost_sgd": 8.25,
+            "emissions_kgco2e": 2.5,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "tamarind",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "belacan",
+            "cost_sgd": 0.06,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "onion",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "red chilies",
+            "cost_sgd": 17.6,
+            "emissions_kgco2e": 4.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "thumb"
+          },
+          {
+            "ingredient": "coriander",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "sprig"
+          },
+          {
+            "ingredient": "fish sauce",
+            "cost_sgd": 0.49,
+            "emissions_kgco2e": 0.15,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.27,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "long beans",
+            "cost_sgd": 0.2,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "bell peppers",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "carrots",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.04,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "onions",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 1.2,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "thumb"
+          },
+          {
+            "ingredient": "coriander",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "sprig"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 16.147,
+        "ingredients_kgco2e": 15.875,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 4.037
+      }
+    },
+    {
+      "id": "sea_008",
+      "name": "Steamed Teochew Fish",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "servings": 4.0,
+      "description": "A delicate steamed fish dish with a fragrant sauce made from fermented bean curd, garlic, and ginger.",
+      "ingredients": {
+        "fish": {
+          "fish fillet": "500g",
+          "fermented bean curd": "100g, chopped",
+          "garlic": "4 cloves, minced",
+          "ginger": "1 thumb-sized, minced",
+          "coriander": "1 sprig, chopped",
+          "soy sauce": "2 tbsp",
+          "sugar": "1 tbsp",
+          "salt": "to taste",
+          "white pepper": "to taste",
+          "oil": "1 tbsp"
+        }
+      },
+      "steps": [
+        "Marinate fish with fermented bean curd, garlic, ginger, soy sauce, sugar, salt, and pepper for 10 minutes.",
+        "Steam fish for 15 minutes.",
+        "Serve with rice."
+      ],
+      "tips": [
+        "Use fresh fish fillets for best texture.",
+        "Fermented bean curd adds a unique flavor."
+      ],
+      "themes": [
+        "steamed",
+        "delicate",
+        "fish",
+        "Teochew"
+      ],
+      "source": "https://www.seriouseats.com/steamed-teochew-fish-recipe",
+      "origin": "Steamed Teochew Fish is a traditional Teochew dish, known for its delicate flavors.",
+      "imageId": "sea_008.jpeg",
+      "tags": [
+        "bean",
+        "curd",
+        "delicate",
+        "dish",
+        "fermented",
+        "fish",
+        "fragrant",
+        "garlic",
+        "ginger",
+        "made",
+        "sauce",
+        "steamed",
+        "teochew"
+      ],
+      "cost": {
+        "total_sgd": 46.89,
+        "ingredients_sgd": 46.74,
+        "energy_sgd": 0.15,
+        "per_serving_sgd": 11.72,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "fish fillet",
+            "cost_sgd": 8.25,
+            "emissions_kgco2e": 2.5,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "fermented bean curd",
+            "cost_sgd": 0.8,
+            "emissions_kgco2e": 0.0,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "thumb"
+          },
+          {
+            "ingredient": "coriander",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "sprig"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.09,
+            "amount": 1.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 9.369,
+        "ingredients_kgco2e": 9.165,
+        "energy_kgco2e": 0.204,
+        "per_serving_kgco2e": 2.342
+      }
+    },
+    {
+      "id": "sea_009",
+      "name": "Salted Egg Yolk Prawns",
+      "difficulty": "Medium",
+      "prep_time": "15 minutes",
+      "cook_time": "10 minutes",
+      "servings": 4.0,
+      "description": "Prawns coated in a rich, creamy salted egg yolk sauce, served with steamed rice.",
+      "ingredients": {
+        "prawns": {
+          "large prawns": "500g, shell-on, deveined"
+        },
+        "sauce": {
+          "salted egg yolks": "4, yolks only",
+          "cornstarch": "1 tbsp (mixed with 1 tbsp water)",
+          "soy sauce": "1 tbsp",
+          "sugar": "1 tbsp",
+          "white pepper": "to taste",
+          "oil": "2 tbsp"
+        }
+      },
+      "steps": [
+        "Beat salted egg yolks and mix with cornstarch until smooth.",
+        "Coat prawns in the sauce, ensuring each prawn is evenly coated.",
+        "Steam prawns for 10 minutes.",
+        "Serve with steamed rice."
+      ],
+      "tips": [
+        "Use fresh salted egg yolks for the best flavor.",
+        "Adjust sauce consistency to your liking."
+      ],
+      "themes": [
+        "salted egg yolk",
+        "prawns",
+        "creamy",
+        "rice"
+      ],
+      "source": "https://www.seriouseats.com/salted-egg-yolk-prawns-recipe",
+      "origin": "Salted Egg Yolk Prawns is a popular dish in Singapore, combining the richness of salted egg yolk with the freshness of prawns.",
+      "imageId": "sea_009.jpeg",
+      "tags": [
+        "coated",
+        "creamy",
+        "egg",
+        "prawns",
+        "rice",
+        "rich",
+        "salted",
+        "salted egg yolk",
+        "sauce",
+        "served",
+        "steamed",
+        "yolk"
+      ],
+      "cost": {
+        "total_sgd": 14.64,
+        "ingredients_sgd": 14.54,
+        "energy_sgd": 0.1,
+        "per_serving_sgd": 3.66,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "large prawns",
+            "cost_sgd": 11.0,
+            "emissions_kgco2e": 9.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "salted egg yolks",
+            "cost_sgd": 1.32,
+            "emissions_kgco2e": 18.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 27.361,
+        "ingredients_kgco2e": 27.225,
+        "energy_kgco2e": 0.136,
+        "per_serving_kgco2e": 6.84
+      }
+    },
+    {
+      "id": "sea_010",
+      "name": "Drunken Prawns",
+      "difficulty": "Medium",
+      "prep_time": "15 minutes",
+      "cook_time": "10 minutes",
+      "servings": 4.0,
+      "description": "Prawns cooked in a sweet, spicy, and aromatic sauce, infused with rice wine and spices.",
+      "ingredients": {
+        "prawns": {
+          "large prawns": "500g, shell-on, deveined"
+        },
+        "sauce": {
+          "rice wine": "1/2 cup",
+          "soy sauce": "1 tbsp",
+          "sugar": "1 tbsp",
+          "red chilies": "2, chopped",
+          "garlic": "4 cloves, minced",
+          "ginger": "1 thumb-sized, minced",
+          "coriander": "1 sprig, chopped",
+          "white pepper": "to taste",
+          "salt": "to taste",
+          "oil": "2 tbsp"
+        }
+      },
+      "steps": [
+        "Marinate prawns in rice wine, soy sauce, sugar, chilies, garlic, ginger, and pepper for 15 minutes.",
+        "Heat oil, fry garlic, ginger, and chilies until fragrant.",
+        "Add prawns and sauce. Simmer until sauce thickens and prawns are cooked.",
+        "Serve with steamed rice."
+      ],
+      "tips": [
+        "Use fresh prawns for the best flavor.",
+        "Adjust rice wine and spices to your liking."
+      ],
+      "themes": [
+        "rice wine",
+        "prawns",
+        "spicy",
+        "sweet"
+      ],
+      "source": "https://www.seriouseats.com/drunken-prawns-recipe",
+      "origin": "Drunken Prawns is a popular dish in Singapore, combining sweet, spicy, and aromatic flavors.",
+      "imageId": "sea_010.jpeg",
+      "tags": [
+        "aromatic",
+        "cooked",
+        "drunken",
+        "infused",
+        "prawns",
+        "rice",
+        "rice wine",
+        "sauce",
+        "spices",
+        "spicy",
+        "sweet",
+        "wine"
+      ],
+      "cost": {
+        "total_sgd": 68.61,
+        "ingredients_sgd": 68.51,
+        "energy_sgd": 0.1,
+        "per_serving_sgd": 17.15,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "large prawns",
+            "cost_sgd": 11.0,
+            "emissions_kgco2e": 9.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "rice wine",
+            "cost_sgd": 2.2,
+            "emissions_kgco2e": 4.5,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.05,
+            "emissions_kgco2e": 0.03,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "red chilies",
+            "cost_sgd": 17.6,
+            "emissions_kgco2e": 4.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "thumb"
+          },
+          {
+            "ingredient": "coriander",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "sprig"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 24.361,
+        "ingredients_kgco2e": 24.225,
+        "energy_kgco2e": 0.136,
+        "per_serving_kgco2e": 6.09
+      }
+    },
+    {
+      "id": "sea_011",
+      "name": "Steamed Bamboo Clam with Garlic Vermicelli",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "10 minutes",
+      "servings": 4.0,
+      "description": "Fresh bamboo clams steamed with garlic, vermicelli, and soy sauce. A seafood delicacy often found at zi char and seafood restaurants.",
+      "ingredients": {
+        "Main": {
+          "bamboo clams": "8, cleaned and split",
+          "glass noodles (mung bean vermicelli)": "100g, soaked",
+          "garlic": "6 cloves, minced",
+          "spring onions": "2, chopped",
+          "red chili": "1, sliced",
+          "soy sauce": "2 tbsp",
+          "Shaoxing wine": "1 tbsp",
+          "oil": "2 tbsp"
+        }
+      },
+      "steps": [
+        "Arrange soaked vermicelli on a plate, top with bamboo clams.",
+        "Mix garlic, soy sauce, Shaoxing wine, and oil. Spoon over clams.",
+        "Steam for 8-10 minutes until clams are just cooked.",
+        "Garnish with spring onions and chili. Serve hot."
+      ],
+      "tips": [
+        "Do not overcook the clams or they will become tough.",
+        "Use fresh bamboo clams for best flavor."
+      ],
+      "themes": [
+        "seafood",
+        "steamed",
+        "zi char"
+      ],
+      "source": "https://www.noobcook.com/steamed-bamboo-clam/",
+      "origin": "A popular seafood dish at Singapore zi char and seafood restaurants.",
+      "imageId": "sea_011.jpeg",
+      "tags": [
+        "bamboo",
+        "char",
+        "clam",
+        "clams",
+        "delicacy",
+        "found",
+        "fresh",
+        "garlic",
+        "often",
+        "restaurants",
+        "sauce",
+        "seafood",
+        "soy",
+        "steamed",
+        "vermicelli",
+        "zi char"
+      ],
+      "cost": {
+        "total_sgd": 117.58,
+        "ingredients_sgd": 117.48,
+        "energy_sgd": 0.1,
+        "per_serving_sgd": 29.4,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "bamboo clams",
+            "cost_sgd": 64.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 8.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "glass noodles (mung bean vermicelli)",
+            "cost_sgd": 0.33,
+            "emissions_kgco2e": 0.25,
+            "amount": 100.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 39.6,
+            "emissions_kgco2e": 9.0,
+            "amount": 6.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 2.4,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "red chili",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 2.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 14.026,
+        "ingredients_kgco2e": 13.89,
+        "energy_kgco2e": 0.136,
+        "per_serving_kgco2e": 3.506
+      }
+    },
+    {
+      "id": "sea_012",
+      "name": "Steamed Cockles with Garlic and Chili Sauce",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "5 minutes",
+      "servings": 4.0,
+      "description": "Fresh blood cockles (see hum) steamed and served with a spicy garlic-chili dipping sauce. A hawker and seafood favorite.",
+      "ingredients": {
+        "Main": {
+          "cockles": "500g, scrubbed and rinsed",
+          "garlic": "4 cloves, minced",
+          "red chili": "2, chopped",
+          "lime": "1, cut into wedges",
+          "soy sauce": "2 tbsp",
+          "sugar": "1 tsp",
+          "oil": "1 tbsp"
+        }
+      },
+      "steps": [
+        "Steam cockles for 3-5 minutes until shells open.",
+        "Mix garlic, chili, soy sauce, sugar, and oil to make dipping sauce.",
+        "Serve cockles hot with sauce and lime wedges."
+      ],
+      "tips": [
+        "Do not overcook cockles or they will become rubbery.",
+        "Serve immediately for best texture."
+      ],
+      "themes": [
+        "seafood",
+        "hawker",
+        "snack"
+      ],
+      "source": "https://www.noobcook.com/steamed-cockles/",
+      "origin": "A classic Singaporean hawker and seafood dish, often enjoyed with beer.",
+      "imageId": "sea_012.jpeg",
+      "tags": [
+        "blood",
+        "chili",
+        "cockles",
+        "dipping",
+        "favorite",
+        "fresh",
+        "garlic",
+        "hawker",
+        "hum",
+        "sauce",
+        "seafood",
+        "served",
+        "snack",
+        "spicy",
+        "steamed"
+      ],
+      "cost": {
+        "total_sgd": 48.72,
+        "ingredients_sgd": 48.67,
+        "energy_sgd": 0.05,
+        "per_serving_sgd": 12.18,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "cockles",
+            "cost_sgd": 4.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 500.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "red chili",
+            "cost_sgd": 17.6,
+            "emissions_kgco2e": 4.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "lime",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.07,
+            "emissions_kgco2e": 0.09,
+            "amount": 1.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 10.223,
+        "ingredients_kgco2e": 10.155,
+        "energy_kgco2e": 0.068,
+        "per_serving_kgco2e": 2.556
+      }
+    },
+    {
+      "id": "sea_013",
+      "name": "Cantonese Steamed Fish",
+      "difficulty": "Easy",
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "servings": 4.0,
+      "description": "A classic Cantonese-style steamed whole fish with soy sauce, ginger, and spring onions. Delicate, aromatic, and a staple at Chinese banquets.",
+      "ingredients": {
+        "Main": {
+          "whole white fish (sea bass, snapper, or grouper)": "1 (600-800g), cleaned",
+          "ginger": "1 thumb-sized, julienned",
+          "spring onions": "3, julienned",
+          "soy sauce": "3 tbsp",
+          "Shaoxing wine": "1 tbsp",
+          "sugar": "1 tsp",
+          "white pepper": "to taste",
+          "oil": "2 tbsp"
+        }
+      },
+      "steps": [
+        "Place fish on a heatproof plate, scatter ginger and spring onions on top.",
+        "Mix soy sauce, Shaoxing wine, sugar, and pepper. Pour over fish.",
+        "Steam for 12-15 minutes until fish is just cooked.",
+        "Heat oil until smoking, drizzle over fish to sizzle aromatics. Serve immediately."
+      ],
+      "tips": [
+        "Use very fresh fish for best results.",
+        "Do not over-steam or fish will be dry."
+      ],
+      "themes": [
+        "steamed",
+        "fish",
+        "banquet",
+        "Chinese"
+      ],
+      "source": "https://www.noobcook.com/steamed-fish/",
+      "origin": "A staple at Chinese banquets and family dinners in Singapore.",
+      "imageId": "sea_013.jpeg",
+      "tags": [
+        "aromatic",
+        "banquet",
+        "banquets",
+        "cantonese",
+        "chinese",
+        "classic",
+        "delicate",
+        "fish",
+        "ginger",
+        "onions",
+        "sauce",
+        "soy",
+        "spring",
+        "staple",
+        "steamed",
+        "style",
+        "whole"
+      ],
+      "cost": {
+        "total_sgd": 31.66,
+        "ingredients_sgd": 31.51,
+        "energy_sgd": 0.15,
+        "per_serving_sgd": 7.91,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "whole white fish (sea bass, snapper, or grouper)",
+            "cost_sgd": 16.5,
+            "emissions_kgco2e": 5.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "thumb"
+          },
+          {
+            "ingredient": "spring onions",
+            "cost_sgd": 6.6,
+            "emissions_kgco2e": 3.6,
+            "amount": 3.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.15,
+            "emissions_kgco2e": 0.09,
+            "amount": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "Shaoxing wine",
+            "cost_sgd": 0.12,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "white pepper",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 9.079,
+        "ingredients_kgco2e": 8.875,
+        "energy_kgco2e": 0.204,
+        "per_serving_kgco2e": 2.27
+      }
+    },
+    {
+      "id": "sea_015",
+      "name": "Nyonya Steamed Fish",
+      "difficulty": "Medium",
+      "prep_time": "20 minutes",
+      "cook_time": "15 minutes",
+      "servings": 4.0,
+      "description": "A Peranakan-style steamed fish with lemongrass, lime, chili, and aromatic herbs. Fragrant, tangy, and spicy.",
+      "ingredients": {
+        "Main": {
+          "whole fish (pomfret or snapper)": "1 (600-800g), cleaned",
+          "lemongrass": "2 stalks, bruised and sliced",
+          "lime": "2, juiced",
+          "red chili": "2, sliced",
+          "ginger": "1 thumb-sized, julienned",
+          "garlic": "4 cloves, minced",
+          "coriander leaves": "1/2 cup, chopped",
+          "soy sauce": "2 tbsp",
+          "sugar": "1 tsp",
+          "salt": "to taste",
+          "oil": "2 tbsp"
+        }
+      },
+      "steps": [
+        "Stuff fish cavity with lemongrass, ginger, and some coriander.",
+        "Mix lime juice, soy sauce, sugar, salt, and oil. Pour over fish.",
+        "Scatter chili, garlic, and remaining coriander on top.",
+        "Steam for 12-15 minutes until fish is just cooked. Serve hot."
+      ],
+      "tips": [
+        "Use fresh herbs for best aroma.",
+        "Do not over-steam or fish will be dry."
+      ],
+      "themes": [
+        "steamed",
+        "fish",
+        "Peranakan",
+        "spicy"
+      ],
+      "source": "https://www.noobcook.com/nyonya-steamed-fish/",
+      "origin": "A Peranakan favorite, blending Chinese and Malay flavors in a fragrant steamed fish dish.",
+      "imageId": "sea_015.jpeg",
+      "tags": [
+        "aromatic",
+        "chili",
+        "fish",
+        "fragrant",
+        "herbs",
+        "lemongrass",
+        "lime",
+        "nyonya",
+        "peranakan",
+        "spicy",
+        "steamed",
+        "style",
+        "tangy"
+      ],
+      "cost": {
+        "total_sgd": 72.39,
+        "ingredients_sgd": 72.24,
+        "energy_sgd": 0.15,
+        "per_serving_sgd": 18.1,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "whole fish (pomfret or snapper)",
+            "cost_sgd": 16.5,
+            "emissions_kgco2e": 5.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "lemongrass",
+            "cost_sgd": 1.4,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "stalks"
+          },
+          {
+            "ingredient": "lime",
+            "cost_sgd": 1.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "red chili",
+            "cost_sgd": 17.6,
+            "emissions_kgco2e": 4.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "ginger",
+            "cost_sgd": 6.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "thumb"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 26.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 4.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "coriander leaves",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "soy sauce",
+            "cost_sgd": 0.1,
+            "emissions_kgco2e": 0.06,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 0.13,
+            "emissions_kgco2e": 0.18,
+            "amount": 2.0,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 15.949,
+        "ingredients_kgco2e": 15.745,
+        "energy_kgco2e": 0.204,
+        "per_serving_kgco2e": 3.987
+      }
+    },
+    {
+      "id": "sea_014",
+      "name": "Salted Egg Yolk Crab",
+      "difficulty": "Hard",
+      "prep_time": "30 minutes",
+      "cook_time": "30 minutes",
+      "servings": 4.0,
+      "description": "A modern zi char and seafood favorite: crab stir-fried in a rich, creamy salted egg yolk sauce with curry leaves and chili. Iconic at Singapore seafood restaurants.",
+      "ingredients": {
+        "Main": {
+          "mud crab": "1kg, cleaned and cut",
+          "salted duck egg yolks": "6, steamed and mashed",
+          "butter": "50g",
+          "evaporated milk": "100ml",
+          "curry leaves": "2 sprigs",
+          "bird's eye chili": "2, sliced",
+          "garlic": "3 cloves, minced",
+          "cornstarch": "2 tbsp",
+          "oil": "for frying",
+          "sugar": "1 tsp",
+          "salt": "to taste"
+        }
+      },
+      "preparation": [
+        "Coat crab pieces in cornstarch, deep-fry until just cooked. Drain and set aside.",
+        "Melt butter in a wok, fry garlic, curry leaves, and chili until fragrant. Add mashed egg yolks, stir until foamy.",
+        "Add evaporated milk, sugar, and salt. Toss in crab, coat well in sauce. Serve hot."
+      ],
+      "tips": [
+        "Use fresh mud crab for best flavor.",
+        "Add more egg yolks for a richer sauce."
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": "32g",
+        "carbohydrates": "10g",
+        "fat": "28g"
+      },
+      "source": "Adapted from The MeatMen, Rasa Malaysia, and Singapore seafood restaurants.",
+      "imageId": "sea_014.jpeg",
+      "steps": [
+        "Coat crab pieces in cornstarch, deep-fry until just cooked. Drain and set aside.",
+        "Melt butter in a wok, fry garlic, curry leaves, and chili until fragrant. Add mashed egg yolks, stir until foamy.",
+        "Add evaporated milk, sugar, and salt. Toss in crab, coat well in sauce. Serve hot."
+      ],
+      "tags": [
+        "char",
+        "chili",
+        "crab",
+        "creamy",
+        "curry",
+        "egg",
+        "favorite",
+        "fried",
+        "iconic",
+        "leaves",
+        "modern",
+        "restaurants",
+        "rich",
+        "salted",
+        "sauce",
+        "seafood",
+        "singapore",
+        "stir",
+        "yolk"
+      ],
+      "cost": {
+        "total_sgd": 89.11,
+        "ingredients_sgd": 88.81,
+        "energy_sgd": 0.3,
+        "per_serving_sgd": 22.28,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "mud crab",
+            "cost_sgd": 27.5,
+            "emissions_kgco2e": 18.0,
+            "amount": 1.0,
+            "unit": "kg"
+          },
+          {
+            "ingredient": "salted duck egg yolks",
+            "cost_sgd": 1.98,
+            "emissions_kgco2e": 27.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "butter",
+            "cost_sgd": 0.17,
+            "emissions_kgco2e": 0.6,
+            "amount": 50.0,
+            "unit": "g"
+          },
+          {
+            "ingredient": "evaporated milk",
+            "cost_sgd": 0.22,
+            "emissions_kgco2e": 0.19,
+            "amount": 100.0,
+            "unit": "ml"
+          },
+          {
+            "ingredient": "curry leaves",
+            "cost_sgd": 16.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "sprigs"
+          },
+          {
+            "ingredient": "bird's eye chili",
+            "cost_sgd": 17.6,
+            "emissions_kgco2e": 4.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 19.8,
+            "emissions_kgco2e": 4.5,
+            "amount": 3.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "cornstarch",
+            "cost_sgd": 0.04,
+            "emissions_kgco2e": 0.0,
+            "amount": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 4.4,
+            "emissions_kgco2e": 6.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.005,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 61.203,
+        "ingredients_kgco2e": 60.795,
+        "energy_kgco2e": 0.408,
+        "per_serving_kgco2e": 15.301
+      }
+    },
+    {
+      "id": "sea_016",
+      "name": "Ikan Bakar (Grilled Spiced Fish)",
+      "difficulty": "Medium",
+      "prep_time": "25 minutes",
+      "cook_time": "20 minutes",
+      "servings": 4.0,
+      "description": "A Malay and Indonesian favorite: whole fish marinated in a spicy sambal, grilled over charcoal or pan, often wrapped in banana leaves for extra aroma. Served with lime and sambal belacan.",
+      "ingredients": {
+        "fish": {
+          "whole fish (e.g., stingray, snapper, seabass)": "1 (about 800g–1kg), cleaned and scored",
+          "banana leaves": "enough to wrap fish (optional, for aroma)"
+        },
+        "marinade/sambal": {
+          "shallots": "6, peeled",
+          "garlic": "3 cloves",
+          "red chilies": "4–6 (adjust to taste)",
+          "dried chilies": "4, soaked and deseeded",
+          "lemongrass": "1 stalk, white part only",
+          "belacan (shrimp paste)": "1 tsp, toasted",
+          "turmeric powder": "1 tsp",
+          "tamarind paste": "1 tbsp",
+          "sugar": "1 tbsp",
+          "salt": "to taste",
+          "oil": "2–3 tbsp (for frying paste and brushing fish)"
+        },
+        "to serve": {
+          "lime or calamansi": "wedges",
+          "sambal belacan": "on the side"
+        }
+      },
+      "steps": [
+        "Prepare Sambal: Blend shallots, garlic, chilies, lemongrass, and belacan into a paste. Fry paste in oil until fragrant. Add turmeric, tamarind, sugar, and salt. Cook until thickened. Cool slightly.",
+        "Marinate Fish: Rub fish with salt. Spread sambal generously on both sides and inside the cavity. Wrap fish in banana leaves (if using) and secure with toothpicks.",
+        "Grill: Grill fish over charcoal or on a grill pan, 8–10 minutes per side, until cooked through and slightly charred. (Alternatively, bake at 220°C/425°F for 20–25 minutes.)",
+        "Serve: Unwrap and serve hot, garnished with lime and extra sambal belacan."
+      ],
+      "tips": [
+        "Use banana leaves for authentic aroma and to keep fish moist.",
+        "Adjust chili quantity for desired heat.",
+        "Stingray, snapper, or seabass are traditional choices."
+      ],
+      "themes": [
+        "seafood",
+        "grilled",
+        "spicy",
+        "Malay",
+        "hawker food",
+        "Singapore"
+      ],
+      "source": "Adapted from Singapore/Malaysia hawker and home cook recipes.",
+      "origin": "Ikan Bakar is a beloved dish at Malay stalls and seafood BBQs across Singapore and Malaysia.",
+      "imageId": "sea_016.jpeg",
+      "tags": [
+        "aroma",
+        "bakar",
+        "banana",
+        "belacan",
+        "charcoal",
+        "extra",
+        "favorite",
+        "fish",
+        "grilled",
+        "hawker food",
+        "ikan",
+        "indonesian",
+        "leaves",
+        "lime",
+        "malay",
+        "marinated",
+        "often",
+        "sambal",
+        "seafood",
+        "served",
+        "singapore",
+        "spiced",
+        "spicy",
+        "whole",
+        "wrapped"
+      ],
+      "cost": {
+        "total_sgd": 143.73,
+        "ingredients_sgd": 143.53,
+        "energy_sgd": 0.2,
+        "per_serving_sgd": 35.93,
+        "ingredient_breakdown": [
+          {
+            "ingredient": "whole fish (e.g., stingray, snapper, seabass)",
+            "cost_sgd": 16.5,
+            "emissions_kgco2e": 5.0,
+            "amount": 1.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "banana leaves",
+            "cost_sgd": 0.3,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "shallots",
+            "cost_sgd": 24.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 6.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "garlic",
+            "cost_sgd": 19.8,
+            "emissions_kgco2e": 4.5,
+            "amount": 3.0,
+            "unit": "cloves"
+          },
+          {
+            "ingredient": "red chilies",
+            "cost_sgd": 35.2,
+            "emissions_kgco2e": 8.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "dried chilies",
+            "cost_sgd": 35.2,
+            "emissions_kgco2e": 8.0,
+            "amount": 4.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "lemongrass",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "stalk"
+          },
+          {
+            "ingredient": "belacan (shrimp paste)",
+            "cost_sgd": 0.01,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "turmeric powder",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "ingredient": "tamarind paste",
+            "cost_sgd": 0.03,
+            "emissions_kgco2e": 0.0,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "sugar",
+            "cost_sgd": 0.02,
+            "emissions_kgco2e": 0.015,
+            "amount": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "ingredient": "salt",
+            "cost_sgd": 1.1,
+            "emissions_kgco2e": 0.5,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "oil",
+            "cost_sgd": 8.8,
+            "emissions_kgco2e": 12.0,
+            "amount": 2.0,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "lime or calamansi",
+            "cost_sgd": 0.5,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          },
+          {
+            "ingredient": "sambal belacan",
+            "cost_sgd": 2.0,
+            "emissions_kgco2e": 0.0,
+            "amount": 1,
+            "unit": "piece"
+          }
+        ]
+      },
+      "emissions": {
+        "total_kgco2e": 38.287,
+        "ingredients_kgco2e": 38.015,
+        "energy_kgco2e": 0.272,
+        "per_serving_kgco2e": 9.572
+      }
+    }
+  ]
+}

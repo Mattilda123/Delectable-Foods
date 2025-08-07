@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order Online - Delectable Foods</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="order-styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Loading Screen -->
+    <div id="loading-screen">
+        <div class="loading-content">
+            <div class="logo">
+                <i class="fas fa-utensils"></i>
+                <h1>Delectable Foods</h1>
+            </div>
+            <div class="spinner"></div>
+            <p>Preparing your dining experience...</p>
+        </div>
+    </div>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <a href="index.html">
+                    <i class="fas fa-utensils"></i>
+                    <span>Delectable Foods</span>
+                </a>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="index.html#menu">Menu</a></li>
+                <li><a href="index.html#about">About</a></li>
+                <li><a href="index.html#contact">Contact</a></li>
+                <li><a href="order.html" class="active">Order for Table</a></li>
+            </ul>
+            <div class="cart-icon">
+                <i class="fas fa-shopping-cart"></i>
+                <span class="cart-count">0</span>
+            </div>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Cart Sidebar -->
+    <div class="cart-sidebar" id="cartSidebar">
+        <div class="cart-header">
+            <h3><i class="fas fa-shopping-cart"></i> Your Order</h3>
+            <button class="close-cart" id="closeCart">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+        <div class="cart-items" id="cartItems">
+            <!-- Cart items will be populated here -->
+        </div>
+        <div class="cart-footer">
+            <div class="cart-total">
+                <span>Total:</span>
+                <span class="total-amount">$0.00</span>
+            </div>
+            <button class="checkout-btn" id="checkoutBtn">
+                <i class="fas fa-credit-card"></i>
+                Checkout
+            </button>
+        </div>
+    </div>
+
+    <!-- Hero Section -->
+    <section class="hero order-hero">
+        <div class="hero-content">
+            <h1 class="hero-title">Order Online</h1>
+            <p class="hero-subtitle">Experience our exquisite menu from the comfort of your home</p>
+            <div class="hero-buttons">
+                <button class="btn-primary" onclick="scrollToMenu()">
+                    <i class="fas fa-utensils"></i>
+                    Browse Menu
+                </button>
+                                 <button class="btn-secondary" onclick="toggleCart()">
+                     <i class="fas fa-shopping-cart"></i>
+                     View Cart (<span class="cart-count-display">0</span>)
+                 </button>
+            </div>
+        </div>
+        <div class="hero-overlay"></div>
+    </section>
+
+    <!-- Menu Section -->
+    <section id="menu" class="menu-section">
+        <div class="container">
+            <div class="section-header">
+                <h2>Our Menu</h2>
+                <p>Discover our carefully curated selection of local and fusion delicacies</p>
+            </div>
+
+            <!-- Menu Categories -->
+            <div class="menu-categories">
+                <button class="category-btn active" data-category="appetizers">Appetizers</button>
+                <button class="category-btn" data-category="main-dishes">Main Dishes</button>
+                <button class="category-btn" data-category="sides">Sides</button>
+                <button class="category-btn" data-category="chef-special">Chef's Special</button>
+                <button class="category-btn" data-category="desserts">Desserts</button>
+                <button class="category-btn" data-category="beverages">Beverages</button>
+            </div>
+
+            <!-- Menu Items Container -->
+            <div class="menu-items-container">
+                <div class="menu-category active" id="appetizers">
+                    <div class="menu-grid">
+                        <!-- Appetizers will be populated by JavaScript -->
+                    </div>
+                </div>
+                <div class="menu-category" id="main-dishes">
+                    <div class="menu-grid">
+                        <!-- Main dishes will be populated by JavaScript -->
+                    </div>
+                </div>
+                <div class="menu-category" id="sides">
+                    <div class="menu-grid">
+                        <!-- Sides will be populated by JavaScript -->
+                    </div>
+                </div>
+                <div class="menu-category" id="chef-special">
+                    <div class="menu-grid">
+                        <!-- Chef's special will be populated by JavaScript -->
+                    </div>
+                </div>
+                <div class="menu-category" id="desserts">
+                    <div class="menu-grid">
+                        <!-- Desserts will be populated by JavaScript -->
+                    </div>
+                </div>
+                <div class="menu-category" id="beverages">
+                    <div class="menu-grid">
+                        <!-- Beverages will be populated by JavaScript -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Checkout Modal -->
+    <div class="modal" id="checkoutModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3><i class="fas fa-credit-card"></i> Complete Your Order</h3>
+                <button class="close-modal" id="closeModal">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="checkoutForm">
+                    <div class="form-group">
+                        <label for="customerName">Full Name *</label>
+                        <input type="text" id="customerName" name="customerName" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="customerEmail">Email *</label>
+                        <input type="email" id="customerEmail" name="customerEmail" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="customerPhone">Phone *</label>
+                        <input type="tel" id="customerPhone" name="customerPhone" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="deliveryAddress">Delivery Address *</label>
+                        <textarea id="deliveryAddress" name="deliveryAddress" rows="3" required></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="deliveryTime">Preferred Delivery Time *</label>
+                        <select id="deliveryTime" name="deliveryTime" required>
+                            <option value="">Select time</option>
+                            <option value="30">30 minutes</option>
+                            <option value="45">45 minutes</option>
+                            <option value="60">1 hour</option>
+                            <option value="90">1.5 hours</option>
+                            <option value="120">2 hours</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="specialInstructions">Special Instructions</label>
+                        <textarea id="specialInstructions" name="specialInstructions" rows="2"></textarea>
+                    </div>
+                    <div class="order-summary">
+                        <h4>Order Summary</h4>
+                        <div id="orderSummary">
+                            <!-- Order summary will be populated here -->
+                        </div>
+                        <div class="order-total">
+                            <span>Total:</span>
+                            <span class="final-total">$0.00</span>
+                        </div>
+                    </div>
+                    <div class="form-actions">
+                        <button type="button" class="btn-secondary" onclick="closeCheckoutModal()">
+                            <i class="fas fa-arrow-left"></i>
+                            Back to Cart
+                        </button>
+                        <button type="submit" class="btn-primary">
+                            <i class="fas fa-paper-plane"></i>
+                            Place Order
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Success Modal -->
+    <div class="modal" id="successModal">
+        <div class="modal-content success-modal">
+            <div class="modal-header">
+                <h3><i class="fas fa-check-circle"></i> Order Placed Successfully!</h3>
+            </div>
+            <div class="modal-body">
+                <div class="success-content">
+                    <i class="fas fa-utensils success-icon"></i>
+                    <h4>Thank you for your order!</h4>
+                    <p>Your order has been received and is being prepared. You will receive a confirmation email shortly.</p>
+                    <div class="order-details">
+                        <p><strong>Order ID:</strong> <span id="orderId"></span></p>
+                        <p><strong>Estimated Delivery:</strong> <span id="estimatedDelivery"></span></p>
+                    </div>
+                </div>
+                <div class="success-actions">
+                    <button class="btn-primary" onclick="closeSuccessModal()">
+                        <i class="fas fa-home"></i>
+                        Return to Home
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scroll to Top Button -->
+    <button class="scroll-top" id="scrollTop">
+        <i class="fas fa-chevron-up"></i>
+    </button>
+
+    <script src="script.js"></script>
+    <script src="order-script.js"></script>
+</body>
+</html>
