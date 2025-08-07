@@ -49,7 +49,7 @@ function populateMenu() {
                 console.log(`Adding ${items.length} items to ${category}`);
                 
                 const menuHTML = items.map(item => `
-                    <div class="menu-item fade-in" data-item-id="${item.id}" onclick="addToCart('${item.id}')" style="cursor: pointer;">
+                    <div class="menu-item fade-in" data-item-id="${item.id}" onclick="handleMenuItemClick(event, '${item.id}')" style="cursor: pointer;">
                         <div class="menu-item-image">
                             <img src="${item.image}" alt="${item.name}" onerror="this.style.display='none';">
                         </div>
@@ -131,6 +131,25 @@ function setupCart() {
     window.removeFromCart = removeFromCart;
     window.updateQuantity = updateQuantity;
     window.scrollToMenu = scrollToMenu;
+}
+
+// Handle menu item click for mobile overlay
+function handleMenuItemClick(event, itemId) {
+    const menuItem = event.currentTarget;
+    
+    // Check if we're on mobile/tablet (screen width <= 768px)
+    if (window.innerWidth <= 768) {
+        // Toggle overlay visibility
+        menuItem.classList.toggle('show-overlay');
+        
+        // Hide overlay after 3 seconds
+        setTimeout(() => {
+            menuItem.classList.remove('show-overlay');
+        }, 3000);
+    } else {
+        // On desktop, directly add to cart
+        addToCart(itemId);
+    }
 }
 
 // Add item to cart
@@ -354,6 +373,14 @@ window.addEventListener('load', function() {
         }
     }, 2000);
 });
+
+// Make functions globally available
+window.handleMenuItemClick = handleMenuItemClick;
+window.addToCart = addToCart;
+window.removeFromCart = removeFromCart;
+window.updateQuantity = updateQuantity;
+window.toggleCart = toggleCart;
+window.scrollToMenu = scrollToMenu;
 
 console.log('Order script loaded and ready!');
 

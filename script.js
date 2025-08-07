@@ -70,7 +70,7 @@ window.menuData = {
             id: 'haw_007',
             name: 'Chicken Satay (Singapore Style)',
             description: 'Juicy, smoky grilled chicken skewers marinated in lemongrass, turmeric, and spices. Served with classic peanut sauce, cucumber, and onions.',
-            price: '$18',
+            price: '$9',
             image: 'food/haw_007.jpeg',
             category: 'Appetizer'
         },
@@ -78,7 +78,7 @@ window.menuData = {
             id: 'chi_004',
             name: 'Har Cheong Gai (Prawn Paste Chicken)',
             description: 'Crispy, juicy fried chicken wings marinated in fermented prawn paste, garlic, and spices. Served with lime and chili dip.',
-            price: '$22',
+            price: '$11',
             image: 'food/chi_004.jpeg',
             category: 'Appetizer'
         },
@@ -86,7 +86,7 @@ window.menuData = {
             id: 'per_003',
             name: 'Kueh Pie Tee',
             description: 'Crispy pastry cups filled with braised turnip, carrots, and prawns, topped with chili and coriander, a Peranakan party favorite.',
-            price: '$16',
+            price: '$8',
             image: 'food/per_003.jpeg',
             category: 'Appetizer'
         },
@@ -94,7 +94,7 @@ window.menuData = {
             id: 'ind_016',
             name: 'Samosa',
             description: 'Crisp pastry filled with spiced potatoes and peas, deep-fried until golden. Served with mint chutney.',
-            price: '$14',
+            price: '$7',
             image: 'food/ind_016.jpeg',
             category: 'Appetizer'
         },
@@ -102,7 +102,7 @@ window.menuData = {
             id: 'mal_043',
             name: 'Epok-Epok (Malay Curry Puff)',
             description: 'Deep-fried pastry pockets filled with curried potatoes, sardines, or egg, a popular Malay snack.',
-            price: '$12',
+            price: '$6',
             image: 'food/mal_043.jpeg',
             category: 'Appetizer'
         }
@@ -112,7 +112,7 @@ window.menuData = {
             id: 'sea_003',
             name: 'Singapore Chilli Crab',
             description: 'Iconic Singaporean dish of mud crab stir-fried in a sweet, spicy, and tangy tomato-chili sauce.',
-            price: '$45',
+            price: '$22.50',
             image: 'food/sea_003.jpeg',
             category: 'Main Dish'
         },
@@ -120,7 +120,7 @@ window.menuData = {
             id: 'haw_003',
             name: 'Singapore Hokkien Mee',
             description: 'Stir-fried yellow noodles and rice vermicelli, prawns, squid, and pork belly, braised in rich homemade prawn stock.',
-            price: '$28',
+            price: '$14',
             image: 'food/haw_003.jpeg',
             category: 'Main Dish'
         },
@@ -128,7 +128,7 @@ window.menuData = {
             id: 'chi_005',
             name: 'Claypot Rice (with Chicken and Chinese Sausage)',
             description: 'Fragrant rice cooked in a claypot with marinated chicken, Chinese sausage, mushrooms, and salted fish.',
-            price: '$32',
+            price: '$16',
             image: 'food/chi_005.jpeg',
             category: 'Main Dish'
         },
@@ -136,7 +136,7 @@ window.menuData = {
             id: 'ind_010',
             name: 'Butter Chicken (Murgh Makhani)',
             description: 'Tender chicken in a creamy, spiced tomato sauce. Served with naan or rice.',
-            price: '$26',
+            price: '$13',
             image: 'food/ind_010.jpeg',
             category: 'Main Dish'
         },
@@ -144,7 +144,7 @@ window.menuData = {
             id: 'mal_015',
             name: 'Minangkabau Beef Rendang',
             description: 'Dry, aromatic beef curry slow-cooked with coconut, spices, and chilies, a festive Minangkabau specialty.',
-            price: '$38',
+            price: '$19',
             image: 'food/mal_015.jpeg',
             category: 'Main Dish'
         },
@@ -152,7 +152,7 @@ window.menuData = {
             id: 'per_001',
             name: 'Ayam Buah Keluak',
             description: 'Classic Peranakan chicken stew with earthy buah keluak nuts, pork, and aromatic spices.',
-            price: '$35',
+            price: '$17.50',
             image: 'food/per_001.jpeg',
             category: 'Main Dish'
         }
@@ -162,7 +162,7 @@ window.menuData = {
             id: 'chi_043',
             name: 'Stir-Fried Bittergourd with Egg',
             description: 'Tender, slightly bitter gourd slices tossed with fluffy scrambled eggs. Nutritious and comforting.',
-            price: '$16',
+            price: '$8',
             image: 'food/chi_043.jpeg',
             category: 'Side Dish'
         },
@@ -170,7 +170,7 @@ window.menuData = {
             id: 'chi_044',
             name: 'Stir-Fried Long Beans with Dried Shrimp',
             description: 'Crisp-tender long beans stir-fried with aromatic dried shrimp, garlic, and a touch of chili.',
-            price: '$18',
+            price: '$9',
             image: 'food/chi_044.jpeg',
             category: 'Side Dish'
         },
@@ -178,7 +178,7 @@ window.menuData = {
             id: 'mal_012',
             name: 'Sayur Lodeh',
             description: 'Vegetable curry in coconut milk with cabbage, long beans, tofu, and tempeh, a Malay classic.',
-            price: '$14',
+            price: '$7',
             image: 'food/mal_012.jpeg',
             category: 'Side Dish'
         },
@@ -186,7 +186,7 @@ window.menuData = {
             id: 'chi_045',
             name: 'Steamed Egg Custard',
             description: 'Silky, savory steamed egg custard, gently cooked to a delicate, just-set texture.',
-            price: '$12',
+            price: '$6',
             image: 'food/chi_045.jpeg',
             category: 'Side Dish'
         }
@@ -196,7 +196,7 @@ window.menuData = {
             id: 'sea_014',
             name: 'Salted Egg Yolk Crab',
             description: 'A modern zi char and seafood favorite: crab stir-fried in a rich, creamy salted egg yolk sauce with curry leaves and chili.',
-            price: '$52',
+            price: '$26',
             image: 'food/sea_014.jpeg',
             category: "Chef's Special"
         },
@@ -204,7 +204,7 @@ window.menuData = {
             id: 'haw_004',
             name: 'Char Kway Teow',
             description: 'Legendary Singaporean stir-fried flat rice noodles with prawns, Chinese sausage, fish cake, egg, and bean sprouts.',
-            price: '$30',
+            price: '$15',
             image: 'food/haw_004.jpeg',
             category: "Chef's Special"
         },
@@ -212,7 +212,7 @@ window.menuData = {
             id: 'per_006',
             name: 'Semur (Peranakan Beef Stew)',
             description: 'A rich, aromatic Peranakan stew of beef braised with sweet soy sauce, potatoes, tomatoes, and spices.',
-            price: '$42',
+            price: '$21',
             image: 'food/per_006.jpeg',
             category: "Chef's Special"
         },
@@ -220,7 +220,7 @@ window.menuData = {
             id: 'ind_007',
             name: 'Chicken Briyani',
             description: 'Fragrant basmati rice cooked with spiced chicken, saffron, and ghee, a festive Indian-Muslim dish.',
-            price: '$36',
+            price: '$18',
             image: 'food/ind_007.jpeg',
             category: "Chef's Special"
         }
@@ -230,7 +230,7 @@ window.menuData = {
             id: 'mal_022',
             name: 'Bubur Cha Cha',
             description: 'Colorful dessert of sweet potatoes, yam, sago, and tapioca jellies in coconut milk, a Peranakan and Malay classic.',
-            price: '$12',
+            price: '$6',
             image: 'food/mal_022.jpeg',
             category: 'Dessert'
         },
@@ -238,7 +238,7 @@ window.menuData = {
             id: 'mal_023',
             name: 'Ondeh Ondeh',
             description: 'Glutinous rice balls filled with molten gula melaka, coated in grated coconut, a beloved kueh.',
-            price: '$10',
+            price: '$5',
             image: 'food/mal_023.jpeg',
             category: 'Dessert'
         },
@@ -246,7 +246,7 @@ window.menuData = {
             id: 'mal_024',
             name: 'Kueh Lapis',
             description: 'Steamed layered cake of coconut milk, rice flour, and tapioca flour, colored in rainbow layers, a festive treat.',
-            price: '$14',
+            price: '$7',
             image: 'food/mal_024.jpeg',
             category: 'Dessert'
         },
@@ -254,7 +254,7 @@ window.menuData = {
             id: 'mal_020',
             name: 'Pulut Hitam',
             description: 'Black glutinous rice porridge cooked with coconut milk and gula melaka, a comforting dessert.',
-            price: '$11',
+            price: '$5.50',
             image: 'food/mal_020.jpeg',
             category: 'Dessert'
         },
@@ -262,7 +262,7 @@ window.menuData = {
             id: 'mal_027',
             name: 'Durian Pengat',
             description: 'Rich, creamy durian dessert with coconut milk and gula melaka, a Peranakan and Malay favourite.',
-            price: '$16',
+            price: '$8',
             image: 'food/mal_027.jpeg',
             category: 'Dessert'
         }
@@ -272,7 +272,7 @@ window.menuData = {
             id: 'beverage_001',
             name: 'Singapore Kopi',
             description: 'Traditional Singaporean coffee brewed with condensed milk, served hot or iced. Rich, aromatic, and perfectly balanced with the sweetness of condensed milk.',
-            price: '$6',
+            price: '$3',
             image: 'food/coffee.jpeg',
             category: 'Beverage'
         },
@@ -280,7 +280,7 @@ window.menuData = {
             id: 'beverage_002',
             name: 'Teh Tarik',
             description: 'Malaysian pulled tea with condensed milk, creating a frothy, creamy texture. The "pulling" process aerates the tea for a unique, smooth mouthfeel.',
-            price: '$5',
+            price: '$2.50',
             image: 'food/tehtarik.jpeg',
             category: 'Beverage'
         },
@@ -288,7 +288,7 @@ window.menuData = {
             id: 'beverage_003',
             name: 'Lychee Tea',
             description: 'Refreshing iced tea infused with fresh lychee and a hint of mint. Sweet, floral, and perfectly chilled for a tropical escape.',
-            price: '$7',
+            price: '$3.50',
             image: 'food/lycheetea.jpeg',
             category: 'Beverage'
         },
@@ -296,7 +296,7 @@ window.menuData = {
             id: 'beverage_004',
             name: 'Lemongrass Ginger Tea',
             description: 'Soothing hot tea with fresh lemongrass and ginger, perfect for digestion. Aromatic, warming, and naturally healing.',
-            price: '$6',
+            price: '$3',
             image: 'food/lemongrassgingertea.jpeg',
             category: 'Beverage'
         },
@@ -304,7 +304,7 @@ window.menuData = {
             id: 'beverage_005',
             name: 'Fresh Coconut Water',
             description: 'Fresh young coconut water served in its natural shell. Pure, hydrating, and naturally sweet with essential electrolytes.',
-            price: '$8',
+            price: '$4',
             image: 'food/coconutwater.jpeg',
             category: 'Beverage'
         },
@@ -312,7 +312,7 @@ window.menuData = {
             id: 'beverage_006',
             name: 'Bandung',
             description: 'Rose syrup with evaporated milk, a sweet and creamy Malaysian drink. Fragrant, pink-hued, and delightfully indulgent.',
-            price: '$5',
+            price: '$2.50',
             image: 'food/bandung.jpeg',
             category: 'Beverage'
         }

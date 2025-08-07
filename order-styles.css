@@ -770,8 +770,12 @@
     }
     
     .menu-item-overlay {
-        opacity: 1;
+        opacity: 0;
         background: rgba(0, 0, 0, 0.7);
+    }
+    
+    .menu-item.show-overlay .menu-item-overlay {
+        opacity: 1;
     }
     
     .add-to-cart-btn {
