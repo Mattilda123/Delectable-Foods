@@ -966,3 +966,22 @@
         transform: translateX(0);
     }
 }
+
+/* Pricing Footnote */
+.pricing-footnote {
+    background: rgba(212, 175, 55, 0.1);
+    border-top: 1px solid rgba(212, 175, 55, 0.3);
+    padding: 15px 0;
+    text-align: center;
+    margin-top: 20px;
+    position: relative;
+    z-index: 10;
+}
+
+.pricing-footnote p {
+    color: #d4af37;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}

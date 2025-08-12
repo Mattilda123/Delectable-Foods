@@ -640,6 +640,23 @@ body {
     box-shadow: 0 10px 30px rgba(212, 175, 55, 0.3);
 }
 
+/* Pricing Footnote */
+.pricing-footnote {
+    background: rgba(212, 175, 55, 0.1);
+    border-top: 1px solid rgba(212, 175, 55, 0.3);
+    padding: 15px 0;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.pricing-footnote p {
+    color: #d4af37;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
 /* Footer */
 .footer {
     background: #1a1a1a;
