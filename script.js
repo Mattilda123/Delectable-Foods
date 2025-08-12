@@ -83,6 +83,14 @@ window.menuData = {
             category: 'Appetizer'
         },
         {
+            id: 'calamari_001',
+            name: 'Calamari',
+            description: 'Crispy golden-fried squid rings served with tangy tartar sauce and lemon wedges. Light, tender, and perfectly seasoned.',
+            price: '$12',
+            image: 'food/Calamari.jpeg',
+            category: 'Appetizer'
+        },
+        {
             id: 'per_003',
             name: 'Kueh Pie Tee',
             description: 'Crispy pastry cups filled with braised turnip, carrots, and prawns, topped with chili and coriander, a Peranakan party favorite.',
@@ -114,6 +122,30 @@ window.menuData = {
             description: 'Iconic Singaporean dish of mud crab stir-fried in a sweet, spicy, and tangy tomato-chili sauce.',
             price: '$22.50',
             image: 'food/sea_003.jpeg',
+            category: 'Main Dish'
+        },
+        {
+            id: 'fish_chips_001',
+            name: 'Fish and Chips',
+            description: 'Classic British-style fish and chips with crispy beer-battered cod fillet, golden fries, and mushy peas. Served with tartar sauce and malt vinegar.',
+            price: '$16',
+            image: 'food/Fish and Chips.jpeg',
+            category: 'Main Dish'
+        },
+        {
+            id: 'hainanese_pork_001',
+            name: 'Hainanese Pork Chop with Fries',
+            description: 'Tender breaded pork chop served with crispy golden fries, fresh coleslaw, and tangy tomato sauce. A fusion of Hainanese and Western flavors.',
+            price: '$18',
+            image: 'food/Hainanese Pork Chop with Fries.jfif',
+            category: 'Main Dish'
+        },
+        {
+            id: 'bangers_mash_001',
+            name: 'Bangers and Mash',
+            description: 'Traditional British sausages served with creamy mashed potatoes, rich onion gravy, and steamed vegetables. Comforting and hearty.',
+            price: '$15',
+            image: 'food/bangers and mash.jpeg',
             category: 'Main Dish'
         },
         {
@@ -264,6 +296,14 @@ window.menuData = {
             description: 'Rich, creamy durian dessert with coconut milk and gula melaka, a Peranakan and Malay favourite.',
             price: '$8',
             image: 'food/mal_027.jpeg',
+            category: 'Dessert'
+        },
+        {
+            id: 'cempedak_creme_001',
+            name: 'Cempedak Creme Brulee',
+            description: 'Exquisite fusion dessert featuring the tropical cempedak fruit in a silky creme brulee, topped with caramelized sugar crust.',
+            price: '$8',
+            image: 'food/Cempedak Creme Brulee.jpeg',
             category: 'Dessert'
         }
     ],
